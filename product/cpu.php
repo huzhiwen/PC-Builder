@@ -1,6 +1,9 @@
 <title>PC-Bulider</title>
 
 
+    <link rel="stylesheet" href="css/style.css">
+
+    
 <fieldset style="width:20%">
 <legend>Search</legend>
 
