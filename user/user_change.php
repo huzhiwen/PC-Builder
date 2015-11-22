@@ -8,6 +8,7 @@ if(!$_SESSION['email'])
 
 <head> 
 <title>Change-Password</title>
+   <link rel="stylesheet" href="css/style.css">
 </head>
 <body id="body-color">
 <div id="Change-Password">

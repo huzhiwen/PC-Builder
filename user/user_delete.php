@@ -8,6 +8,7 @@ if(!$_SESSION['email'])
 
 <head> 
 <title>Delete-Account</title>
+   <link rel="stylesheet" href="css/style.css">
 </head>
 <body id="body-color">
 Goodbye <?php echo $_SESSION['email'] ?> <br>

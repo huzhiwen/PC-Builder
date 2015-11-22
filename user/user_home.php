@@ -10,6 +10,7 @@ if(!$_SESSION['email'])
 
 <head> 
 <title>My-Home</title>
+   <link rel="stylesheet" href="css/style.css">
 </head>
   
 <body>  

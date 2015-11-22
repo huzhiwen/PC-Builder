@@ -1,5 +1,6 @@
 <head> 
 <title>PC-Bulider</title>
+   <link rel="stylesheet" href="css/style.css">
 </head>
 <body id="body-color">
 

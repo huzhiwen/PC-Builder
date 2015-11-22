@@ -1,21 +1,50 @@
 <head> 
+<meta charset="UTF-8">
 <title>PC-Bulider</title>
+
+        <link rel="stylesheet" href="css/style.css">
+
 </head>
-<body id="body-color">
-<div id="Sign-In">
-<fieldset style="width:30%">
-<legend>Log-In</legend>
-<form method="POST" action="login.php"> Email <br>
-<input type="text" name="user" size="40"><br> Password <br>
-<input type="password" name="pass" size="40"> <br>
-<br>
-<input id="button" type="submit" name="Submit" value="Submit"> <br><br>
-<a href="signup.php">sign up</a>
-</form>
-</fieldset> 
-</div>
+
+<body>
+ 
+    <body class="align">
+
+  <div class="site__container">
+
+    <div class="grid__container">
+
+      <form action="login.php" method="post" class="form form--login">
+
+        <div class="form__field">
+          <label class="fontawesome-user" for="login__username"><span class="hidden">Username</span></label>
+          <input id="login__username" type="text" name ="user" class="form__input" placeholder="Username" required>
+        </div>
+
+        <div class="form__field">
+          <label class="fontawesome-lock" for="login__password"><span class="hidden">Password</span></label>
+          <input id="login__password" type="password" name ="pass" class="form__input" placeholder="Password" required>
+        </div>
+
+        <div class="form__field">
+          <input id="button" type="submit" name="Submit" value="Submit"> <br><br>
+        </div>
+
+      </form>
+
+      <p class="text--center">Not a member? <a href="signup.php">Sign up now</a> <span class="fontawesome-arrow-right"></span></p>
+
+    </div>
+
+  </div>
+
 </body>
-<head> 
+    
+    
+    
+    
+    
+  </body>
 
 <div id="Product">
 <fieldset style="width:30%">
