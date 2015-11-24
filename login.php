@@ -6,15 +6,17 @@
         <link rel="stylesheet" href="css/style.css">
 
 </head>
-
+ 
 <body>
 
     <body class="align">
+
 
   <div class="site__container">
 
     <div class="grid__container">
 
+       <p class="text--center"><font size="18" color="white">PC-Builder</font></p>
       <form action="login.php" method="post" class="form form--login">
 
         <div class="form__field">
@@ -28,7 +30,7 @@
         </div>
 
         <div class="form__field">
-          <input id="button" type="submit" name="Submit" value="Submit"> <br><br>
+          <input id="button" type="submit" name="Submit" value="Sign In"> <br><br>
         </div>
 
       </form>
@@ -49,17 +51,17 @@
 
 <div id="Product">
 <fieldset style="width:30%">
-<legend>Products</legend>
+<legend><font size="6" color="white">Products</font></legend>
 
 
-<a href="/product/cpu.php">CPU</a> <br>
-<a href="/product/psu.php">PSU</a> <br>
-<a href="/product/gpu.php">GPU</a> <br>
-<a href="/product/case.php">Case</a> <br>
-<a href="/product/mointor.php">Mointor</a> <br>
-<a href="/product/cooling.php">Cooling</a> <br>
-<a href="/product/hard_drive.php">Hard Drive</a> <br>
-<a href="/product/motherboard.php">Motherboard</a> <br>
+<a href="/trunk/product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
+<a href="/trunk/product/psu.php"><font size="5" color="white">PSU</font></a> <br>
+<a href="/trunk/product/gpu.php"><font size="5" color="white">GPU</font></a> <br>
+<a href="/trunk/product/case.php"><font size="5" color="white">Case</font></a> <br>
+<a href="/trunk/product/mointor.php"><font size="5" color="white">Mointor</font></a> <br>
+<a href="/trunk/product/cooling.php"><font size="5" color="white">Cooling</font></a> <br>
+<a href="/trunk/product/hard_drive.php"><font size="5" color="white">Hard Drive</font></a> <br>
+<a href="/trunk/product/motherboard.php"><font size="5" color="white">Motherboard</font></a> <br>
 
 <br>
 </fieldset>
@@ -100,7 +102,7 @@ function SignIn()
 		if(!empty($row['email']) AND !empty($row['paswd']))
 		{
 			$_SESSION['email'] = $_POST[user];
-			echo"<script>window.open('user_home.php','_self')</script>";
+			echo"<script>window.open('./user/user_home.php','_self')</script>";
 		}
 
    }
