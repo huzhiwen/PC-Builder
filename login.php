@@ -16,7 +16,7 @@
 
     <div class="grid__container">
 
-       <p class="text--center"><font size="18" color="white">PC-Builder</font></p>
+       <p class="text--center"><font face="Comic sans MS" size="18"  color="white">PC-Builder</font></p>
       <form action="login.php" method="post" class="form form--login">
 
         <div class="form__field">
@@ -50,7 +50,7 @@
   </body>
 
 <div id="Product">
-<fieldset style="width:30%">
+<fieldset style="width:60%">
 <legend><font size="6" color="white">Products</font></legend>
 
 
