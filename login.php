@@ -1,4 +1,5 @@
-<head> 
+<head>
+
 <meta charset="UTF-8">
 <title>PC-Bulider</title>
 
@@ -7,7 +8,7 @@
 </head>
 
 <body>
- 
+
     <body class="align">
 
   <div class="site__container">
@@ -39,11 +40,11 @@
   </div>
 
 </body>
-    
-    
-    
-    
-    
+
+
+
+
+
   </body>
 
 <div id="Product">
@@ -60,12 +61,12 @@
 <a href="/product/hard_drive.php">Hard Drive</a> <br>
 <a href="/product/motherboard.php">Motherboard</a> <br>
 
-<br> 
-</fieldset> 
+<br>
+</fieldset>
 </div>
 
 </body>
-</html> 
+</html>
 
 
 <?php
