@@ -26,7 +26,7 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 </div>
 
 <div class="form__field">
-  <label class="fontawesome-user" for="login__username"><span class="hidden">Enter your budget</span></label>
+  <label><span class="hidden">Enter your budget</span></label>
   <input id="login__username" type="text" name ="user" class="form__input" placeholder="budget" required>
 </div>
 
