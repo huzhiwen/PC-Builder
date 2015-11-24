@@ -54,7 +54,3 @@ class inverted_index:
 		score = score*(self.k + 1.0)
 		score = score / (1.0 + self.k*(1 - self.b + self.b * dl/self.avdl))
 		return score
-
-# index = inverted_index('data/type_dict')
-# result = index.doc_list('core')
-# print result
