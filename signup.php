@@ -1,43 +1,32 @@
+<html> 
+
 <head> 
 <title>PC-Bulider</title>
    <link rel="stylesheet" href="css/style.css">
 </head>
 <body id="body-color">
 
+  <div class="site__container">
+
+    <div class="grid__container">
 <div id="Sign-Up">
 <fieldset style="width:30%">
-<legend>Sign-Up</legend>
-<form method="POST" action="signup.php">
+<font face="Comic sans MS" size="14"  color="white">Register</font><br>
 Enter Email <br>
-<input type="text" name="new_user" size="40"> <br>
+<input type="text" name="new_user" width = "40" size="40"> <br>
 Enter Password <br>
 <input type="password" name="new_pass" size="40"> <br>
 Confirm Password <br>
 <input type="password" name="repeat_pass" size="40"> <br>
 <br> 
+
 <input id="button" type="submit" name="sign_up" value="Sign-Up">
 
 </fieldset> 
 </div>
 
 
-<!-- multistep form -->
-<form id="msform">
-	<!-- progressbar -->
-	<ul id="progressbar">
-		<li class="active">Account Setup</li>
-		<li>Social Profiles</li>
-		<li>Personal Details</li>
-	</ul>
-	<!-- fieldsets -->
-	<fieldset>
-		<h2 class="fs-title">Create your account</h2>
-		<h3 class="fs-subtitle">This is step 1</h3>
-		<input type="text" name="email" placeholder="Email" />
-		<input type="password" name="pass" placeholder="Password" />
-		<input type="password" name="cpass" placeholder="Confirm Password" />
-		<input type="button" name="next" class="next action-button" value="Next" />
-	</fieldset>
+
 </body>
 </html> 
 

@@ -49,10 +49,10 @@
 
   </body>
 
-<div id="Product" style="width:200px;height:400px;padding:10px;border:10px outset white;">
+<div id="Product" style="width:200px;height:400px;padding:10px;border:5px outset white;">
 <!-- <fieldset style="width:50%"> -->
 
-<legend><font face = "Lucida Calligraphy" size="6" color="white">Products</font></legend>
+<legend><font face = "coaster" size="7" color="white">Products</font></legend>
 
 
 <a href="/trunk/product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
