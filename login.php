@@ -52,9 +52,9 @@
 <div id="Product" style="width:200px;height:400px;padding:10px;border:5px outset white;">
 <!-- <fieldset style="width:50%"> -->
 
-<legend><font face = "coaster" size="7" color="white">Products</font></legend>
+<legend><font face = "Comic sans MS" size="6" color="white">Products:</font></legend>
 
-
+<br>
 <a href="/trunk/product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
 <a href="/trunk/product/psu.php"><font size="5" color="white">PSU</font></a> <br>
 <a href="/trunk/product/gpu.php"><font size="5" color="white">GPU</font></a> <br>

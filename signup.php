@@ -11,19 +11,21 @@
     <div class="grid__container">
 <div id="Sign-Up">
 <fieldset style="width:30%">
-<font face="Comic sans MS" size="14"  color="white">Register</font><br>
-Enter Email <br>
-<input type="text" name="new_user" width = "40" size="40"> <br>
-Enter Password <br>
-<input type="password" name="new_pass" size="40"> <br>
-Confirm Password <br>
-<input type="password" name="repeat_pass" size="40"> <br>
+<font face="Comic sans MS" size="14"  >Register</font><br>
+<font face="Comic sans MS" size="5"  >Enter Email:<br>
+<input type="text" name="new_user" size="20"> <br>
+<font face="Comic sans MS" size="5" >Enter Password:<br>
+<input type="password" name="new_pass" size="20"> <br>
+<font face="Comic sans MS" size="5" >Confirm Password:<br>
+<input type="password" name="repeat_pass" size="20"> <br>
 <br> 
 
 <input id="button" type="submit" name="sign_up" value="Sign-Up">
 
 </fieldset> 
 </div>
+
+
 
 
 
