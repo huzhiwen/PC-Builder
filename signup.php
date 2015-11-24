@@ -1,4 +1,4 @@
-<html> 
+
 
 <head> 
 <title>PC-Bulider</title>
@@ -10,6 +10,7 @@
 
     <div class="grid__container">
 <div id="Sign-Up">
+<form method="POST" action="signup.php">
 <fieldset style="width:30%">
 <font face="Comic sans MS" size="14"  >Register</font><br>
 <font face="Comic sans MS" size="5"  >Enter Email:<br>
@@ -30,7 +31,7 @@
 
 
 </body>
-</html> 
+
 
 
 <?php
