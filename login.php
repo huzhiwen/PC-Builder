@@ -49,8 +49,9 @@
 
   </body>
 
-<div id="Product">
-<fieldset style="width:10%">
+<div id="Product" style="width:200px;height:400px;padding:10px;border:10px outset white;">
+<!-- <fieldset style="width:50%"> -->
+
 <legend><font face = "Lucida Calligraphy" size="6" color="white">Products</font></legend>
 
 
@@ -64,7 +65,7 @@
 <a href="/trunk/product/motherboard.php"><font size="5" color="white">Motherboard</font></a> <br>
 
 <br>
-</fieldset>
+<!-- </fieldset> -->
 </div>
 
 </body>
