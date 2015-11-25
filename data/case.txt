@@ -1,0 +1,500 @@
+Fractal Design Define R4 w/Window (Black Pearl)	ATX Mid Tower	2	8	None	 (148)		$79.99	Add
+NZXT Phantom 530 (White)	ATX Full Tower	3	6	None	 (21)		$109.99	Add
+Corsair 750D	ATX Full Tower	3	6	None	 (99)		$114.99	Add
+NZXT H440 (White/Black)	ATX Mid Tower	0	6	None	 (86)		$108.99	Add
+Corsair 500R Black	ATX Mid Tower	4	6	None	 (42)		$99.98	Add
+Corsair Vengeance C70 (Black)	ATX Mid Tower	3	6	None	 (34)		$109.99	Add
+Fractal Design Define R4 w/Window (Titanium Grey)	ATX Mid Tower	2	8	None	 (28)		$79.99	Add
+Cooler Master Storm Stryker (White)	ATX Full Tower	9	8	None	 (62)		$148.99	Add
+Fractal Design Define R4 (Black Pearl)	ATX Mid Tower	2	8	None	 (112)		$69.99	Add
+Thermaltake Level 10 GT Snow Edition	ATX Full Tower	4	5	None	 (11)		$169.99	Add
+NZXT Phantom 820 (Black)	ATX Full Tower	4	6	None	 (21)		$189.99	Add
+Phanteks Enthoo Pro	ATX Full Tower	3	6	None	 (51)		$99.99	Add
+Corsair Vengeance C70 (White)	ATX Mid Tower	3	6	None	 (23)			Add
+Corsair 760T Black	ATX Full Tower	3	6	None	 (19)		$138.00	Add
+Fractal Design Arc Midi R2 (Black)	ATX Mid Tower	2	8	None	 (48)		$69.99	Add
+Fractal Design Define R5 w/Window (Black)	ATX Mid Tower	2	8	None	 (26)		$99.99	Add
+Corsair 760T White	ATX Full Tower	3	6	None	 (29)		$134.99	Add
+Corsair Air 540	ATX Mid Tower	2	2	None	 (69)		$119.99	Add
+Corsair 350D Window	MicroATX Mid Tower	2	2	None	 (56)		$89.99	Add
+Cooler Master Storm Scout 2 (Black)	ATX Mid Tower	3	7	None	 (24)		$99.99	Add
+Thermaltake Core V1	Mini ITX Tower	0	2	None	 (30)		$42.99	Add
+Corsair Air 540	ATX Mid Tower	2	2	None	 (16)		$139.99	Add
+NZXT S340 (Black)	ATX Mid Tower	0	3	None	 (47)		$64.99	Add
+Fractal Design Define R5 (Black)	ATX Mid Tower	2	8	None	 (19)		$89.99	Add
+Cooler Master HAF 932 Advanced	ATX Full Tower	6	5	None	 (19)		$129.99	Add
+NZXT H440 (Blue/Black)	ATX Mid Tower	0	6	None	 (22)		$119.99	Add
+Corsair C70 Military Green (Green)	ATX Mid Tower	3	6	None	 (31)		$114.99	Add
+Fractal Design Node 304	Mini ITX Tower	0	6	None	 (21)		$59.99	Add
+NZXT H440 (Black/Red)	ATX Mid Tower	0	6	None	 (91)		$113.99	Add
+NZXT Phantom (White/Red)	ATX Full Tower	5	7	None	 (11)		$132.98	Add
+Cooler Master HAF XM (Black)	ATX Mid Tower	3	6	None	 (14)			Add
+NZXT Phantom (White)	ATX Full Tower	5	7	None	 (49)		$104.99	Add
+NZXT Switch 810 (White)	ATX Full Tower	4	6	None	 (14)		$164.98	Add
+Corsair 500R White	ATX Mid Tower	4	6	None	 (55)		$89.99	Add
+Corsair 200R	ATX Mid Tower	3	4	None	 (146)		$47.99	Add
+NZXT S340 (Black/Red)	ATX Mid Tower	0	3	None	 (10)		$79.98	Add
+Fractal Design Define R4 Blackout with Window	ATX Mid Tower	2	8	None	 (28)		$79.99	Add
+Cooler Master Elite 130	Mini ITX Tower	1	3	None	 (49)		$42.99	Add
+NZXT Phantom 410 (Black)	ATX Mid Tower	3	6	None	 (52)		$84.99	Add
+Fractal Design Define R4 (Arctic White)	ATX Mid Tower	2	8	None	 (15)		$79.99	Add
+Cooler Master Storm Scout 2 Advanced	ATX Mid Tower	3	7	None	 (12)		$87.99	Add
+Fractal Design Define S w/Window	ATX Mid Tower	0	3	None	 (6)		$59.99	Add
+Thermaltake Core V71	ATX Full Tower	2	8	None	 (12)		$119.99	Add
+NZXT Phantom 530 (Black)	ATX Full Tower	3	6	None	 (22)		$124.99	Add
+Fractal Design Arc Mini	MicroATX Mini Tower	2	6	None	 (6)			Add
+Corsair 250D	Mini ITX Tower	1	2	None	 (61)		$69.99	Add
+NZXT H230 (Black)	ATX Mid Tower	3	6	None	 (9)		$64.99	Add
+Cooler Master HAF X	ATX Full Tower	6	5	None	 (45)		$156.99	Add
+Corsair 300R	ATX Mid Tower	3	4	None	 (59)		$64.99	Add
+Fractal Design Define R4 (Titanium Grey)	ATX Mid Tower	2	8	None	 (14)		$69.99	Add
+Cooler Master Storm Enforcer	ATX Mid Tower	4	6	None	 (64)		$87.99	Add
+Corsair 400R	ATX Mid Tower	4	6	None	 (51)		$94.99	Add
+Cooler Master Storm Trooper	ATX Full Tower	9	8	None	 (26)			Add
+Cooler Master CM 690 II (Black)	ATX Mid Tower	4	6	None	 (13)			Add
+NZXT S340 (White)	ATX Mid Tower	0	3	None	 (39)		$63.99	Add
+Corsair Carbide Series 300R Windowed	ATX Mid Tower	3	4	None	 (39)		$87.43	Add
+Fractal Design Arc Mini R2	MicroATX Mini Tower	2	6	None	 (15)		$69.99	Add
+NZXT Phantom 410 (Gunmetal/Black)	ATX Mid Tower	3	6	None	 (36)		$92.99	Add
+Cooler Master HAF 912	ATX Mid Tower	4	6	None	 (89)		$53.99	Add
+Antec DF-85	ATX Full Tower	3	9	None	 (5)			Add
+Rosewill R5 (Black)	ATX Mid Tower	4	6	None	 (5)		$69.99	Add
+Silverstone SG08B-LITE	Mini ITX Desktop	0	1	None	 (5)		$73.99	Add
+Silverstone FT02B-W-USB3.0 (Black)	ATX Mid Tower	5	5	None	 (5)		$241.49	Add
+NZXT Phantom 410 (White)	ATX Mid Tower	3	6	None	 (62)		$85.99	Add
+NZXT Switch 810 (Black)	ATX Full Tower	4	6	None	 (10)			Add
+Rosewill BlackHawk	ATX Mid Tower	3	6	None	 (39)		$89.99	Add
+Corsair 550D	ATX Mid Tower	4	6	None	 (14)		$147.28	Add
+Corsair 600T White Graphite	ATX Mid Tower	4	6	None	 (40)		$179.99	Add
+Fractal Design Define Mini	MicroATX Mini Tower	2	6	None	 (16)		$98.10	Add
+Thermaltake Chaser A31	ATX Mid Tower	3	6	None	 (25)		$63.00	Add
+Thermaltake Chaser MK-I	ATX Full Tower	4	6	None	 (30)		$114.99	Add
+Cooler Master Storm Scout 2	ATX Mid Tower	3	7	None	 (7)			Add
+Fractal Design Arc XL	ATX Full Tower	4	8	None	 (7)		$100.99	Add
+Rosewill THOR V2	ATX Full Tower	6	6	None	 (17)		$89.99	Add
+Phanteks Enthoo Series Primo Aluminum	ATX Full Tower	5	6	None	 (7)		$219.99	Add
+Rosewill BLACKHAWK-BLUE	ATX Mid Tower	3	6	None	 (7)			Add
+Cooler Master Elite 110	Mini ITX Tower	0	3	None	 (15)		$38.99	Add
+Corsair 350D	MicroATX Mid Tower	2	2	None	 (15)			Add
+Rosewill THOR V2-W	ATX Full Tower	6	6	None	 (13)		$129.99	Add
+Corsair Graphite Series 230T Orange	ATX Mid Tower	3	4	None	 (13)		$74.99	Add
+NZXT Phantom (Black/Green)	ATX Full Tower	5	7	None	 (9)		$118.99	Add
+BitFenix Prodigy (Orange)	Mini ITX Tower	1	5	None	 (9)		$78.99	Add
+Corsair 450D	ATX Mid Tower	2	3	None	 (46)		$104.99	Add
+BitFenix Prodigy (Black)	Mini ITX Tower	1	5	None	 (42)		$79.99	Add
+NZXT Source 530	ATX Full Tower	3	6	None	 (22)		$82.99	Add
+Corsair 600T Mesh (Black)	ATX Mid Tower	4	6	None	 (12)			Add
+Corsair 380T	Mini ITX Tower	0	2	None	 (4)		$79.99	Add
+Raidmax Super Hurricane (Black)	ATX Mid Tower	4	4	None	 (4)			Add
+NZXT Phantom (Black/Orange)	ATX Full Tower	5	7	None	 (4)		$139.99	Add
+BitFenix Phenom M Midnight Black	MicroATX Mini Tower	0	5	None	 (4)		$97.99	Add
+Fractal Design Define R5 w/Window (Titanium)	ATX Mid Tower	2	8	None	 (10)		$99.99	Add
+Thermaltake Chaser A31 Snow White	ATX Mid Tower	3	6	None	 (10)		$63.00	Add
+Silverstone TJ08B-E	MicroATX Mini Tower	2	4	None	 (10)		$98.99	Add
+Corsair 900D	ATX Full Tower	4	9	None	 (23)		$279.99	Add
+BitFenix Prodigy (White)	Mini ITX Tower	1	5	None	 (29)		$78.99	Add
+Xion XON-560	MicroATX Mini Tower	2	3	None	 (8)		$36.99	Add
+NZXT H440 (Orange/Black)	ATX Mid Tower	0	6	None	 (8)		$120.98	Add
+NZXT Phantom 630 (Black)	ATX Full Tower	4	6	None	 (8)			Add
+Corsair Air 240	MicroATX Mid Tower	0	3	None	 (6)		$69.99	Add
+NZXT Phantom 630 Windowed Edition (Black)	ATX Full Tower	4	6	None	 (6)		$150.99	Add
+Cooler Master HAF 922 (Black)	ATX Mid Tower	5	5	None	 (13)		$89.99	Add
+NZXT Source 210 (Black)	ATX Mid Tower	3	8	None	 (37)		$37.99	Add
+Fractal Design Define R4 w/Window (White)	ATX Mid Tower	2	8	None	 (25)		$129.99	Add
+Rosewill BLACKHAWK-ULTRA	ATX Full Tower	4	10	None	 (11)		$149.99	Add
+Fractal Design Define XL R2 (Black Pearl)	ATX Full Tower	4	8	None	 (11)		$129.99	Add
+Cooler Master Cosmos II (Black)	ATX Full Tower	3	13	None	 (14)		$309.99	Add
+Cooler Master HAF 922	ATX Mid Tower	5	5	None	 (24)			Add
+Thermaltake Core V21	MicroATX Mini Tower	0	3	None	 (9)		$58.99	Add
+Zalman Z12 Plus	ATX Mid Tower	4	5	None	 (9)		$70.99	Add
+Cooler Master HAF 932 Blue	ATX Full Tower	6	5	None	 (9)			Add
+Corsair 600T Silver	ATX Mid Tower	4	6	None	 (9)			Add
+Fractal Design Node 804	MicroATX Mid Tower	0	10	None	 (9)		$74.99	Add
+Thermaltake Chaser A71	ATX Full Tower	3	5	None	 (9)		$117.99	Add
+NZXT Phantom (Black)	ATX Full Tower	5	7	None	 (22)		$109.99	Add
+NZXT Source 210 (White)	ATX Mid Tower	3	8	None	 (30)		$34.99	Add
+Antec GX700	ATX Mid Tower	4	5	None	 (7)			Add
+Fractal Design Define R4 Blackout	ATX Mid Tower	2	8	None	 (7)		$69.99	Add
+Corsair SPEC-03 Red	ATX Mid Tower	2	3	None	 (20)		$69.99	Add
+Corsair 780T	ATX Full Tower	2	6	None	 (7)		$159.99	Add
+Corsair Air 540 Silver	ATX Mid Tower	2	2	None	 (7)		$119.99	Add
+Zalman Z11 Plus	ATX Mid Tower	4	5	None	 (43)		$77.99	Add
+Cooler Master HAF XB (Black)	ATX Desktop	2	0	None	 (13)			Add
+Corsair SPEC-01 RED	ATX Mid Tower	2	4	None	 (50)		$34.99	Add
+Cooler Master N200	MicroATX Mid Tower	1	3	None	 (68)		$43.99	Add
+NZXT Phantom 240	ATX Mid Tower	3	6	None	 (18)		$66.99	Add
+Cooler Master Storm Trooper	ATX Full Tower	9	8	None	 (14)		$144.99	Add
+EVGA Hadron	Mini ITX Tower	0	2	500W	 (18)		$124.99	Add
+NZXT Switch 810 (Gun Metal)	ATX Full Tower	4	6	None	 (5)			Add
+Azza Genesis 9000 (Black)	ATX Full Tower	9	5	None	 (5)		$177.98	Add
+Zalman ZM-Z9 U3 (Black)	ATX Mid Tower	3	5	None	 (11)		$91.98	Add
+Corsair SPEC-02	ATX Mid Tower	2	3	None	 (29)		$55.99	Add
+Corsair Graphite Series 230T Black	ATX Mid Tower	3	4	None	 (11)		$69.99	Add
+NZXT Phantom 630 (White)	ATX Full Tower	4	6	None	 (5)			Add
+NZXT Phantom 820 (White)	ATX Full Tower	4	6	None	 (8)		$206.99	Add
+BitFenix Prodigy (Red)	Mini ITX Tower	1	5	None	 (8)		$78.99	Add
+Cooler Master HAF XB EVO	ATX Desktop	2	4	None	 (20)		$89.99	Add
+Silverstone RVZ01B	Mini ITX Desktop	0	1	None	 (12)		$74.99	Add
+Phanteks Enthoo EVOLV	MicroATX Mini Tower	1	3	None	 (3)		$119.99	Add
+be quiet! Silent Base 800 (Black)	ATX Mid Tower	3	7	None	 (3)		$129.99	Add
+Fractal Design Define R5 (Titanium)	ATX Mid Tower	2	8	None	 (3)		$89.99	Add
+Corsair 380T	Mini ITX Tower	0	2	None	 (3)		$89.99	Add
+Raidmax Vampire	ATX Full Tower	5	7	None	 (3)		$209.99	Add
+Corsair 600T	ATX Mid Tower	4	6	None	 (3)			Add
+Thermaltake Element G	ATX Mid Tower	3	7	None	 (3)			Add
+NZXT Noctis 450	ATX Mid Tower	0	6	None	 (3)		$106.20	Add
+BitFenix Colossus Mini	Mini ITX Tower	1	5	None	 (3)			Add
+Thermaltake Urban T31 Window	ATX Mid Tower	3	6	None	 (3)		$85.99	Add
+Fractal Design Node 304 (White)	Mini ITX Tower	0	6	None	 (9)		$88.99	Add
+Phanteks Enthoo Luxe	ATX Full Tower	3	6	None	 (15)		$129.99	Add
+BitFenix Shinobi	ATX Mid Tower	3	7	None	 (6)		$71.99	Add
+Fractal Design Core 3000 USB 3.0 (Black)	ATX Mid Tower	2	6	None	 (6)		$83.98	Add
+NZXT Phantom 630 Windowed Edition (White)	ATX Full Tower	4	6	None	 (6)		$145.99	Add
+Cooler Master N600 Windowed	ATX Mid Tower	3	7	None	 (6)			Add
+NZXT Tempest 410 Elite (Black)	ATX Mid Tower	3	8	None	 (11)			Add
+NZXT Source 210 Elite (White)	ATX Mid Tower	3	8	None	 (29)		$42.99	Add
+Zalman Z9 Plus	ATX Mid Tower	3	5	None	 (12)			Add
+Antec ISK 110 VESA	Mini ITX Desktop	0	0	90W	 (7)		$63.99	Add
+Corsair 650D	ATX Mid Tower	4	5	None	 (7)		$139.99	Add
+NZXT Phantom 410 (Red)	ATX Mid Tower	3	6	None	 (14)		$93.99	Add
+Enermax ECA3290A-G	ATX Mid Tower	3	7	None	 (14)		$56.00	Add
+Rosewill Galaxy-02	ATX Mid Tower	3	4	None	 (8)		$39.99	Add
+NZXT Source 220	ATX Mid Tower	3	8	None	 (19)		$47.99	Add
+Rosewill STEALTH	ATX Mid Tower	3	8	None	 (4)		$79.99	Add
+Silverstone ML05B	HTPC	0	0	None	 (4)		$40.99	Add
+Enermax ECA3280A-BR	ATX Mid Tower	3	8	None	 (4)		$76.35	Add
+Inwin 901	Mini ITX Tower	0	2	None	 (4)		$129.99	Add
+Azza Genesis 9000 (White)	ATX Full Tower	9	5	None	 (4)			Add
+Azza Hurrican 2000R	ATX Full Tower	4	6	None	 (4)			Add
+Corsair Graphite Series 230T Black	ATX Mid Tower	3	4	None	 (10)		$57.99	Add
+NZXT H230 (White)	ATX Mid Tower	3	6	None	 (11)		$67.99	Add
+Corsair Graphite Series 230T Grey	ATX Mid Tower	3	4	None	 (11)		$96.73	Add
+BitFenix Shinobi Window	ATX Mid Tower	3	7	None	 (30)		$77.99	Add
+Corsair Air 240	MicroATX Mid Tower	0	3	None	 (12)		$69.99	Add
+Cougar Spike	MicroATX Mini Tower	2	2	None	 (12)		$33.99	Add
+Corsair Obsidian Series 800D	ATX Full Tower	5	2	None	 (14)			Add
+NZXT Source 210 Elite (Black)	ATX Mid Tower	3	8	None	 (18)		$45.99	Add
+Fractal Design Arc Midi R2	ATX Mid Tower	2	8	None	 (5)		$108.99	Add
+NZXT S340 (Black/Blue)	ATX Mid Tower	0	3	None	 (5)		$59.99	Add
+Thermaltake Level 10 GTS (Black)	ATX Mid Tower	4	5	None	 (5)			Add
+BitFenix Prodigy (Green)	Mini ITX Tower	1	5	None	 (5)		$90.99	Add
+Thermaltake VN10001W2N	ATX Full Tower	4	5	None	 (5)		$149.99	Add
+Phanteks Enthoo Primo White	ATX Full Tower	5	6	None	 (5)		$239.99	Add
+Corsair 730T Black	ATX Full Tower	3	6	None	 (5)			Add
+Raidmax ATX-502WBG	ATX Mid Tower	3	3	None	 (5)		$59.99	Add
+NZXT Tempest 410	ATX Mid Tower	3	8	None	 (6)			Add
+Zalman Z11 Plus HF1	ATX Mid Tower	4	5	None	 (6)		$93.98	Add
+Enermax ECA3253-BW	ATX Mid Tower	4	5	None	 (14)		$46.99	Add
+Fractal Design Arc Midi	ATX Mid Tower	2	8	None	 (7)		$109.99	Add
+Antec Three Hundred Two	ATX Mid Tower	3	6	None	 (13)		$59.99	Add
+Cooler Master Storm Scout	ATX Mid Tower	5	5	None	 (11)			Add
+Rosewill CHALLENGER	ATX Mid Tower	3	5	None	 (31)		$39.99	Add
+NZXT Source 210 Window	ATX Mid Tower	3	8	None	 (23)		$44.99	Add
+Cooler Master Elite 120 Advanced (Black)	Mini ITX Tower	1	3	None	 (17)			Add
+Rosewill Line-M	MicroATX Mini Tower	2	2	None	 (15)			Add
+Antec SOLO II	ATX Mid Tower	2	3	None	 (2)		$111.99	Add
+Fractal Design Define R5 (White)	ATX Mid Tower	2	8	None	 (2)		$107.99	Add
+Rosewill Legacy U2-S-Window	Mini ITX Tower	0	2	None	 (2)			Add
+Rosewill Neutron	Mini ITX Desktop	1	3	None	 (2)			Add
+Thermaltake Core X9	ATX Desktop	3	7	None	 (2)		$127.83	Add
+Inwin GT1 White	ATX Mid Tower	3	6	None	 (2)		$49.99	Add
+Apex Vortex 3620	ATX Mid Tower	3	5	None	 (2)		$36.99	Add
+Apex TX-381-C	MicroATX Mid Tower	2	4	None	 (2)		$27.99	Add
+Apevia X-Jupiter-Jr G-Type Black	ATX Mid Tower	5	3	None	 (2)			Add
+Lian-Li PC-V351B	MicroATX Desktop	2	2	None	 (2)		$100.99	Add
+Silverstone Raven	ATX Full Tower	5	6	None	 (2)		$232.88	Add
+Silverstone FT03B-MINI (Black)	Mini ITX Tower	0	1	None	 (2)		$131.98	Add
+BitFenix Shinobi XL Window (White)	ATX Full Tower	5	7	None	 (2)		$138.99	Add
+BitFenix Shinobi Window (White)	ATX Mid Tower	3	7	None	 (2)		$75.99	Add
+Inwin BQS656.DD120BL	Mini ITX Desktop	0	0	120W	 (2)		$79.95	Add
+Azza CSAZ-8000W	ATX Full Tower	4	6	None	 (2)		$129.98	Add
+Rosewill THRONE-G-Window	ATX Full Tower	2	10	None	 (2)			Add
+Silverstone RV02B-EW-USB3.0 (Black)	ATX Full Tower	5	5	None	 (2)		$172.99	Add
+Silverstone RV04B-W	ATX Full Tower	2	7	None	 (2)		$159.99	Add
+NZXT Phantom 630 (Gunmetal)	ATX Full Tower	4	6	None	 (2)		$150.99	Add
+Zalman MS800 Plus	ATX Mid Tower	6	1	None	 (2)		$95.99	Add
+Cooler Master HAF X Blue	ATX Full Tower	6	5	None	 (2)			Add
+Thermaltake Level 10 GT Battle Edition	ATX Full Tower	4	5	None	 (2)			Add
+Raidmax ATX-298WW	ATX Mid Tower	4	4	None	 (2)			Add
+Thermaltake Armor Revo Gene	ATX Mid Tower	4	5	None	 (2)			Add
+Thermaltake Armor Revo Gene Snow Edition	ATX Mid Tower	4	5	None	 (2)			Add
+Azza Toledo 301	ATX Mid Tower	4	4	None	 (2)		$89.89	Add
+Phanteks Enthoo Pro	ATX Full Tower	3	6	None	 (2)		$104.99	Add
+Enermax Hoplite ST	ATX Mid Tower	4	6	None	 (2)			Add
+Cooler Master HAF 912 Plus	ATX Mid Tower	4	6	None	 (2)			Add
+NZXT H440 Designed by Razer™	ATX Mid Tower	0	6	None	 (10)		$128.99	Add
+Thermaltake Commander G42	ATX Mid Tower	3	6	None	 (9)		$51.99	Add
+Corsair 230T Windowed-BLUE	ATX Mid Tower	3	4	None	 (9)		$96.73	Add
+Thermaltake Overseer RX-I	ATX Full Tower	3	5	None	 (8)		$97.99	Add
+NZXT Tempest 210	ATX Mid Tower	3	8	None	 (8)			Add
+Phanteks Enthoo Luxe	ATX Full Tower	3	6	None	 (8)		$149.99	Add
+NZXT Phantom 410 (White)	ATX Mid Tower	3	6	None	 (7)		$109.99	Add
+Silverstone ML04B	HTPC	1	2	None	 (7)		$69.99	Add
+NZXT Gamma Classic (Black)	ATX Mid Tower	4	7	None	 (7)			Add
+Antec Nine Hundred	ATX Mid Tower	3	6	None	 (18)		$88.99	Add
+Rosewill REDBONE U3	ATX Mid Tower	3	6	None	 (13)		$49.99	Add
+Nanoxia NXDS4B	MicroATX Mini Tower	2	6	None	 (6)		$99.99	Add
+Zalman Z9	ATX Mid Tower	3	5	None	 (6)			Add
+BitFenix Ronin	ATX Mid Tower	3	6	None	 (6)		$79.95	Add
+Aerocool StrikeX-Air	ATX Test Bench	3	3	None	 (6)		$139.99	Add
+Deepcool TESSERACT BF	ATX Mid Tower	2	4	None	 (6)		$34.99	Add
+Phanteks Enthoo EVOLV	MicroATX Mini Tower	1	3	None	 (3)		$129.99	Add
+Lian-Li PC-TU200B	Mini ITX Tower	1	4	None	 (3)		$148.99	Add
+Silverstone RV03B-WA	ATX Full Tower	7	4	None	 (3)		$146.99	Add
+Cooler Master CM690 II Advanced	ATX Mid Tower	4	6	None	 (3)			Add
+Silverstone Sugo SG13B	Mini ITX Tower	0	1	None	 (3)		$39.99	Add
+NZXT H630 (Black)	ATX Full Tower	2	8	None	 (3)		$137.99	Add
+NZXT Switch 810 (Black)	ATX Full Tower	4	6	None	 (3)			Add
+Raidmax Cobra Z	MicroATX Mid Tower	3	3	None	 (3)		$65.99	Add
+Thermaltake Versa H22	ATX Mid Tower	3	0	None	 (3)		$31.99	Add
+Apevia X-SNIPER2-RD	ATX Mid Tower	3	4	None	 (3)		$54.99	Add
+Thermaltake Soprano	ATX Mid Tower	4	5	None	 (3)			Add
+Enermax ECA3280A-BL	ATX Mid Tower	3	8	None	 (5)		$69.99	Add
+BitFenix Prodigy M Midnight	MicroATX Mini Tower	1	4	None	 (5)		$90.99	Add
+Rosewill Galaxy-01	ATX Mid Tower	3	4	None	 (5)		$39.99	Add
+Silverstone GD05B-USB3.0 (Black)	HTPC	1	2	None	 (5)		$101.99	Add
+Xigmatek Aquila	MicroATX Mini Tower	1	2	None	 (5)		$67.99	Add
+Inwin GRone White (White)	ATX Full Tower	3	8	None	 (5)		$109.99	Add
+NZXT H2 Classic Silent (White)	ATX Mid Tower	3	8	None	 (5)			Add
+Rosewill Line Glow	ATX Mid Tower	2	8	None	 (5)			Add
+NZXT H440 (Green/Black)	ATX Mid Tower	0	6	None	 (5)			Add
+BitFenix Ghost (Black)	ATX Mid Tower	3	4	None	 (5)		$88.99	Add
+NZXT Phantom 530 (Red)	ATX Full Tower	3	6	None	 (4)		$128.99	Add
+Inwin 904	ATX Mid Tower	1	3	None	 (4)			Add
+BitFenix Prodigy (Blue)	Mini ITX Tower	1	5	None	 (4)		$91.99	Add
+Zalman ZM-T4	MicroATX Mini Tower	1	2	None	 (4)			Add
+Silverstone ML07B	HTPC	0	1	None	 (4)		$67.99	Add
+Rosewill Galaxy-03	ATX Mid Tower	3	4	None	 (11)		$49.99	Add
+Silverstone PS08B (Black)	MicroATX Mid Tower	2	4	None	 (15)		$34.99	Add
+Thermaltake VL80001W2Z	ATX Mid Tower	4	4	None	 (14)		$22.99	Add
+Rosewill Challenger-U3	ATX Mid Tower	3	5	None	 (17)		$62.70	Add
+Antec Three Hundred	ATX Mid Tower	3	6	None	 (9)			Add
+Antec Twelve Hundred V3	ATX Full Tower	3	9	None	 (9)		$155.99	Add
+Silverstone ML03B	HTPC	1	2	None	 (8)		$59.99	Add
+Thermaltake VM30001W2Z	ATX Mid Tower	4	4	None	 (8)		$42.99	Add
+Zalman Z5 Plus	ATX Mid Tower	3	3	None	 (8)		$65.99	Add
+Antec GX500	ATX Mid Tower	2	4	None	 (7)		$57.98	Add
+Antec P280	ATX Mid Tower	3	6	None	 (7)		$85.99	Add
+Thermaltake Versa H21	ATX Mid Tower	3	3	None	 (7)		$31.99	Add
+BitFenix Comrade	ATX Mid Tower	3	3	None	 (10)		$52.99	Add
+Antec Three Hundred Illusion	ATX Mid Tower	3	6	None	 (6)			Add
+Xion XON-560	MicroATX Mini Tower	2	3	None	 (6)		$44.98	Add
+Rosewill FBM-02	MicroATX Mini Tower	1	2	None	 (6)		$29.99	Add
+Cooler Master Silencio 352	MicroATX Mini Tower	1	2	None	 (6)		$57.99	Add
+Azza Solano 1000R	ATX Full Tower	10	8	None	 (6)		$135.98	Add
+Cougar Solution (Black)	ATX Mid Tower	3	6	None	 (12)		$42.99	Add
+Fractal Design Core 1000	MicroATX Mini Tower	2	2	None	 (9)		$87.15	Add
+Corsair SPEC-03 White	ATX Mid Tower	2	3	None	 (14)		$69.99	Add
+Rosewill RANGER-M	MicroATX Mini Tower	2	2	None	 (11)		$34.99	Add
+Thermaltake Commander MS/I Snow Edition (White/Black)	ATX Mid Tower	3	5	None	 (33)		$24.99	Add
+NZXT Phantom 410 (Black/Orange)	ATX Mid Tower	3	6	None	 (5)			Add
+NZXT Phantom 410 (Black/White)	ATX Mid Tower	3	6	None	 (5)			Add
+Thermaltake Commander G41	ATX Mid Tower	3	6	None	 (5)		$59.14	Add
+Apevia X-SNIPER2-BL	ATX Mid Tower	3	4	None	 (5)		$48.99	Add
+Azza SIRIUS	ATX Mid Tower	3	3	None	 (5)		$50.98	Add
+Silverstone RV03B-W	ATX Full Tower	7	4	None	 (5)		$154.98	Add
+Rosewill REDBONE	ATX Mid Tower	3	6	None	 (7)		$34.99	Add
+Fractal Design Core 1000 USB 3.0	MicroATX Mid Tower	2	2	None	 (21)		$29.99	Add
+NZXT Phantom 820 (Grey)	ATX Full Tower	4	6	None	 (7)		$216.99	Add
+Cooler Master COSMOS SE	ATX Mid Tower	3	8	None	 (7)		$169.99	Add
+Nanoxia NXDS4W	MicroATX Mini Tower	2	6	None	 (4)		$99.99	Add
+Silverstone PS07B	MicroATX Mini Tower	2	5	None	 (4)		$70.99	Add
+Thermaltake Versa H23	ATX Mid Tower	2	3	None	 (4)		$42.99	Add
+Cooler Master CM 690 II (Black)	ATX Mid Tower	4	6	None	 (4)			Add
+Cooler Master Silencio 550 (Black)	ATX Mid Tower	3	7	None	 (4)			Add
+Raidmax Viper GX	ATX Mid Tower	3	7	None	 (4)		$76.99	Add
+Corsair 330R	ATX Mid Tower	3	4	None	 (4)			Add
+Inwin GT1 Black	ATX Mid Tower	3	6	None	 (9)		$49.99	Add
+Thermaltake VL800P1W2N (Black/Red)	ATX Mid Tower	4	4	None	 (13)		$52.99	Add
+Cooler Master K280	ATX Mid Tower	3	6	None	 (11)			Add
+Enermax OSTROG	ATX Mid Tower	4	5	None	 (12)		$32.00	Add
+Rosewill FBM-01	MicroATX Mini Tower	2	2	None	 (17)		$29.99	Add
+Logisys CS369BK	ATX Mid Tower	2	4	480W	 (6)		$41.99	Add
+Cooler Master N400	ATX Mid Tower	2	7	None	 (6)		$55.99	Add
+Azza CSAZ-206	ATX Mid Tower	4	3	None	 (6)			Add
+Zalman Z11	ATX Mid Tower	4	5	None	 (8)			Add
+Deepcool KENDOMEN Red	ATX Mid Tower	3	3	None	 (3)		$49.99	Add
+Antec ISK 300-150	Mini ITX Desktop	0	0	150W	 (3)		$67.99	Add
+Cooler Master HAF 932	ATX Full Tower	6	5	None	 (3)			Add
+Silverstone SG08B	Mini ITX Desktop	0	1	600W	 (3)		$188.99	Add
+Rosewill RISE	ATX Full Tower	2	2	None	 (3)		$74.99	Add
+BitFenix Colossus Micro	MicroATX Mid Tower	1	4	None	 (3)			Add
+Apex DM-387	HTPC	1	1	275W	 (3)		$44.42	Add
+Cooler Master RC-912-KKN4	ATX Mid Tower	4	6	None	 (3)			Add
+Sentey GS-6070 II Abaddom (Black)	ATX Mid Tower	4	4	None	 (3)			Add
+Silverstone SG05BB-450-USB3.0 (Black)	Mini ITX Desktop	0	1	450W	 (3)		$119.99	Add
+Xigmatek Aquila	MicroATX Mini Tower	1	2	None	 (3)		$111.51	Add
+Raidmax Helios ATX-819WB	ATX Mid Tower	3	4	None	 (3)			Add
+Cooler Master Elite 342 (Black)	MicroATX Mini Tower	2	5	400W	 (3)		$52.99	Add
+Apevia X-HERMES-BL	ATX Mid Tower	4	4	None	 (3)		$58.99	Add
+Fractal Design Core 3500	ATX Mid Tower	2	4	None	 (3)		$60.99	Add
+BitFenix Neos Black	ATX Mid Tower	2	3	None	 (3)		$47.99	Add
+Azza Z	Mini ITX Tower	0	0	None	 (3)		$65.92	Add
+Deepcool TESSERACT SW	ATX Mid Tower	2	4	None	 (3)		$30.99	Add
+BitFenix Prodigy M Arctic White	MicroATX Mini Tower	1	4	None	 (8)		$95.99	Add
+Corsair 780T	ATX Full Tower	2	6	None	 (2)		$169.99	Add
+Enermax ECA3253-PW	ATX Mid Tower	4	5	None	 (2)			Add
+Cooler Master CM Storm Scout 2 Advanced	ATX Mid Tower	3	7	None	 (2)			Add
+Rosewill Legacy V3 Plus-B	Mini ITX Tower	0	1	None	 (2)			Add
+Thermaltake Overseer RX-I Snow Edition	ATX Full Tower	3	5	None	 (2)		$120.02	Add
+Cooler Master Elite 311 (Blue)	ATX Mid Tower	3	5	None	 (2)			Add
+Ultra Rogue M925	ATX Full Tower	3	8	None	 (2)			Add
+Nanoxia Deep Silence 2	ATX Mid Tower	3	7	None	 (2)		$129.99	Add
+Nanoxia Deep Silence 1	ATX Mid Tower	3	7	None	 (2)		$123.79	Add
+Thermaltake Level 10 GTS Snow Edition (White)	ATX Mid Tower	4	5	None	 (2)		$135.31	Add
+Rosewill PATRIOT	ATX Mid Tower	2	6	None	 (2)			Add
+Raidmax Seiran (Black)	ATX Mid Tower	3	6	None	 (2)			Add
+Corsair 330R	ATX Mid Tower	3	4	None	 (2)			Add
+Apex PC-389-C	ATX Mid Tower	3	4	None	 (2)			Add
+Lian-Li PC-TU100A	Mini ITX Tower	0	0	None	 (2)		$95.99	Add
+NZXT Phantom	ATX Full Tower	5	7	None	 (2)		$108.99	Add
+BitFenix Colossus Window (White)	ATX Full Tower	5	7	None	 (2)		$129.99	Add
+HEC 6K28BB8F	MicroATX Mini Tower	2	2	None	 (2)		$33.99	Add
+Antec Eleven Hundred V2	ATX Mid Tower	3	6	None	 (2)		$91.99	Add
+NZXT H2 Classic Silent (Black)	ATX Mid Tower	3	8	None	 (2)			Add
+Zalman Z11 NEO	ATX Mid Tower	1	6	None	 (2)		$72.99	Add
+Apevia X-HERMES-RD	ATX Mid Tower	4	4	None	 (2)		$58.99	Add
+Xigmatek Elysium Black	ATX Full Tower	12	8	None	 (2)		$254.48	Add
+Ultra Gladiator	ATX Mid Tower	3	5	None	 (2)			Add
+Fractal Design Core 1500	MicroATX Mini Tower	2	4	None	 (2)		$58.99	Add
+Rosewill R536-BK	ATX Mid Tower	3	5	500W	 (2)		$59.99	Add
+BitFenix Shinobi XL (White)	ATX Full Tower	5	7	None	 (2)		$135.99	Add
+Rosewill ARMOR-EVO	ATX Mid Tower	3	7	None	 (2)			Add
+Rosewill FBM-01-450P	MicroATX Mini Tower	2	2	450W	 (2)			Add
+Fractal Design Core 1300	MicroATX Mini Tower	2	2	None	 (2)		$48.99	Add
+Thermaltake Urban S31 Window	ATX Mid Tower	3	6	None	 (2)			Add
+Enermax ECA3310A-B	ATX Mid Tower	3	7	None	 (2)		$75.98	Add
+Corsair SPEC-03 Orange	ATX Mid Tower	2	3	None	 (2)			Add
+NZXT Guardian 921 RB	ATX Mid Tower	3	4	None	 (6)		$64.99	Add
+Antec Nine Hundred Two V3	ATX Mid Tower	3	6	None	 (6)			Add
+Fractal Design Define XL R2 (Titanium Grey)	ATX Full Tower	4	8	None	 (4)		$126.99	Add
+Corsair 100R	ATX Mid Tower	2	4	None	 (4)		$37.99	Add
+NZXT M59 - 001BK	ATX Mid Tower	4	7	None	 (4)			Add
+Cooler Master 690 III	ATX Mid Tower	3	7	None	 (4)			Add
+Enermax ECA3253-BL	ATX Mid Tower	4	5	None	 (4)			Add
+Corsair 200R	ATX Mid Tower	3	4	None	 (4)		$42.99	Add
+Thermaltake Commander MS-I Epic Edition (Black/Red)	ATX Mid Tower	3	5	None	 (7)		$34.99	Add
+Cooler Master Elite 430	ATX Mid Tower	3	5	None	 (25)		$49.99	Add
+Aerocool DS-Cube	MicroATX Mini Tower	1	2	None	 (1)		$120.21	Add
+Lian-Li PC-Q25B	Mini ITX Tower	0	7	None	 (1)		$115.99	Add
+Lian-Li PC-TU200A	Mini ITX Tower	1	4	None	 (1)		$155.99	Add
+Raidmax ATX-298WR	ATX Mid Tower	4	4	None	 (1)			Add
+Cooler Master HAF Stacker 935	ATX Full Tower	4	9	None	 (1)			Add
+Cooler Master HAF Stacker 915R	Mini ITX Tower	1	3	None	 (1)			Add
+Aerocool DS Cube Orange Edition Silent Cube	MicroATX Mini Tower	1	2	None	 (1)			Add
+Aerocool DS Cube Black/White Silent Cube	MicroATX Mini Tower	1	2	None	 (1)		$89.99	Add
+Aerocool DS Cube Gold Edition Silent Cube	MicroATX Mini Tower	1	2	None	 (1)			Add
+Aerocool DS Cube Black Edition Silent Cube	MicroATX Mini Tower	1	2	None	 (1)		$98.99	Add
+Antec P280	ATX Mid Tower	3	6	None	 (1)		$119.99	Add
+Thermaltake ARMOR A30i	MicroATX Mini Tower	2	3	None	 (1)			Add
+Silverstone TJ08B-EW	MicroATX Mid Tower	2	4	None	 (1)		$103.99	Add
+Corsair 380T	Mini ITX Tower	0	2	None	 (1)		$114.99	Add
+BitFenix Prodigy M Vivid Green	MicroATX Mini Tower	1	4	None	 (1)		$90.99	Add
+Rosewill Legacy U3-B-Window	MicroATX Mini Tower	0	2	None	 (1)		$89.99	Add
+Rosewill Legacy U3-S-Window	MicroATX Mini Tower	0	2	None	 (1)		$89.99	Add
+Rosewill Legacy U3-B	MicroATX Mini Tower	0	2	None	 (1)		$79.99	Add
+Rosewill Legacy V4-S	MicroATX Mini Tower	0	3	None	 (1)		$69.99	Add
+Apevia X-Jupiter S-Type Gray	ATX Full Tower	5	6	None	 (1)			Add
+Phanteks Enthoo EVOLV	MicroATX Mini Tower	1	3	None	 (1)		$119.99	Add
+BitFenix Merc Alpha (Black)	ATX Mid Tower	3	6	None	 (1)			Add
+Raidmax Hyperion	MicroATX Mid Tower	1	5	None	 (1)		$70.98	Add
+Fractal Design Define R3 Titanium Grey	ATX Mid Tower	2	8	None	 (1)			Add
+Fractal Design Define R3 Silver Arrow	ATX Mid Tower	2	8	None	 (1)			Add
+DIYPC Cuboid-R	MicroATX Mini Tower	1	3	None	 (1)		$59.99	Add
+Phanteks Enthoo Primo	ATX Full Tower	5	6	None	 (1)		$239.99	Add
+Sentey GS-6600 Wolf	ATX Full Tower	5	5	None	 (1)			Add
+RAIJINTEK Metis (Red)	Mini ITX Tower	0	1	None	 (1)		$59.99	Add
+Thermaltake Level 10 GTS Snow Edition	ATX Mid Tower	4	5	None	 (1)			Add
+Lian-Li PC-9NB	ATX Mid Tower	3	3	None	 (1)		$95.99	Add
+Apevia X-DREAMER4-GN	ATX Mid Tower	4	4	None	 (1)		$61.99	Add
+Deepcool KENDOMEN Black	ATX Mid Tower	3	3	None	 (1)		$49.99	Add
+Antec SONATA III 500	ATX Mid Tower	3	4	500W	 (1)		$101.99	Add
+Cooler Master HAF X nVidia Edition	ATX Full Tower	6	5	None	 (1)			Add
+Antec NSK4482B	ATX Mid Tower	3	3	380W	 (1)		$88.99	Add
+Thermaltake LANBOX Lite	MicroATX Mini Tower	2	2	None	 (1)		$78.99	Add
+Thermaltake VL200K1W2Z	ATX Full Tower	5	6	None	 (1)			Add
+Thermaltake VL90001W2Z	ATX Mid Tower	3	6	None	 (1)			Add
+Rosewill R101-P-BK-450W	MicroATX Mid Tower	3	4	450W	 (1)			Add
+CFI Bastet	ATX Mid Tower	4	2	None	 (1)			Add
+Silverstone FT02B-W	ATX Mid Tower	5	5	None	 (1)		$255.99	Add
+Silverstone FT02B	ATX Mid Tower	5	5	None	 (1)		$246.99	Add
+Cooler Master Cosmos S	ATX Full Tower	4	4	None	 (1)			Add
+Lian-Li K60B	ATX Mid Tower	5	4	None	 (1)			Add
+Inwin D-FRAME Orange	ATX Desktop	1	3	None	 (1)			Add
+Apex TM-302-3	MicroATX Mid Tower	2	1	300W	 (1)		$47.98	Add
+Lian-Li PC-9F	ATX Mid Tower	3	6	None	 (1)			Add
+Rosewill RS-MI-01 BK	Mini ITX Tower	1	1	250W	 (1)		$53.98	Add
+Lian-Li PC-A05NB	ATX Mini Tower	2	3	None	 (1)			Add
+Lian-Li PC-K65 (Black)	ATX Mid Tower	3	6	None	 (1)			Add
+BitFenix Raider	ATX Mid Tower	4	6	None	 (1)			Add
+Fractal Design Define R5 Blackout Edition	ATX Mid Tower	2	8	None	 (1)		$84.99	Add
+Apevia X-Plorer2 Black/Red	ATX Mid Tower	4	5	None	 (1)			Add
+Silverstone FT03S-MINI	Mini ITX Tower	0	1	None	 (1)		$149.99	Add
+Cooler Master ATCS 840 Black	ATX Full Tower	6	6	None	 (1)			Add
+Silverstone RV02-BW	ATX Full Tower	5	5	None	 (1)			Add
+Cougar Solution 2	ATX Mid Tower	2	3	None	 (1)		$39.99	Add
+NZXT H630 (White)	ATX Full Tower	2	8	None	 (1)		$149.98	Add
+XClio 320	ATX Mid Tower	3	8	None	 (1)			Add
+HEC 6C28BBX585	ATX Mid Tower	4	5	585W	 (1)		$74.71	Add
+Raidmax ATX-502WUU	ATX Mid Tower	3	3	None	 (1)			Add
+Apevia X-Cruiser2 Black	ATX Mid Tower	4	5	None	 (1)			Add
+Raidmax ATX-809B (Black)	ATX Mid Tower	3	5	None	 (1)			Add
+Raidmax ATX-823BR (Black)	ATX Mid Tower	3	5	None	 (1)			Add
+BitFenix Shinobi Window XL (Black)	ATX Full Tower	5	7	None	 (1)		$118.99	Add
+Silverstone SG06BB-450-USB3.0 (Black)	Mini ITX Desktop	0	1	450W	 (1)		$145.00	Add
+Cooler Master CM 690 II Advanced NVIDIA Edition	ATX Mid Tower	6	4	None	 (1)			Add
+Lian-Li PC-A04B	MicroATX Mini Tower	2	7	None	 (1)			Add
+Apevia X-CRUISER3-PK	ATX Mid Tower	5	4	None	 (1)		$69.99	Add
+Thermaltake Urban R31	ATX Mid Tower	3	6	None	 (1)		$69.99	Add
+Silverstone GD04B-USB3.0 (Black)	HTPC	1	2	None	 (1)			Add
+Aerocool Qx-2000	MicroATX Mini Tower	2	2	None	 (1)			Add
+Inwin D-FRAME MINI BLACK	Mini ITX Tower	0	3	None	 (1)		$229.99	Add
+Silverstone SG06B-USB3.0 (Black)	Mini ITX Desktop	0	1	300W	 (1)		$119.00	Add
+Silverstone FT02B-USB3.0 (Black)	ATX Mid Tower	5	5	None	 (1)		$226.99	Add
+Rosewill THRONE-Window	ATX Full Tower	2	10	None	 (1)		$149.98	Add
+Silverstone FT03B	MicroATX Mini Tower	0	3	None	 (1)		$159.99	Add
+HEC 6K28BBX585	MicroATX Mini Tower	2	2	585W	 (1)		$71.98	Add
+Mini-Box M350	HTPC	0	0	None	 (1)		$36.50	Add
+Lian-Li LanCool PC-K57	ATX Mid Tower	3	3	None	 (1)			Add
+Cougar Challenger-O (Black/Orange)	ATX Mid Tower	3	7	None	 (1)		$72.99	Add
+Inwin GRone Gray (Gray)	ATX Full Tower	3	8	None	 (1)		$129.99	Add
+Inwin GRone (Gray)	ATX Full Tower	3	8	None	 (1)		$109.99	Add
+DIYPC Adventurer-9601R (Black)	ATX Full Tower	3	7	None	 (1)			Add
+Cooler Master Storm Scout 2	ATX Mid Tower	3	7	None	 (1)			Add
+Cooler Master NV-692A-KWN2	ATX Mid Tower	4	6	None	 (1)			Add
+Silverstone GD04S-USB3.0	HTPC	0	2	None	 (1)		$99.00	Add
+Fractal Design Node 605	HTPC	0	4	None	 (5)		$155.99	Add
+Thermaltake VP300A5W2N	ATX Mid Tower	3	6	None	 (1)			Add
+Lian-Li PC-V1000LB	ATX Full Tower	1	0	None	 (1)		$369.99	Add
+Phanteks Enthoo EVOLV	ATX Mid Tower	0	5	None	 (1)		$178.99	Add
+Fractal Design Core 500	Mini ITX Desktop	1	3	None	 (1)		$58.99	Add
+Inwin GR One	ATX Full Tower	3	8	None	 (1)			Add
+DIYPC Shadow-H01-W	ATX Mid Tower	2	4	None	 (1)		$59.99	Add
+Apevia X-HERMES-GN	ATX Mid Tower	4	4	None	 (1)		$58.99	Add
+Cooler Master HAF 912 Advanced	ATX Mid Tower	4	6	None	 (1)			Add
+Xigmatek CCC-AD38BT-U03	ATX Mid Tower	3	8	None	 (1)			Add
+Fractal Design Core 2300	ATX Mid Tower	2	4	None	 (1)		$49.99	Add
+HEC 98R9BB	ATX Full Tower	7	5	None	 (1)			Add
+Fractal Design FD-CA-CORE-3300-BL	ATX Mid Tower	2	3	None	 (1)		$63.00	Add
+Silverstone TJ11B-W	ATX Full Tower	9	6	None	 (1)		$585.99	Add
+Phanteks Enthoo Pro	ATX Full Tower	3	6	None	 (1)		$79.99	Add
+Raidmax ATX-249WW	ATX Mid Tower	3	3	None	 (1)			Add
+BitFenix Neos Black/Blue	ATX Mid Tower	2	3	None	 (1)			Add
+Fractal Design Define R5 Blackout Edition w/ Window	ATX Mid Tower	2	8	None	 (1)		$94.99	Add
+Sentey GS-6500	ATX Full Tower	5	5	None	 (1)			Add
+Sentey BX1-4284 v2.1	ATX Mid Tower	4	4	None	 (1)			Add
+Azza Hurrican 2000R	ATX Full Tower	4	6	None	 (1)			Add
+Parvum Systems S2.0 WH/BK	MicroATX Mini Tower	0	2	None	 (1)			Add
+NZXT Phantom 630 (Gunmetal)	ATX Full Tower	4	6	None	 (1)			Add
+Aerocool Mechatron-Black Steel Edition	ATX Mid Tower	3	4	None	 (1)		$97.99	Add
+Aerocool DS-Cube Green	MicroATX Mini Tower	1	2	None	 (1)			Add
+XClio Touch 320	ATX Mid Tower	3	8	None	 (1)			Add
+Cooler Master MasterCase Pro 5	ATX Mid Tower	2	5	None	 (1)		$134.99	Add
+Sigma ATLANTIS-B	ATX Mid Tower	4	4	None	 (1)			Add
+Thermaltake Level 10 GT LCS	ATX Full Tower	2	5	None	 (1)			Add
+Sigma ZEN-WAR	ATX Mid Tower	5	3	None	 (1)			Add
+Sigma ZEN-WJG	ATX Mid Tower	5	3	None	 (1)			Add
+Lian-Li PC-V359WX	MicroATX Mid Tower	0	3	None	 (1)		$179.99	Add
+Thermaltake Versa N21	ATX Mid Tower	1	3	None	 (1)		$58.26	Add
+Lian-Li PC-K9B	ATX Mid Tower	2	6	None	 (1)			Add
+Deepcool STEAM CASTLE (BLACK)	MicroATX Mid Tower	1	3	None	 (1)			Add

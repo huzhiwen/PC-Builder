@@ -1,0 +1,500 @@
+EVGA SuperNOVA 850		ATX	80+ Gold	850W	Full	 (73)		$117.99
+EVGA SuperNOVA 1000	SuperNOVA 1000 P2	ATX	80+ Platinum	1000W	Full	 (21)		$196.99
+Corsair AX760		ATX	80+ Platinum	760W	Full	 (84)		$134.98
+Corsair AX750	Professional Gold	ATX	80+ Gold	750W	Full	 (21)		
+EVGA SuperNOVA 750		ATX	80+ Gold	750W	Full	 (108)		$99.99
+Corsair AX860		ATX	80+ Platinum	860W	Full	 (65)		$164.27
+SeaSonic Platinum-1000	Platinum	ATX	80+ Platinum	1000W	Full	 (13)		$189.99
+Corsair AX1200i		ATX	80+ Platinum	1200W	Full	 (40)		$299.99
+EVGA SuperNOVA 1000	SuperNOVA 1000G2	ATX	80+ Gold	1000W	Full	 (30)		$154.99
+EVGA SuperNOVA 650	SuperNOVA GS	ATX	80+ Gold	650W	Full	 (11)		$79.99
+EVGA NEX750G Gold	SuperNOVA	ATX	80+ Gold	750W	Full	 (51)		
+Corsair AX760i		ATX	80+ Platinum	760W	Full	 (21)		
+XFX P1-750B-BEFX	XTR	ATX	80+ Gold	750W	Full	 (21)		$106.99
+EVGA SuperNOVA 1300	SuperNOVA 1300 G2	ATX	80+ Gold	1300W	Full	 (25)		$184.99
+SeaSonic X-850	X Series	ATX	80+ Gold	850W	Full	 (33)		$125.00
+Cooler Master RS-650-AMAA-G1	VSM	ATX	80+ Gold	650W	Semi	 (10)		$59.99
+SeaSonic SS-750KM		ATX	80+ Gold	750W	Full	 (19)		$129.99
+Corsair HX750	Professional	ATX	80+ Gold	750W	Semi	 (75)		
+Antec HCG-620M	High Current Gamer	ATX	80+ Bronze	620W	Semi	 (26)		$84.99
+SeaSonic SS-760XP2		ATX	80+ Platinum	760W	Full	 (14)		$147.99
+EVGA NEX650G Gold	SuperNOVA	ATX	80+ Gold	650W	Full	 (54)		
+SeaSonic Platinum-860	Platinum	ATX	80+ Platinum	860W	Full	 (9)		$149.99
+EVGA SuperNOVA 550	SuperNOVA GS	ATX	80+ Gold	550W	Full	 (9)		$69.99
+XFX P1-850B-BEFX	PRO Black Edition	ATX	80+ Gold	850W	Full	 (17)		$129.99
+Corsair RM750	RM	ATX	80+ Gold	750W	Full	 (107)		$99.99
+Corsair CX600M	CX	ATX	80+ Bronze	600W	Semi	 (299)		$48.98
+SeaSonic SS-860XP2	Platinum	ATX	80+ Platinum	860W	Full	 (8)		$149.99
+Corsair HX850	Professional	ATX	80+ Gold	850W	Semi	 (39)		
+Corsair CX500M	CX	ATX	80+ Bronze	500W	Semi	 (180)		$41.98
+Corsair CS550M	CSM	ATX	80+ Gold	550W	Semi	 (40)		$39.99
+Corsair CS450M	CSM	ATX	80+ Gold	450W	Semi	 (29)		$49.99
+SeaSonic SS-850AM	M12II	ATX	80+ Bronze	850W	Semi	 (11)		$98.99
+Corsair RM650	RM	ATX	80+ Gold	650W	Full	 (87)		$86.99
+Cooler Master RS800-80GAD3-US	Silent Pro Gold	ATX	80+ Gold	800W	Semi	 (7)		
+EVGA SuperNOVA 550	SuperNOVA G2	ATX	80+ Gold	550W	Full	 (7)		$69.99
+Corsair AX1200	Professional Gold	ATX	80+ Gold	1200W	Full	 (20)		
+SeaSonic SSR-550RM	G	ATX	80+ Gold	550W	Semi	 (41)		$78.99
+Corsair CX430M	CX	ATX	80+ Bronze	430W	Semi	 (130)		$24.99
+SeaSonic SS-650KM		ATX	80+ Gold	650W	Full	 (27)		$99.00
+Corsair AX860i		ATX	80+ Platinum	860W	Full	 (46)		$197.99
+Corsair CX750M	CX	ATX	80+ Bronze	750W	Semi	 (236)		$77.98
+EVGA SuperNOVA 650	SuperNOVA NEX	ATX	80+ Gold	650W	Full	 (82)		$64.99
+XFX P1-550S-XXB9		ATX	80+ Bronze	550W	No	 (59)		$52.98
+Corsair TX750M	Enthusiast	ATX	80+ Bronze	750W	Semi	 (15)		
+SeaSonic SSR-650RM		ATX	80+ Gold	650W	Semi	 (15)		$69.99
+Corsair AX850	Professional Gold	ATX	80+ Gold	850W	Full	 (25)		
+Antec HCG-750M	HCG M	ATX	80+ Bronze	750W	Semi	 (6)		$84.99
+Corsair HX850i		ATX	80+ Platinum	850W	Full	 (6)		$119.99
+Corsair HX1000i		ATX	80+ Platinum	1000W	Full	 (6)		$178.79
+Rosewill CAPSTONE-750-M	Capstone	ATX	80+ Gold	750W	Semi	 (17)		
+Corsair RM1000	RM	ATX	80+ Gold	1000W	Full	 (35)		$139.99
+EVGA 500B		ATX	80+ Bronze	500W	No	 (81)		$45.80
+EVGA SuperNOVA NEX 750 B	SuperNOVA NEX750B BRONZE	ATX	80+ Bronze	750W	Semi	 (30)		
+Corsair RM850	RM	ATX	80+ Gold	850W	Full	 (65)		$129.99
+EVGA SuperNOVA 750	SuperNOVA NEX	ATX	80+ Gold	750W	Full	 (40)		$89.99
+EVGA 100-W1-0500-KR		ATX	80+	500W	No	 (66)		$29.99
+XFX P1-450S-X2B9	ProSeries	ATX	80+ Bronze	450W	No	 (8)		
+NZXT HALE90-850-M	HALE 90	ATX	80+ Gold	850W	Full	 (5)		
+Antec HCP-750	High Current Pro	ATX	80+ Gold	750W	Semi	 (5)		$183.63
+Rosewill Hive-750	Hive	ATX	80+ Bronze	750W	Semi	 (34)		$76.40
+XFX P1-550B-BEFX	XTR	ATX	80+ Gold	550W	Full	 (5)		$78.99
+Silverstone ST65F-G	Strider Gold	ATX	80+ Gold	650W	Full	 (5)		$122.40
+EVGA 100-W1-0430-KR		ATX	80+	430W	No	 (32)		$24.99
+Corsair HX750i		ATX	80+ Platinum	750W	Full	 (10)		$139.99
+Corsair CS750M	CSM	ATX	80+ Gold	750W	Semi	 (24)		$99.99
+SeaSonic SS-660XP2		ATX	80+ Platinum	660W	Full	 (12)		$130.99
+Corsair TX850M	Enthusiast	ATX	80+ Bronze	850W	Semi	 (14)		
+Rosewill Hive-650	Hive	ATX	80+ Bronze	650W	Semi	 (38)		$69.89
+Corsair CX600	Builder	ATX	80+ Bronze	600W	No	 (112)		$29.99
+EVGA SuperNOVA NEX750B	SuperNOVA NEX	ATX	80+ Bronze	750W	Semi	 (33)		$64.99
+Corsair HX1050	Professional	ATX	80+ Gold	1050W	Semi	 (17)		$278.63
+Cooler Master RS850-AFBAG1-US	V850	ATX	80+ Gold	850W	Full	 (7)		$129.99
+Cooler Master RSA00-AFBAG1-US	V1000	ATX	80+ Gold	1000W	Full	 (7)		$169.99
+Silverstone ST55F-G	Strider Gold	ATX	80+ Gold	550W	Full	 (7)		$114.99
+Corsair TX750 V2	Enthusiast	ATX	80+ Bronze	750W	No	 (26)		$180.99
+EVGA SuperNOVA 750		ATX	80+ Bronze	750W	Semi	 (17)		$59.99
+Antec TP-650C	TruePower Classic	ATX	80+ Gold	650W	No	 (7)		
+Corsair CX430	Builder	ATX	80+ Bronze	430W	No	 (123)		$14.99
+Corsair TX650 V2	Enthusiast	ATX	80+ Bronze	650W	No	 (34)		
+Antec HCG-520M	High Current Gamer	ATX	80+ Bronze	520W	Semi	 (9)		$72.57
+EVGA 600B	600B	ATX	80+ Bronze	600W	No	 (67)		$44.99
+SeaSonic SSR-450RM		ATX	80+ Gold	450W	Semi	 (4)		$73.99
+Cougar COUGAR-1000CMX		ATX	80+ Bronze	1000W	No	 (4)		$124.98
+XFX P1-850B-NLG9	ProSeries	ATX	80+ Silver	850W	Semi	 (4)		
+Rosewill CAPSTONE-450	Capstone	ATX	80+ Gold	450W	No	 (8)		
+OCZ OCZ-FTY1000W	Fatal1ty	ATX	80+ Gold	1000W	Semi	 (6)		$169.99
+SeaSonic SSR-750RM	G-750	ATX	80+ Gold	750W	Semi	 (6)		$102.99
+Corsair CX750	Builder	ATX	80+ Bronze	750W	No	 (43)		$71.99
+SeaSonic SS-750KM3		ATX	80+ Gold	750W	Full	 (6)		$124.99
+Rosewill CAPSTONE-650-M	Capstone	ATX	80+ Gold	650W	Semi	 (6)		
+XFX P1-750S-NLB9		ATX	80+ Bronze	750W	No	 (6)		$78.99
+Thermaltake SP-550PCBUS	SMART	ATX	80+ Bronze	550W	No	 (6)		$49.99
+Rosewill CAPSTONE-550-M	Capstone	ATX	80+ Gold	550W	Semi	 (6)		
+Thermaltake PS-TPD-0750MPCGUS-1		ATX	80+ Gold	750W	Semi	 (13)		$57.98
+Corsair CX500	Builder	ATX	80+ Bronze	500W	No	 (114)		$52.44
+Silverstone ST45SF-G	Strider Gold	SFX	80+ Gold	450W	Full	 (16)		$79.99
+NZXT HALE82 V2 550W	HALE82 V2	ATX	80+ Bronze	550W	Full	 (11)		
+Corsair RM550	RM	ATX	80+ Gold	550W	Full	 (17)		$103.98
+Cooler Master RS700-AFBAG1-US	V700	ATX	80+ Gold	700W	Full	 (9)		$155.98
+XFX P1-750X-XXB9		ATX	80+ Bronze	750W	Semi	 (9)		
+XFX P1-650X-XXB9		ATX	80+ Bronze	650W	Semi	 (18)		
+OCZ OCZ-ZT750W	ZT	ATX	80+ Bronze	750W	Full	 (18)		$99.99
+Thermaltake SP-850M	Smart M	ATX	80+ Bronze	850W	Semi	 (16)		$102.99
+PC Power & Cooling PPCMK3S750	Silencer Mk III	ATX	80+ Gold	750W	Semi	 (7)		$159.03
+Rosewill CAPSTONE-750	Capstone	ATX	80+ Gold	750W	No	 (7)		$99.89
+Rosewill CAPSTONE-550	Capstone	ATX	80+ Gold	550W	No	 (7)		
+Antec EA-650 Green	EarthWatts Green	ATX	80+ Bronze	650W	No	 (14)		$66.99
+Antec VP-450		ATX	-	450W	No	 (14)		$29.99
+Rosewill Hive-550	Hive	ATX	80+ Bronze	550W	Semi	 (14)		$55.99
+SeaSonic S12II 620 Bronze	S12II	ATX	80+ Bronze	620W	No	 (18)		$64.99
+Rosewill LIGHTNING-800	Lightning	ATX	80+ Gold	800W	Semi	 (5)		
+Corsair AX1500i	AX1500i	ATX	80+ Titanium	1500W	Full	 (5)		$409.99
+XFX P1-750B-NLG9	ProSeries	ATX	80+ Silver	750W	Semi	 (5)		
+OCZ OCZ-ZX1000W	ZX	ATX	80+ Gold	1000W	Full	 (5)		$179.99
+EVGA SuperNOVA 850		ATX	80+ Bronze	850W	Semi	 (5)		$59.99
+XFX P1-650S-NLB9		ATX	80+ Bronze	650W	No	 (11)		$69.99
+XFX P1-650B-BEFX	XTR	ATX	80+ Gold	650W	Full	 (5)		$86.98
+Cooler Master RSA00-80GAD3-US	Silent Pro Gold	ATX	80+ Gold	1000W	Semi	 (5)		
+Cooler Master RSA00-AMBAJ3-US	Silent Pro M	ATX	80+ Bronze	1000W	Semi	 (5)		
+Corsair GS800	Gaming	ATX	80+ Bronze	800W	No	 (8)		
+Antec BP550 Plus	Basiq Plus	ATX	80+	550W	Semi	 (12)		
+Silverstone SX600-G		SFX	80+ Gold	600W	Full	 (3)		$117.99
+Corsair CS850M		ATX	80+ Gold	850W	Semi	 (3)		$89.99
+Cooler Master RS650-AMAAG1-S1	VSM	ATX	80+ Gold	650W	Semi	 (3)		$59.99
+Rosewill FORTRESS-650	Fortress	ATX	80+ Platinum	650W	No	 (3)		$138.40
+Rosewill RD700	Stallion	ATX	-	700W	No	 (3)		$79.88
+NZXT HALE82N 750W	HALE82N	ATX	80+ Bronze	750W	No	 (3)		
+Thermaltake TPD-0550M	Toughpower	ATX	80+ Gold	550W	Semi	 (3)		$44.00
+SeaSonic SS-760XP		ATX	80+ Platinum	760W	Full	 (3)		$159.99
+EVGA SuperNOVA 1200	SuperNOVA P2	ATX	80+ Platinum	1200W	Full	 (3)		$219.99
+PC Power & Cooling PPCMK3S500	Silencer MK III	ATX	80+ Bronze	500W	Semi	 (3)		$92.00
+Rosewill RBR1000-M		ATX	80+ Bronze	1000W	Semi	 (3)		$69.99
+EVGA SuperNOVA 1000		ATX	80+ Platinum	1000W	Full	 (3)		$179.99
+SeaSonic SS-400FL2	X Series	ATX	80+ Platinum	400W	Full	 (3)		$119.99
+OCZ OCZ750FTY	Fatal1ty	ATX	80+ Bronze	750W	Semi	 (13)		$129.03
+EVGA SuperNOVA 1000		ATX	80+ Gold	1000W	Full	 (6)		$148.99
+Corsair TX650	Enthusiast	ATX	80+	650W	No	 (10)		
+Antec NEO ECO 520C	Neo Eco	ATX	80+ Bronze	520W	No	 (10)		
+Corsair TX750	Enthusiast	ATX	80+	750W	No	 (10)		
+Raidmax RX-630SS		ATX	-	630W	Semi	 (6)		$33.99
+Cooler Master RS-700-AMBA-D3	Silent Pro M	ATX	80+ Bronze	700W	Full	 (11)		
+OCZ OCZ-ZT650W	ZT	ATX	80+ Bronze	650W	Full	 (11)		$89.99
+Corsair CS650M	CSM	ATX	80+ Gold	650W	Semi	 (20)		$84.99
+Corsair HX650	Professional	ATX	80+ Gold	650W	Semi	 (21)		
+Thermaltake W0319RU	Black Widow	ATX	80+ Bronze	850W	Semi	 (7)		
+Thermaltake TR-600	TR2	ATX	-	600W	No	 (27)		$30.00
+Corsair TX650M	Enthusiast	ATX	80+ Bronze	650W	Semi	 (17)		$241.18
+Rosewill RG630-S12	Green	ATX	80+	630W	No	 (17)		
+Antec EA-750 Green	EarthWatts Green	ATX	80+ Bronze	750W	No	 (4)		
+PC Power & Cooling PPCMK2S950	Silencer Mk II	ATX	80+ Silver	950W	No	 (4)		
+Corsair HX650	Professional	ATX	80+ Gold	650W	Semi	 (4)		
+XFX P1-1050-BEFX	ProSeries	ATX	80+ Gold	1050W	Full	 (4)		$99.99
+SeaSonic X-1250	X Series	ATX	80+ Gold	1250W	Full	 (4)		$188.99
+Silverstone ST75F-P	Strider Plus	ATX	80+ Silver	750W	Full	 (4)		$129.99
+Rosewill LIGHTNING-1300	Lightning	ATX	80+ Gold	1300W	Semi	 (4)		
+Thermaltake W0382RU	TR2	ATX	80+ Bronze	750W	Semi	 (4)		
+Raidmax RX-850AE		ATX	80+ Gold	850W	Semi	 (4)		$119.43
+Raidmax RX-530SS		ATX	-	530W	Semi	 (12)		$40.99
+Corsair RM650	RM	ATX	80+ Gold	650W	Full	 (13)		$86.99
+OCZ OCZ600MXSP	ModXStream Pro	ATX	80+	600W	Semi	 (33)		$213.96
+Cooler Master Silent Pro M2	Silent Pro M2	ATX	80+ Bronze	620W	Semi	 (5)		
+Cooler Master RSA00-SPM2D3-US	Silent Pro M2	ATX	80+ Silver	1000W	Semi	 (5)		
+EVGA 100-N1-0400-L1		ATX	-	400W	No	 (5)		$27.99
+SeaSonic SS-750AM	M12II	ATX	80+ Bronze	750W	Semi	 (5)		$99.99
+SeaSonic SS-650AM	M12II	ATX	80+ Bronze	650W	Semi	 (5)		$167.83
+SeaSonic X-1050	X Series	ATX	80+ Gold	1050W	Full	 (5)		$139.99
+OCZ OCZ500MXSP	ModXStream Pro	ATX	80+	500W	Semi	 (5)		$54.99
+Silverstone ST50F-P	Strider Plus	ATX	80+ Bronze	500W	Full	 (5)		$69.36
+Antec NEO ECO 620C	Neo Eco	ATX	80+ Bronze	620W	No	 (6)		$64.99
+Rosewill RG530-S12	Green	ATX	80+	530W	No	 (7)		$74.82
+OCZ OCZ-ZT550W	ZT	ATX	80+ Bronze	550W	Full	 (7)		$62.99
+OCZ OCZ-ZX850W	ZX	ATX	80+ Gold	850W	Semi	 (9)		$159.99
+Fractal Design FD-PSU-IN2B-650W	Integra R2	ATX	80+ Bronze	650W	No	 (9)		
+Thermaltake SP-750PCBUS	SMART	ATX	80+ Bronze	750W	No	 (10)		$44.99
+Thermaltake SP-650PCBUS	SMART	ATX	80+ Bronze	650W	No	 (12)		$34.99
+Antec EA-380D Green	EarthWatts Green	ATX	80+ Bronze	380W	No	 (9)		$42.99
+Antec NEO ECO 400C	Neo Eco	ATX	80+	400W	No	 (2)		
+Fractal Design FD-PSU-NT3B-800W	Newton R3	ATX	80+ Platinum	800W	Semi	 (2)		$139.99
+Ultra LSP750		ATX	-	750W	No	 (2)		$100.15
+Enermax ETL650AWT	NAXN ADV.	ATX	80+ Bronze	650W	Semi	 (2)		$86.99
+Rosewill PHOTON-550		ATX	80+ Gold	550W	Full	 (2)		$79.99
+Rosewill PHOTON-650		ATX	80+ Gold	650W	Full	 (2)		$69.99
+Cooler Master RS550-AMAAG1-S1	VSM	ATX	80+ Gold	550W	Semi	 (2)		$49.99
+Corsair AX650	Professional Gold	ATX	80+ Gold	650W	Full	 (2)		
+Silverstone ST85F-GS	Strider Gold S	ATX	80+ Gold	850W	Full	 (2)		$149.98
+Corsair TX850 V2	Enthusiast	ATX	80+ Bronze	850W	No	 (2)		
+Rosewill Tachyon-550	Tachyon	ATX	80+ Platinum	550W	Semi	 (2)		
+Rosewill ARC M450		ATX	80+ Bronze	450W	Semi	 (2)		
+Rosewill ARC M650		ATX	80+ Bronze	650W	Semi	 (2)		$49.99
+be quiet! BN600	Dark Power Pro 10	ATX	80+ Gold	550W	Semi	 (2)		
+be quiet! BN601	Dark Power Pro 10	ATX	80+ Gold	650W	Semi	 (2)		$179.99
+be quiet! BN603	Dark Power Pro 10	ATX	80+ Platinum	850W	Semi	 (2)		
+Raidmax RX-1200AE		ATX	80+ Bronze	1200W	Semi	 (2)		$132.98
+Antec HCP-1000	High Current Pro Platinum	ATX	80+ Platinum	1000W	Full	 (2)		$199.99
+Fractal Design FD-PSU-NT3B-600W	Newton R3	ATX	80+ Platinum	600W	Semi	 (2)		$89.99
+Thermaltake PS-TPG-0850DPCGUS-1	Toughpower	ATX	80+ Gold	850W	Full	 (2)		$189.95
+Thermaltake PS-TPG-0850MPCGUS-1		ATX	80+ Gold	850W	Full	 (2)		$79.99
+SeaSonic SS-520FL		ATX	80+ Platinum	520W	Full	 (2)		$172.99
+SeaSonic Platinum-1200(SS-120		ATX	80+ Platinum	1200W	Full	 (2)		$192.99
+Corsair TX650	Enthusiast	ATX	80+ Bronze	650W	No	 (2)		
+XFX P1-650X-XXB9		ATX	80+ Bronze	650W	Semi	 (18)		
+OCZ OCZ-ZT750W	ZT	ATX	80+ Bronze	750W	Full	 (18)		$99.99
+Thermaltake SP-850M	Smart M	ATX	80+ Bronze	850W	Semi	 (16)		$102.99
+PC Power & Cooling PPCMK3S750	Silencer Mk III	ATX	80+ Gold	750W	Semi	 (7)		$159.03
+Rosewill CAPSTONE-750	Capstone	ATX	80+ Gold	750W	No	 (7)		$99.89
+Rosewill CAPSTONE-550	Capstone	ATX	80+ Gold	550W	No	 (7)		
+Antec EA-650 Green	EarthWatts Green	ATX	80+ Bronze	650W	No	 (14)		$66.99
+Antec VP-450		ATX	-	450W	No	 (14)		$29.99
+Rosewill Hive-550	Hive	ATX	80+ Bronze	550W	Semi	 (14)		$55.99
+SeaSonic S12II 620 Bronze	S12II	ATX	80+ Bronze	620W	No	 (18)		$64.99
+Rosewill LIGHTNING-800	Lightning	ATX	80+ Gold	800W	Semi	 (5)		
+Corsair AX1500i	AX1500i	ATX	80+ Titanium	1500W	Full	 (5)		$409.99
+XFX P1-750B-NLG9	ProSeries	ATX	80+ Silver	750W	Semi	 (5)		
+OCZ OCZ-ZX1000W	ZX	ATX	80+ Gold	1000W	Full	 (5)		$179.99
+EVGA SuperNOVA 850		ATX	80+ Bronze	850W	Semi	 (5)		$59.99
+XFX P1-650S-NLB9		ATX	80+ Bronze	650W	No	 (11)		$69.99
+XFX P1-650B-BEFX	XTR	ATX	80+ Gold	650W	Full	 (5)		$86.98
+Cooler Master RSA00-80GAD3-US	Silent Pro Gold	ATX	80+ Gold	1000W	Semi	 (5)		
+Cooler Master RSA00-AMBAJ3-US	Silent Pro M	ATX	80+ Bronze	1000W	Semi	 (5)		
+Corsair GS800	Gaming	ATX	80+ Bronze	800W	No	 (8)		
+Antec BP550 Plus	Basiq Plus	ATX	80+	550W	Semi	 (12)		
+Silverstone SX600-G		SFX	80+ Gold	600W	Full	 (3)		$117.99
+Corsair CS850M		ATX	80+ Gold	850W	Semi	 (3)		$89.99
+Cooler Master RS650-AMAAG1-S1	VSM	ATX	80+ Gold	650W	Semi	 (3)		$59.99
+Rosewill FORTRESS-650	Fortress	ATX	80+ Platinum	650W	No	 (3)		$138.40
+Rosewill RD700	Stallion	ATX	-	700W	No	 (3)		$79.88
+NZXT HALE82N 750W	HALE82N	ATX	80+ Bronze	750W	No	 (3)		
+Thermaltake TPD-0550M	Toughpower	ATX	80+ Gold	550W	Semi	 (3)		$44.00
+SeaSonic SS-760XP		ATX	80+ Platinum	760W	Full	 (3)		$159.99
+EVGA SuperNOVA 1200	SuperNOVA P2	ATX	80+ Platinum	1200W	Full	 (3)		$219.99
+PC Power & Cooling PPCMK3S500	Silencer MK III	ATX	80+ Bronze	500W	Semi	 (3)		$92.00
+Rosewill RBR1000-M		ATX	80+ Bronze	1000W	Semi	 (3)		$69.99
+EVGA SuperNOVA 1000		ATX	80+ Platinum	1000W	Full	 (3)		$179.99
+SeaSonic SS-400FL2	X Series	ATX	80+ Platinum	400W	Full	 (3)		$119.99
+OCZ OCZ750FTY	Fatal1ty	ATX	80+ Bronze	750W	Semi	 (13)		$129.03
+EVGA SuperNOVA 1000		ATX	80+ Gold	1000W	Full	 (6)		$148.99
+Corsair TX650	Enthusiast	ATX	80+	650W	No	 (10)		
+Antec NEO ECO 520C	Neo Eco	ATX	80+ Bronze	520W	No	 (10)		
+Corsair TX750	Enthusiast	ATX	80+	750W	No	 (10)		
+Raidmax RX-630SS		ATX	-	630W	Semi	 (6)		$33.99
+Cooler Master RS-700-AMBA-D3	Silent Pro M	ATX	80+ Bronze	700W	Full	 (11)		
+OCZ OCZ-ZT650W	ZT	ATX	80+ Bronze	650W	Full	 (11)		$89.99
+Corsair CS650M	CSM	ATX	80+ Gold	650W	Semi	 (20)		$84.99
+Corsair HX650	Professional	ATX	80+ Gold	650W	Semi	 (21)		
+Thermaltake W0319RU	Black Widow	ATX	80+ Bronze	850W	Semi	 (7)		
+Thermaltake TR-600	TR2	ATX	-	600W	No	 (27)		$30.00
+Corsair TX650M	Enthusiast	ATX	80+ Bronze	650W	Semi	 (17)		$241.18
+Rosewill RG630-S12	Green	ATX	80+	630W	No	 (17)		
+Antec EA-750 Green	EarthWatts Green	ATX	80+ Bronze	750W	No	 (4)		
+PC Power & Cooling PPCMK2S950	Silencer Mk II	ATX	80+ Silver	950W	No	 (4)		
+Corsair HX650	Professional	ATX	80+ Gold	650W	Semi	 (4)		
+XFX P1-1050-BEFX	ProSeries	ATX	80+ Gold	1050W	Full	 (4)		$99.99
+SeaSonic X-1250	X Series	ATX	80+ Gold	1250W	Full	 (4)		$188.99
+Silverstone ST75F-P	Strider Plus	ATX	80+ Silver	750W	Full	 (4)		$129.99
+Rosewill LIGHTNING-1300	Lightning	ATX	80+ Gold	1300W	Semi	 (4)		
+Thermaltake W0382RU	TR2	ATX	80+ Bronze	750W	Semi	 (4)		
+Raidmax RX-850AE		ATX	80+ Gold	850W	Semi	 (4)		$119.43
+Raidmax RX-530SS		ATX	-	530W	Semi	 (12)		$40.99
+Corsair RM650	RM	ATX	80+ Gold	650W	Full	 (13)		$86.99
+OCZ OCZ600MXSP	ModXStream Pro	ATX	80+	600W	Semi	 (33)		$213.96
+Cooler Master Silent Pro M2	Silent Pro M2	ATX	80+ Bronze	620W	Semi	 (5)		
+Cooler Master RSA00-SPM2D3-US	Silent Pro M2	ATX	80+ Silver	1000W	Semi	 (5)		
+EVGA 100-N1-0400-L1		ATX	-	400W	No	 (5)		$27.99
+SeaSonic SS-750AM	M12II	ATX	80+ Bronze	750W	Semi	 (5)		$99.99
+SeaSonic SS-650AM	M12II	ATX	80+ Bronze	650W	Semi	 (5)		$167.83
+SeaSonic X-1050	X Series	ATX	80+ Gold	1050W	Full	 (5)		$139.99
+OCZ OCZ500MXSP	ModXStream Pro	ATX	80+	500W	Semi	 (5)		$54.99
+Silverstone ST50F-P	Strider Plus	ATX	80+ Bronze	500W	Full	 (5)		$69.36
+Antec NEO ECO 620C	Neo Eco	ATX	80+ Bronze	620W	No	 (6)		$64.99
+Rosewill RG530-S12	Green	ATX	80+	530W	No	 (7)		$74.82
+OCZ OCZ-ZT550W	ZT	ATX	80+ Bronze	550W	Full	 (7)		$62.99
+OCZ OCZ-ZX850W	ZX	ATX	80+ Gold	850W	Semi	 (9)		$159.99
+Fractal Design FD-PSU-IN2B-650W	Integra R2	ATX	80+ Bronze	650W	No	 (9)		
+Thermaltake SP-750PCBUS	SMART	ATX	80+ Bronze	750W	No	 (10)		$44.99
+Thermaltake SP-650PCBUS	SMART	ATX	80+ Bronze	650W	No	 (12)		$34.99
+Antec EA-380D Green	EarthWatts Green	ATX	80+ Bronze	380W	No	 (9)		$42.99
+Antec NEO ECO 400C	Neo Eco	ATX	80+	400W	No	 (2)		
+Fractal Design FD-PSU-NT3B-800W	Newton R3	ATX	80+ Platinum	800W	Semi	 (2)		$139.99
+Ultra LSP750		ATX	-	750W	No	 (2)		$100.15
+Enermax ETL650AWT	NAXN ADV.	ATX	80+ Bronze	650W	Semi	 (2)		$86.99
+Rosewill PHOTON-550		ATX	80+ Gold	550W	Full	 (2)		$79.99
+Rosewill PHOTON-650		ATX	80+ Gold	650W	Full	 (2)		$69.99
+Cooler Master RS550-AMAAG1-S1	VSM	ATX	80+ Gold	550W	Semi	 (2)		$49.99
+Corsair AX650	Professional Gold	ATX	80+ Gold	650W	Full	 (2)		
+Silverstone ST85F-GS	Strider Gold S	ATX	80+ Gold	850W	Full	 (2)		$149.98
+Corsair TX850 V2	Enthusiast	ATX	80+ Bronze	850W	No	 (2)		
+Rosewill Tachyon-550	Tachyon	ATX	80+ Platinum	550W	Semi	 (2)		
+Rosewill ARC M450		ATX	80+ Bronze	450W	Semi	 (2)		
+Rosewill ARC M650		ATX	80+ Bronze	650W	Semi	 (2)		$49.99
+be quiet! BN600	Dark Power Pro 10	ATX	80+ Gold	550W	Semi	 (2)		
+be quiet! BN601	Dark Power Pro 10	ATX	80+ Gold	650W	Semi	 (2)		$179.99
+be quiet! BN603	Dark Power Pro 10	ATX	80+ Platinum	850W	Semi	 (2)		
+Raidmax RX-1200AE		ATX	80+ Bronze	1200W	Semi	 (2)		$132.98
+Antec HCP-1000	High Current Pro Platinum	ATX	80+ Platinum	1000W	Full	 (2)		$199.99
+Fractal Design FD-PSU-NT3B-600W	Newton R3	ATX	80+ Platinum	600W	Semi	 (2)		$89.99
+Thermaltake PS-TPG-0850DPCGUS-1	Toughpower	ATX	80+ Gold	850W	Full	 (2)		$189.95
+Thermaltake PS-TPG-0850MPCGUS-1		ATX	80+ Gold	850W	Full	 (2)		$79.99
+SeaSonic SS-520FL		ATX	80+ Platinum	520W	Full	 (2)		$172.99
+SeaSonic Platinum-1200(SS-120		ATX	80+ Platinum	1200W	Full	 (2)		$192.99
+Corsair TX650	Enthusiast	ATX	80+ Bronze	650W	No	 (2)		
+Cooler Master V450		ATX	80+ Gold	450W	Semi	 (1)		
+Silverstone SST-ST1200-G Evolution	Strider Gold Evolution	ATX	80+ Gold	1200W	Full	 (1)		$249.99
+Rosewill PHOTON-1050		ATX	80+ Gold	1050W	Full	 (1)		$89.99
+CoolMax ZU-500B		ATX	80+ Bronze	500W	Semi	 (1)		$49.99
+CoolMax ZX-500		ATX	80+	500W	No	 (1)		$33.99
+Cougar COUGAR-SX850		ATX	80+ Silver	850W	Full	 (1)		
+be quiet! PURE POWER L8 300W		ATX	80+ Bronze	300W	No	 (1)		
+Fractal Design Integra R2 500W	Integra R2	ATX	80+ Bronze	500W	No	 (1)		
+Rosewill HERCULES-1600		ATX	80+ Silver	1600W	Semi	 (1)		$299.99
+Rosewill Quark 550		ATX	80+ Platinum	550W	Full	 (1)		$59.99
+SeaSonic S12G-750		ATX	80+ Gold	750W	No	 (1)		$98.98
+NZXT HALE82N 650W	HALE82N	ATX	80+ Bronze	650W	No	 (1)		
+Logisys PS480D-BK		ATX	-	480W	No	 (1)		$13.99
+PC Power & Cooling PPCS500D	Silencer	ATX	80+	500W	No	 (1)		
+Ultra U12-42467		ATX	80+ Bronze	750W	Semi	 (1)		
+be quiet! PURE POWER L7 | 530W		ATX	80+	530W	No	 (1)		
+XFX P1-550G-TS3X	TS	ATX	80+ Gold	550W	No	 (1)		$74.99
+be quiet! BN227	POWER 2	SFX	80+ Bronze	400W	No	 (1)		
+Antec EA-650 Platinum	EarthWatts Platinum	ATX	80+ Platinum	650W	No	 (1)		$96.99
+Rosewill Tachyon-750	Tachyon	ATX	80+ Platinum	750W	Semi	 (1)		
+FSP Group Raider 650		ATX	80+ Bronze	650W	No	 (1)		$72.99
+EVGA SuperNOVA 750	SuperNOVA P2	ATX	80+ Platinum	750W	Full	 (1)		$139.99
+EVGA SuperNOVA 850	SuperNOVA P2	ATX	80+ Platinum	850W	Full	 (1)		$139.99
+Fractal Design FD-PSU-IN3B-550W	Integra M	ATX	80+ Bronze	550W	Semi	 (1)		$77.98
+Enermax ERX430AWT	REVOLUTION X't	ATX	80+ Gold	430W	Semi	 (1)		$77.99
+Raidmax RX-735AP		ATX	80+ Bronze	735W	Semi	 (1)		$70.99
+OCZ OCZ700SXS	StealthXStream	ATX	-	700W	No	 (1)		
+be quiet! PURE POWER L8 600W		ATX	80+ Bronze	600W	No	 (1)		
+Fractal Design Newton R3 600W	Newton R3	ATX	80+ Platinum	600W	Semi	 (1)		
+BitFenix BFP-FUR-750G-KSXK-RP	Fury	ATX	80+ Gold	750W	Semi	 (1)		$94.99
+Cooler Master RS850-AMBAJ3-US	Silent Pro M	ATX	80+ Bronze	850W	Semi	 (1)		
+Fractal Design FD-PSU-TS2B-650W	Tesla R2	ATX	80+ Gold	650W	No	 (1)		$59.99
+Enermax ENP500AWT		ATX	80+	500W	No	 (1)		
+Silverstone ST60F-ESB	Strider Essential	ATX	80+ Bronze	600W	No	 (1)		$62.97
+NZXT HALE90-750-M	HALE 90	ATX	80+ Gold	750W	Full	 (1)		
+Rosewill Glacier 600M		ATX	80+ Bronze	600W	Semi	 (1)		$64.99
+Rosewill Tachyon-1000	Tachyon	ATX	80+ Platinum	1000W	Semi	 (1)		
+Raidmax RX-500AF-B	Cobra	ATX	80+ Bronze	500W	No	 (1)		$48.99
+Thermaltake TPG-1200M	Toughpower Grand	ATX	80+ Gold	1200W	No	 (1)		$214.99
+Sentey SDP650-SS		ATX	80+	650W	No	 (1)		
+NZXT HALE90-1000-M	HALE 90	ATX	80+ Gold	1000W	Full	 (1)		
+Kingwin LZP-550	Lazer Platinum	ATX	80+ Platinum	550W	Semi	 (1)		
+Sentey ERP-700-SS		ATX	-	700W	No	 (1)		
+SeaSonic X760 Gold	X Series	ATX	80+ Gold	760W	Full	 (1)		
+Thermaltake TPX-1475M	Toughpower XT	ATX	80+ Gold	1475W	Semi	 (1)		$319.99
+Thermaltake TPX-1275M	Toughpower XT	ATX	80+ Platinum	1275W	Semi	 (1)		$340.39
+Cougar COUGAR-A760		ATX	80+ Bronze	760W	No	 (1)		$66.99
+Raidmax RX-635AP		ATX	80+ Bronze	635W	Semi	 (1)		$63.99
+OCZ OCZZ850M	Z Series Gold	ATX	80+ Gold	850W	Semi	 (1)		
+Antec EDGE 650		ATX	80+ Gold	650W	Full	 (1)		$89.99
+Rosewill CAPSTONE-650	Capstone	ATX	80+ Gold	650W	No	 (1)		
+Diablotek PSUL675		ATX	-	675W	No	 (1)		
+FSP Group Raider S 450		ATX	80+ Silver	450W	No	 (1)		$56.13
+SeaSonic SS-460FL Active PFC F3	X Series Fanless	ATX	80+ Platinum	460W	Full	 (1)		$110.98
+Rosewill PHOTON-1200		ATX	80+ Gold	1200W	Full	 (1)		$109.99
+Cooler Master RS-D00-SPHA-D3	Silent Pro Hybrid	ATX	80+ Gold	1300W	Full	 (1)		
+Cooler Master RS-A50-SPHA-D3	Silent Pro Hybrid	ATX	80+ Gold	1050W	Full	 (1)		
+Topower ZU-750W		ATX	-	750W	No	 (1)		$93.73
+XFX P1-650G-TS3X	TS	ATX	80+ Gold	650W	No	 (1)		$39.99
+Thermaltake TPG-700M	Toughpower Grand	ATX	80+ Platinum	700W	Semi	 (1)		
+Super Flower SF-550P14XE (HX)	Golden Green HX	ATX	80+ Gold	550W	No	 (1)		
+Corsair G700	Gaming	ATX	80+	700W	No	 (1)		
+Azza PSAZ-650B14		ATX	-	650W	No	 (1)		
+Thermaltake TP-1200M	Toughpower	ATX	80+ Silver	1200W	Semi	 (1)		
+Silverstone ST65EF	Element	ATX	80+ Bronze	650W	No	 (1)		$84.00
+PC Power & Cooling PPCMK3S600	Silencer MK III	ATX	80+ Bronze	600W	Semi	 (1)		$103.60
+LEPA G1000-MA		ATX	80+ Gold	1000W	Semi	 (1)		
+LEPA G650-MAS	G	ATX	80+ Gold	650W	Semi	 (1)		$105.24
+Corsair TX850	Enthusiast	ATX	80+	850W	No	 (1)		
+PC Power & Cooling PPCS760	Silencer	ATX	80+ Silver	760W	No	 (1)		$103.28
+Super Flower SF-1000F14MP Black	Leadex Platinum	ATX	80+ Platinum	1000W	Full	 (1)		
+Super Flower SF-1000F14MP White	Leadex Platinum	ATX	80+ Platinum	1000W	Full	 (1)		
+Thermaltake TP-1500M	Toughpower	ATX	80+ Silver	1500W	Semi	 (1)		
+Cougar PX700V2	POWERX	ATX	80+ Bronze	700W	No	 (1)		$75.98
+EVGA SuperNOVA 1600	SuperNOVA G2	ATX	80+ Gold	1600W	Full	 (1)		$304.99
+Apevia ATX-IB680W-GN		ATX	-	680W	No	 (1)		$52.97
+FSP Group AU-1200PRO		ATX	80+ Gold	1200W	No	 (1)		$214.99
+Cooler Master RS-600-AMBA-D3	Silent Pro M	ATX	80+	600W	Full	 (1)		
+Corsair VS350	VS	ATX	-	350W	No	 (1)		
+be quiet! STRAIGHT POWER E9 680W / CM		ATX	80+ Gold	680W	Semi	 (1)		
+Thermaltake TP-1000M	Toughpower	ATX	80+ Silver	1000W	Semi	 (1)		$254.41
+Corsair TX950	Enthusiast	ATX	80+ Bronze	950W	No	 (1)		
+Diablotek PHD350		ATX	-	350W	No	 (1)		
+Antec EA-750 Platinum		ATX	80+ Platinum	750W	No	 (1)		$102.99
+Silverstone ST1500	Strider	ATX	80+ Silver	1500W	No	 (1)		$275.98
+Antec HCP-1300 Platinum		ATX	80+ Platinum	1300W	Full	 (1)		$225.99
+Silverstone SST-ST1000-G Evolution	Strider Gold Evolution	ATX	80+ Gold	1000W	Semi	 (1)		$194.99
+Thermaltake TPG-650M	Toughpower Grand	ATX	80+ Gold	650W	Semi	 (1)		$155.60
+SeaSonic SS-400FL	X Series	ATX	80+ Gold	400W	Full	 (1)		
+Enermax EPM600AWT		ATX	80+ Platinum	600W	Semi	 (1)		$135.83
+FSP Group PT-450M	AURUM 92+	ATX	80+ Platinum	450W	Semi	 (1)		$99.99
+Antec BP350	Basiq	ATX	-	350W	No	 (6)		$26.88
+CoolMax ZU-700B		ATX	80+ Bronze	700W	Semi	 (3)		$65.99
+CoolMax ZU-800B		ATX	80+ Bronze	800W	Semi	 (3)		$76.99
+Corsair G800	Gaming	ATX	80+	800W	No	 (3)		
+Cooler Master RSC00-80GAD3-US	Silent Pro Gold	ATX	80+ Gold	1200W	Semi	 (3)		
+EVGA SuperNOVA 850		ATX	80+ Gold	850W	Full	 (4)		$132.76
+Thermaltake SP-750M	Smart M	ATX	80+ Bronze	750W	Semi	 (4)		
+Cooler Master RS-460-PSAR-I3	Elite Power	ATX	-	460W	No	 (4)		$32.50
+Cooler Master G650M		ATX	80+ Bronze	650W	Semi	 (5)		$67.99
+Silverstone ST60F-PS	Strider	ATX	80+ Silver	600W	Full	 (2)		$116.15
+Apevia ATX-CB700W		ATX	-	700W	No	 (2)		$38.99
+Fractal Design FD-PSU-TS2B-800W	Tesla R2	ATX	80+ Gold	800W	No	 (2)		
+Antec HCP-1200	High Current Pro	ATX	80+ Gold	1200W	No	 (2)		
+Thermaltake TPG-1050M	Toughpower Grand	ATX	80+ Gold	1050W	No	 (2)		$175.65
+Raidmax RX-1000AE		ATX	80+ Gold	1000W	Semi	 (2)		
+NZXT HALE90 V2 1000W	HALE90 V2	ATX	80+ Gold	1000W	Full	 (2)		
+SeaSonic SS-300ES Bronze		ATX	80+ Bronze	300W	No	 (2)		$41.98
+Antec TP-550C	TruePower Classic	ATX	80+ Gold	550W	No	 (2)		
+LEPA N500-SA	N	ATX	-	500W	No	 (2)		$34.99
+Xion AXP-1000K14XE		ATX	80+ Bronze	1000W	Semi	 (2)		
+NZXT HALE82-850-M	HALE82	ATX	80+ Bronze	850W	Semi	 (2)		
+Cooler Master RS-400-PSAR-J3	Elite Power	ATX	-	400W	No	 (2)		
+be quiet! PURE POWER L8 350W		ATX	80+ Bronze	350W	No	 (2)		
+SeaSonic SS-350ET Bronze		ATX	80+ Bronze	350W	No	 (2)		$38.99
+Rosewill RD500-2DB	Stallion	ATX	-	500W	No	 (5)		$49.89
+Rosewill PHOTON-750		ATX	80+ Gold	750W	Full	 (3)		$54.99
+XFX P1-850X-XXB9		ATX	80+ Bronze	850W	Semi	 (3)		
+Rosewill RD400-2-SB	Stallion	ATX	-	400W	No	 (3)		$29.99
+Cooler Master RS550-PCARE3-US	eXtreme Power	ATX	-	550W	No	 (3)		$48.99
+Thermaltake TR-700	TR2	ATX	-	700W	No	 (3)		$62.99
+SeaSonic X660 Gold	X Series	ATX	80+ Gold	660W	Full	 (3)		
+CoolMax V-400		ATX	-	400W	No	 (3)		$19.99
+Thermaltake TR-800P	TR2	ATX	80+	800W	No	 (3)		
+Raidmax RX-700AC-B	Cobra	ATX	80+ Bronze	700W	No	 (2)		$59.99
+NZXT HALE82 V2 700W	HALE82 V2	ATX	80+ Bronze	700W	Full	 (2)		$79.99
+Thermaltake SP-530P	Smart	ATX	80+	530W	No	 (2)		
+Azza PSAZ-500B12		ATX	-	500W	No	 (2)		
+OCZ OCZ-FTY750W	Fatal1ty	ATX	80+ Bronze	750W	Full	 (1)		
+Antec EDG750		ATX	80+ Gold	750W	Full	 (1)		$112.99
+FSP Group AURUM S 400W		ATX	80+ Gold	400W	No	 (1)		$60.98
+Antec EA-450	EarthWatts Platinum	ATX	80+ Platinum	450W	No	 (1)		
+Antec EA-550	EarthWatts Platinum	ATX	80+ Platinum	550W	No	 (1)		$95.98
+CoolMax CU-700B		ATX	-	700W	Semi	 (1)		$49.98
+FSP Group Raider S 650		ATX	80+ Silver	650W	No	 (1)		$68.13
+Rosewill RD600-M		ATX	-	600W	Semi	 (1)		$59.89
+Thermaltake W0070RUC	TR2	ATX	-	430W	No	 (1)		$29.99
+Rosewill ARC 450		ATX	80+ Bronze	450W	No	 (1)		$44.99
+Corsair CX400	Builder	ATX	80+	400W	No	 (1)		
+be quiet! BN604	Dark Power Pro 10	ATX	80+ Gold	1000W	Semi	 (1)		$259.99
+Antec EA-500 Green	EarthWatts Green	ATX	80+ Bronze	500W	No	 (1)		$62.95
+Raidmax RX-700GH	Vampire	ATX	80+ Gold	700W	Semi	 (1)		$39.99
+Fractal Design Integra R2 650W	Integra R2	ATX	80+ Bronze	650W	No	 (1)		
+Fractal Design Tesla R2 650W	Tesla R2	ATX	80+ Gold	650W	No	 (1)		
+BitFenix BFP-FUR-550G-KSXK-RP	Fury	ATX	80+ Gold	550W	Semi	 (1)		$69.99
+BitFenix BFP-FUR-650G-KSXK-RP	Fury	ATX	80+ Gold	650W	Semi	 (1)		$99.98
+Fractal Design FD-PSU-IN2B-500W	Integra R2	ATX	80+ Bronze	500W	No	 (1)		$65.98
+SeaSonic S12G-550	S12G	ATX	80+ Gold	550W	No	 (1)		$85.98
+FSP Group ZEN 400		ATX	80+ Bronze	400W	No	 (1)		
+be quiet! BN623		ATX	80+ Bronze	500W	No	 (1)		$74.99
+Cooler Master RS-475-PCAR	Extreme 2	ATX	-	475W	No	 (1)		
+Inwin IRP-COM1200 II	Commander II	ATX	80+ Bronze	1200W	Full	 (1)		
+Enermax ENP450AST		ATX	-	450W	No	 (1)		$36.23
+Enermax ENM750AWT		ATX	80+ Bronze	750W	Semi	 (1)		
+Thermaltake PS-TPD-0650MPCGUS-1		ATX	80+ Gold	650W	Semi	 (1)		$71.99
+SeaSonic SS-400ET Bronze		ATX	80+ Bronze	400W	No	 (1)		$44.99
+Thermaltake TPX-1375M	Toughpower XT	ATX	80+ Gold	1375W	Semi	 (1)		$355.29
+Cougar COUGAR-A560		ATX	80+ Bronze	560W	No	 (1)		$59.98
+Raidmax RX-450K		ATX	-	450W	No	 (1)		$31.98
+Raidmax RX-600AF		ATX	80+ Bronze	600W	No	 (1)		$45.90
+Raidmax RX-500AF		ATX	80+ Bronze	500W	No	 (1)		
+Corsair G600	Gaming	ATX	80+	600W	No	 (1)		
+Kingwin STR-500		ATX	80+ Platinum	500W	Semi	 (1)		$148.99
+Cooler Master RS450-ACAAD3-US	GX	ATX	80+ Bronze	450W	No	 (1)		$136.48
+Cooler Master RSA00-SPPAD3-US	Silent Pro Platinum	ATX	80+ Platinum	1000W	Semi	 (1)		
+Cougar SL500		ATX	-	500W	No	 (1)		$44.88
+Enermax ETL650AWT-M		ATX	80+ Bronze	650W	Semi	 (1)		$29.00
+Raidmax RX-400AF-B	Cobra	ATX	80+ Bronze	400W	No	 (1)		
+Thermaltake TRX-650M	TR2	ATX	-	650W	Full	 (1)		
+LEPA G1600-MA	G Series	ATX	80+ Gold	1600W	Full	 (1)		$219.99
+LEPA B850-MA		ATX	80+ Bronze	850W	Semi	 (1)		$135.99
+Silverstone ST1000-G	Strider Gold	ATX	80+ Gold	1000W	Full	 (1)		$201.99
+Rosewill ARC 750		ATX	80+ Bronze	750W	No	 (1)		$74.99
+Antec BP430	Basiq	ATX	80+	430W	No	 (1)		$34.99
+Thermaltake PS-TPD-0850MPCGUS-1		ATX	80+ Gold	850W	Semi	 (1)		$69.99
+Cougar RX600		ATX	80+	600W	No	 (1)		$65.98
+Antec EA-430D Green	EarthWatts Green	ATX	80+ Bronze	430W	No	 (1)		
+Antec TP-750 Blue	TruePower New	ATX	80+ Bronze	750W	Full	 (1)		
+Apevia ATX-AQ700W-BK		ATX	-	700W	No	 (1)		$46.30
+Apevia ATX-WA900W		ATX	-	900W	No	 (1)		$78.98
+HEC Zephyr MX-750		ATX	80+ Bronze	750W	No	 (1)		
+Topower ZU-500W		ATX	-	500W	No	 (1)		$28.99
+CoolMax V-600		ATX	-	600W	No	 (1)		$31.99
+be quiet! POWER ZONE 850W CM	POWER ZONE	ATX	80+ Bronze	850W	Full	 (1)		
+CoolMax CUL-750B		ATX	-	750W	Semi	 (1)		$59.99
+Super Flower SF-1200F14MP White	Leadex Platinum	ATX	80+ Platinum	1200W	Full	 (1)		
+Corsair HX1000	Professional	ATX	80+	1000W	Semi	 (1)		
+OCZ OCZZ1000M	Z Series Gold	ATX	80+ Gold	1000W	Semi	 (1)		$148.58
+Thermaltake PS-TPG-0750DPCGUS-G		ATX	80+ Gold	750W	Full	 (1)		$138.99
+SeaSonic S12II 430B	S12II	ATX	80+ Bronze	430W	No	 (1)		$53.99
+Cooler Master RS550-PCARN1-US	Elite V2	ATX	-	550W	No	 (5)		$29.99
+Cooler Master RS600-PCARE3-US	eXtreme Power	ATX	-	600W	No	 (3)		$56.10
+OCZ OCZ600SXS2	StealthXstream II	ATX	80+	600W	No	 (2)		
+NZXT HALE82-650-M	HALE82	ATX	80+ Bronze	650W	Semi	 (2)		
+XFX P1850SNLB9		ATX	80+ Bronze	850W	No	 (2)		$89.99
+Corsair VS550	VS	ATX	-	550W	No	 (2)		
+Corsair VS450	VS	ATX	-	450W	No	 (2)		
+Rosewill RX750-S-B		ATX	80+	750W	No	 (2)		
+XFX PRO750W (P1-750S-NLB9)	Core Edition	ATX	80+ Bronze	750W	No	 (3)		$84.99
+Diablotek PSDA500		ATX	-	500W	No	 (3)		

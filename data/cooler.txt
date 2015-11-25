@@ -1,0 +1,500 @@
+Noctua NH-D14 900 - 1200 RPM  12.6 - 19.8 dbA  (95)   $74.99 
+Noctua NH-D15 300 - 1500 RPM  19.2 - 24.6 dbA  (23)   $89.99 
+Noctua NH-U12S  300 - 1500 RPM  18.6 - 22.4 dbA  (24)   $64.88 
+Swiftech H240-X 700 - 1800 RPM  8.3 - 28.8 dbA   (10)   $149.99
+Corsair H110  1500 RPM  35.0 dbA   (67)   $114.99
+Corsair H100i 2700 RPM  37.7 dbA   (659)    $149.99
+Cooler Master Hyper 212 EVO 600 - 2000 RPM  9.0 - 36.0 dbA   (984)    $19.99 
+Noctua NH-U9B SE2 1000 - 1600 RPM 7.9 - 17.6 dbA   (21)   $79.98 
+be quiet! Dark Rock Pro 3 1400 - 1700 RPM 13.2 - 26.1 dbA  (20)   $89.90 
+Cooler Master Hyper 212 Plus  600 - 2000 RPM  13.0 - 32.0 dbA  (131)    $19.98 
+Corsair H105  800 - 2700 RPM  37.7 dbA   (71)   $94.99 
+Noctua NH-L9i 2500 - 2999 RPM N/A  (23)   $44.33 
+NZXT Kraken X60 800 - 2000 RPM  21.0 - 37.0 dbA  (35)    
+Enermax ETS-T40-TB  800 - 1800 RPM  10.0 - 21.0 dbA  (11)    
+NZXT Kraken X40 800 - 2000 RPM  21.0 - 37.0 dbA  (13)    
+NZXT Kraken X41 800 - 2000 RPM  20.0 - 37.0 dbA  (17)   $85.00 
+Noctua NH-U9S 400 - 2000 RPM  16.3 - 22.8 dbA  (5)    $59.95 
+Cooler Master Seidon 120M 600 - 2400 RPM  19.0 - 40.0 dbA  (43)   $69.99 
+NZXT Kraken X61 800 - 2000 RPM  20.0 - 37.0 dbA  (64)   $108.99
+Phanteks PH-TC14PE_BK 900 - 1200 RPM  13.4 - 19.0 dbA  (22)   $69.99 
+Corsair H75 2000 RPM  31.4 dbA   (35)   $69.99 
+Corsair H100  1300 - 2500 RPM 22.0 - 39.0 dbA  (47)    
+Noctua NH-L9a 2500 RPM  N/A  (7)    $42.45 
+Phanteks PH-TC14PE  700 - 1200 RPM  13.4 - 19.0 dbA  (9)    $64.99 
+Cooler Master Nepton 240M 2400 RPM  6.5 - 27.0 dbA   (9)    $129.99
+Corsair H60 2000 RPM  30.9 dbA   (138)    $49.99 
+Corsair H55 1700 RPM  30.3 dbA   (67)   $54.99 
+Cooler Master Hyper 212X  600 - 2000 RPM  9.0 - 36.0 dbA   (12)    
+Thermaltake Water 3.0 Performer 1000 - 2000 RPM 20.0 dbA   (4)     
+Corsair H110i GTX 2000 RPM  40.0 dbA   (4)    $133.88
+Phanteks PH-TC12DX_BL 600 - 1800 RPM  21.9 - 27.6 dbA  (4)     
+Zalman CNPS9900MAX-B  900 - 1700 RPM  18.0 - 30.0 dbA  (20)   $42.50 
+Swiftech H220-X 800 - 1800 RPM  16.0 - 33.0 dbA  (8)    $179.00
+be quiet! Shadow Rock 2 1600 RPM  15.3 - 25.4 dbA  (6)    $49.90 
+Phanteks PH-TC12DX_BK 600 - 1800 RPM  21.9 - 27.6 dbA  (13)   $49.99 
+Cooler Master Hyper TX3 800 - 2800 RPM  17.0 - 35.0 dbA  (82)   $17.00 
+Noctua NH-U14S  300 - 1500 RPM  19.2 - 24.6 dbA  (23)   $69.89 
+Xigmatek Dark Knight II SD1283  1000 - 2200 RPM 30.1 dbA   (17)    
+Corsair H80i  2700 RPM  37.7 dbA   (158)     
+Arctic Cooling Freezer 7 Pro Rev.2  900 - 2500 RPM  N/A  (28)   $17.00 
+Deepcool GAMMAXX 400  900 - 1500 RPM  21.4 - 32.1 dbA  (7)    $29.89 
+Noctua NH-U12P SE2  900 - 1300 RPM  12.6 - 19.8 dbA  (7)    $69.98 
+Arctic Cooling ACFZ13 600 - 2000 RPM  N/A  (7)    $22.95 
+be quiet! Dark Rock 3 400 - 1400 RPM  8.4 - 21.1 dbA   (7)    $63.99 
+Noctua NH-L12 1200 - 1600 RPM 13.1 - 22.4 dbA  (10)   $60.89 
+CRYORIG H7  330 - 1600 RPM  1.0 - 25.0 dbA   (10)   $34.50 
+Corsair H90 1500 RPM  35.0 dbA   (30)   $89.99 
+Cooler Master Seidon 120V 2400 RPM  19.0 - 40.0 dbA  (58)   $99.99 
+Cooler Master Glacer 240L 2400 RPM  19.0 - 40.3 dbA  (5)    $97.89 
+Corsair H60 - -  (38)   $86.53 
+Corsair H80 1300 - 2500 RPM 22.0 - 39.0 dbA  (26)    
+Zalman CNPS5X Performa  1400 - 2800 RPM 20.0 - 32.0 dbA  (27)   $14.45 
+Corsair H100i GTX 2435 RPM  37.7 dbA   (33)   $99.99 
+Deepcool CAPTAIN 360  600 - 2200 RPM  17.6 - 39.3 dbA  (3)    $100.98
+be quiet! Dark Rock 2 1300 RPM  8.7 - 21.2 dbA   (3)     
+CRYORIG H5 Universal  700 - 1300 RPM  20.0 - 24.0 dbA  (3)    $46.99 
+CRYORIG R1 Universal  700 - 1300 RPM  20.0 - 25.0 dbA  (3)    $89.99 
+NZXT Respire T40  1300 - 1800 RPM 26.5 - 34.0 dbA  (9)     
+be quiet! Shadow Rock Slim  400 - 1400 RPM  11.5 - 23.7 dbA  (9)    $69.99 
+Rosewill RCX-ZAIO-92  600 - 2500 RPM  14.5 - 25.0 dbA  (9)    $24.99 
+Zalman CNPS8900 Quiet 1000 - 1500 RPM 19.0 - 25.0 dbA  (6)    $38.99 
+Cooler Master Nepton 140XL  2000 RPM  21.0 - 39.0 dbA  (6)    $79.99 
+Noctua NH-C14 750 - 1200 RPM  10.1 - 19.6 dbA  (6)    $71.88 
+Swiftech H220 1200 - 3000 RPM 16.0 - 33.0 dbA  (10)    
+Cooler Master Seidon 120XL  600 - 2400 RPM  19.0 - 40.0 dbA  (6)     
+Cooler Master Hyper TX3 Evo 800 - 2200 RPM  N/A  (11)    
+Zalman CNPS9500 AT  1300 - 2650 RPM 18.0 - 27.5 dbA  (7)    $34.99 
+Noctua NH-D14 SE2011  900 - 1300 RPM  12.6 - 19.8 dbA  (8)    $71.79 
+NZXT Kraken X31 800 - 2000 RPM  18.0 - 34.0 dbA  (9)    $62.90 
+Corsair H80i GT 2435 RPM  37.7 dbA   (9)    $79.99 
+Cooler Master Nepton 280L 2000 RPM  21.0 - 39.0 dbA  (9)    $99.99 
+be quiet! Dark Rock Pro 2 1500 - 1700 RPM 13.5 - 26.4 dbA  (4)     
+Noctua NH-C12P SE14 750 - 1200 RPM  10.1 - 19.6 dbA  (4)    $79.98 
+LEPA AquaChanger 240  500 - 2300 RPM  14.0 - 35.0 dbA  (4)    $66.30 
+Cooler Master V8  800 - 1800 RPM  17.0 - 21.0 dbA  (4)     
+Zalman CNPS9700 LED 1250 - 2800 RPM 19.5 - 35.0 dbA  (4)     
+NZXT HAVIK 140  1200 RPM  25.0 dbA   (11)    
+Corsair H50 1700 RPM  30.3 dbA   (14)   $59.99 
+Intel BXRTS2011LC 2200 RPM  N/A  (5)     
+Cooler Master Seidon 240M 600 - 2400 RPM  19.0 - 40.0 dbA  (20)   $79.99 
+Enermax ETS-T40-W 2200 RPM  31.2 dbA   (6)     
+Thermaltake Water 2.0 Pro 1200 - 2000 RPM 10.0 - 27.4 dbA  (6)     
+Cooler Master Hyper 103 800 - 2200 RPM  17.0 - 30.0 dbA  (6)    $62.98 
+Corsair H50 1700 RPM  30.3 dbA   (6)     
+Xigmatek GAIA SD1283  800 - 1500 RPM  16.0 - 24.0 dbA  (6)     
+Enermax ETS-T40-BK  800 - 1800 RPM  16.0 - 26.0 dbA  (7)     
+Cooler Master V8  1600 RPM  36.0 dbA   (14)   $59.99 
+Zalman CNPS9900ALED 800 - 2000 RPM  18.0 - 38.0 dbA  (7)    $34.99 
+Thermaltake Water 2.0 Performer 1200 - 2000 RPM 10.0 - 27.4 dbA  (11)    
+Phanteks PH-TC12DX_RD 600 - 1800 RPM  21.9 - 27.6 dbA  (9)     
+Corsair H110i GT  2100 RPM  43.0 dbA   (9)    $119.99
+Zalman CNPS9500A-LED  1350 - 2600 RPM 18.0 - 27.5 dbA  (8)    $35.98 
+Antec Kuhler H2O 620  1450 - 2000 RPM N/A  (21)    
+Cooler Master Hyper N520  N/A 19.0 dbA   (24)    
+Silverstone NT06-PRO  1000 - 2200 RPM N/A  (2)    $46.75 
+Scythe Kotetsu  400 - 1400 RPM  5.3 - 28.0 dbA   (2)    $34.00 
+Cooler Master Nepton 120XL  2400 RPM  6.5 - 27.0 dbA   (2)    $70.98 
+Prolimatech Megahelms (No Fans) N/A N/A  (2)    $69.97 
+Silverstone TD02-LITE 1500 - 2500 RPM 18.0 - 35.0 dbA  (2)    $73.99 
+Thermalright TRUE Spirit 120M(BW) Rev.A 600 - 1300 RPM  25.4 dbA   (2)    $28.05 
+Phanteks PH-TC14CS_BK 700 RPM 13.4 - 19.0 dbA  (2)     
+Xigmatek Dark Knight SD1283 1000 - 2200 RPM 30.1 dbA   (2)     
+Silverstone TD02-E  1500 - 2500 RPM 18.0 - 35.0 dbA  (2)    $84.99 
+Cooler Master RR-H101-22FK-RI 2200 RPM  22.0 dbA   (2)     
+Thermaltake CL-P0466  1000 - 1600 RPM 19.0 - 28.0 dbA  (2)    $59.99 
+SilenX EFZ-120HA5 1600 RPM  8.0 - 24.0 dbA   (2)    $29.98 
+Cooler Master V6 GT 800 - 2200 RPM  15.0 - 38.0 dbA  (12)   $69.99 
+Thermaltake Water 2.0 Extreme 1200 - 2000 RPM 27.4 dbA   (11)    
+Arctic Cooling Alpine 11 Pro Rev. 2 500 - 2000 RPM  N/A  (3)    $11.90 
+Phanteks PH-TC14PE_RD 700 - 1200 RPM  13.4 - 19.0 dbA  (3)    $64.99 
+Cooler Master RR-T612-20PK-R1 2000 RPM  9.0 - 36.0 dbA   (3)     
+Noctua NH-D9L 400 - 2000 RPM  16.3 - 22.8 dbA  (3)    $54.89 
+Scythe Mugen 4  400 - 1400 RPM  5.3 - 28.0 dbA   (3)    $38.25 
+Rosewill RCX-Z1 1700 - 3100 RPM 18.0 - 33.4 dbA  (3)    $19.20 
+Phanteks PH-TC14PE_BL 700 - 1200 RPM  13.4 - 19.0 dbA  (5)    $64.99 
+Antec KUHLER H2O 920  700 - 2400 RPM  27.4 dbA   (5)     
+Cooler Master RR-H101-22FK-RA 2200 RPM  22.0 dbA   (5)    $70.58 
+Silverstone TD03  1500 - 2500 RPM 16.0 - 33.5 dbA  (4)     
+Swiftech H320 800 - 1800 RPM  16.0 - 33.0 dbA  (4)     
+Zalman CNPS9900MAX-R  900 - 1700 RPM  18.0 - 30.0 dbA  (4)    $42.50 
+Cooler Master Hyper T4  1800 RPM  15.1 - 31.6 dbA  (22)   $14.99 
+Cooler Master Hyper T2  2800 RPM  17.0 - 35.0 dbA  (10)   $14.45 
+Cooler Master GeminII S524  800 - 1800 RPM  15.1 - 31.6 dbA  (6)     
+Thermaltake Water 3.0 Extreme 1000 - 2000 RPM 20.0 dbA   (6)     
+Scythe BIG Shuriken 2 Rev. B  500 - 2000 RPM  9.3 - 33.7 dbA   (5)    $34.00 
+be quiet! Dark Rock Advanced C1 1500 RPM  6.6 - 18.8 dbA   (5)    $165.00
+Antec KUHLER H2O 650  600 - 2400 RPM  N/A  (8)    $40.80 
+Arctic Cooling Alpine 11 Plus 600 - 2000 RPM  14.0 dbA   (4)    $8.50
+Silverstone AR01  1000 - 2200 RPM 16.4 - 33.5 dbA  (4)    $28.90 
+Enermax ETS-T40-VD  800 - 1800 RPM  16.0 - 21.0 dbA  (4)     
+Arctic Cooling Freezer A11  500 - 2000 RPM  22.5 dbA   (4)    $22.89 
+Zalman CNPS10X OPTIMA 1000 - 1700 RPM 17.0 - 28.0 dbA  (4)    $19.99 
+Cooler Master GeminII M4  500 - 1600 RPM  8.0 - 30.0 dbA   (11)   $27.99 
+Cooler Master DK9-7E52A-0L-GP 3200 RPM  25.2 dbA   (3)     
+be quiet! PURE ROCK 1500 RPM  19.1 - 26.8 dbA  (7)    $34.90 
+Thermaltake NiC C5  1000 - 2000 RPM 20.0 - 39.9 dbA  (5)    $49.66 
+NZXT Respire T20  1300 - 1800 RPM 26.5 - 34.0 dbA  (5)     
+EVGA ACX mITX 800 - 2800 RPM  33.4 dbA   (10)   $39.99 
+Zalman LQ-315 900 - 2000 RPM  N/A  (2)    $65.45 
+Zalman LQ-320 900 - 2000 RPM  N/A  (2)    $76.50 
+Thermaltake CLP0607 1000 - 2000 RPM 20.0 - 39.9 dbA  (2)    $44.99 
+NZXT HAVIK 120  1200 - 1500 RPM 18.0 - 22.0 dbA  (2)     
+Deepcool GAMMAXX 200  900 - 2200 RPM  17.8 - 34.6 dbA  (2)    $19.88 
+Thermaltake Water 3.0 Pro 1000 - 2000 RPM 20.0 dbA   (2)     
+Zalman CNPS12X  850 - 1200 RPM  22.0 - 24.0 dbA  (2)    $67.15 
+Phanteks PH-TC90LS  1000 - 2500 RPM 19.0 - 26.0 dbA  (2)    $28.99 
+Arctic Cooling ACFZ13-PRO 300 - 1350 RPM  N/A  (2)     
+SilenX EFZ-92HA3  2000 RPM  8.0 - 24.0 dbA   (2)    $16.88 
+Xigmatek Aegir SD128264 1000 - 2200 RPM 20.0 dbA   (2)     
+Rosewill RCX-Z300 N/A N/A  (4)    $14.89 
+Cooler Master Hyper D92 800 - 2800 RPM  18.0 - 33.0 dbA  (5)    $33.15 
+Arctic Cooling ACFZI30  400 - 1350 RPM  N/A  (1)    $33.15 
+Arctic Cooling ACFZA30  400 - 1350 RPM  N/A  (1)    $39.99 
+RAIJINTEK AIDOS BLACK 1000 - 2200 RPM 28.9 dbA   (1)    $28.94 
+RAIJINTEK PALLAS  650 - 1400 RPM  28.0 dbA   (1)     
+EVGA M020-00-000234 750 - 2500 RPM  13.2 - 41.5 dbA  (1)     
+Logisys MC3001IE  900 - 2200 RPM  17.8 - 34.6 dbA  (1)     
+RAIJINTEK TRITON GREEN  1000 - 2600 RPM 21.6 - 36.6 dbA  (1)    $94.99 
+Arctic Cooling Alpine M1  750 RPM 20.5 dbA   (1)    $9.99
+Arctic Cooling ACFZ13-LTD 600 - 2000 RPM  N/A  (1)     
+Zalman CNPS20LQ 900 - 2000 RPM  17.0 - 36.0 dbA  (1)     
+Prolimatech Megahalems Rev.B  N/A N/A  (1)    $51.00 
+Evercool HPKC-10025EA 1800 RPM  23.0 dbA   (1)    $25.98 
+CRYORIG R1 Ultimate 700 - 1300 RPM  23.0 dbA   (1)    $89.99 
+Thermalright TRUE Spirit 140 POWER  900 - 1300 RPM  17.0 - 21.0 dbA  (1)    $42.50 
+Phanteks PH-TC14S_BK  500 - 1600 RPM  25.3 dbA   (1)    $44.99 
+Noctua NH-D15S  300 - 1500 RPM  19.2 - 24.6 dbA  (1)    $89.49 
+Silverstone AR05  2500 RPM  20.0 - 28.3 dbA  (1)    $34.99 
+RAIJINTEK AIDOS 1000 - 2200 RPM 28.9 dbA   (1)     
+RAIJINTEK TISIS 600 - 1000 RPM  23.0 dbA   (1)    $69.90 
+Arctic Cooling UCACO-FZ13100-BL 600 - 2000 RPM  24.4 dbA   (1)    $32.30 
+Thermalright Macho Rev.B  300 - 1300 RPM  15.0 - 21.0 dbA  (1)    $54.90 
+Thermaltake CLP0596 800 - 2000 RPM  21.0 - 44.0 dbA  (1)     
+Cooler Master Hyper 612 600 - 2000 RPM  9.0 - 36.0 dbA   (1)     
+Thermalright HR-02 Rev.A(BW)  900 - 1300 RPM  17.0 - 21.0 dbA  (1)     
+Rosewill RCX-Z775-LP  600 - 2600 RPM  16.0 - 24.5 dbA  (1)    $11.99 
+Zalman CNPS 7500 AlCu LED 1150 - 2300 RPM 17.0 - 32.0 dbA  (1)     
+Cooler Master Vortex Plus 800 - 2800 RPM  17.0 - 35.0 dbA  (5)    $19.99 
+Rosewill RCX-Z90-CP 600 - 3000 RPM  13.5 - 26.5 dbA  (1)     
+Corsair A70 1600 - 2000 RPM 26.0 - 31.5 dbA  (1)     
+Cooler Master GeminII S 1000 - 2000 RPM 17.0 - 21.0 dbA  (1)     
+Zalman CNPS10X Performa 900 - 2000 RPM  17.0 - 24.0 dbA  (1)    $34.98 
+Corsair A50 1600 - 2000 RPM 26.0 - 31.5 dbA  (1)     
+Scythe SCMG-2100  - -  (1)     
+Xigmatek LOKI SD963 1200 - 2800 RPM 20.0 - 28.0 dbA  (1)     
+Masscool 8WT15-38 2400 RPM  30.0 dbA   (1)    $5.95
+Thermaltake CL-P0401  1300 - 2000 RPM 16.0 - 24.0 dbA  (3)     
+Thermaltake Frio  1200 - 2500 RPM 20.0 - 43.0 dbA  (3)     
+Arctic Cooling ACALP64-GT 500 - 2000 RPM  N/A  (4)    $8.99
+Intel BXXTS100H 800 - 1800 RPM  20.0 - 35.0 dbA  (4)     
+Thermaltake CLP0606 800 - 1600 RPM  18.0 - 30.2 dbA  (2)     
+Cooler Master DK9-7G52A-0L-GP 4500 RPM  35.0 dbA   (2)     
+Thermaltake CLP0556 1900 - 2300 RPM 22.0 dbA   (2)    $8.50
+Cooler Master TPC 812 600 - 2400 RPM  19.0 - 40.0 dbA  (2)     
+Arctic Cooling Freezer Xtreme 800 - 1500 RPM  24.4 dbA   (2)    $29.75 
+Scythe SCKC-3000  500 - 1300 RPM  13.0 - 30.7 dbA  (2)    $37.40 
+Thermaltake NiC L31 500 - 1800 RPM  18.0 - 34.8 dbA  (2)     
+Corsair H70 1600 - 2000 RPM 26.0 - 31.5 dbA  (2)     
+Thermaltake CLP0600 1000 - 2400 RPM 19.3 - 30.0 dbA  (2)     
+Cooler Master Gemin II S524 800 - 1800 RPM  15.1 - 31.6 dbA  (2)     
+Gelid Solutions CC-Siberian-01  900 - 2200 RPM  10.0 - 22.5 dbA  (5)    $8.50
+Thermaltake CLP0605 800 - 1600 RPM  18.0 - 30.2 dbA  (4)     
+Zalman LQ-310 900 - 2000 RPM  N/A  (3)     
+Phanteks PH-TC12DX  600 - 1800 RPM  21.9 - 27.6 dbA  (4)    $49.99 
+Zalman 9500A  1350 - 2600 RPM 18.0 - 27.0 dbA  (2)    $84.08 
+Silverstone AR06  2500 RPM  20.0 - 28.3 dbA  (1)    $34.99 
+Zalman CNPS8900 Extreme 1250 - 2800 RPM 19.5 - 35.0 dbA  (1)     
+Deepcool CAPTAIN 120  600 - 2200 RPM  17.6 - 39.3 dbA  (1)    $39.99 
+Cooler Master Hyper 412 Slim  500 - 1600 RPM  8.0 - 30.0 dbA   (1)     
+Zalman CNPS80F  2500 RPM  23.8 dbA   (1)     
+Scythe SCMG-3000  300 - 1600 RPM  0.0 - 26.5 dbA   (1)     
+Scythe Ashura 500 - 1300 RPM  13.0 - 30.7 dbA  (1)    $45.05 
+Thermaltake Contac 16 2400 RPM  30.0 dbA   (1)     
+Scythe SCMG-3100  300 - 1600 RPM  9.6 - 32.1 dbA   (1)     
+Silverstone AR03  1000 - 2200 RPM 16.4 - 33.5 dbA  (1)    $44.99 
+Silverstone AR02  1200 - 2800 RPM 16.0 - 24.0 dbA  (1)    $27.99 
+Thermalright TS-140 900 - 1300 RPM  17.0 - 21.0 dbA  (1)    $34.00 
+Gelid Solutions CC-TranQ-01-A 750 - 1500 RPM  12.0 - 25.5 dbA  (1)    $39.89 
+Logisys AC4400BT  2200 RPM  30.1 dbA   (1)     
+RAIJINTEK RHEA  800 - 2200 RPM  27.9 dbA   (1)    $15.99 
+RAIJINTEK THEMIS  1000 - 1500 RPM 24.5 dbA   (1)    $27.99 
+RAIJINTEK EreBoss 600 - 1400 RPM  28.0 dbA   (1)    $42.90 
+Enermax ETD-T60-TB  800 - 1800 RPM  10.0 - 21.0 dbA  (1)    $54.98 
+Prolimatech PRO-SAM17 N/A N/A  (1)    $44.97 
+TUNIQ Tower 120 Extreme 1000 - 2000 RPM 16.0 - 20.0 dbA  (1)     
+Gelid Solutions Slimhero  750 - 1600 RPM  12.0 - 25.4 dbA  (1)    $39.59 
+Thermaltake Frio OCK  1200 - 2100 RPM 21.0 - 48.0 dbA  (1)     
+Silverstone TD03-E  1500 - 2500 RPM 18.0 - 35.0 dbA  (1)    $81.99 
+Thermaltake CLP0554 1000 - 1600 RPM 19.0 - 28.0 dbA  (1)     
+SilenX EFZ-80HA3  2200 RPM  8.0 - 24.0 dbA   (1)    $12.88 
+Thermalright Macho Rev.A. 900 - 1300 RPM  17.0 - 21.0 dbA  (1)     
+Silverstone NT07-1156 1200 - 3000 RPM 15.0 - 38.0 dbA  (1)    $28.99 
+Thermaltake A4022 1300 RPM  N/A  (1)     
+Rosewill RCX-Z90-AL 600 - 3000 RPM  15.0 - 30.0 dbA  (1)    $9.99
+Scythe Shuriken Rev. B 3  650 - 2200 RPM  10.5 - 31.7 dbA  (1)    $25.50 
+Zalman CNPS11X Performa 1000 - 1600 RPM 17.0 - 26.0 dbA  (1)     
+Xigmatek Thors Hammer - -  (1)    $24.99 
+Deepcool GAMMAXX 300  900 - 1600 RPM  17.8 - 21.0 dbA  (1)    $29.99 
+Thermaltake CL-P0503  2900 RPM  29.6 dbA   (2)    $6.99
+Cooler Master Hyper 612 Ver.2 800 - 1300 RPM  11.0 - 20.0 dbA  (1)    $39.10 
+Zalman CNPS7X LED 1250 - 1950 RPM 17.0 - 25.0 dbA  (1)    $34.00 
+Arctic Cooling ACFZ11-LP  900 - 2000 RPM  N/A  (1)    $18.59 
+Arctic Cooling UCACO-AP111-GBB01  900 - 2000 RPM  14.0 dbA   (1)    $15.99 
+RAIJINTEK TRITON  1000 - 2600 RPM 21.6 - 36.6 dbA  (1)     
+Nexus LOW-7000 R2 500 - 2000 RPM  15.0 - 24.0 dbA  (1)    $19.95 
+Cooler Master X6 Elite  600 - 1800 RPM  9.0 - 34.6 dbA   (1)     
+Zalman CNPS11X Extreme  1000 - 1950 RPM 17.0 - 33.0 dbA  (1)     
+Zalman CNPS7000-AlCu  1350 - 2400 RPM 0.2 - 0.2 dbA  (1)    $19.08 
+Cooler Master DP6-9EDSA-0L-GP 2600 RPM  24.5 dbA   (2)    $14.98 
+Cooler Master Eisberg 240L Prestige 1600 RPM  20.5 dbA   (1)     
+Masscool 8W501B1M3G 2400 RPM  26.2 dbA   (1)    $14.98 
+Masscool 8WA743 800 - 2800 RPM  20.0 - 34.0 dbA  (1)    $20.40 
+Deepcool FROSTWIN V2.0  1600 RPM  17.8 - 21.0 dbA  (0)    $50.98 
+Enermax ETS-T40F-W  2200 RPM  27.0 dbA   (0)    $38.25 
+Enermax ETS-T40F-RF 500 - 1200 RPM  10.0 - 19.0 dbA  (0)    $44.99 
+Enermax ETS-T40F-BK 800 - 1800 RPM  16.0 - 26.0 dbA  (0)    $36.00 
+Deepcool NEPTWIN V2.0 1300 RPM  26.6 dbA   (0)    $60.98 
+Deepcool ICE BLADE 200M 2200 RPM  17.8 - 30.1 dbA  (0)    $29.99 
+Deepcool LUCIFER  700 - 1400 RPM  17.8 - 31.1 dbA  (0)    $39.99 
+Thermalright Macho Rev.A(BW)  300 - 1300 RPM  15.0 - 21.0 dbA  (0)     
+Scythe SCKC-2100  500 - 1300 RPM  9.6 - 24.7 dbA   (0)     
+StarTech FAN7751U 4500 RPM  39.0 dbA   (0)    $31.99 
+Titan TTC-NC55TZ/RB 1800 - 2200 RPM 28.8 - 38.0 dbA  (0)    $69.99 
+Titan TTC-NA43TZ/CU35 900 - 2600 RPM  14.0 - 33.0 dbA  (0)     
+Xion XON-HP9310P  1000 - 3000 RPM 16.0 - 25.3 dbA  (0)     
+Intel BXTS13A N/A N/A  (0)    $24.14 
+Xigmatek Dark Knight SD1483 Night Hawk  800 - 1200 RPM  18.0 dbA   (0)     
+Xigmatek Dark Knight SD1483 Frostbourne 800 - 1200 RPM  18.0 dbA   (0)    $39.99 
+Zalman FX100  - -  (0)    $73.99 
+Thermaltake CL-P0187  4800 RPM  36.0 dbA   (0)     
+Arctic Cooling Alpine 11 GT 2000 RPM  22.5 dbA   (0)    $13.12 
+Thermalright Macho Zero - -  (0)    $74.74 
+Cooler Master Hyper 412S  900 - 1300 RPM  16.1 - 22.5 dbA  (0)     
+Scythe SCKZT-1000 800 - 3300 RPM  8.2 - 32.5 dbA   (0)    $27.20 
+Thermaltake CL-P0326  4200 RPM  44.0 dbA   (0)     
+Thermaltake A1964 5500 RPM  N/A  (0)     
+Dynatron R17  1000 - 2500 RPM 17.0 - 31.9 dbA  (0)    $24.65 
+Dynatron R12  - -  (0)     
+Dynatron R14  1500 - 7000 RPM 16.0 - 47.5 dbA  (0)    $25.50 
+RAIJINTEK Pallas Black  650 - 1400 RPM  28.0 dbA   (0)    $39.90 
+Silverstone TD02  1500 - 2500 RPM 16.0 - 33.5 dbA  (0)     
+Deepcool CAPTAIN 240  600 - 2200 RPM  17.6 - 39.3 dbA  (0)    $79.99 
+Thermalright Silver Arrow IB-E Extreme  600 - 2500 RPM  21.0 - 45.0 dbA  (0)    $76.50 
+Zalman CNPS7000C-Cu 1700 - 2400 RPM 13.5 - 24.0 dbA  (0)     
+Thermaltake CL-P0508  1300 - 2000 RPM 16.0 - 24.0 dbA  (0)     
+Nexus FLC-3000 R2 900 - 2500 RPM  15.0 - 24.0 dbA  (0)     
+Thermaltake CLP0574 800 - 1300 RPM  16.0 dbA   (0)     
+Thermaltake Water 3.0 Ultimate  1000 - 2000 RPM 20.0 dbA   (0)    $130.09
+Thermaltake Water 3.0 Performer C + LNC 1200 - 2000 RPM 27.4 dbA   (0)    $69.68 
+Noctua NH-L9x65 600 - 2500 RPM  14.8 - 23.6 dbA  (0)    $63.98 
+Evercool HPS-810CP  1500 - 4000 RPM 16.2 - 37.5 dbA  (0)    $24.99 
+Evercool HPJ-12025  1000 RPM  21.0 dbA   (0)     
+Thermaltake CLP0556-B 1900 - 2300 RPM 22.0 dbA   (0)    $8.50
+StarTech FAN1156PWM 1000 - 3000 RPM 33.0 dbA   (0)    $20.99 
+Zalman Reserator 3 MAX Dual 1000 - 2300 RPM 23.2 - 46.6 dbA  (0)    $108.99
+Zalman CNPS90F  2300 RPM  29.0 dbA   (0)     
+StarTech FANK8AM2 2600 RPM  28.0 dbA   (0)     
+Masscool 8W2002F1M4 800 - 2800 RPM  20.0 - 34.0 dbA  (0)    $12.99 
+ZEROtherm ZT-10D  - -  (0)     
+Evercool NI2011E-9525EP 1000 - 3000 RPM 28.0 dbA   (0)     
+StarTech FAN775E  2600 RPM  22.2 dbA   (0)    $13.98 
+Gelid Solutions Slim Silence 775  1100 - 2300 RPM 15.0 - 24.5 dbA  (0)     
+Titan DC-155A915Z/RPW 1000 - 2600 RPM 24.8 - 33.4 dbA  (0)    $11.99 
+ZEROtherm ZT-1000D 775  2500 RPM  N/A  (0)     
+ZEROtherm ZT-1000D 1156 3000 RPM  N/A  (0)     
+Phanteks PH-TC14PE_OR 700 - 1200 RPM  13.4 - 19.0 dbA  (0)    $101.14
+Thermaltake CLP0579 800 - 2000 RPM  15.0 - 33.2 dbA  (0)     
+Intel BXTS13X 800 - 2200 RPM  21.0 - 35.0 dbA  (0)    $79.99 
+Enermax ETS-T40F-TB 900 - 1800 RPM  11.0 - 21.0 dbA  (0)    $39.99 
+Antec KUHLER H2O 950  N/A N/A  (0)    $66.99 
+CRYORIG M9i 600 - 2200 RPM  26.4 dbA   (0)     
+CRYORIG M9a 600 - 2200 RPM  26.4 dbA   (0)     
+Thermaltake BigTyp Revo.  800 - 1800 RPM  20.0 dbA   (0)     
+Zalman CNPS9900NT 1000 - 2000 RPM 19.5 - 38.0 dbA  (0)     
+Arctic Cooling UC-AR7GT-AC-01 2000 RPM  0.2 dbA  (0)     
+Gelid Solutions CC-Spirit-02-A  900 - 2400 RPM  10.0 - 25.8 dbA  (0)    $42.58 
+Xigmatek ld964  1000 - 2800 RPM 22.0 dbA   (0)     
+SilenX EFZ-92HA2  2400 RPM  8.0 - 24.0 dbA   (0)    $12.89 
+Prolimatech Basic 81  600 - 1600 RPM  N/A  (0)     
+Xigmatek Apache II  1200 - 2500 RPM 28.0 dbA   (0)    $13.98 
+Silverstone SST-HE01  500 - 2000 RPM  18.0 - 41.0 dbA  (0)    $66.30 
+Phanteks PH-TC14CS_RD 1300 RPM  13.4 - 19.0 dbA  (0)    $54.99 
+Prolimatech Basic 68  600 - 1600 RPM  N/A  (0)    $43.99 
+Prolimatech Basic 65  600 - 1600 RPM  N/A  (0)    $39.99 
+Arctic Cooling Alpine 11 GT Rev. 2  500 - 2000 RPM  N/A  (0)    $8.50
+Deepcool GAMMAXX S40  900 - 1600 RPM  17.8 - 26.1 dbA  (0)    $34.99 
+Logisys IC4100AST 2200 RPM  30.1 dbA   (0)     
+Logisys IC106 2200 RPM  25.0 dbA   (0)    $9.99
+Logisys AC2200BT  2200 RPM  30.1 dbA   (0)     
+Titan TTC-NC85TZ(RB)  210 - 2100 RPM  28.8 dbA   (0)     
+Scythe SCBSK-2000 - -  (0)     
+be quiet! Shadow Rock Topflow SR1 1500 RPM  9.6 - 24.4 dbA   (0)     
+be quiet! Shadow Rock Pro SR1 1500 RPM  24.4 dbA   (0)     
+Evercool HPI-12025  1200 - 1800 RPM 23.0 - 30.0 dbA  (0)     
+LEPA EXllusion 240  500 - 1800 RPM  14.0 - 30.0 dbA  (0)     
+Thermalright TRUE Spirit 140 (BW) 300 - 1300 RPM  15.0 - 21.0 dbA  (0)    $59.34 
+Gelid Solutions Polar 1400 - 2000 RPM 16.0 - 28.9 dbA  (0)    $16.99 
+Titan EC-TTC-NC05TZ 800 - 1500 RPM  15.3 - 29.0 dbA  (0)     
+Zalman CNPS10X QUIET  700 - 1400 RPM  26.0 dbA   (0)     
+Evercool HPL-815EP  1000 - 4000 RPM 12.0 - 40.0 dbA  (0)    $25.99 
+ZEROtherm ZT-10D Smart  N/A N/A  (0)     
+Xigmatek Prime SD1484 800 - 1200 RPM  18.0 dbA   (0)    $57.03 
+RAIJINTEK TRITON RED  1000 - 2600 RPM 21.6 - 36.6 dbA  (0)    $94.99 
+RAIJINTEK TRITON BLUE 1000 - 2600 RPM 21.6 - 36.6 dbA  (0)    $94.99 
+Arctic Cooling Alpine 7 Pro 500 - 2000 RPM  N/A  (0)     
+Thermaltake Gravity i2  1800 RPM  21.3 dbA   (0)    $13.60 
+Thermaltake Gravity A1  1800 RPM  22.3 dbA   (0)    $11.05 
+Thermaltake MeOrb II  1500 - 2500 RPM 18.5 - 28.0 dbA  (0)    $29.99 
+Thermaltake CL-P008-AL09WT-A  1800 RPM  21.0 dbA   (0)    $11.90 
+Gelid Solutions CC-GX7-01-A 600 - 1800 RPM  10.0 - 26.8 dbA  (0)    $69.89 
+TUNIQ Tower 120 1000 - 2000 RPM N/A  (0)     
+TUNIQ T-120-LFB 1000 - 2000 RPM N/A  (0)     
+Vantec VAF-1225 1000 - 2200 RPM 20.0 - 32.0 dbA  (0)    $45.29 
+Enzotech Extreme-X Rev.A  1000 - 2500 RPM 15.8 - 43.3 dbA  (0)     
+Thermaltake Water 3.0 Extreme S 1000 - 2000 RPM 20.0 dbA   (0)    $94.85 
+Silverstone AR04  1500 - 3400 RPM 18.0 - 26.0 dbA  (0)    $32.99 
+Thermalright TS-120M(BW)  600 - 1300 RPM  24.5 dbA   (0)     
+Gelid Solutions Slim Silence AM2  1200 - 2500 RPM 15.0 - 27.2 dbA  (0)     
+Thermalright U120eXtrem1366RT R-C 1600 RPM  28.0 dbA   (0)     
+Arctic Cooling Alpine M1 - Passive  - -  (0)    $10.49 
+Thermalright Venomous X - RT  1300 RPM  24.1 dbA   (0)     
+Fractal Design Kelvin S36 800 - 1700 RPM  26.9 dbA   (0)     
+Fractal Design Kelvin S24 800 - 1700 RPM  26.9 dbA   (0)     
+Fractal Design Kelvin T12 800 - 1700 RPM  26.9 dbA   (0)     
+Masscool 7WA868 800 - 2800 RPM  19.0 - 27.0 dbA  (0)     
+Logisys IC207 2500 RPM  25.0 dbA   (0)     
+Enermax Liqtech 120X  600 - 2500 RPM  15.0 - 30.0 dbA  (0)    $88.24 
+Titan TTC-NC95TZ(RB)  150 - 1500 RPM  28.6 dbA   (0)     
+Zalman CNPS 9700 NT 1250 - 2800 RPM 19.5 - 35.0 dbA  (0)     
+Zalman CNPS5X SZ  1400 - 2800 RPM 20.0 - 32.0 dbA  (0)     
+be quiet! DARK ROCK TF  1400 RPM  11.9 - 26.7 dbA  (0)    $79.90 
+Gelid Solutions CC-Ssilence-AM1 1200 - 2600 RPM 15.0 - 27.2 dbA  (0)     
+SilenX EFZ-120HA3 800 - 2000 RPM  N/A  (0)     
+Thermaltake CLP0587 1200 - 1800 RPM 39.0 dbA   (0)    $74.91 
+Zalman ZM-CNPS14X 950 - 1350 RPM  17.0 - 21.0 dbA  (0)    $34.00 
+Arctic Cooling UCACO-FI30201-GB 400 - 1350 RPM  N/A  (0)    $40.99 
+Silverstone NT07-115X 1200 - 3400 RPM 18.0 - 26.0 dbA  (0)    $17.00 
+Xigmatek Gaia II  800 - 1500 RPM  16.0 - 24.0 dbA  (0)     
+be quiet! SHADOW ROCK LP  1500 RPM  14.8 - 25.5 dbA  (0)    $39.99 
+Thermaltake CLP0550 740 - 3700 RPM  21.0 - 40.0 dbA  (0)     
+Cooler Master RR-LEE-L911-GP  2200 RPM  17.0 dbA   (0)    $9.98
+Cooler Master V10 Hybrid TEC  800 - 2400 RPM  17.0 dbA   (0)     
+Cooler Master Eisberg 120L Prestige 1600 RPM  20.5 dbA   (0)     
+Thermalright Silver Arrow Extreme 600 - 2500 RPM  21.0 - 45.0 dbA  (0)     
+Antec KUHLER H2O 1250 600 - 2400 RPM  16.0 - 38.0 dbA  (0)    $70.55 
+Phanteks PH-TC14CS  700 - 1200 RPM  13.4 - 19.0 dbA  (0)     
+Gelid Solutions CC-Ssilence-APLUS 1200 - 2600 RPM 15.0 - 27.2 dbA  (0)    $24.98 
+CRYORIG A40 600 - 2200 RPM  13.0 - 37.0 dbA  (0)     
+CRYORIG A40 ULTIMATE  600 - 2200 RPM  13.0 - 37.0 dbA  (0)     
+CRYORIG A80 600 - 1850 RPM  13.0 - 38.0 dbA  (0)     
+Dynatron R24  1500 - 7000 RPM 16.0 - 47.5 dbA  (0)    $22.95 
+Cooler Master Seidon 120V VER.2 800 - 2400 RPM  6.5 - 27.0 dbA   (0)     
+CRYORIG C1  700 - 1300 RPM  24.0 dbA   (1)    $64.99 
+Prolimatech PRO-GNSS-BK - -  (0)     
+CRYORIG C7  600 - 2500 RPM  30.0 dbA   (0)     
+Scythe SCSMZ-2100 300 - 2500 RPM  7.2 - 31.1 dbA   (0)    $25.50 
+Phanteks PH-TC14CS_BL 700 RPM 13.4 - 19.0 dbA  (0)    $54.99 
+Evercool LGAL1156A-B715 1000 - 5500 RPM 56.0 dbA   (0)    $33.99 
+Rosewill ROCC-12001 1500 RPM  24.6 dbA   (0)    $21.99 
+Logisys MC4004IEXT  900 - 2200 RPM  17.8 - 28.1 dbA  (0)    $23.80 
+Dynatron T459 N/A N/A  (0)    $29.95 
+Scythe SCBSK-1000 650 - 2200 RPM  N/A  (0)     
+Corsair H70 Core  N/A N/A  (0)     
+Logisys MC6001IM  700 - 1200 RPM  18.2 - 26.7 dbA  (0)     
+Logisys MC4001IM  500 - 1500 RPM  17.8 - 27.6 dbA  (0)    $34.98 
+Logisys MC4002IW  500 - 1500 RPM  17.8 - 27.6 dbA  (0)    $21.99 
+Logisys MC4005IB  900 - 1500 RPM  21.4 - 32.1 dbA  (0)    $37.99 
+Logisys MC106 1500 RPM  19.0 dbA   (0)     
+Corsair H40 2000 RPM  N/A  (0)     
+Logisys IC211HTPC 2600 RPM  28.0 dbA   (0)    $18.21 
+Logisys IC231PWM  900 - 2400 RPM  17.8 - 32.5 dbA  (0)    $11.47 
+Thermalright MACHO 120 REV.A  600 - 1300 RPM  25.4 dbA   (0)    $34.00 
+Silverstone TD03-LITE 1500 - 2500 RPM 18.0 - 35.0 dbA  (0)    $59.99 
+Thermalright SILVER ARROW IB-E  900 - 1300 RPM  21.0 - 25.0 dbA  (0)    $72.25 
+Thermalright TRUE Spirit 90M Rev.A  800 - 2000 RPM  27.0 dbA   (0)    $25.50 
+Phanteks PH-TC12LS_BK 500 - 1800 RPM  25.0 dbA   (0)    $36.99 
+Cooler Master RR-T812-24PK-R2 600 - 2400 RPM  19.0 - 40.0 dbA  (0)     
+Noctua NH-C14S  300 - 1500 RPM  19.2 - 24.6 dbA  (0)    $83.88 
+Thermalright Silver Arrow 500 - 1300 RPM  17.0 - 21.0 dbA  (0)    $68.00 
+Zalman FX70 - -  (0)    $49.99 
+Deepcool ASSASSIN II  300 - 1400 RPM  17.8 - 27.3 dbA  (0)    $79.99 
+Xigmatek HDT-S1284F 800 - 1500 RPM  16.0 - 24.0 dbA  (0)     
+Xigmatek Janus LD1266 1200 RPM  19.2 - 22.4 dbA  (0)    $48.98 
+RAIJINTEK THEMIS Evo  1000 - 1500 RPM 24.5 dbA   (0)    $34.90 
+Enermax ETS-N30-HE  800 - 2800 RPM  16.0 - 28.0 dbA  (0)    $23.98 
+RAIJINTEK EREBOSS BLACK 650 - 1400 RPM  28.0 dbA   (0)    $42.90 
+Enermax ETS-N30-TAA 800 - 2800 RPM  16.0 - 27.0 dbA  (0)     
+RAIJINTEK ZELOS 800 - 1400 RPM  20.0 dbA   (0)    $16.99 
+LEPA AquaChanger 120  500 - 2300 RPM  14.0 - 35.0 dbA  (0)    $54.40 
+Titan TTC-NK85TZ/CS2  800 - 2200 RPM  15.0 - 35.0 dbA  (0)    $59.95 
+Scythe Mugen MAX  500 - 1300 RPM  13.0 - 30.7 dbA  (0)     
+SilenX EFZ-100HA1 1000 - 2000 RPM 8.0 - 24.0 dbA   (0)     
+Dynatron R15  N/A N/A  (0)    $27.92 
+Dynatron R13  1100 - 6000 RPM 19.1 - 53.8 dbA  (0)    $20.40 
+Dynatron R19  N/A N/A  (0)     
+Dynatron R22  N/A N/A  (0)     
+Dynatron R4 N/A N/A  (0)     
+Dynatron R9 1000 - 4500 RPM 13.1 - 45.9 dbA  (0)    $21.98 
+Dynatron R16  1000 - 6000 RPM 21.5 - 55.8 dbA  (0)    $27.20 
+Gelid Solutions CC-SiberianP-01 900 - 2200 RPM  10.0 - 23.5 dbA  (0)    $13.89 
+Thermalright AXP-200  700 - 1300 RPM  30.6 dbA   (0)    $65.45 
+Dynatron R8 N/A N/A  (0)    $22.10 
+Enermax Liqtech 240 2500 RPM  30.0 dbA   (0)    $88.98 
+Enermax ETD-T60-VD  800 - 1800 RPM  16.0 - 21.0 dbA  (0)     
+Scythe SCKTN-4000 300 - 2500 RPM  7.2 - 31.1 dbA   (0)    $25.50 
+Evercool HPQ-12025  800 - 2200 RPM  38.1 dbA   (0)    $26.99 
+Evercool HPO-12025  1400 - 2200 RPM 16.0 - 38.0 dbA  (0)    $49.99 
+Zalman CNPS7000V(AL)-1-PWM  800 - 2600 RPM  20.0 - 32.0 dbA  (0)    $9.99
+Enermax ELC-LM120S-TAA  2500 RPM  30.0 dbA   (0)    $62.05 
+Masscool 8W2002B1M4 800 - 2800 RPM  20.0 - 34.0 dbA  (0)    $12.88 
+Enermax ELC-LM120S-HP 2500 RPM  30.0 dbA   (0)    $62.71 
+Evercool TRANSFORMER S  2200 RPM  20.0 dbA   (0)     
+Titan TTC-NK35TZ/RPW/V2 900 - 2800 RPM  12.0 - 31.0 dbA  (0)     
+Scythe SCKC-2000  500 - 1300 RPM  9.6 - 24.7 dbA   (0)     
+Dynatron R27  1000 - 3800 RPM 16.0 - 43.4 dbA  (0)    $29.89 
+Zalman CNPS9900 D/F 900 - 1400 RPM  19.0 - 27.0 dbA  (0)    $75.98 
+LEPA LPALV12-BK 2200 RPM  23.0 dbA   (0)    $44.99 
+Dynatron K17  1000 - 2500 RPM 17.0 - 31.9 dbA  (0)    $25.50 
+Evercool HPM-12025  800 - 2500 RPM  15.0 - 35.0 dbA  (0)     
+Sunbeam Twister 120 N/A 16.0 dbA   (0)     
+ZEROtherm CORE92  900 - 2500 RPM  19.5 dbA   (0)     
+Scythe SCMN-2000  500 - 1700 RPM  9.6 - 36.4 dbA   (0)     
+ZEROtherm ZT-560D 900 - 2300 RPM  30.0 dbA   (0)     
+Antec Performance Max N/A N/A  (0)     
+Evercool TTC-NK35TZ/RPW/V3  900 - 2800 RPM  12.0 - 31.0 dbA  (0)    $26.99 
+Evercool TTC-NK85TZ/V2(RB)  800 - 2150 RPM  17.2 - 39.0 dbA  (0)     
+Gelid Solutions Black Edition 750 - 1600 RPM  25.4 - 25.5 dbA  (0)    $66.30 
+Prolimatech PRO-MGH-C N/A 26.0 dbA   (0)    $79.97 
+Rosewill AIOLOS 500 - 1500 RPM  24.6 dbA   (0)    $21.99 
+Logisys IC221PWM  900 - 2400 RPM  17.8 - 26.4 dbA  (0)     
+Logisys MC2001IE  2200 RPM  23.4 dbA   (0)    $19.98 
+Prolimatech PRO-PNTH  N/A N/A  (0)     
+Arctic Cooling Liquid Freezer 240 500 - 1350 RPM  N/A  (0)     
+Prolimatech PRO-GNSS  800 - 1600 RPM  N/A  (0)    $69.97 
+Masscool 8W5020F1M  800 - 2800 RPM  20.0 - 34.0 dbA  (0)     
+Thermaltake Frio Silent 14  700 - 1200 RPM  12.0 - 19.3 dbA  (0)    $34.99 
+Cooler Master Glacer 240L Ver. 2  2400 RPM  19.0 - 40.3 dbA  (0)    $113.21
+Cooler Master Hyper 612 PWM 600 - 2000 RPM  9.0 - 36.0 dbA   (0)     
+Zalman CNPS7000V(AL)-1-PWMB 800 - 2600 RPM  20.0 - 32.0 dbA  (0)    $25.98 
+Zalman Reserator 3 MAX  1000 - 2200 RPM 18.9 - 36.7 dbA  (0)    $85.00 
+Logisys MC6002GS  500 - 1500 RPM  17.6 - 27.6 dbA  (0)     
+Prolimatech PRO-ARMGD N/A N/A  (0)    $62.98 
+EVGA ACX  2800 RPM  42.5 dbA   (0)    $52.99 
+Dynatron T450 800 - 2500 RPM  16.0 - 27.3 dbA  (0)    $19.88 
+RAIJINTEK TISIS 600 - 1000 RPM  23.0 dbA   (0)    $69.90 
+SilentiumPC Spartan LT HE922  800 - 2000 RPM  9.9 - 21.9 dbA   (0)     
+Scythe Ashura Shadow  500 - 1300 RPM  13.0 - 30.7 dbA  (0)     
+Thermaltake CL-P0101  600 - 3700 RPM  15.0 - 46.5 dbA  (0)     
+Titan TTC-NK54TZ  3500 RPM  30.6 dbA   (0)     
+Xigmatek Loki II  1200 - 2800 RPM 20.0 - 28.0 dbA  (0)     
+Zalman CNPS7700ALCULED  1000 - 2000 RPM 22.7 - 37.1 dbA  (0)    $18.98 
+Logisys IC4300X4  400 - 2800 RPM  17.8 - 40.7 dbA  (0)    $19.99 
+Enermax ELC120-TB 800 - 2200 RPM  17.3 - 31.2 dbA  (0)     
+Enermax ELC120-TA 800 - 2200 RPM  18.5 - 32.8 dbA  (0)     
+Cooler Master CHD-00008-01-GP 2200 RPM  22.0 dbA   (0)    $7.99
+Noctua NH-U9DX 1366 1000 - 1600 RPM 7.9 - 17.6 dbA   (0)     
+Scythe SCNJ-3100  470 - 1900 RPM  7.0 - 37.0 dbA   (0)    $45.90 
+Thermalright TS-120M  700 - 1500 RPM  17.0 - 28.5 dbA  (0)    $28.05 
+Deepcool Ice Edge Mini FS V2.0  2200 RPM  24.7 dbA   (0)     
+Cooler Master Blizzard T2 mini  2200 RPM  22.0 dbA   (0)     

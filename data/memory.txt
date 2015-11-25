@@ -1,0 +1,700 @@
+G.Skill Ripjaws X Series	DDR3-1866	240-pin DIMM	8	2x4GB	8GB	$6.50	 (18)		$51.99
+G.Skill Ripjaws Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.62	 (100)		$44.99
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.62	 (227)		$44.98
+G.Skill Ripjaws X Series	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$5.75	 (102)		$45.99
+G.Skill Sniper	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$4.37	 (69)		$34.99
+Corsair Vengeance Pro	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$5.56	 (50)		$88.98
+Corsair Vengeance Pro	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.58	 (14)		$52.66
+Kingston HyperX Fury White	DDR3-1866	240-pin DIMM	10	2x4GB	8GB	$5.25	 (26)		$41.99
+G.Skill Ripjaws X Series	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$5.00	 (41)		$79.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.12	 (46)		$40.99
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	9	2x4GB	8GB	$5.99	 (13)		$47.89
+G.Skill Ares Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.36	 (49)		$42.89
+Kingston HyperX Fury Black	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.03	 (24)		$80.49
+G.Skill Sniper Series	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.24	 (97)		$49.89
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.87	 (157)		$46.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	8	2x4GB	8GB	$8.62	 (17)		$68.99
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$4.69	 (60)		$74.99
+Kingston HyperX Fury Red	DDR3-1866	240-pin DIMM	10	2x4GB	8GB	$5.62	 (26)		$44.99
+Corsair Dominator Platinum	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$6.87	 (16)		$109.99
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	8	2x4GB	8GB	$6.25	 (48)		$49.99
+Kingston HyperX Fury White	DDR3-1600	240-pin DIMM	10	2x4GB	8GB	$5.62	 (15)		$44.99
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	9	2x4GB	8GB	$6.00	 (39)		$47.99
+G.Skill Sniper Series	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$4.99	 (31)		$79.89
+G.Skill Ares Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$4.37	 (34)		$34.99
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$5.00	 (14)		$79.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$6.25	 (14)		$99.99
+Corsair Vengeance Pro	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$4.19	 (22)		$66.99
+Kingston HyperX Fury Blue	DDR3-1600	240-pin DIMM	10	1x8GB	8GB	$4.99	 (22)		$39.88
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$4.69	 (39)		$74.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	8	2x4GB	8GB		 (9)		
+G.Skill Sniper Series	DDR3-2133	240-pin DIMM	9	2x4GB	8GB	$6.25	 (9)		$49.99
+Kingston HyperX Beast	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.44	 (9)		$86.99
+Corsair Vengeance Pro	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.12	 (29)		$48.99
+G.Skill Ripjaws X Series	DDR3-1866	240-pin DIMM	9	1x4GB	4GB	$5.75	 (9)		$22.99
+Kingston HyperX Fury Blue	DDR3-1600	240-pin DIMM	10	2x4GB	8GB	$5.25	 (32)		$41.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.74	 (100)		$45.89
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$5.75	 (21)		$22.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	10	1x8GB	8GB	$5.12	 (31)		$40.96
+G.Skill Ares Series	DDR3-1600	240-pin DIMM	8	2x4GB	8GB	$6.12	 (13)		$48.99
+Kingston HyperX Blu	DDR3-1333	240-pin DIMM	9	2x4GB	8GB		 (24)		
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$4.86	 (54)		$38.88
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.86	 (121)		$46.88
+Corsair Vengeance	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$5.24	 (84)		$83.89
+Corsair Vengeance Pro	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.12	 (16)		$48.99
+Corsair Vengeance Pro	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$5.55	 (23)		$88.88
+Kingston Blu	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$19.50	 (8)		$77.99
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	11	2x4GB	8GB	$6.00	 (64)		$47.99
+G.Skill Trident X Series	DDR3-2400	240-pin DIMM	10	2x8GB	16GB	$5.31	 (35)		$84.99
+G.Skill Sniper Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.62	 (8)		$44.99
+Corsair Vengeance LP	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$8.19	 (12)		$65.51
+Corsair Vengeance Pro	DDR3-2133	240-pin DIMM	11	2x8GB	16GB	$6.87	 (12)		$109.99
+A-Data XPG V2	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$7.18	 (12)		$57.43
+Corsair Vengeance	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$7.73	 (12)		$61.84
+Corsair Vengeance Pro	DDR3-2400	240-pin DIMM	11	2x8GB	16GB	$5.37	 (25)		$85.99
+A-Data XPG V1.0	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.62	 (28)		$44.99
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$4.99	 (15)		$39.89
+Corsair Vengeance	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.25	 (15)		$49.98
+Kingston HyperX Fury White	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.06	 (18)		$80.93
+G.Skill Ares Series	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$5.62	 (45)		$44.99
+Corsair Vengeance LP	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$5.00	 (23)		$79.99
+A-Data XPG V1.0	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.00	 (7)		$39.99
+Corsair Vengeance Pro	DDR3-2400	240-pin DIMM	11	2x8GB	16GB	$5.50	 (7)		$87.99
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.47	 (110)		$43.75
+Kingston HyperX Fury Black	DDR3-1600	240-pin DIMM	10	2x4GB	8GB	$5.00	 (36)		$39.99
+G.Skill Ripjaws Series	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$5.47	 (10)		$21.89
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	7	2x4GB	8GB	$6.00	 (16)		$47.99
+G.Skill Ripjaws X Series	DDR3-2400	240-pin DIMM	11	2x8GB	16GB	$5.24	 (10)		$83.89
+G.Skill Ares Series	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$4.99	 (10)		$79.88
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	11	2x8GB	16GB	$5.00	 (10)		$79.99
+Samsung	DDR3-1600	240-pin DIMM	11	2x4GB	8GB		 (13)		
+Crucial Ballistix Tactical	DDR3-1600	240-pin DIMM	8	2x8GB	16GB	$5.62	 (13)		$89.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.99	 (26)		$47.89
+Kingston Blu	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$10.00	 (28)		$79.98
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$4.99	 (35)		$79.88
+Crucial Ballistix Elite	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$5.94	 (15)		$94.99
+Corsair Vengeance Pro	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$5.56	 (12)		$88.99
+Corsair Vengeance Pro	DDR3-2133	240-pin DIMM	11	2x4GB	8GB	$9.82	 (12)		$78.57
+G.Skill Ripjaws Series	DDR3-1600	240-pin DIMM	8	2x4GB	8GB	$6.00	 (6)		$47.99
+Kingston HyperX	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$16.94	 (55)		$135.49
+Corsair Vengeance	DDR3-2133	240-pin DIMM	10	2x8GB	16GB	$7.50	 (12)		$119.99
+G.Skill Trident X Series	DDR3-2133	240-pin DIMM	9	2x8GB	16GB	$5.93	 (6)		$94.89
+Corsair Dominator Platinum	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$7.50	 (17)		$119.99
+G.Skill Ares Series	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$4.99	 (24)		$79.89
+G.Skill Sniper Series	DDR3-2133	240-pin DIMM	10	2x4GB	8GB	$6.00	 (9)		$47.99
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	9	2x2GB	4GB	$6.75	 (24)		$26.99
+G.Skill Sniper Gaming Series	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$5.00	 (9)		$79.98
+Kingston HyperX Fury Black	DDR3-1866	240-pin DIMM	10	1x8GB	8GB	$5.11	 (9)		$40.89
+Crucial Ballistix Elite	DDR3-1600	240-pin DIMM	8	2x4GB	8GB	$6.50	 (14)		$51.99
+G.Skill Sniper Low Voltage Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.75	 (14)		$45.99
+G.Skill Trident X Series	DDR3-2400	240-pin DIMM	10	2x4GB	8GB	$5.25	 (16)		$41.99
+Kingston HyperX Fury Blue	DDR3-1600	240-pin DIMM	10	1x4GB	4GB	$5.22	 (11)		$20.89
+Crucial Ballistix	DDR3-1600	240-pin DIMM	8	2x8GB	16GB	$5.00	 (11)		$79.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$5.00	 (18)		$79.99
+Corsair Vengeance Pro	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.25	 (20)		$49.99
+Corsair Vengeance	DDR3-2133	240-pin DIMM	11	2x4GB	8GB	$6.87	 (13)		$54.99
+Kingston Black Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (13)		
+Kingston HyperX Fury Black	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$5.12	 (8)		$81.99
+A-Data XPG V1.0	DDR3-1866	240-pin DIMM	10	2x4GB	8GB	$5.25	 (8)		$41.99
+Kingston HyperX	DDR3-1600	240-pin DIMM	10	2x8GB	16GB		 (8)		
+Kingston HyperX Fury Blue	DDR3-1866	240-pin DIMM	10	2x4GB	8GB	$5.62	 (17)		$44.99
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.00	 (36)		$47.99
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	10	4x8GB	32GB	$4.94	 (5)		$157.99
+G.Skill Ripjaws Z Series	DDR3-1866	240-pin DIMM	8	4x4GB	16GB	$6.56	 (5)		$104.99
+Crucial Ballistix Tactical Tracer	DDR3-1600	240-pin DIMM	8	2x4GB	8GB	$5.62	 (5)		$44.99
+A-Data XPG Gaming Series	DDR3-1600	240-pin DIMM	9	1x4GB	4GB		 (5)		
+Corsair Dominator Platinum	DDR3-1600	240-pin DIMM	7	2x8GB	16GB	$10.62	 (5)		$169.99
+Corsair Dominator Platinum	DDR3-2400	240-pin DIMM	10	2x8GB	16GB	$12.45	 (5)		$199.18
+Kingston HyperX Fury White	DDR3-1866	240-pin DIMM	10	1x8GB	8GB	$4.81	 (5)		$38.49
+Crucial Ballistix Sport	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$8.75	 (10)		$69.98
+G.Skill Ripjaws X Series	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$6.11	 (10)		$48.88
+G.Skill Ripjaws Series	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.19	 (10)		$82.99
+Corsair Vengeance	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.28	 (10)		$84.49
+Patriot Viper 3	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.00	 (30)		$47.99
+Corsair Vengeance Pro	DDR3-2133	240-pin DIMM	11	2x8GB	16GB	$6.75	 (10)		$107.99
+Kingston HyperX Fury Black	DDR3-1866	240-pin DIMM	10	2x4GB	8GB	$5.44	 (24)		$43.49
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	10	1x8GB	8GB	$4.99	 (18)		$39.89
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$5.25	 (12)		$41.99
+Crucial Ballistix Sport XT	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.00	 (16)		$39.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$5.00	 (21)		$79.99
+G.Skill Ripjaws Z Series	DDR3-1866	240-pin DIMM	9	4x4GB	16GB	$5.62	 (7)		$89.99
+G.Skill Ares Series	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$3.75	 (7)		$59.99
+Corsair Vengeance Pro	DDR3-2133	240-pin DIMM	11	2x4GB	8GB	$7.12	 (7)		$56.99
+Corsair Vengeance LP	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$5.19	 (7)		$82.99
+Kingston Black	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$13.00	 (17)		$104.00
+Kingston Beast	DDR3-2400	240-pin DIMM	11	2x4GB	8GB		 (7)		
+Corsair XMS3	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.50	 (15)		$43.99
+G.Skill Trident X	DDR3-1600	240-pin DIMM	7	2x8GB	16GB	$5.68	 (15)		$90.89
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.69	 (13)		$90.99
+G.Skill Sniper Gaming Series	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$4.99	 (13)		$79.89
+Corsair XMS3	DDR3-1600	240-pin DIMM	11	2x8GB	16GB	$5.06	 (11)		$80.99
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	9	2x8GB	16GB	$5.75	 (9)		$91.99
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	10	2x4GB	8GB	$5.87	 (9)		$46.99
+Corsair Vengeance Pro	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.25	 (9)		$49.99
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$5.24	 (27)		$41.89
+Crucial Ballistix Tactical	DDR3-1600	240-pin DIMM	8	2x4GB	8GB	$6.62	 (11)		$52.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$4.37	 (18)		$69.99
+G.Skill Ripjaws X Series	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$4.99	 (24)		$79.89
+Kingston HyperX Fury Black	DDR3-1600	240-pin DIMM	10	1x8GB	8GB	$5.00	 (14)		$39.99
+Corsair Vengeance	DDR3-1866	240-pin DIMM	10	1x8GB	8GB	$5.62	 (12)		$44.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	10	1x8GB	8GB	$5.36	 (12)		$42.89
+G.Skill Ripjaws Z Series	DDR3-2133	240-pin DIMM	9	4x4GB	16GB	$6.00	 (4)		$95.99
+Kingston	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (4)		
+Team Elite	DDR3-1600	240-pin DIMM	11	1x8GB	8GB	$8.75	 (4)		$69.98
+G.Skill Sniper Series	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$5.99	 (4)		$47.89
+PNY XLR8	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$4.83	 (4)		$77.32
+AMD	DDR3-2133	240-pin DIMM	10	2x8GB	16GB		 (4)		
+Kingston HyperX Fury White	DDR3-1866	240-pin DIMM	10	1x4GB	4GB	$5.62	 (4)		$22.49
+A-Data XPG V1.0	DDR3-1600	240-pin DIMM	11	1x4GB	4GB	$6.00	 (4)		$23.99
+Team Dark	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$8.62	 (4)		$68.98
+Corsair Vengeance	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$8.28	 (10)		$66.23
+G.Skill Sniper Series	DDR3-2133	240-pin DIMM	11	2x4GB	8GB	$5.99	 (10)		$47.89
+Crucial	DDR3-1600	240-pin DIMM	11	1x8GB	8GB	$4.25	 (10)		$33.99
+Corsair Vengeance	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.25	 (20)		$49.98
+Crucial	DDR3-1333	240-pin DIMM	9	2x2GB	4GB	$13.48	 (6)		$53.92
+Patriot Viper 3	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.25	 (6)		$49.99
+Corsair Vengeance	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$5.62	 (6)		$89.99
+Avexir Core series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$10.00	 (6)		$79.98
+Crucial Ballistix Sport	DDR4-2400	288-pin DIMM	16	2x8GB	16GB	$6.81	 (6)		$108.99
+Patriot Viper 3	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.25	 (6)		$49.99
+Corsair Vengeance Pro	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.12	 (6)		$48.99
+A-Data XPG V1.0	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$5.00	 (6)		$19.99
+Kingston Black	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$10.99	 (6)		$175.81
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x2GB	4GB	$8.25	 (6)		$32.99
+Corsair Dominator Platinum	DDR3-1866	240-pin DIMM	9	4x8GB	32GB	$7.50	 (6)		$239.99
+Corsair Vengeance LP	DDR3-1600	240-pin DIMM	10	1x8GB	8GB		 (11)		
+Patriot Signature	DDR3-1600	240-pin DIMM	11	2x4GB	8GB	$5.62	 (11)		$44.99
+Team Vulcan	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$8.75	 (9)		$69.98
+Kingston HyperX Fury Blue	DDR3-1866	240-pin DIMM	10	1x8GB	8GB	$5.11	 (9)		$40.89
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.69	 (9)		$90.99
+Corsair Vengeance Pro	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$6.37	 (9)		$50.99
+G.Skill Ripjaws X Series	DDR3-1333	240-pin DIMM	9	2x8GB	16GB	$4.69	 (12)		$74.99
+Kingston HyperX Fury Red	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.06	 (12)		$80.93
+Kingston	DDR3-1600	240-pin DIMM	10	1x8GB	8GB	$12.96	 (19)		$103.65
+Corsair Dominator Platinum	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$10.00	 (16)		$79.99
+AMD R9 Gamer Series	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$7.00	 (7)		$55.99
+Corsair Dominator Platinum	DDR3-1866	240-pin DIMM	9	4x4GB	16GB	$9.06	 (7)		$144.99
+Kingston HyperX Grey	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (7)		
+Corsair Vengeance Pro	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.25	 (10)		$49.99
+Team Elite Plus	DDR3-1600	240-pin DIMM	11	2x4GB	8GB	$4.37	 (10)		$34.99
+Corsair Vengeance LPX	DDR4-2400	288-pin DIMM	14	4x4GB	16GB	$6.50	 (5)		$103.99
+Kingston HyperX Fury White	DDR3-1600	240-pin DIMM	10	1x8GB	8GB	$4.81	 (5)		$38.49
+Crucial Ballistix	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.77	 (5)		$54.17
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	9	4x8GB	32GB	$3.75	 (5)		$119.99
+G.Skill Ripjaws Series	DDR3-1600	240-pin DIMM	9	2x2GB	4GB	$6.75	 (11)		$26.99
+G.Skill Ares Series	DDR3-2133	240-pin DIMM	10	2x4GB	8GB	$5.86	 (5)		$46.89
+G.Skill Ripjaws Series	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$5.50	 (5)		$21.99
+Corsair Vengeance Pro	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$5.18	 (5)		$82.88
+G.Skill Ripjaws Series	DDR3-1333	240-pin DIMM	7	2x4GB	8GB	$6.00	 (5)		$47.99
+A-Data XPG V1.0	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$5.00	 (5)		$19.99
+PNY Optima	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$7.12	 (11)		$56.99
+G.Skill	DDR3-1600	240-pin DIMM	9	2x2GB	4GB	$7.00	 (5)		$27.99
+Corsair Vengeance LP	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$7.25	 (11)		$57.99
+Team Zeus Yellow	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$8.24	 (5)		$65.89
+Kingston HyperX Fury Blue	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$4.91	 (5)		$78.49
+Kingston HyperX Fury Red	DDR3-1600	240-pin DIMM	10	2x4GB	8GB	$5.25	 (5)		$41.99
+Kingston HyperX Fury Red	DDR3-1866	240-pin DIMM	10	1x4GB	4GB	$5.75	 (5)		$22.99
+G.Skill Ripjaws Z Series	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$6.69	 (5)		$106.99
+Kingston Savage	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.87	 (5)		$46.99
+A-Data XPG V1.0	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$5.50	 (5)		$43.99
+Patriot Viper 3	DDR3-2133	240-pin DIMM	11	2x4GB	8GB	$6.50	 (5)		$51.99
+Kingston	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (8)		
+Corsair Vengeance	DDR3-1600	240-pin DIMM	7	2x4GB	8GB	$12.56	 (8)		$100.51
+G.Skill Ripjaws X Series	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.12	 (8)		$40.99
+Patriot Intel Extreme Master, Limited Ed	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (8)		
+Kingston Beast	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.09	 (8)		$48.74
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.31	 (16)		$84.99
+G.Skill Ripjaws X Series	DDR3-1333	240-pin DIMM	9	1x8GB	8GB	$4.62	 (3)		$36.99
+Corsair Vengeance LPX	DDR4-2800	288-pin DIMM	16	4x4GB	16GB	$7.50	 (3)		$119.99
+G.Skill Ripjaws Series	DDR4-2400	288-pin DIMM	15	4x4GB	16GB	$6.56	 (3)		$104.99
+Crucial	DDR3-1600	240-pin DIMM	11	2x4GB	8GB	$5.62	 (3)		$44.99
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.50	 (3)		$43.99
+Corsair Vengeance	DDR3-1866	240-pin DIMM	10	4x8GB	32GB	$5.62	 (3)		$179.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$6.12	 (3)		$97.99
+G.Skill Sniper Gaming Series	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.62	 (3)		$89.99
+G.Skill Ripjaws Z Series	DDR3-1866	240-pin DIMM	10	4x8GB	32GB	$4.69	 (3)		$149.99
+G.Skill Ripjaws Series	DDR3-1333	240-pin DIMM	9	4x4GB	16GB	$5.00	 (3)		$79.99
+A-Data Premier Series	DDR3-1333	240-pin DIMM	9	2x8GB	16GB	$10.74	 (3)		$171.86
+G.Skill Ares Series	DDR3-2133	240-pin DIMM	10	2x8GB	16GB	$5.00	 (3)		$79.99
+G.Skill Sniper Series	DDR3-2133	240-pin DIMM	10	2x8GB	16GB	$5.00	 (3)		$79.99
+A-Data Gaming Series	DDR3-1600	240-pin DIMM	9	2x2GB	4GB		 (3)		
+Corsair Vengeance Pro	DDR3-1866	240-pin DIMM	9	4x8GB	32GB	$5.62	 (3)		$179.99
+Kingston Savage	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$7.25	 (3)		$57.99
+G.Skill Value Series	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$5.97	 (3)		$23.89
+Crucial Ballistix Sport XT	DDR3-1866	240-pin DIMM	10	2x4GB	8GB	$5.87	 (3)		$46.99
+A-Data XPG V2	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$6.87	 (3)		$109.99
+Corsair Dominator Platinum	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (3)		
+A-Data XPG V2	DDR3-1866	240-pin DIMM	10	2x4GB	8GB	$5.62	 (3)		$44.99
+Kingston	DDR3-1333	240-pin DIMM	9	2x2GB	4GB		 (3)		
+AMD R9 2400	DDR3-2400	240-pin DIMM	11	2x8GB	16GB	$6.81	 (3)		$108.99
+G.Skill Ripjaws X Series	DDR3-1866	240-pin DIMM	9	4x8GB	32GB	$5.00	 (3)		$159.99
+Corsair Vengeance Pro	DDR3-1600	240-pin DIMM	9	4x8GB	32GB	$6.85	 (3)		$219.15
+Corsair Dominator Platinum	DDR3-2133	240-pin DIMM	9	2x4GB	8GB	$11.25	 (3)		$89.99
+Corsair Dominator Platinum	DDR3-1600	240-pin DIMM	9	4x8GB	32GB	$6.84	 (3)		$219.00
+Corsair Dominator Platinum	DDR3-2133	240-pin DIMM	9	4x4GB	16GB		 (3)		
+Kingston HyperX T1	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (3)		
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x2GB	4GB	$8.25	 (3)		$32.99
+Patriot Viper 3	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$5.19	 (3)		$82.99
+Patriot Viper 3	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.12	 (3)		$81.99
+Patriot Viper 3	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$5.00	 (3)		$79.99
+Patriot Viper 3	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$7.83	 (3)		$125.33
+Kingston HyperX Fury Black	DDR3-1866	240-pin DIMM	10	1x4GB	4GB	$5.75	 (3)		$22.99
+Corsair	DDR3-1600	240-pin DIMM	11	1x8GB	8GB	$5.35	 (3)		$42.80
+Corsair	DDR3-1600	240-pin DIMM	11	2x8GB	16GB	$4.94	 (3)		$78.99
+Corsair	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$7.24	 (3)		$57.88
+Kingston Savage	DDR3-2400	240-pin DIMM	11	2x8GB	16GB	$6.50	 (3)		$103.99
+G.Skill Ares Series	DDR3-1333	240-pin DIMM	9	2x8GB	16GB	$4.69	 (3)		$74.99
+Corsair XMS3	DDR3-1333	240-pin DIMM	9	4x4GB	16GB	$5.44	 (3)		$86.99
+Kingston	DDR4-2666	288-pin DIMM	13	4x4GB	16GB	$11.25	 (3)		$179.99
+A-Data XPG V1.0	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$5.36	 (3)		$42.89
+Kingston Beast	DDR3-2400	240-pin DIMM	11	4x4GB	16GB		 (3)		
+G.Skill Ripjaws V Series	DDR4-2400	288-pin DIMM	15	2x8GB	16GB	$5.62	 (3)		$89.99
+Team Elite	DDR3-1600	240-pin DIMM	11	1x4GB	4GB	$4.50	 (3)		$17.99
+Patriot Viper 3	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$7.55	 (9)		$120.85
+PNY XLR8	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$6.74	 (15)		$53.93
+Corsair Dominator Platinum	DDR3-2133	240-pin DIMM	9	2x8GB	16GB	$8.44	 (6)		$134.99
+Crucial Ballistix Sport XT	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$5.00	 (6)		$79.99
+Team Vulcan	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$8.75	 (6)		$69.98
+Corsair Vengeance	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$5.00	 (10)		$79.98
+G.Skill Ripjaws X Series	DDR3-1866	240-pin DIMM	9	4x4GB	16GB	$5.62	 (6)		$89.99
+Corsair XMS3	DDR3-1600	240-pin DIMM	11	1x4GB	4GB	$5.89	 (6)		$23.56
+Corsair Dominator Platinum	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$7.81	 (6)		$124.99
+Patriot Viper 3	DDR3-1600	240-pin DIMM	10	1x4GB	4GB		 (6)		
+G.Skill Ripjaws Z Series	DDR3-2133	240-pin DIMM	11	2x8GB	16GB	$5.62	 (6)		$89.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.12	 (10)		$48.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.75	 (16)		$91.99
+Corsair Vengeance LP	DDR3-1600	240-pin DIMM	8	4x4GB	16GB	$9.37	 (7)		$149.99
+G.Skill Trident X Series	DDR3-2400	240-pin DIMM	10	4x8GB	32GB	$6.72	 (7)		$214.99
+G.Skill Value Series	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.62	 (7)		$44.99
+Team Elite Plus	DDR3-1600	240-pin DIMM	11	1x8GB	8GB	$5.00	 (7)		$39.98
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$6.25	 (13)		$24.99
+Corsair XMS3	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.37	 (14)		$42.99
+Crucial Ballistix Tactical	DDR3-1600	240-pin DIMM	8	1x8GB	8GB	$5.86	 (9)		$46.89
+Team Elite	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.00	 (4)		$39.99
+G.Skill Ares Series	DDR3-2400	240-pin DIMM	11	2x8GB	16GB	$5.24	 (4)		$83.89
+Corsair Vengeance Pro	DDR3-2133	240-pin DIMM	9	2x4GB	8GB	$9.62	 (4)		$76.97
+Mushkin Silverline	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$4.99	 (4)		$39.88
+G.Skill Trident X Series	DDR3-2400	240-pin DIMM	9	2x4GB	8GB		 (4)		
+Patriot Signature	DDR3-1600	240-pin DIMM	11	2x4GB	8GB	$4.75	 (4)		$37.99
+Kingston Blu Red Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (10)		
+G.Skill Ripjaws X Series	DDR3-1866	240-pin DIMM	10	1x8GB	8GB	$4.62	 (15)		$36.99
+Crucial	DDR4-2133	288-pin DIMM	15	2x8GB	16GB	$5.25	 (5)		$83.99
+Kingston HyperX	DDR3-1866	240-pin DIMM	9	1x4GB	4GB		 (5)		
+Corsair Vengeance	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.56	 (5)		$88.89
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	3x4GB	12GB	$6.00	 (5)		$71.99
+Corsair Vengeance Pro	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$5.12	 (5)		$81.99
+A-Data XPG V2	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.37	 (5)		$42.99
+Kingston	DDR3-1600	240-pin DIMM	10	2x8GB	16GB		 (5)		
+A-Data XPG V1.0	DDR3-1600	240-pin DIMM	11	2x8GB	16GB	$4.37	 (5)		$69.99
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.56	 (5)		$44.49
+Corsair XMS3	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.75	 (5)		$45.99
+Avexir Core series	DDR3-2133	240-pin DIMM	11	2x4GB	8GB		 (6)		
+A-Data XPG Gaming Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (6)		
+Crucial Ballistix Sport	DDR4-2400	288-pin DIMM	16	4x4GB	16GB	$6.56	 (6)		$104.95
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	2x2GB	4GB	$7.24	 (7)		$28.95
+G.Skill Ripjaws Z Series	DDR3-2400	240-pin DIMM	10	2x4GB	8GB	$5.86	 (7)		$46.89
+Kingston	DDR3-1600	240-pin DIMM	11	1x8GB	8GB	$4.50	 (7)		$35.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	10	4x8GB	32GB	$5.00	 (8)		$159.99
+Team Vulcan	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$7.50	 (10)		$59.98
+Corsair XMS3	DDR3-1600	240-pin DIMM	11	2x4GB	8GB	$5.62	 (9)		$44.99
+Crucial	DDR3-1600	240-pin DIMM	11	1x4GB	4GB	$4.97	 (9)		$19.89
+Kingston Beast	DDR3-2400	240-pin DIMM	11	2x8GB	16GB		 (8)		
+Corsair Vengeance LP	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$5.12	 (9)		$81.99
+Crucial Ballistix Sport	DDR3-1333	240-pin DIMM	9	1x8GB	8GB	$5.37	 (11)		$42.97
+Crucial	DDR4-2133	288-pin DIMM	15	4x4GB	16GB	$5.62	 (2)		$89.99
+G.Skill Ripjaws Series	DDR4-2133	288-pin DIMM	15	4x4GB	16GB	$6.25	 (2)		$99.99
+Corsair DOMINATOR Platinum	DDR4-2800	288-pin DIMM	16	4x4GB	16GB	$12.50	 (2)		$199.99
+Crucial	DDR4-2133	288-pin DIMM	15	1x8GB	8GB	$5.62	 (2)		$44.98
+G.Skill Ares Series	DDR3-2133	240-pin DIMM	10	4x4GB	16GB	$5.87	 (2)		$93.99
+Mushkin Stealth	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$3.94	 (2)		$62.99
+G.Skill Ripjaws 4 series	DDR4-2400	288-pin DIMM	14	4x4GB	16GB	$6.87	 (2)		$109.99
+EVGA Superclocked	DDR3-1600	240-pin DIMM	9	2x8GB	16GB		 (2)		
+Crucial	DDR3-1333	240-pin DIMM	9	1x8GB	8GB		 (2)		
+Corsair Vengeance	DDR3-1866	240-pin DIMM	9	4x4GB	16GB	$6.25	 (2)		$99.99
+Patriot Viper 3 Low Profile Red	DDR3-2133	240-pin DIMM	11	2x8GB	16GB	$6.12	 (2)		$97.99
+Corsair Dominator	DDR3-1600	240-pin DIMM	10	4x8GB	32GB	$11.56	 (2)		$369.99
+Corsair Vengeance	DDR3-1866	240-pin DIMM	9	4x4GB	16GB	$6.56	 (2)		$104.99
+Kingston HyperX Fury Black	DDR4-2133	288-pin DIMM	14	2x4GB	8GB	$6.75	 (2)		$53.99
+Kingston HyperX Fury Red	DDR3-1866	240-pin DIMM	10	1x8GB	8GB	$5.00	 (2)		$39.99
+G.Skill Ripjaws Series	DDR4-2400	288-pin DIMM	15	4x4GB	16GB	$6.56	 (2)		$104.99
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	1x2GB	2GB	$10.46	 (2)		$20.91
+Crucial Ballistix Smart Tracer	DDR3-1600	240-pin DIMM	8	2x2GB	4GB		 (2)		
+Mushkin Silverline	DDR3-1333	240-pin DIMM	9	1x8GB	8GB	$4.99	 (2)		$39.89
+G.Skill Ripjaws Z Series	DDR3-1600	240-pin DIMM	7	4x4GB	16GB	$5.94	 (2)		$94.99
+Corsair Vengeance LP	DDR3-1600	240-pin DIMM	7	1x4GB	4GB	$9.00	 (2)		$35.99
+Team Dark	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$4.75	 (2)		$37.99
+G.Skill Trident X Series	DDR3-2400	240-pin DIMM	10	4x4GB	16GB	$6.69	 (2)		$106.99
+G.Skill Ares Series	DDR3-1866	240-pin DIMM	10	4x8GB	32GB	$4.84	 (2)		$154.99
+Crucial Ballistix Tactical Tracer	DDR3-1866	240-pin DIMM	9	1x4GB	4GB	$8.50	 (2)		$33.99
+G.Skill Ripjaws Z Series	DDR3-2400	240-pin DIMM	10	8x8GB	64GB	$7.12	 (2)		$455.99
+Crucial Ballistix Tactical Tracer	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.25	 (2)		$49.99
+Kingston HyperX Beast	DDR3-1866	240-pin DIMM	10	4x8GB	32GB	$5.59	 (2)		$178.74
+Corsair Vengeance Pro	DDR3-2133	240-pin DIMM	9	2x4GB	8GB		 (2)		
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	10	2x8GB	16GB	$5.24	 (2)		$83.89
+Crucial Ballistix	DDR3-1600	240-pin DIMM	8	1x8GB	8GB	$5.62	 (2)		$44.99
+Patriot Viper 3	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.87	 (2)		$46.99
+G.Skill Ripjaws Series	DDR3-1333	240-pin DIMM	7	2x2GB	4GB	$6.75	 (2)		$26.99
+G.Skill Sniper	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.62	 (2)		$44.99
+Mushkin Blackline	DDR3-2133	240-pin DIMM	10	2x8GB	16GB	$12.68	 (2)		$202.95
+Mushkin Blackline	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$8.75	 (2)		$139.95
+Patriot Viper 3 Low Profile Blue	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.12	 (2)		$48.99
+Kingston Savage	DDR3-1866	240-pin DIMM	9	1x8GB	8GB	$5.62	 (2)		$44.99
+Patriot Viper 3 Low Profile Red	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.37	 (2)		$42.99
+Mushkin Blackline	DDR3-2400	240-pin DIMM	11	2x8GB	16GB	$5.44	 (2)		$86.99
+Mushkin Essentials	DDR3-1333	240-pin DIMM	9	2x2GB	4GB	$8.15	 (2)		$32.59
+Patriot Signature Line	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.87	 (2)		$46.99
+A-Data XPG V2	DDR3-2400	240-pin DIMM	11	2x8GB	16GB	$6.65	 (2)		$106.43
+GeIL EVO Veloce Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.12	 (2)		$40.99
+Kingston	DDR3-1600	240-pin DIMM	11	2x8GB	16GB	$4.49	 (2)		$71.89
+Crucial Ballistix Tactical	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$5.81	 (2)		$92.99
+Patriot Viper 3	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.12	 (2)		$81.99
+G.Skill Ripjaws X Series	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$5.47	 (2)		$21.89
+Kingston ValueRAM	DDR2-800	240-pin DIMM	6	2x2GB	4GB	$8.16	 (2)		$32.64
+Mushkin Redline	DDR3-1600	240-pin DIMM	7	2x4GB	8GB		 (2)		
+Patriot Intel Extreme Master, Limited Ed	DDR3-1600	240-pin DIMM	9	4x8GB	32GB		 (2)		
+G.Skill Ripjaws Z Series	DDR3-2133	240-pin DIMM	11	4x8GB	32GB	$5.62	 (2)		$179.99
+Patriot Viper 3	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$5.31	 (2)		$85.00
+Mushkin Blackline	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (2)		
+Corsair Vengeance LP	DDR3-1600	240-pin DIMM	10	1x8GB	8GB	$5.25	 (2)		$41.99
+Kingston HyperX Fury Blue	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$4.81	 (2)		$76.89
+Kingston HyperX Fury Black	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.25	 (2)		$41.99
+Kingston HyperX Fury White	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$5.12	 (2)		$81.99
+Kingston HyperX Fury Red	DDR3-1600	240-pin DIMM	10	2x8GB	16GB	$4.78	 (2)		$76.49
+Kingston	DDR3-1866	240-pin DIMM	9	2x4GB	8GB		 (2)		
+Kingston Savage	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$5.12	 (2)		$40.99
+G.Skill Ripjaws Z Series	DDR3-1866	240-pin DIMM	10	4x8GB	32GB	$4.84	 (2)		$154.99
+G.Skill Ripjaws Z Series	DDR3-2133	240-pin DIMM	9	4x4GB	16GB	$6.00	 (2)		$95.99
+Kingston Beast	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$7.25	 (2)		$57.99
+Kingston Predator	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$7.47	 (2)		$59.74
+Team Elite	DDR3-1333	240-pin DIMM	9	1x4GB	4GB		 (2)		
+Corsair Dominator Platinum	DDR3-2400	240-pin DIMM	11	4x8GB	32GB	$7.81	 (2)		$249.99
+Mushkin Redline	DDR3-1866	240-pin DIMM	9	2x4GB	8GB		 (2)		
+Kingston HyperX	DDR3-1866	240-pin DIMM	9	2x2GB	4GB		 (2)		
+Apotop	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (2)		
+G.Skill Ripjaws 4 series	DDR4-2400	288-pin DIMM	15	4x4GB	16GB		 (2)		
+Kingston Beast	DDR3-2133	240-pin DIMM	11	2x8GB	16GB		 (2)		
+A-Data XPG V1.0	DDR3-1600	240-pin DIMM	11	2x4GB	8GB	$5.00	 (2)		$39.99
+Team Elite Plus	DDR3-1333	240-pin DIMM	9	1x8GB	8GB	$8.75	 (2)		$69.98
+Kingston FURY	DDR4-2666	288-pin DIMM	15	2x4GB	8GB	$7.50	 (2)		$59.99
+PNY	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$12.43	 (2)		$99.43
+Team Zeus Blue	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$8.50	 (2)		$67.97
+Kingston Value	DDR3-1333	240-pin DIMM	9	3x2GB	6GB		 (2)		
+G.Skill TridentX	DDR3-1866	240-pin DIMM	8	2x8GB	16GB	$6.75	 (2)		$107.99
+G.Skill Ripjaws Series	DDR3-1333	240-pin DIMM	9	2x2GB	4GB	$6.75	 (2)		$26.99
+Corsair Vengeance LPX	DDR4-2400	288-pin DIMM	14	4x4GB	16GB	$6.50	 (2)		$103.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	4x8GB	32GB	$5.16	 (8)		$164.99
+Patriot	DDR3-1600	240-pin DIMM	11	1x8GB	8GB		 (7)		
+Corsair	DDR3-1333	240-pin DIMM	9	2x2GB	4GB	$7.00	 (7)		$27.99
+Corsair	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.00	 (7)		$39.99
+Corsair Vengeance LP	DDR3-1600	240-pin DIMM	9	1x8GB	8GB	$5.62	 (6)		$44.98
+G.Skill Ripjaws Series	DDR4-2400	288-pin DIMM	15	4x8GB	32GB	$5.78	 (3)		$184.99
+Patriot Viper 3	DDR3-1600	240-pin DIMM	10	1x8GB	8GB	$10.62	 (3)		$85.00
+G.Skill Sniper Series	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.62	 (3)		$89.99
+G.Skill NS	DDR3-1333	240-pin DIMM	9	2x2GB	4GB	$6.50	 (3)		$25.99
+Corsair Dominator GT	DDR3-2133	240-pin DIMM	9	2x4GB	8GB	$21.25	 (3)		$169.99
+Corsair Vengeance	DDR3-2133	240-pin DIMM	11	4x4GB	16GB	$7.19	 (3)		$114.99
+Team Xtreem LV	DDR3-2400	240-pin DIMM	10	2x8GB	16GB		 (3)		
+Patriot Viper 3 Low Profile Red	DDR3-1866	240-pin DIMM	10	2x4GB	8GB	$5.62	 (3)		$44.99
+G.Skill Ares Series	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$5.87	 (3)		$46.99
+Patriot Gamer 2 Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (3)		
+Patriot Viper Xtreme Series, Division 2	DDR3-1600	240-pin DIMM	8	2x4GB	8GB		 (3)		
+Corsair Vengeance	DDR3-2133	240-pin DIMM	11	2x4GB	8GB	$7.12	 (3)		$56.99
+Crucial Ballistix Sport XT	DDR3-1866	240-pin DIMM	10	1x8GB	8GB	$5.25	 (3)		$41.97
+G.Skill Value Series	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$5.97	 (3)		$23.89
+AMD RG2133 Gamer Series	DDR3-2133	240-pin DIMM	10	4x4GB	16GB	$16.87	 (3)		$269.99
+G.Skill Value Series	DDR3-1333	240-pin DIMM	9	1x8GB	8GB	$4.75	 (3)		$37.99
+Team Vulcan	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$7.50	 (3)		$119.98
+Team Xtreem Dark Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$8.75	 (3)		$69.98
+G.Skill Sniper Gaming Series	DDR3-1866	240-pin DIMM	10	4x8GB	32GB	$4.69	 (3)		$149.99
+Crucial	DDR3-1600	240-pin DIMM	11	2x4GB	8GB	$5.00	 (3)		$39.99
+G.Skill Value	DDR3-1600	240-pin DIMM	11	2x4GB	8GB	$5.62	 (3)		$44.99
+Kingston Beast	DDR3-2400	240-pin DIMM	11	2x8GB	16GB	$6.44	 (3)		$102.99
+Crucial Ballistix Tactical	DDR3-1600	240-pin DIMM	8	4x8GB	32GB	$5.62	 (3)		$179.99
+Mushkin Silverline	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$7.04	 (3)		$56.33
+Kingston Beast	DDR3-1866	240-pin DIMM	9	2x4GB	8GB		 (3)		
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	11	4x4GB	16GB	$5.94	 (3)		$94.99
+Crucial Ballistix Tactical	DDR3-1600	240-pin DIMM	8	4x4GB	16GB	$6.25	 (3)		$99.99
+Kingston Black Series	DDR3-1600	240-pin DIMM	9	1x4GB	4GB		 (3)		
+Corsair XMS3	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$6.75	 (3)		$107.99
+Corsair Vengeance Pro	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$6.50	 (5)		$51.99
+Patriot Intel Extreme Master, Limited Ed	DDR3-1600	240-pin DIMM	9	2x8GB	16GB		 (5)		
+Patriot Viper 3	DDR3-1600	240-pin DIMM	10	1x8GB	8GB		 (5)		
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$6.00	 (5)		$23.99
+Corsair XMS	DDR3-1600	240-pin DIMM	11	1x8GB	8GB	$5.00	 (5)		$39.99
+G.Skill Ripjaws Series	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.25	 (16)		$41.99
+G.Skill Ripjaws Series	DDR4-2666	288-pin DIMM	15	4x4GB	16GB	$7.50	 (4)		$119.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.69	 (4)		$90.99
+AMD Radeon R9 Gamer Series	DDR3-2133	240-pin DIMM	10	2x4GB	8GB		 (4)		
+Avexir Core Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (4)		
+PNY Optima	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$6.86	 (4)		$27.43
+Kingston HyperX	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$14.23	 (4)		$227.72
+Corsair Dominator Platinum	DDR3-1600	240-pin DIMM	8	2x4GB	8GB	$15.11	 (4)		$120.91
+Team Vulcan	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$8.75	 (4)		$69.98
+Kingston	DDR3-1866	240-pin DIMM	10	2x4GB	8GB		 (4)		
+Patriot Viper 3	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.62	 (4)		$89.99
+Corsair Dominator Platinum	DDR3-1866	240-pin DIMM	10	4x8GB	32GB	$7.34	 (4)		$234.99
+Crucial Ballistix Sport	DDR4-2400	288-pin DIMM	16	2x4GB	8GB	$6.62	 (4)		$52.99
+Kingston Blu Red Series	DDR3-1600	240-pin DIMM	10	1x8GB	8GB		 (4)		
+Corsair Vengeance	DDR3-1600	240-pin DIMM	8	2x4GB	8GB	$8.62	 (4)		$68.99
+Kingston Black Series	DDR3-1333	240-pin DIMM	9	2x4GB	8GB		 (4)		
+Kingston XMP Blu Red Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (9)		
+Corsair Vengeance LPX	DDR4-2666	288-pin DIMM	16	4x4GB	16GB	$6.56	 (8)		$104.99
+Corsair	DDR3-1600	240-pin DIMM	11	2x4GB	8GB	$5.62	 (6)		$44.97
+PNY XLR8	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$7.52	 (6)		$60.19
+G.Skill Value Series	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.62	 (5)		$44.99
+Crucial Ballistix Sport	DDR4-2400	288-pin DIMM	16	4x8GB	32GB	$6.62	 (5)		$211.98
+A-Data Premier Series	DDR3-1333	240-pin DIMM	9	2x4GB	8GB		 (5)		
+G.Skill Ripjaws Z Series	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.44	 (4)		$86.99
+Crucial Ballistix Elite	DDR3-1866	240-pin DIMM	9	1x8GB	8GB	$6.25	 (4)		$49.99
+Kingston Blu Red Series	DDR3-1600	240-pin DIMM	10	2x8GB	16GB		 (4)		
+Team Zeus Red	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$8.62	 (4)		$68.97
+Kingston Blu Red Series	DDR3-1333	240-pin DIMM	9	2x4GB	8GB		 (4)		
+Corsair Vengeance	DDR3-1866	240-pin DIMM	10	4x8GB	32GB	$5.62	 (3)		$179.99
+Kingston HyperX Fury Black	DDR4-2133	288-pin DIMM	14	2x8GB	16GB	$6.06	 (3)		$96.99
+G.Skill Ripjaws Z Series	DDR3-1600	240-pin DIMM	8	4x4GB	16GB	$5.94	 (3)		$94.99
+Kingston	DDR3-1333	240-pin DIMM	9	1x8GB	8GB	$4.61	 (3)		$36.89
+Crucial	DDR3-1600	240-pin DIMM	11	2x8GB	16GB	$4.68	 (3)		$74.93
+Kingston	DDR3-1600	240-pin DIMM	11	1x2GB	2GB	$5.66	 (3)		$11.32
+AMD Performance Edition	DDR3-1866	240-pin DIMM	9	2x8GB	16GB		 (3)		
+Kingston HyperX Blu	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$15.22	 (3)		$60.88
+Patriot Signature	DDR3-1333	240-pin DIMM	9	2x4GB	8GB		 (3)		
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	10	2x4GB	8GB		 (3)		
+G.Skill NS Series	DDR3-1600	240-pin DIMM	11	1x4GB	4GB	$5.00	 (3)		$19.99
+Kingston Beast	DDR3-2133	240-pin DIMM	11	2x4GB	8GB		 (3)		
+Crucial Ballistix	DDR3-1600	240-pin DIMM	8	2x4GB	8GB		 (3)		
+Kingston	DDR3-1600	240-pin DIMM	11	1x4GB	4GB	$5.12	 (3)		$20.49
+Corsair Vengeance LP	DDR3-2133	240-pin DIMM	11	2x4GB	8GB	$9.56	 (5)		$76.49
+Crucial	DDR4-2133	288-pin DIMM	15	4x8GB	32GB	$5.16	 (2)		$164.99
+Corsair DOMINATOR Platinum	DDR4-2666	288-pin DIMM	15	4x4GB	16GB	$11.56	 (2)		$184.99
+Crucial	DDR3-1600	240-pin DIMM	11	2x8GB	16GB	$7.46	 (2)		$119.39
+Kingston ValueRAM	DDR3-1333	240-pin DIMM	9	2x2GB	4GB		 (2)		
+Patriot Signature	DDR3-1600	240-pin DIMM	11	1x8GB	8GB	$4.37	 (2)		$34.99
+G.Skill Ripjaws Z Series	DDR3-1600	240-pin DIMM	10	4x8GB	32GB	$4.53	 (2)		$144.99
+G.Skill Ripjaws Z Series	DDR3-1600	240-pin DIMM	10	8x8GB	64GB	$4.69	 (2)		$299.99
+Kingston	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$4.87	 (2)		$38.99
+G.Skill Ares Series	DDR3-2133	240-pin DIMM	9	2x4GB	8GB	$6.00	 (2)		$47.99
+G.Skill Ripjaws Z Series	DDR3-2400	240-pin DIMM	10	4x8GB	32GB	$7.19	 (2)		$229.99
+Mushkin Essentials	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$4.75	 (2)		$18.99
+Corsair Vengeance Pro	DDR3-2400	240-pin DIMM	11	4x8GB	32GB	$6.13	 (2)		$196.29
+A-Data XPG Gaming Series v2.0	DDR3-1600	240-pin DIMM	9	2x2GB	4GB		 (2)		
+GeIL EVO POTENZA	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (2)		
+Corsair XMS	DDR3-1333	240-pin DIMM	9	2x8GB	16GB	$5.00	 (2)		$79.99
+Crucial Ballistix Sport XT	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.56	 (2)		$88.99
+Corsair XMS3	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$5.72	 (2)		$22.89
+G.Skill Ripjaws Series	DDR3-1600	240-pin DIMM	9	4x2GB	8GB	$6.62	 (2)		$52.99
+Kingston Savage	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$5.50	 (2)		$87.99
+Kingston Blu	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (2)		
+G.Skill Ripjaws X Series	DDR3-1333	240-pin DIMM	8	2x2GB	4GB	$6.75	 (2)		$26.99
+Corsair Dominator Platinum	DDR3-2400	240-pin DIMM	11	2x8GB	16GB	$7.81	 (2)		$124.99
+VisionTek	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$12.62	 (2)		$100.99
+Corsair Vengeance	DDR3-2133	240-pin DIMM	10	4x8GB	32GB	$7.50	 (2)		$239.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.75	 (2)		$45.99
+Kingston	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (2)		
+Corsair XMS3	DDR3-1600	240-pin DIMM	9	2x2GB	4GB	$8.25	 (2)		$32.99
+Mushkin Blackline	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$8.74	 (2)		$69.89
+Patriot	DDR3-1600	240-pin DIMM	10	2x4GB	8GB	$5.62	 (2)		$44.99
+G.Skill Sniper Series	DDR3-1600	240-pin DIMM	7	2x4GB	8GB		 (2)		
+Corsair Vengeance	DDR3-2400	240-pin DIMM	10	4x4GB	16GB		 (2)		
+Kingston HyperX Fury Blue	DDR3-1866	240-pin DIMM	10	1x4GB	4GB	$5.12	 (2)		$20.49
+A-Data XPG Gaming Series	DDR3-1600	240-pin DIMM	9	2x8GB	16GB		 (2)		
+G.Skill Value	DDR3-1600	240-pin DIMM	11	1x4GB	4GB		 (2)		
+Kingston Savage	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.00	 (2)		$47.99
+G.Skill NS Series	DDR3-1600	240-pin DIMM	11	2x4GB	8GB	$4.50	 (2)		$35.99
+Samsung	DDR3-1333	240-pin DIMM	9	2x2GB	4GB		 (2)		
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$5.75	 (2)		$22.99
+Crucial Ballistix Sport	DDR3-1600	240-pin DIMM	9	4x4GB	16GB	$5.87	 (2)		$93.99
+Kingston Beast	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$5.03	 (2)		$80.49
+Kingston	DDR3-1866	240-pin DIMM	11	2x4GB	8GB		 (2)		
+G.Skill Ares Series	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$5.50	 (2)		$21.99
+Corsair Vengeance LPX	DDR4-2400	288-pin DIMM	14	2x4GB	8GB	$6.75	 (2)		$53.99
+Corsair XMS3	DDR3-2000	240-pin DIMM	9	2x4GB	8GB	$12.50	 (2)		$99.99
+A-Data	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$13.17	 (6)		$105.39
+Corsair XMS3	DDR3-1600	240-pin DIMM	9	2x2GB	4GB	$8.25	 (4)		$32.99
+G.Skill Ripjaws Series	DDR4-2666	288-pin DIMM	15	4x8GB	32GB	$6.72	 (1)		$214.99
+Crucial Ballistix Tactical	DDR3-1600	240-pin DIMM	8	1x8GB	8GB	$6.87	 (1)		$54.99
+Corsair Vengeance LPX	DDR4-2666	288-pin DIMM	15	4x4GB	16GB	$7.19	 (1)		$114.99
+G.Skill Ripjaws Series	DDR4-2133	288-pin DIMM	15	4x8GB	32GB	$5.62	 (1)		$179.99
+G.Skill Ripjaws Series	DDR4-2133	288-pin DIMM	15	4x4GB	16GB	$6.25	 (1)		$99.99
+G.Skill Value	DDR4-2133	288-pin DIMM	15	4x4GB	16GB	$5.62	 (1)		$89.99
+G.Skill Ripjaws Series	DDR4-3000	288-pin DIMM	15	4x4GB	16GB	$8.44	 (1)		$134.99
+G.Skill Value Series	DDR4-2133	288-pin DIMM	15	4x8GB	32GB	$5.31	 (1)		$169.99
+GeIL EVO POTENZA	DDR3-2133	240-pin DIMM	11	2x4GB	8GB		 (1)		
+Corsair Dominator Platinum	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$9.87	 (1)		$78.99
+Kingston	DDR3-1333	240-pin DIMM	9	1x2GB	2GB		 (1)		
+G.Skill Ripjaws V Series	DDR4-2400	288-pin DIMM	14	2x16GB	32GB	$7.66	 (1)		$244.99
+Crucial	DDR3-1333	240-pin DIMM	9	2x4GB	8GB		 (1)		
+Team Elite	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$5.00	 (1)		$19.99
+Patriot	DDR3-1333	240-pin DIMM	9	2x2GB	4GB		 (1)		
+GeIL Enhance CORSA	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (1)		
+Corsair Dominator	DDR3-1600	240-pin DIMM	8	6x2GB	12GB		 (1)		
+Corsair Dominator GT	DDR3-1600	240-pin DIMM	7	2x2GB	4GB		 (1)		
+G.Skill Ripjaws Series	DDR4-2400	288-pin DIMM	15	4x4GB	16GB		 (1)		
+Patriot Gamer 2 Series	DDR3-1600	240-pin DIMM	9	1x8GB	8GB		 (1)		
+Corsair Vengeance LPX	DDR4-3000	288-pin DIMM	15	4x4GB	16GB	$7.81	 (1)		$124.99
+Corsair Vengeance LPX	DDR4-2666	288-pin DIMM	16	4x4GB	16GB	$8.40	 (1)		$134.44
+G.Skill Ripjaws 4 series	DDR4-2133	288-pin DIMM	15	2x8GB	16GB	$5.62	 (1)		$89.99
+Crucial	DDR4-2133	288-pin DIMM	15	2x4GB	8GB	$5.75	 (1)		$45.99
+Kingston HyperX Fury Black	DDR4-2133	288-pin DIMM	14	1x8GB	8GB	$6.08	 (1)		$48.65
+Kingston Value	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$17.75	 (1)		$70.99
+GeIL EVO CORSA Series	DDR3-1333	240-pin DIMM	9	2x8GB	16GB		 (1)		
+G.Skill Ripjaws V Series	DDR4-3000	288-pin DIMM	15	4x16GB	64GB	$8.44	 (1)		$539.99
+G.Skill Ripjaws Z Series	DDR3-1866	240-pin DIMM	9	8x4GB	32GB	$5.78	 (1)		$184.99
+G.Skill Ripjaws Z Series	DDR3-2133	240-pin DIMM	11	4x4GB	16GB	$6.00	 (1)		$95.99
+OCZ Gold	DDR3-1600	240-pin DIMM	8	6x2GB	12GB		 (1)		
+G.Skill Ares Series	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$4.50	 (1)		$71.99
+Kingston HyperX Fury White	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.25	 (1)		$41.99
+Corsair Vengeance LPX	DDR4-2133	288-pin DIMM	13	4x4GB	16GB	$6.25	 (1)		$99.99
+Kingston	DDR3-1600	240-pin DIMM	9	2x2GB	4GB		 (1)		
+Mushkin Blackline	DDR3-2400	240-pin DIMM	11	2x4GB	8GB		 (1)		
+Corsair Vengeance	DDR3-1600	240-pin DIMM	8	4x2GB	8GB		 (1)		
+G.Skill Sniper Gaming Series	DDR3-2133	240-pin DIMM	11	4x4GB	16GB	$5.62	 (1)		$89.99
+Mushkin Blackline	DDR3-2400	240-pin DIMM	11	2x4GB	8GB		 (1)		
+Pareema	DDR3-1333	240-pin DIMM	9	2x4GB	8GB		 (1)		
+Pareema	DDR3-1333	240-pin DIMM	9	2x2GB	4GB	$6.75	 (1)		$26.99
+G.Skill Trident X Series	DDR3-1600	240-pin DIMM	7	4x8GB	32GB		 (1)		
+Crucial Ballistix Elite	DDR3-1600	240-pin DIMM	8	1x4GB	4GB	$6.69	 (1)		$26.75
+G.Skill Ripjaws Z Series	DDR3-2133	240-pin DIMM	9	4x2GB	8GB	$7.50	 (1)		$59.99
+Corsair Dominator	DDR3-1866	240-pin DIMM	9	4x4GB	16GB		 (1)		
+Mushkin Redline	DDR3-1866	240-pin DIMM	9	2x8GB	16GB		 (1)		
+Crucial Ballistix Sport LT	DDR4-2400	288-pin DIMM	16	2x4GB	8GB	$7.25	 (1)		$57.99
+Corsair Dominator	DDR3-1600	240-pin DIMM	7	4x4GB	16GB		 (1)		
+Corsair Dominator GT	DDR3-2133	240-pin DIMM	9	4x4GB	16GB		 (1)		
+Crucial Ballistix Smart Tracer	DDR3-1600	240-pin DIMM	8	1x4GB	4GB	$8.25	 (1)		$32.99
+G.Skill Trident X Series	DDR3-2666	240-pin DIMM	11	2x8GB	16GB	$12.50	 (1)		$199.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$8.39	 (1)		$33.58
+Avexir Core Series	DDR3-1600	240-pin DIMM	11	2x4GB	8GB		 (1)		
+Avexir Core Series	DDR3-1600	240-pin DIMM	11	1x8GB	8GB	$5.87	 (1)		$46.99
+Avexir Core Series	DDR3-2133	240-pin DIMM	11	2x8GB	16GB	$6.25	 (1)		$99.99
+Kingston XMP 10th Anniversary Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (1)		
+Kingston HyperX 10th Anniversary Series	DDR3-1600	240-pin DIMM	9	1x4GB	4GB		 (1)		
+Avexir Blitz	DDR3-1600	240-pin DIMM	9	2x8GB	16GB		 (1)		
+Avexir Blitz	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (1)		
+Patriot	DDR3-1600	240-pin DIMM	11	1x4GB	4GB	$5.00	 (1)		$19.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.75	 (1)		$53.99
+Corsair Dominator Platinum	DDR3-2666	240-pin DIMM	12	2x4GB	8GB	$17.50	 (1)		$139.99
+Crucial Ballistix Elite	DDR3-2000	240-pin DIMM	9	1x4GB	4GB		 (1)		
+GeIL Evo Two	DDR3-1333	240-pin DIMM	9	4x8GB	32GB		 (1)		
+G.Skill Ares Series	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$5.12	 (1)		$40.99
+G.Skill Ares Series	DDR3-1600	240-pin DIMM	8	4x4GB	16GB	$6.06	 (1)		$96.99
+G.Skill Ares Series	DDR3-1333	240-pin DIMM	9	4x4GB	16GB	$5.19	 (1)		$82.99
+Mushkin Blackline	DDR3-1600	240-pin DIMM	9	4x4GB	16GB		 (1)		
+Corsair ValueSelect	DDR3-1600	240-pin DIMM	11	1x4GB	4GB	$7.74	 (1)		$30.94
+Team Dark	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.00	 (1)		$39.99
+G.Skill Ripjaws X Series	DDR3-1866	240-pin DIMM	10	4x8GB	32GB	$5.00	 (1)		$159.99
+G.Skill Ripjaws Z Series	DDR3-2133	240-pin DIMM	9	4x8GB	32GB	$5.62	 (1)		$179.99
+GeIL SUPER LUCE	DDR4-3000	288-pin DIMM	16	4x4GB	16GB	$8.12	 (1)		$129.99
+Crucial Ballistix Tactical Tracer	DDR3-1866	240-pin DIMM	9	1x4GB	4GB	$8.50	 (1)		$33.99
+Silicon Power Xpower	DDR3-2400	240-pin DIMM	11	2x4GB	8GB	$13.87	 (1)		$110.99
+G.Skill Ripjaws Z Series	DDR3-2133	240-pin DIMM	11	4x8GB	32GB	$6.41	 (1)		$204.99
+Avexir Blitz1.1	DDR3-2133	240-pin DIMM	9	2x4GB	8GB	$7.50	 (1)		$59.99
+G.Skill Ripjaws Series	DDR3-1600	240-pin DIMM	8	3x2GB	6GB		 (1)		
+PNY	DDR3-2133	240-pin DIMM	10	2x4GB	8GB	$6.86	 (1)		$54.90
+G.Skill Ripjaws Z Series	DDR3-2133	240-pin DIMM	11	8x8GB	64GB		 (1)		
+Kingston HyperX	DDR3-1600	240-pin DIMM	9	1x2GB	2GB		 (1)		
+G.Skill Ripjaws Series	DDR3-1066	240-pin DIMM	7	2x4GB	8GB	$5.00	 (1)		$39.99
+Kingston Blu	DDR3-1333	240-pin DIMM	9	2x2GB	4GB		 (1)		
+Mushkin Stealth	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$4.62	 (1)		$73.99
+Crucial	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$8.75	 (1)		$34.99
+Kingston HyperX Predator	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.80	 (1)		$92.74
+Crucial Ballistix Tactical Tracer	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$6.25	 (1)		$49.98
+Crucial Ballistix	DDR3-1866	240-pin DIMM	9	1x4GB	4GB	$6.50	 (1)		$25.99
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	10	4x8GB	32GB	$5.00	 (1)		$159.99
+Corsair XMS3	DDR3-1333	240-pin DIMM	9	4x2GB	8GB		 (1)		
+G.Skill Ares Series	DDR3-2400	240-pin DIMM	11	4x4GB	16GB	$5.87	 (1)		$93.99
+G.Skill Ripjaws X Series	DDR3-2400	240-pin DIMM	11	4x4GB	16GB	$5.87	 (1)		$93.99
+Kingston HyperX Blu	DDR3-1600	240-pin DIMM	9	2x2GB	4GB		 (1)		
+G.Skill Trident X Series	DDR3-2600	240-pin DIMM	10	2x4GB	8GB		 (1)		
+EVGA Superclocked	DDR3-1866	240-pin DIMM	9	2x8GB	16GB		 (1)		
+G.Skill Trident	DDR3-1600	240-pin DIMM	8	2x2GB	4GB	$7.75	 (1)		$30.99
+G.Skill	DDR3-1333	240-pin DIMM	8	2x2GB	4GB	$7.00	 (1)		$27.99
+G.Skill Ripjaws Series	DDR3-1600	240-pin DIMM	7	2x2GB	4GB	$6.50	 (1)		$25.99
+Corsair Dominator GT	DDR3-1600	240-pin DIMM	9	3x4GB	12GB	$10.42	 (1)		$124.99
+Patriot Gamer Series	DDR3-1600	240-pin DIMM	9	2x2GB	4GB		 (1)		
+G.Skill Ripjaws Series	DDR3-1333	240-pin DIMM	8	2x2GB	4GB	$6.75	 (1)		$26.99
+Kingston HyperX Blu	DDR3-1600	240-pin DIMM	9	1x2GB	2GB		 (1)		
+Mushkin Silverline	DDR3-1333	240-pin DIMM	9	1x4GB	4GB	$5.22	 (1)		$20.89
+Corsair XMS3	DDR3-1333	240-pin DIMM	8	2x2GB	4GB	$9.75	 (1)		$38.99
+G.Skill Ripjaws X Series	DDR3-2400	240-pin DIMM	11	4x8GB	32GB	$5.16	 (1)		$164.99
+GeIL Pristine	DDR3-1333	240-pin DIMM	9	1x4GB	4GB		 (1)		
+Corsair Vengeance	DDR3-2133	240-pin DIMM	11	4x4GB	16GB	$6.87	 (1)		$109.99
+A-Data XPG™ Gaming v2.0 Series	DDR3-2400	240-pin DIMM	11	2x4GB	8GB		 (1)		
+Crucial Ballistix Sport XT	DDR3-1866	240-pin DIMM	10	4x8GB	32GB	$4.96	 (1)		$158.77
+Mushkin Stealth	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.37	 (1)		$42.99
+Corsair Dominator Platinum	DDR3-1600	240-pin DIMM	7	4x4GB	16GB	$12.06	 (1)		$192.99
+Mushkin Redline	DDR3-2400	240-pin DIMM	10	2x8GB	16GB		 (1)		
+Mushkin Redline	DDR3-2133	240-pin DIMM	9	2x4GB	8GB		 (1)		
+Avexir Core Series	DDR3-1600	240-pin DIMM	9	4x4GB	16GB		 (1)		
+G.Skill Trident X Series	DDR3-2666	240-pin DIMM	12	2x8GB	16GB	$8.00	 (1)		$127.99
+G.Skill ECO Series	DDR3-1600	240-pin DIMM	9	2x2GB	4GB	$7.75	 (1)		$30.99
+Patriot Viper 3 Low Profile Blue	DDR3-1866	240-pin DIMM	10	2x8GB	16GB		 (1)		
+Kingston HyperX	DDR3-1866	240-pin DIMM	9	4x4GB	16GB		 (1)		
+Crucial Ballistix Sport XT	DDR3-1866	240-pin DIMM	10	1x4GB	4GB	$6.34	 (1)		$25.35
+Crucial Ballistix Sport XT	DDR3-1866	240-pin DIMM	10	4x4GB	16GB	$5.75	 (1)		$91.98
+Kingston Savage	DDR3-2400	240-pin DIMM	11	1x8GB	8GB	$6.62	 (1)		$52.99
+Mushkin Blackline	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$5.62	 (1)		$44.99
+Team Xtreem	DDR3-2666	240-pin DIMM	11	2x8GB	16GB		 (1)		
+Kingston	DDR3-2133	240-pin DIMM	11	2x4GB	8GB	$19.99	 (1)		$159.92
+Mushkin Redline	DDR3-1866	240-pin DIMM	10	2x8GB	16GB		 (1)		
+G.Skill Ripjaws Series	DDR3-1600	240-pin DIMM	8	3x4GB	12GB		 (1)		
+Corsair XMS3	DDR3-1333	240-pin DIMM	9	1x8GB	8GB	$5.36	 (1)		$42.89
+Corsair XMS3	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$6.00	 (1)		$23.99
+AMD	DDR3-1866	240-pin DIMM	9	2x4GB	8GB		 (1)		
+Crucial Ballistix Sport	DDR3-1333	240-pin DIMM	9	2x2GB	4GB		 (1)		
+Corsair XMS3	DDR3-1333	240-pin DIMM	9	3x4GB	12GB	$7.63	 (1)		$91.54
+Crucial Ballistix Smart Tracer	DDR3-1600	240-pin DIMM	8	2x4GB	8GB	$8.12	 (1)		$64.99
+G.Skill Ares Series	DDR3-2133	240-pin DIMM	11	2x8GB	16GB	$4.94	 (1)		$78.99
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	11	4x8GB	32GB	$5.00	 (1)		$159.99
+Patriot Viper 3 Low Profile Red	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.00	 (1)		$79.99
+Mushkin ECO2	DDR3-1600	240-pin DIMM	9	2x8GB	16GB	$4.31	 (1)		$68.99
+Crucial Ballistix Sport	DDR3-1600	204-pin SODIMM	9	1x4GB	4GB	$5.80	 (1)		$23.19
+Corsair Dominator Platinum	DDR3-2133	240-pin DIMM	9	2x4GB	8GB		 (1)		
+A-Data XPG Gaming Series	DDR3-1600	240-pin DIMM	9	1x8GB	8GB		 (1)		
+G.Skill NS	DDR3-1333	240-pin DIMM	9	2x2GB	4GB	$6.50	 (1)		$25.99
+Patriot Gamer 2 Series	DDR3-1333	240-pin DIMM	9	2x4GB	8GB		 (1)		
+Team Dark Series	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$8.49	 (1)		$67.89
+A-Data XPG V2	DDR3-1866	240-pin DIMM	10	2x8GB	16GB	$5.00	 (1)		$79.99
+Pareema	DDR3-1600	240-pin DIMM	9	2x4GB	8GB		 (1)		
+Patriot Viper 3	DDR3-2133	240-pin DIMM	11	2x8GB	16GB		 (1)		
+Kingston	DDR3-1866	240-pin DIMM	10	2x8GB	16GB		 (1)		
+Corsair Vengeance Pro	DDR3-1600	240-pin DIMM	9	4x8GB	32GB	$5.78	 (1)		$184.99
+Patriot Viper 3	DDR3-2133	240-pin DIMM	11	4x4GB	16GB	$5.62	 (1)		$89.99
+Kingston	DDR3-1600	240-pin DIMM	10	2x8GB	16GB		 (1)		
+Corsair Dominator Platinum	DDR3-2133	240-pin DIMM	8	2x4GB	8GB	$18.75	 (1)		$149.99
+GeIL EVO VELOCE	DDR3-1866	240-pin DIMM	9	2x4GB	8GB		 (1)		
+G.Skill Ripjaws X Series	DDR3-1333	240-pin DIMM	7	4x4GB	16GB	$5.94	 (1)		$94.99
+Patriot Intel Extreme Master, Limited Ed	DDR3-2133	240-pin DIMM	11	2x4GB	8GB		 (1)		
+G.Skill Ripjaws X Series	DDR3-2133	240-pin DIMM	9	2x2GB	4GB		 (1)		
+VisionTek	DDR3-1600	240-pin DIMM	11	1x8GB	8GB	$8.75	 (1)		$69.99
+Patriot Intel Extreme Master, Limited Ed	DDR3-1866	240-pin DIMM	10	4x8GB	32GB		 (1)		
+Avexir MPOWER Series	DDR3-2133	240-pin DIMM	9	2x4GB	8GB		 (1)		
+Patriot Viper Xtreme	DDR3-1600	240-pin DIMM	8	2x4GB	8GB		 (1)		
+G.Skill Ripjaws 4 series	DDR4-2133	288-pin DIMM	15	2x4GB	8GB	$6.12	 (1)		$48.99
+Corsair Vengeance Pro	DDR3-2133	240-pin DIMM	11	4x8GB	32GB	$8.59	 (1)		$274.99
+Kingston Predator Series	DDR3-1866	240-pin DIMM	9	2x4GB	8GB	$7.38	 (1)		$59.00
+AMD Entertainment Edition	DDR3-1333	240-pin DIMM	9	2x8GB	16GB		 (1)		
+Pareema	DDR3-1600	240-pin DIMM	9	1x4GB	4GB		 (1)		
+Corsair Vengeance	DDR3-2000	240-pin DIMM	10	2x2GB	4GB	$14.08	 (1)		$56.33
+Kingston	DDR3-1600	240-pin DIMM	11	1x2GB	2GB		 (1)		
+Kingston XMP Blu Red Series	DDR3-1600	240-pin DIMM	10	2x8GB	16GB		 (1)		
+Corsair Vengeance	DDR3-2000	240-pin DIMM	10	3x4GB	12GB	$10.83	 (1)		$129.99
+Kingston Predator Series	DDR3-2133	240-pin DIMM	11	2x8GB	16GB	$11.87	 (1)		$189.99
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	2x2GB	4GB	$8.25	 (1)		$32.99
+Patriot Viper 3	DDR3-1600	240-pin DIMM	9	2x4GB	8GB	$6.25	 (1)		$50.00
+Corsair	DDR3-1600	240-pin DIMM	11	1x4GB	4GB	$5.37	 (1)		$21.48
+Corsair Vengeance	DDR3-1600	240-pin DIMM	9	6x4GB	24GB	$6.04	 (1)		$144.99
+Kingston	DDR3-2133	240-pin DIMM	11	4x4GB	16GB		 (1)		
+Kingston Savage	DDR3-2133	240-pin DIMM	11	1x8GB	8GB	$5.74	 (1)		$45.89
+Corsair Dominator Platinum	DDR3-2133	240-pin DIMM	9	4x8GB	32GB	$8.75	 (1)		$279.99
+G.Skill Sniper Series	DDR3-1600	240-pin DIMM	9	1x4GB	4GB	$5.75	 (1)		$22.99
+Kingston HyperX Fury Blue	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$4.87	 (1)		$38.99
+Kingston HyperX Fury Red	DDR3-1333	240-pin DIMM	9	1x8GB	8GB	$4.81	 (1)		$38.49
+Kingston HyperX Fury Black	DDR3-1600	240-pin DIMM	10	1x4GB	4GB	$5.12	 (1)		$20.49
+Kingston HyperX Fury Red	DDR3-1333	240-pin DIMM	9	2x8GB	16GB	$4.87	 (1)		$77.99
+Kingston HyperX Fury Red	DDR3-1600	240-pin DIMM	10	1x4GB	4GB	$5.75	 (1)		$22.99
+Kingston HyperX Fury Red	DDR3-1600	240-pin DIMM	10	1x8GB	8GB	$5.12	 (1)		$40.99
+Mushkin Blackline	DDR3-1866	240-pin DIMM	9	2x4GB	8GB		 (1)		
+G.Skill Ripjaws 4 series	DDR4-2800	288-pin DIMM	16	4x4GB	16GB	$7.50	 (1)		$119.99
+Mushkin Redline	DDR3-1866	240-pin DIMM	8	2x4GB	8GB		 (1)		
+Corsair XMS3	DDR3-1333	240-pin DIMM	9	2x4GB	8GB	$9.02	 (1)		$72.15
+Corsair Dominator	DDR3-1866	240-pin DIMM	9	2x8GB	16GB	$13.75	 (1)		$219.99
+Kingston	DDR3-1600	240-pin DIMM	10	2x8GB	16GB		 (1)		
