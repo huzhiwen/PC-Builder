@@ -1,338 +1,338 @@
-Intel Core i5-4690K	3.5GHz	4	88W	 (456)	$209.99
-Intel Core i7-6700K	4.0GHz	4	91W	 (18)	$399.99
-Intel Core i7-4790K	4.0GHz	4	88W	 (459)	$299.99
-Intel Core i5-6600K	3.5GHz	4	91W	 (24)	$239.99
-Intel Core i5-4460	3.2GHz	4	84W	 (46)	$174.88
-AMD FX-6300	3.5GHz	6	95W	 (442)	$97.88
-AMD FX-8350	4.0GHz	8	125W	 (367)	$163.99
-Intel Core i7-5820K	3.3GHz	6	140W	 (65)	$379.99
-Intel Pentium G3258	3.2GHz	2	53W	 (127)	$49.00
-Intel Core i5-6500	3.2GHz	4	65W	 (2)	$193.99
-AMD Athlon X4 860K	3.7GHz	4	95W	 (36)	$68.99
-Intel Core i5-4590	3.3GHz	4	84W	 (60)	$179.99
-Intel Core i3-4170	3.7GHz	2	54W	 (5)	$104.99
-AMD FX-8320	3.5GHz	8	125W	 (235)	$137.89
-Intel Core i7-5960X	3.0GHz	8	140W	 (10)	$999.99
-Intel Core i5-6600	3.3GHz	4	65W	 (0)	$219.99
-Intel Core i5-4690	3.5GHz	4	84W	 (40)	$215.99
-Intel Core i7-5930K	3.5GHz	6	140W	 (25)	$461.98
-Intel Core i7-4790	3.6GHz	4	84W	 (29)	$292.99
-AMD FX-9590 (OEM/Tray)	4.7GHz	8	220W	 (19)	$204.99
-Intel Core i3-6100	3.7GHz	2	47W	 (2)	$123.99
-Intel Core i7-6700	3.4GHz	4	65W	 (1)	$339.99
-Intel Xeon E5-2699 V3 (OEM/Tray)	2.3GHz	18	145W	 (0)	$3906.99
-AMD FX-4350	4.2GHz	4	125W	 (5)	$89.89
-Intel Core i3-4160	3.6GHz	2	54W	 (27)	$111.98
-Intel Core i5-6400	2.7GHz	4	65W	 (0)	$178.99
-Intel Xeon E3-1231 V3	3.4GHz	4	80W	 (15)	$242.99
-AMD A10-7850K	3.7GHz	4	95W	 (52)	$119.88
-AMD FX-4300	3.8GHz	4	95W	 (29)	$83.99
-AMD A10-7870K	3.9GHz	4	95W	 (5)	$128.95
-AMD FX-6350	3.9GHz	6	125W	 (43)	$122.99
-Intel Core i5-4670K	3.4GHz	4	84W	 (539)	$257.98
-AMD A10-5800K	3.8GHz	4	100W	 (44)	$88.75
-Intel Core i3-4130	3.4GHz	2	54W	 (36)	$104.99
-Intel Core i5-4440	3.1GHz	4	84W	 (34)	$179.99
-Intel Core i7-4770K	3.5GHz	4	84W	 (486)	$372.49
-AMD 5350	2.05Ghz	4	25W	 (12)	$46.99
-AMD FX-8320E	3.2GHz	8	95W	 (15)	$122.99
-AMD A8-7600	3.1GHz	4	65W	 (6)	$81.88
-Intel Core i7-4770	3.4GHz	4	84W	 (33)	$287.85
+Intel Core i5-4690K	3.5GHz	4	88W	 (456)	209.99
+Intel Core i7-6700K	4.0GHz	4	91W	 (18)	399.99
+Intel Core i7-4790K	4.0GHz	4	88W	 (459)	299.99
+Intel Core i5-6600K	3.5GHz	4	91W	 (24)	239.99
+Intel Core i5-4460	3.2GHz	4	84W	 (46)	174.88
+AMD FX-6300	3.5GHz	6	95W	 (442)	97.88
+AMD FX-8350	4.0GHz	8	125W	 (367)	163.99
+Intel Core i7-5820K	3.3GHz	6	140W	 (65)	379.99
+Intel Pentium G3258	3.2GHz	2	53W	 (127)	49.00
+Intel Core i5-6500	3.2GHz	4	65W	 (2)	193.99
+AMD Athlon X4 860K	3.7GHz	4	95W	 (36)	68.99
+Intel Core i5-4590	3.3GHz	4	84W	 (60)	179.99
+Intel Core i3-4170	3.7GHz	2	54W	 (5)	104.99
+AMD FX-8320	3.5GHz	8	125W	 (235)	137.89
+Intel Core i7-5960X	3.0GHz	8	140W	 (10)	999.99
+Intel Core i5-6600	3.3GHz	4	65W	 (0)	219.99
+Intel Core i5-4690	3.5GHz	4	84W	 (40)	215.99
+Intel Core i7-5930K	3.5GHz	6	140W	 (25)	461.98
+Intel Core i7-4790	3.6GHz	4	84W	 (29)	292.99
+AMD FX-9590 (OEM/Tray)	4.7GHz	8	220W	 (19)	204.99
+Intel Core i3-6100	3.7GHz	2	47W	 (2)	123.99
+Intel Core i7-6700	3.4GHz	4	65W	 (1)	339.99
+Intel Xeon E5-2699 V3 (OEM/Tray)	2.3GHz	18	145W	 (0)	3906.99
+AMD FX-4350	4.2GHz	4	125W	 (5)	89.89
+Intel Core i3-4160	3.6GHz	2	54W	 (27)	111.98
+Intel Core i5-6400	2.7GHz	4	65W	 (0)	178.99
+Intel Xeon E3-1231 V3	3.4GHz	4	80W	 (15)	242.99
+AMD A10-7850K	3.7GHz	4	95W	 (52)	119.88
+AMD FX-4300	3.8GHz	4	95W	 (29)	83.99
+AMD A10-7870K	3.9GHz	4	95W	 (5)	128.95
+AMD FX-6350	3.9GHz	6	125W	 (43)	122.99
+Intel Core i5-4670K	3.4GHz	4	84W	 (539)	257.98
+AMD A10-5800K	3.8GHz	4	100W	 (44)	88.75
+Intel Core i3-4130	3.4GHz	2	54W	 (36)	104.99
+Intel Core i5-4440	3.1GHz	4	84W	 (34)	179.99
+Intel Core i7-4770K	3.5GHz	4	84W	 (486)	372.49
+AMD 5350	2.05Ghz	4	25W	 (12)	46.99
+AMD FX-8320E	3.2GHz	8	95W	 (15)	122.99
+AMD A8-7600	3.1GHz	4	65W	 (6)	81.88
+Intel Core i7-4770	3.4GHz	4	84W	 (33)	287.85
 AMD FX-4130 (OEM/Tray)	3.8GHz	4	125W	 (6)	
-Intel Core i7-4790K	4.0GHz	4	88W	 (1)	$349.87
-AMD FX-8370	4.0GHz	8	125W	 (7)	$194.99
-Intel Core i5-3570K	3.4GHz	4	77W	 (464)	$434.62
-Intel Core i5-2500K	3.3GHz	4	95W	 (95)	$214.99
-AMD A10-6800K	4.1GHz	4	100W	 (41)	$109.99
+Intel Core i7-4790K	4.0GHz	4	88W	 (1)	349.87
+AMD FX-8370	4.0GHz	8	125W	 (7)	194.99
+Intel Core i5-3570K	3.4GHz	4	77W	 (464)	434.62
+Intel Core i5-2500K	3.3GHz	4	95W	 (95)	214.99
+AMD A10-6800K	4.1GHz	4	100W	 (41)	109.99
 Intel Core i7-3770K	3.5GHz	4	77W	 (211)	
-AMD A6-6400K	3.9GHz	2	65W	 (9)	$44.99
-Intel Pentium G4400	3.3GHz	2	47W	 (0)	$62.99
-Intel Core 2 Duo E7500 (OEM/Tray)	2.93Ghz	2	65W	 (0)	$15.95
-Intel Core i3-4150	3.5GHz	2	54W	 (32)	$120.00
-Intel Core i5-4570	3.2GHz	4	84W	 (75)	$192.99
-AMD A6-5400K	3.6GHz	2	65W	 (11)	$36.89
+AMD A6-6400K	3.9GHz	2	65W	 (9)	44.99
+Intel Pentium G4400	3.3GHz	2	47W	 (0)	62.99
+Intel Core 2 Duo E7500 (OEM/Tray)	2.93Ghz	2	65W	 (0)	15.95
+Intel Core i3-4150	3.5GHz	2	54W	 (32)	120.00
+Intel Core i5-4570	3.2GHz	4	84W	 (75)	192.99
+AMD A6-5400K	3.6GHz	2	65W	 (11)	36.89
 AMD FX-9590	4.7GHz	8	220W	 (3)	
-Intel Core i7-4820K	3.7GHz	4	130W	 (28)	$329.99
-AMD 2650	1.45Ghz	2	25W	 (1)	$24.95
-Intel Celeron G1840	2.8GHz	2	53W	 (3)	$39.99
-Intel Core i5-4690K	3.5GHz	4	88W	 (2)	$259.86
-AMD A4-6300	3.7GHz	2	65W	 (5)	$38.89
-Intel Core i7-4790K (OEM/Tray)	4.0GHz	4	88W	 (5)	$324.99
-Intel Pentium G3250	3.2GHz	2	53W	 (0)	$54.99
-Intel Core i3-4370	3.8GHz	2	54W	 (5)	$142.99
-Intel Core i7-4960X Extreme Edition	3.6GHz	6	130W	 (6)	$999.95
-Intel Core i5-4430	3.0GHz	4	84W	 (24)	$184.99
-Intel Pentium G3220	3.0GHz	2	54W	 (23)	$49.99
-Intel Xeon E5-2697 V3	2.6GHz	14	145W	 (0)	$2549.99
-AMD FX-9370	4.4GHz	8	220W	 (2)	$284.86
-AMD A10-7700K	3.4GHz	4	95W	 (8)	$114.89
-Intel Core i7-4930K	3.4GHz	6	130W	 (46)	$559.99
-Intel Core i3-6300	3.8GHz	2	47W	 (0)	$156.97
-Intel Core i7-3770	3.4GHz	4	77W	 (29)	$369.00
-Intel Celeron G1820	2.7GHz	2	53W	 (2)	$36.99
-Intel Core i5-4670	3.4GHz	4	84W	 (41)	$215.99
-Intel Xeon E3-1241 V3	3.5GHz	4	80W	 (3)	$263.99
-AMD FX-9370 (OEM/Tray)	4.4GHz	8	220W	 (8)	$184.99
-AMD A6-7400K	3.5GHz	2	65W	 (2)	$57.99
-AMD FX-6200	3.8GHz	6	125W	 (5)	$102.99
+Intel Core i7-4820K	3.7GHz	4	130W	 (28)	329.99
+AMD 2650	1.45Ghz	2	25W	 (1)	24.95
+Intel Celeron G1840	2.8GHz	2	53W	 (3)	39.99
+Intel Core i5-4690K	3.5GHz	4	88W	 (2)	259.86
+AMD A4-6300	3.7GHz	2	65W	 (5)	38.89
+Intel Core i7-4790K (OEM/Tray)	4.0GHz	4	88W	 (5)	324.99
+Intel Pentium G3250	3.2GHz	2	53W	 (0)	54.99
+Intel Core i3-4370	3.8GHz	2	54W	 (5)	142.99
+Intel Core i7-4960X Extreme Edition	3.6GHz	6	130W	 (6)	999.95
+Intel Core i5-4430	3.0GHz	4	84W	 (24)	184.99
+Intel Pentium G3220	3.0GHz	2	54W	 (23)	49.99
+Intel Xeon E5-2697 V3	2.6GHz	14	145W	 (0)	2549.99
+AMD FX-9370	4.4GHz	8	220W	 (2)	284.86
+AMD A10-7700K	3.4GHz	4	95W	 (8)	114.89
+Intel Core i7-4930K	3.4GHz	6	130W	 (46)	559.99
+Intel Core i3-6300	3.8GHz	2	47W	 (0)	156.97
+Intel Core i7-3770	3.4GHz	4	77W	 (29)	369.00
+Intel Celeron G1820	2.7GHz	2	53W	 (2)	36.99
+Intel Core i5-4670	3.4GHz	4	84W	 (41)	215.99
+Intel Xeon E3-1241 V3	3.5GHz	4	80W	 (3)	263.99
+AMD FX-9370 (OEM/Tray)	4.4GHz	8	220W	 (8)	184.99
+AMD A6-7400K	3.5GHz	2	65W	 (2)	57.99
+AMD FX-6200	3.8GHz	6	125W	 (5)	102.99
 Intel Core i7-2600K	3.4GHz	4	95W	 (38)	
-AMD 3850	1.3GHz	4	25W	 (0)	$29.99
-Intel Xeon E3-1220 V3	3.1GHz	4	80W	 (1)	$192.99
-Intel Core i3-4330	3.5GHz	2	54W	 (16)	$129.89
-Intel Xeon E5-2697 V2	2.7GHz	12	130W	 (1)	$2479.99
-Intel Core i5-750	2.66Ghz	4	95W	 (2)	$202.40
-Intel Pentium G4500	3.5GHz	2	47W	 (0)	$81.89
-Intel Core i5-4690K (OEM/Tray)	3.5GHz	4	88W	 (2)	$224.99
+AMD 3850	1.3GHz	4	25W	 (0)	29.99
+Intel Xeon E3-1220 V3	3.1GHz	4	80W	 (1)	192.99
+Intel Core i3-4330	3.5GHz	2	54W	 (16)	129.89
+Intel Xeon E5-2697 V2	2.7GHz	12	130W	 (1)	2479.99
+Intel Core i5-750	2.66Ghz	4	95W	 (2)	202.40
+Intel Pentium G4500	3.5GHz	2	47W	 (0)	81.89
+Intel Core i5-4690K (OEM/Tray)	3.5GHz	4	88W	 (2)	224.99
 AMD Athlon X4 760K	3.8GHz	4	100W	 (50)	
-AMD A4-4000	3.0GHz	2	65W	 (4)	$35.99
-Intel Core i7-2600	3.4GHz	4	95W	 (9)	$359.00
-Intel Core i7-4790S	3.2GHz	4	65W	 (2)	$298.99
-Intel Core i7-950	3.06Ghz	4	130W	 (3)	$345.47
-Intel Core i7-5775C	3.3GHz	4	65W	 (1)	$388.99
+AMD A4-4000	3.0GHz	2	65W	 (4)	35.99
+Intel Core i7-2600	3.4GHz	4	95W	 (9)	359.00
+Intel Core i7-4790S	3.2GHz	4	65W	 (2)	298.99
+Intel Core i7-950	3.06Ghz	4	130W	 (3)	345.47
+Intel Core i7-5775C	3.3GHz	4	65W	 (1)	388.99
 AMD A8-6600K	3.9GHz	4	100W	 (24)	
-AMD A8-7670K	3.6GHz	4	95W	 (0)	$101.99
-Intel Xeon E5-1650 V3	3.5GHz	6	140W	 (0)	$564.99
-AMD A4-7300	3.8GHz	2	65W	 (0)	$39.99
-Intel Core i3-4130T	2.9GHz	2	35W	 (6)	$129.43
-Intel Core i7-920	2.66Ghz	4	130W	 (2)	$275.00
-Intel Core i5-3470	3.2GHz	4	77W	 (25)	$314.63
-AMD A8-7650K	3.3GHz	4	95W	 (0)	$89.99
-AMD FX-8370E	3.3GHz	8	95W	 (2)	$180.50
-Intel Core 2 Quad Q6600 (OEM/Tray)	2.4GHz	4	100W	 (5)	$73.95
-Intel Core i5-4570S	2.9GHz	4	65W	 (3)	$194.99
-Intel Xeon E5-2630 V3	2.4GHz	8	85W	 (0)	$629.99
-Intel Core i3-4160 (OEM/Tray)	3.6GHz	2	54W	 (0)	$107.99
-Intel Core i7-4770S	3.1GHz	4	65W	 (5)	$287.80
+AMD A8-7670K	3.6GHz	4	95W	 (0)	101.99
+Intel Xeon E5-1650 V3	3.5GHz	6	140W	 (0)	564.99
+AMD A4-7300	3.8GHz	2	65W	 (0)	39.99
+Intel Core i3-4130T	2.9GHz	2	35W	 (6)	129.43
+Intel Core i7-920	2.66Ghz	4	130W	 (2)	275.00
+Intel Core i5-3470	3.2GHz	4	77W	 (25)	314.63
+AMD A8-7650K	3.3GHz	4	95W	 (0)	89.99
+AMD FX-8370E	3.3GHz	8	95W	 (2)	180.50
+Intel Core 2 Quad Q6600 (OEM/Tray)	2.4GHz	4	100W	 (5)	73.95
+Intel Core i5-4570S	2.9GHz	4	65W	 (3)	194.99
+Intel Xeon E5-2630 V3	2.4GHz	8	85W	 (0)	629.99
+Intel Core i3-4160 (OEM/Tray)	3.6GHz	2	54W	 (0)	107.99
+Intel Core i7-4770S	3.1GHz	4	65W	 (5)	287.80
 Intel Core i7-3970X Extreme Edition	3.5GHz	6	150W	 (4)	
-Intel Xeon E5-1620 V3	3.5GHz	4	140W	 (0)	$286.99
-Intel Xeon E5-2687W V3	3.1GHz	10	160W	 (0)	$2019.99
-Intel Core i5-5675C	3.1GHz	4	65W	 (1)	$362.25
+Intel Xeon E5-1620 V3	3.5GHz	4	140W	 (0)	286.99
+Intel Xeon E5-2687W V3	3.1GHz	10	160W	 (0)	2019.99
+Intel Core i5-5675C	3.1GHz	4	65W	 (1)	362.25
 AMD Phenom II X4 965 Black	3.4GHz	4	125W	 (36)	
 Intel Core i5-2400	3.1GHz	4	95W	 (9)	
-AMD FX-6300 (OEM/Tray)	3.5GHz	6	95W	 (0)	$109.98
-Intel Core i3-4360	3.7GHz	2	54W	 (6)	$140.95
-Intel Pentium G3240	3.1GHz	2	53W	 (6)	$52.99
-Intel Core i5-4690 (OEM/Tray)	3.5GHz	4	84W	 (0)	$209.99
-Intel Core i5-4590S	3.0GHz	4	65W	 (4)	$190.99
-Intel Core i5-760	2.8GHz	4	95W	 (1)	$160.00
-Intel Core i3-3220	3.3GHz	2	55W	 (32)	$113.99
-AMD Athlon X4 750K	3.4GHz	4	100W	 (20)	$89.75
-Intel Core i7-3930K	3.2GHz	6	130W	 (38)	$647.01
-AMD Athlon X4 860K (OEM/Tray)	3.7GHz	4	95W	 (1)	$78.89
-Intel Core 2 Duo E8400 (OEM/Tray)	3.0GHz	2	65W	 (1)	$19.95
-AMD 5150	1.6GHz	4	25W	 (1)	$35.99
-Intel Core i3-3250	3.5GHz	2	55W	 (1)	$111.99
-Intel Xeon E5-2620 V3	2.4GHz	6	85W	 (0)	$404.99
+AMD FX-6300 (OEM/Tray)	3.5GHz	6	95W	 (0)	109.98
+Intel Core i3-4360	3.7GHz	2	54W	 (6)	140.95
+Intel Pentium G3240	3.1GHz	2	53W	 (6)	52.99
+Intel Core i5-4690 (OEM/Tray)	3.5GHz	4	84W	 (0)	209.99
+Intel Core i5-4590S	3.0GHz	4	65W	 (4)	190.99
+Intel Core i5-760	2.8GHz	4	95W	 (1)	160.00
+Intel Core i3-3220	3.3GHz	2	55W	 (32)	113.99
+AMD Athlon X4 750K	3.4GHz	4	100W	 (20)	89.75
+Intel Core i7-3930K	3.2GHz	6	130W	 (38)	647.01
+AMD Athlon X4 860K (OEM/Tray)	3.7GHz	4	95W	 (1)	78.89
+Intel Core 2 Duo E8400 (OEM/Tray)	3.0GHz	2	65W	 (1)	19.95
+AMD 5150	1.6GHz	4	25W	 (1)	35.99
+Intel Core i3-3250	3.5GHz	2	55W	 (1)	111.99
+Intel Xeon E5-2620 V3	2.4GHz	6	85W	 (0)	404.99
 Intel Core i7-6700K (OEM/Tray)	4.0GHz	4	91W	 (0)	
-Intel Core 2 Quad Q6600	2.4GHz	4	100W	 (2)	$107.04
+Intel Core 2 Quad Q6600	2.4GHz	4	100W	 (2)	107.04
 Intel Core i5-3570	3.4GHz	4	77W	 (19)	
-AMD A10-7800	3.5GHz	4	65W	 (0)	$119.99
-Intel Xeon E3-1230 V3	3.3GHz	4	80W	 (10)	$242.99
+AMD A10-7800	3.5GHz	4	65W	 (0)	119.99
+Intel Xeon E3-1230 V3	3.3GHz	4	80W	 (10)	242.99
 AMD A8-5600K	3.6GHz	4	100W	 (12)	
-Intel Celeron E1200	1.6GHz	2	65W	 (0)	$19.82
-Intel Xeon E5-1620 V2 (OEM/Tray)	3.7GHz	4	130W	 (1)	$289.99
+Intel Celeron E1200	1.6GHz	2	65W	 (0)	19.82
+Intel Xeon E5-1620 V2 (OEM/Tray)	3.7GHz	4	130W	 (1)	289.99
 Intel Core i7-3820	3.6GHz	4	130W	 (22)	
 AMD Athlon II X4 640	3.0GHz	4	95W	 (3)	
-Intel Core i3-6320	3.9GHz	2	47W	 (0)	$171.98
-Intel Core 2 Duo E8600 (OEM/Tray)	3.33Ghz	2	65W	 (1)	$32.95
-Intel Pentium G3460	3.5GHz	2	53W	 (0)	$69.75
-Intel Core i5-4690S	3.2GHz	4	65W	 (2)	$214.99
-Intel Core i5-650	3.2GHz	2	73W	 (0)	$168.44
-Intel Xeon E5-2603 V3	1.6GHz	6	85W	 (0)	$209.99
+Intel Core i3-6320	3.9GHz	2	47W	 (0)	171.98
+Intel Core 2 Duo E8600 (OEM/Tray)	3.33Ghz	2	65W	 (1)	32.95
+Intel Pentium G3460	3.5GHz	2	53W	 (0)	69.75
+Intel Core i5-4690S	3.2GHz	4	65W	 (2)	214.99
+Intel Core i5-650	3.2GHz	2	73W	 (0)	168.44
+Intel Xeon E5-2603 V3	1.6GHz	6	85W	 (0)	209.99
 Intel Core i5-3330	3.0GHz	4	77W	 (5)	
 AMD Phenom II X6 1090T Black	3.2GHz	6	125W	 (8)	
 AMD FX-4100 (OEM/Tray)	3.6GHz	4	95W	 (16)	
-Intel Pentium G3470	3.6GHz	2	53W	 (1)	$95.99
-Intel Xeon E5-2698 V3 (OEM/Tray)	2.3GHz	16	135W	 (0)	$3116.99
-Intel Core i3-2100	3.1GHz	2	65W	 (7)	$169.47
+Intel Pentium G3470	3.6GHz	2	53W	 (1)	95.99
+Intel Xeon E5-2698 V3 (OEM/Tray)	2.3GHz	16	135W	 (0)	3116.99
+Intel Core i3-2100	3.1GHz	2	65W	 (7)	169.47
 Intel Core i5-2300	2.8GHz	4	95W	 (1)	
-Intel Core i5-2500	3.3GHz	4	95W	 (1)	$281.98
+Intel Core i5-2500	3.3GHz	4	95W	 (1)	281.98
 AMD Athlon X4 740	3.2GHz	4	65W	 (4)	
-Intel Core i3-2120	3.3GHz	2	65W	 (14)	$203.09
+Intel Core i3-2120	3.3GHz	2	65W	 (14)	203.09
 AMD A6-6420K	4.0GHz	2	65W	 (1)	
 AMD FX-4130	3.8GHz	4	125W	 (12)	
-Intel Pentium G3450	3.4GHz	2	53W	 (1)	$90.98
-AMD FX-8350 (OEM/Tray)	4.0GHz	8	125W	 (0)	$179.98
+Intel Pentium G3450	3.4GHz	2	53W	 (1)	90.98
+AMD FX-8350 (OEM/Tray)	4.0GHz	8	125W	 (0)	179.98
 AMD FX-8120	3.1GHz	8	125W	 (10)	
 AMD A10-6790K	4.0GHz	4	100W	 (5)	
 AMD FX-6100 (OEM/Tray)	3.3GHz	6	95W	 (12)	
 Intel Core i7-4770K	3.5GHz	4	84W	 (2)	
 Intel Core i7-2700K	3.5GHz	4	95W	 (8)	
 AMD Athlon X2 370K	4.2GHz	2	65W	 (0)	
-AMD FX-8320 (OEM/Tray)	3.5GHz	8	125W	 (1)	$159.98
+AMD FX-8320 (OEM/Tray)	3.5GHz	8	125W	 (1)	159.98
 Intel Core i7-5960X (OEM/Tray)	3.0GHz	8	140W	 (0)	
-AMD Athlon X2 340	3.2GHz	2	65W	 (0)	$41.88
-AMD Phenom II X2 565 Black	3.4GHz	2	80W	 (0)	$63.55
+AMD Athlon X2 340	3.2GHz	2	65W	 (0)	41.88
+AMD Phenom II X2 565 Black	3.4GHz	2	80W	 (0)	63.55
 Intel Celeron 450 (OEM/Tray)	2.2GHz	1	35W	 (0)	
 AMD Phenom II X4 955 Black	3.2GHz	4	125W	 (7)	
-Intel Xeon E3-1246 V3	3.5GHz	4	84W	 (0)	$276.99
+Intel Xeon E3-1246 V3	3.5GHz	4	84W	 (0)	276.99
 Intel Core i7-5820K (OEM/Tray)	3.3GHz	6	140W	 (0)	
 AMD FX-8300 (OEM/Tray)	3.3GHz	8	95W	 (0)	
-Intel Core i7-4771	3.5GHz	4	84W	 (8)	$309.99
-Intel Core i5-3550	3.3GHz	4	77W	 (2)	$229.99
-Intel Xeon E3-1226 V3	3.3GHz	4	84W	 (0)	$216.99
-Intel Core i3-4350	3.6GHz	2	54W	 (1)	$151.98
-AMD A8-6500	3.5GHz	4	65W	 (0)	$89.99
+Intel Core i7-4771	3.5GHz	4	84W	 (8)	309.99
+Intel Core i5-3550	3.3GHz	4	77W	 (2)	229.99
+Intel Xeon E3-1226 V3	3.3GHz	4	84W	 (0)	216.99
+Intel Core i3-4350	3.6GHz	2	54W	 (1)	151.98
+AMD A8-6500	3.5GHz	4	65W	 (0)	89.99
 AMD Sempron 145	2.8GHz	1	45W	 (2)	
-Intel Xeon E5-1630 V3 (OEM/Tray)	3.7GHz	4	140W	 (0)	$369.99
-Intel Core 2 Duo E7400 (OEM/Tray)	2.8GHz	2	65W	 (0)	$49.99
+Intel Xeon E5-1630 V3 (OEM/Tray)	3.7GHz	4	140W	 (0)	369.99
+Intel Core 2 Duo E7400 (OEM/Tray)	2.8GHz	2	65W	 (0)	49.99
 Intel Core i5-2320	3.0GHz	4	95W	 (3)	
-AMD A4-5300	3.4GHz	2	65W	 (7)	$80.42
+AMD A4-5300	3.4GHz	2	65W	 (7)	80.42
 AMD FX-4300 (OEM/Tray)	3.8GHz	4	95W	 (1)	
 AMD FX-8150	3.6GHz	8	125W	 (14)	
-Intel Xeon E5-2690 V2	3.0GHz	10	130W	 (1)	$1969.99
+Intel Xeon E5-2690 V2	3.0GHz	10	130W	 (1)	1969.99
 Intel Core i7-930	2.8GHz	4	130W	 (1)	
-Intel Core 2 Duo E8400	3.0GHz	2	65W	 (1)	$46.57
-Intel Core i7-860	2.8GHz	4	95W	 (1)	$350.93
-Intel Xeon E5-2630 V3 (OEM/Tray)	2.4GHz	8	85W	 (0)	$619.99
+Intel Core 2 Duo E8400	3.0GHz	2	65W	 (1)	46.57
+Intel Core i7-860	2.8GHz	4	95W	 (1)	350.93
+Intel Xeon E5-2630 V3 (OEM/Tray)	2.4GHz	8	85W	 (0)	619.99
 Intel Core i5-3350P	3.1GHz	4	69W	 (11)	
-AMD A8-5500	3.2GHz	4	65W	 (3)	$89.99
-Intel Xeon E3-1276 V3	3.6GHz	4	84W	 (1)	$332.99
-Intel Core i3-4340	3.6GHz	2	54W	 (4)	$159.99
-Intel Xeon E5-2603 V3 (OEM/Tray)	1.6GHz	6	85W	 (0)	$205.99
+AMD A8-5500	3.2GHz	4	65W	 (3)	89.99
+Intel Xeon E3-1276 V3	3.6GHz	4	84W	 (1)	332.99
+Intel Core i3-4340	3.6GHz	2	54W	 (4)	159.99
+Intel Xeon E5-2603 V3 (OEM/Tray)	1.6GHz	6	85W	 (0)	205.99
 AMD Phenom II X6 1100T Black	3.3GHz	6	125W	 (2)	
 Intel Core i5-3450	3.1GHz	4	77W	 (6)	
 AMD Phenom II X4 830 (OEM/Tray)	2.8GHz	4	95W	 (3)	
 Intel Core i7-3960X Extreme Edition	3.3GHz	6	130W	 (6)	
-Intel Core i5-4570T	2.9GHz	2	35W	 (0)	$199.99
-Intel Xeon E5-2620 V3 (OEM/Tray)	2.4GHz	6	85W	 (0)	$379.99
+Intel Core i5-4570T	2.9GHz	2	35W	 (0)	199.99
+Intel Xeon E5-2620 V3 (OEM/Tray)	2.4GHz	6	85W	 (0)	379.99
 Intel Core i7-5930K (OEM/Tray)	3.5GHz	6	140W	 (0)	
 AMD A10-6700	3.7GHz	4	65W	 (1)	
-Intel Xeon E5-1620 V3 (OEM/Tray)	3.5GHz	4	140W	 (0)	$284.99
+Intel Xeon E5-1620 V3 (OEM/Tray)	3.5GHz	4	140W	 (0)	284.99
 Intel Core i3-530	2.93Ghz	2	73W	 (0)	
-Intel Pentium G3420	3.2GHz	2	54W	 (4)	$96.99
+Intel Pentium G3420	3.2GHz	2	54W	 (4)	96.99
 Intel Pentium G3258 (OEM/Tray)	3.2GHz	2	53W	 (0)	
-Intel Xeon E5-2687W V3 (OEM/Tray)	3.1GHz	10	160W	 (0)	$2044.99
+Intel Xeon E5-2687W V3 (OEM/Tray)	3.1GHz	10	160W	 (0)	2044.99
 Intel Core i7-960	3.2GHz	4	130W	 (0)	
-Intel Xeon E5-2690 V3	2.6GHz	12	135W	 (0)	$1969.95
-Intel Pentium G3250 (OEM/Tray)	3.2GHz	2	53W	 (0)	$51.99
-Intel Xeon E5-2687W V2	3.4GHz	8	150W	 (0)	$2104.98
+Intel Xeon E5-2690 V3	2.6GHz	12	135W	 (0)	1969.95
+Intel Pentium G3250 (OEM/Tray)	3.2GHz	2	53W	 (0)	51.99
+Intel Xeon E5-2687W V2	3.4GHz	8	150W	 (0)	2104.98
 AMD FX-9590 (OEM/Tray)	4.7GHz	8	220W	 (0)	
-Intel Core i3-3240	3.4GHz	2	55W	 (6)	$143.63
-Intel Xeon E5-2643 V3 (OEM/Tray)	3.4GHz	6	135W	 (0)	$1494.99
+Intel Core i3-3240	3.4GHz	2	55W	 (6)	143.63
+Intel Xeon E5-2643 V3 (OEM/Tray)	3.4GHz	6	135W	 (0)	1494.99
 AMD Phenom II X6 1055T	2.8GHz	6	125W	 (1)	
 Intel Core i7-6700T	2.8GHz	4	35W	 (0)	
 Intel Core i3-540	3.06Ghz	2	73W	 (2)	
-Intel Xeon E5-2640 V3	2.6GHz	8	90W	 (0)	$905.99
-Intel Core i5-750S	2.4GHz	4	82W	 (0)	$157.32
+Intel Xeon E5-2640 V3	2.6GHz	8	90W	 (0)	905.99
+Intel Core i5-750S	2.4GHz	4	82W	 (0)	157.32
 Intel Core i3-6100T	3.2GHz	2	35W	 (0)	
-Intel Xeon E3-1265L V3 (OEM/Tray)	2.5GHz	4	45W	 (1)	$289.99
-Intel Celeron G1620	2.7GHz	2	55W	 (1)	$39.99
-Intel Xeon E5-1650 V3 (OEM/Tray)	3.5GHz	6	140W	 (0)	$564.99
+Intel Xeon E3-1265L V3 (OEM/Tray)	2.5GHz	4	45W	 (1)	289.99
+Intel Celeron G1620	2.7GHz	2	55W	 (1)	39.99
+Intel Xeon E5-1650 V3 (OEM/Tray)	3.5GHz	6	140W	 (0)	564.99
 Intel Core i7-4770K (OEM/Tray)	3.5GHz	4	84W	 (0)	
-Intel Pentium G2030	3.0GHz	2	55W	 (1)	$90.80
-Intel Core 2 Quad Q9550	2.83Ghz	4	95W	 (2)	$275.00
+Intel Pentium G2030	3.0GHz	2	55W	 (1)	90.80
+Intel Core 2 Quad Q9550	2.83Ghz	4	95W	 (2)	275.00
 AMD A4-4020	3.2GHz	2	65W	 (1)	
-Intel Xeon E5-1660 V2 (OEM/Tray)	3.7GHz	6	130W	 (0)	$513.99
+Intel Xeon E5-1660 V2 (OEM/Tray)	3.7GHz	6	130W	 (0)	513.99
 Intel Core i7-980X Extreme Edition	3.33Ghz	6	130W	 (1)	
-Intel Core 2 Duo E6320 (OEM/Tray)	1.86Ghz	2	65W	 (1)	$19.86
-Intel Xeon E5-2695 V3	2.3GHz	14	120W	 (0)	$2278.99
-Intel Core i7-975 Extreme Edition	3.33Ghz	4	130W	 (0)	$429.00
-Intel Pentium E6500	2.93Ghz	2	65W	 (0)	$27.99
-Intel Xeon E5-2670 V3	2.3GHz	12	120W	 (0)	$1499.99
-Intel Core i5-680	3.6GHz	2	73W	 (0)	$182.28
+Intel Core 2 Duo E6320 (OEM/Tray)	1.86Ghz	2	65W	 (1)	19.86
+Intel Xeon E5-2695 V3	2.3GHz	14	120W	 (0)	2278.99
+Intel Core i7-975 Extreme Edition	3.33Ghz	4	130W	 (0)	429.00
+Intel Pentium E6500	2.93Ghz	2	65W	 (0)	27.99
+Intel Xeon E5-2670 V3	2.3GHz	12	120W	 (0)	1499.99
+Intel Core i5-680	3.6GHz	2	73W	 (0)	182.28
 Intel Core i7-870	2.93Ghz	4	95W	 (0)	
-Intel Core 2 Quad Q9650	3.0GHz	4	95W	 (1)	$254.62
-Intel Xeon E5-2637 V3 (OEM/Tray)	3.5GHz	4	135W	 (0)	$954.99
-Intel Xeon E5-2667 V3 (OEM/Tray)	3.2GHz	8	135W	 (0)	$1949.95
+Intel Core 2 Quad Q9650	3.0GHz	4	95W	 (1)	254.62
+Intel Xeon E5-2637 V3 (OEM/Tray)	3.5GHz	4	135W	 (0)	954.99
+Intel Xeon E5-2667 V3 (OEM/Tray)	3.2GHz	8	135W	 (0)	1949.95
 AMD FX-4170	4.2GHz	4	125W	 (7)	
-Intel Xeon E5-2650 V3	2.3GHz	10	105W	 (0)	$1173.01
-Intel Celeron G1850	2.9GHz	2	53W	 (0)	$56.98
-Intel Core i5-6600T (OEM/Tray)	2.7GHz	4	35W	 (0)	$282.19
-Intel Core i7-870 (OEM/Tray)	2.93Ghz	4	95W	 (1)	$284.23
+Intel Xeon E5-2650 V3	2.3GHz	10	105W	 (0)	1173.01
+Intel Celeron G1850	2.9GHz	2	53W	 (0)	56.98
+Intel Core i5-6600T (OEM/Tray)	2.7GHz	4	35W	 (0)	282.19
+Intel Core i7-870 (OEM/Tray)	2.93Ghz	4	95W	 (1)	284.23
 Intel Core i5-6600 (OEM/Tray)	3.3GHz	4	65W	 (0)	
 Intel Core i5-6500 (OEM/Tray)	3.2GHz	4	65W	 (0)	
-Intel Pentium E2220	2.4GHz	2	65W	 (0)	$49.94
+Intel Pentium E2220	2.4GHz	2	65W	 (0)	49.94
 AMD Athlon II X2 250	3.0GHz	2	65W	 (2)	
 AMD Phenom II X4 965 (OEM/Tray)	3.4GHz	4	125W	 (0)	
-Intel Xeon E3-1271 V3	3.6GHz	4	80W	 (0)	$323.95
+Intel Xeon E3-1271 V3	3.6GHz	4	80W	 (0)	323.95
 AMD A10-5700	3.4GHz	4	65W	 (1)	
-Intel Xeon E5-1660 V2	3.7GHz	6	130W	 (0)	$1074.95
-Intel Pentium E2180 (OEM/Tray)	2.0GHz	2	65W	 (0)	$23.86
-Intel Pentium G4520	3.6GHz	2	47W	 (0)	$101.98
-Intel Core i5-4440S	2.8GHz	4	65W	 (0)	$189.99
-Intel Xeon E5-2609 V3	1.9GHz	6	85W	 (0)	$289.99
+Intel Xeon E5-1660 V2	3.7GHz	6	130W	 (0)	1074.95
+Intel Pentium E2180 (OEM/Tray)	2.0GHz	2	65W	 (0)	23.86
+Intel Pentium G4520	3.6GHz	2	47W	 (0)	101.98
+Intel Core i5-4440S	2.8GHz	4	65W	 (0)	189.99
+Intel Xeon E5-2609 V3	1.9GHz	6	85W	 (0)	289.99
 Intel Core i7-990X Extreme Edition	3.47Ghz	6	130W	 (0)	
 AMD Athlon II X3 450	3.2GHz	3	95W	 (4)	
-Intel Xeon E5-2697 V3 (OEM/Tray)	2.6GHz	14	145W	 (0)	$2529.99
+Intel Xeon E5-2697 V3 (OEM/Tray)	2.6GHz	14	145W	 (0)	2529.99
 AMD A10-7870K (OEM/Tray)	3.9GHz	4	95W	 (0)	
 Intel Core i7-6700T (OEM/Tray)	2.8GHz	4	35W	 (0)	
-Intel Xeon E3-1230 V3 (OEM/Tray)	3.3GHz	4	80W	 (0)	$234.99
+Intel Xeon E3-1230 V3 (OEM/Tray)	3.3GHz	4	80W	 (0)	234.99
 AMD A10-7850K (OEM/Tray)	3.7GHz	4	95W	 (0)	
 AMD Phenom II X4 945	3.0GHz	4	125W	 (1)	
-Intel Xeon E5-2650 V3 (OEM/Tray)	2.3GHz	10	105W	 (0)	$1059.95
-Intel Core i5-3340	3.1GHz	4	77W	 (1)	$300.60
+Intel Xeon E5-2650 V3 (OEM/Tray)	2.3GHz	10	105W	 (0)	1059.95
+Intel Core i5-3340	3.1GHz	4	77W	 (1)	300.60
 Intel Core i7-6700 (OEM/Tray)	3.4GHz	4	65W	 (0)	
-Intel Xeon E5-2623 V3 (OEM/Tray)	3.0GHz	4	105W	 (0)	$419.99
-Intel Xeon E5-1650 V2 (OEM/Tray)	3.5GHz	6	130W	 (0)	$564.99
+Intel Xeon E5-2623 V3 (OEM/Tray)	3.0GHz	4	105W	 (0)	419.99
+Intel Xeon E5-1650 V2 (OEM/Tray)	3.5GHz	6	130W	 (0)	564.99
 AMD A4-6320	3.8GHz	2	65W	 (1)	
 Intel Atom D2700 (OEM/Tray)	2.13Ghz	2	10W	 (0)	
 Intel Pentium E5300	2.6GHz	2	65W	 (1)	
-Intel Xeon E3-1230 V2	3.3GHz	4	69W	 (6)	$290.05
+Intel Xeon E3-1230 V2	3.3GHz	4	69W	 (6)	290.05
 AMD Phenom II X6 1045T	2.7GHz	6	95W	 (3)	
 Intel Xeon E3-1225 V3	3.2GHz	4	84W	 (0)	
-Intel Core 2 Extreme QX9770	3.2GHz	4	136W	 (1)	$1603.35
-Intel Xeon E5-2603 V2	1.8GHz	4	80W	 (0)	$199.95
-Intel Xeon E5-2660 V3	2.6GHz	10	105W	 (0)	$1359.99
-Intel Core 2 Quad Q8300	2.5GHz	4	95W	 (0)	$136.01
+Intel Core 2 Extreme QX9770	3.2GHz	4	136W	 (1)	1603.35
+Intel Xeon E5-2603 V2	1.8GHz	4	80W	 (0)	199.95
+Intel Xeon E5-2660 V3	2.6GHz	10	105W	 (0)	1359.99
+Intel Core 2 Quad Q8300	2.5GHz	4	95W	 (0)	136.01
 Intel Core 2 Quad Q8200	2.33Ghz	4	95W	 (1)	
 Intel Core i3-6300T	3.3GHz	2	35W	 (0)	
 AMD A8-3870K	3.0GHz	4	100W	 (2)	
 Intel Core i7-2600S	2.8GHz	4	65W	 (1)	
-Intel Xeon E5-2650	2.0GHz	8	95W	 (1)	$603.99
-Intel Core 2 Quad Q9400	2.66Ghz	4	95W	 (0)	$131.44
+Intel Xeon E5-2650	2.0GHz	8	95W	 (1)	603.99
+Intel Core 2 Quad Q9400	2.66Ghz	4	95W	 (0)	131.44
 AMD Phenom II X4 960T Black	3.0GHz	4	95W	 (1)	
 Intel Core i5-2310	2.9GHz	4	95W	 (2)	
 AMD A4-3300	2.5GHz	2	65W	 (2)	
 AMD Athlon II X2 270	3.4GHz	2	65W	 (5)	
-Intel Xeon E5-2630L V3 (OEM/Tray)	1.8GHz	8	55W	 (0)	$589.99
-Intel Xeon E3-1240 V3	3.4GHz	4	80W	 (4)	$260.99
+Intel Xeon E5-2630L V3 (OEM/Tray)	1.8GHz	8	55W	 (0)	589.99
+Intel Xeon E3-1240 V3	3.4GHz	4	80W	 (4)	260.99
 AMD Phenom II X4 945	3.0GHz	4	125W	 (2)	
-Intel Xeon E5-2680 V3 (OEM/Tray)	2.5GHz	12	120W	 (0)	$1599.99
+Intel Xeon E5-2680 V3 (OEM/Tray)	2.5GHz	12	120W	 (0)	1599.99
 AMD A10-5800K (OEM/Tray)	3.8GHz	4	100W	 (0)	
-Intel Core 2 Quad Q9300 (OEM/Tray)	2.5GHz	4	95W	 (0)	$95.44
-Intel Xeon E5-2670	2.6GHz	8	115W	 (0)	$1499.99
+Intel Core 2 Quad Q9300 (OEM/Tray)	2.5GHz	4	95W	 (0)	95.44
+Intel Xeon E5-2670	2.6GHz	8	115W	 (0)	1499.99
 AMD FX-6350 (OEM/Tray)	3.9GHz	6	125W	 (0)	
 Intel Core i5-2550K	3.4GHz	4	95W	 (0)	
-Intel Core 2 Duo E6550	2.33Ghz	2	65W	 (1)	$134.88
+Intel Core 2 Duo E6550	2.33Ghz	2	65W	 (1)	134.88
 AMD Athlon X4 840 (OEM/Tray)	3.1GHz	4	65W	 (0)	
 AMD FX-4100 (OEM/Tray)	3.6GHz	4	95W	 (0)	
-Intel Pentium G2020	2.9GHz	2	55W	 (4)	$77.99
-Intel Core i7-3770S	3.1GHz	4	65W	 (2)	$343.84
+Intel Pentium G2020	2.9GHz	2	55W	 (4)	77.99
+Intel Core i7-3770S	3.1GHz	4	65W	 (2)	343.84
 AMD Phenom II X4 965 Black	3.4GHz	4	140W	 (0)	
-Intel Core 2 Quad Q8400 (OEM/Tray)	2.66Ghz	4	95W	 (0)	$99.99
-Intel Xeon E5-2670 V3 (OEM/Tray)	2.3GHz	12	120W	 (0)	$1474.99
+Intel Core 2 Quad Q8400 (OEM/Tray)	2.66Ghz	4	95W	 (0)	99.99
+Intel Xeon E5-2670 V3 (OEM/Tray)	2.3GHz	12	120W	 (0)	1474.99
 AMD FX-8370 (OEM/Tray)	4.0GHz	8	125W	 (0)	
 AMD Phenom II X4 955 (OEM/Tray)	3.2GHz	4	125W	 (0)	
-Intel Pentium G2130	3.2GHz	2	55W	 (0)	$61.99
+Intel Pentium G2130	3.2GHz	2	55W	 (0)	61.99
 Intel Xeon E3-1245 V3	3.4GHz	4	84W	 (2)	
 Intel Core i5-750 (OEM/Tray)	2.66Ghz	4	95W	 (0)	
 AMD Phenom II X4 840	3.2GHz	4	95W	 (3)	
 AMD Athlon II X4 620	2.6GHz	4	95W	 (0)	
-Intel Core 2 Duo E7500	2.93Ghz	2	65W	 (1)	$63.99
+Intel Core 2 Duo E7500	2.93Ghz	2	65W	 (1)	63.99
 Intel Core i7-970	3.2GHz	6	130W	 (0)	
-Intel Xeon E5-2680 V3 (OEM/Tray)	2.5GHz	12	120W	 (0)	$1679.95
+Intel Xeon E5-2680 V3 (OEM/Tray)	2.5GHz	12	120W	 (0)	1679.95
 AMD FX-8320E (OEM/Tray)	3.2GHz	8	95W	 (0)	
-Intel Celeron E1400	2.0GHz	2	65W	 (0)	$21.31
-Intel Core i5-2400S	2.5GHz	4	65W	 (0)	$334.60
+Intel Celeron E1400	2.0GHz	2	65W	 (0)	21.31
+Intel Core i5-2400S	2.5GHz	4	65W	 (0)	334.60
 AMD Phenom II X4 955 Black	3.2GHz	4	125W	 (3)	
 AMD Athlon II X2 240	2.8GHz	2	65W	 (1)	
-Intel Pentium E5400	2.7GHz	2	65W	 (1)	$60.00
+Intel Pentium E5400	2.7GHz	2	65W	 (1)	60.00
 AMD A10-6800K (OEM/Tray)	4.1GHz	4	100W	 (0)	
-Intel Xeon E5-2620 V2	2.1GHz	6	80W	 (0)	$381.99
-Intel Pentium G3440	3.3GHz	2	53W	 (0)	$90.98
+Intel Xeon E5-2620 V2	2.1GHz	6	80W	 (0)	381.99
+Intel Pentium G3440	3.3GHz	2	53W	 (0)	90.98
 Intel Core i7-920 (OEM/Tray)	2.66Ghz	4	130W	 (0)	
-Intel Core 2 Quad Q8400	2.66Ghz	4	95W	 (0)	$130.99
-Intel Core 2 Quad Q9400 (OEM/Tray)	2.66Ghz	4	95W	 (0)	$78.70
-Intel Xeon E5-2603 V2 (OEM/Tray)	1.8GHz	4	80W	 (0)	$193.99
+Intel Core 2 Quad Q8400	2.66Ghz	4	95W	 (0)	130.99
+Intel Core 2 Quad Q9400 (OEM/Tray)	2.66Ghz	4	95W	 (0)	78.70
+Intel Xeon E5-2603 V2 (OEM/Tray)	1.8GHz	4	80W	 (0)	193.99
 Intel Celeron 420	1.6GHz	1	35W	 (0)	
 Intel Pentium G620	2.6GHz	2	65W	 (4)	
 Intel Core i5-3450S	2.8GHz	4	65W	 (1)	
 Intel Xeon E3-1275 V3	3.5GHz	4	84W	 (0)	
 Intel Core 2 Duo E6320	1.86Ghz	2	65W	 (0)	
-Intel Celeron 430	1.8GHz	1	35W	 (0)	$40.00
+Intel Celeron 430	1.8GHz	1	35W	 (0)	40.00
 Intel Core 2 Quad Q9505	2.83Ghz	4	95W	 (0)	
-Intel Xeon E5-2609 V3 (OEM/Tray)	1.9GHz	6	85W	 (0)	$289.99
+Intel Xeon E5-2609 V3 (OEM/Tray)	1.9GHz	6	85W	 (0)	289.99
 Intel Core i5-6600T	2.7GHz	4	35W	 (0)	
 Intel Core i5-6400 (OEM/Tray)	2.7GHz	4	65W	 (0)	
 Intel Core i7-980	3.33Ghz	6	130W	 (0)	
@@ -340,84 +340,84 @@ AMD Phenom II X2 555 Black	3.2GHz	2	80W	 (1)
 Intel Core i7-4770T (OEM/Tray)	2.5GHz	4	45W	 (0)	
 AMD FX-8150	3.6GHz	8	125W	 (5)	
 AMD Phenom II X6 1075T	3.0GHz	6	95W	 (2)	
-Intel Xeon E5-1650 (OEM/Tray)	3.2GHz	6	130W	 (0)	$612.99
+Intel Xeon E5-1650 (OEM/Tray)	3.2GHz	6	130W	 (0)	612.99
 Intel Core i3-6100 (OEM/Tray)	3.7GHz	2	47W	 (0)	
 AMD Athlon II X4 630	2.8GHz	4	95W	 (0)	
-Intel Core 2 Duo E6700 (OEM/Tray)	2.66Ghz	2	65W	 (0)	$29.95
+Intel Core 2 Duo E6700 (OEM/Tray)	2.66Ghz	2	65W	 (0)	29.95
 AMD A8-3850	2.9GHz	4	100W	 (5)	
-Intel Celeron G1610	2.6GHz	2	55W	 (3)	$69.94
+Intel Celeron G1610	2.6GHz	2	55W	 (3)	69.94
 AMD A8-7600 (OEM/Tray)	3.1GHz	4	65W	 (0)	
 Intel Xeon E3-1220 V2	3.1GHz	4	69W	 (0)	
-Intel Xeon E5-2643 V2 (OEM/Tray)	3.5GHz	6	130W	 (0)	$1552.00
-Intel Core 2 Duo E6750 (OEM/Tray)	2.66Ghz	2	65W	 (0)	$19.95
-Intel Core i5-655K	3.2GHz	2	73W	 (0)	$208.35
-Intel Core i7-875K	2.93Ghz	4	95W	 (0)	$350.53
+Intel Xeon E5-2643 V2 (OEM/Tray)	3.5GHz	6	130W	 (0)	1552.00
+Intel Core 2 Duo E6750 (OEM/Tray)	2.66Ghz	2	65W	 (0)	19.95
+Intel Core i5-655K	3.2GHz	2	73W	 (0)	208.35
+Intel Core i7-875K	2.93Ghz	4	95W	 (0)	350.53
 Intel Core i7-3770T (OEM/Tray)	2.5GHz	4	45W	 (0)	
 AMD A4-3400	2.7GHz	2	65W	 (0)	
 AMD A10-7700K (OEM/Tray)	3.4GHz	4	95W	 (0)	
 AMD A4-3300 (OEM/Tray)	2.5GHz	2	65W	 (0)	
 Intel Celeron 847 (OEM/Tray)	1.1GHz	2	17W	 (0)	
 AMD FX-6100 (OEM/Tray)	3.3GHz	6	95W	 (0)	
-Intel Core i3-550	3.2GHz	2	73W	 (0)	$194.53
+Intel Core i3-550	3.2GHz	2	73W	 (0)	194.53
 AMD Athlon II X2 220 (OEM/Tray)	2.8GHz	2	65W	 (0)	
-Intel Core 2 Quad Q6700	2.66Ghz	4	100W	 (0)	$200.00
-Intel Pentium E6700	3.2GHz	2	65W	 (0)	$70.00
+Intel Core 2 Quad Q6700	2.66Ghz	4	100W	 (0)	200.00
+Intel Pentium E6700	3.2GHz	2	65W	 (0)	70.00
 AMD Sempron 145 (OEM/Tray)	2.8GHz	1	45W	 (0)	
 AMD FX-4200 (OEM/Tray)	3.3GHz	4	125W	 (2)	
 AMD Athlon X4 550 (OEM/Tray)	2.2GHz	4	25W	 (0)	
 Intel Core 2 Duo E6850 (OEM/Tray)	3.0GHz	2	65W	 (0)	
-Intel Xeon E5-2667 V2 (OEM/Tray)	3.3GHz	8	130W	 (0)	$1899.99
+Intel Xeon E5-2667 V2 (OEM/Tray)	3.3GHz	8	130W	 (0)	1899.99
 AMD FX-6120 (OEM/Tray)	3.5GHz	6	95W	 (0)	
-Intel Xeon E5-2630 V2	2.6GHz	6	80W	 (0)	$588.95
+Intel Xeon E5-2630 V2	2.6GHz	6	80W	 (0)	588.95
 AMD Phenom II X4 925	2.8GHz	4	95W	 (1)	
-Intel Core 2 Duo E4500	2.2GHz	2	65W	 (0)	$96.23
+Intel Core 2 Duo E4500	2.2GHz	2	65W	 (0)	96.23
 Intel Core i3-2120T	2.6GHz	2	35W	 (1)	
 Intel Xeon E5-4650	2.7GHz	8	130W	 (0)	
 AMD A6-7400K (OEM/Tray)	3.5GHz	2	65W	 (0)	
-Intel Xeon E5-2637 V2 (OEM/Tray)	3.5GHz	4	130W	 (0)	$966.99
+Intel Xeon E5-2637 V2 (OEM/Tray)	3.5GHz	4	130W	 (0)	966.99
 AMD Phenom II X4 945	3.0GHz	4	125W	 (0)	
-AMD Phenom II X3 705e	2.5GHz	3	65W	 (0)	$164.98
+AMD Phenom II X3 705e	2.5GHz	3	65W	 (0)	164.98
 Intel Core 2 Duo E4400	2.0GHz	2	65W	 (1)	
 Intel Core i5-6400T	2.2GHz	4	35W	 (0)	
 AMD Phenom II X4 940 Black	3.0GHz	4	125W	 (0)	
 AMD FX-8310	3.4GHz	8	95W	 (0)	
-Intel Core i5-3470S	2.9GHz	4	65W	 (0)	$314.53
+Intel Core i5-3470S	2.9GHz	4	65W	 (0)	314.53
 AMD Athlon II X4 645	3.1GHz	4	95W	 (0)	
 AMD A6-3500	2.1GHz	3	65W	 (1)	
 Intel Core i3-3220T	2.8GHz	2	35W	 (0)	
-Intel Celeron G1830	2.8GHz	2	53W	 (0)	$57.98
+Intel Celeron G1830	2.8GHz	2	53W	 (0)	57.98
 AMD A6-3670K	2.7GHz	4	100W	 (0)	
 Intel Core i5-6400T (OEM/Tray)	2.2GHz	4	35W	 (0)	
-Intel Xeon E5-2609 V2	2.5GHz	4	80W	 (0)	$284.95
+Intel Xeon E5-2609 V2	2.5GHz	4	80W	 (0)	284.95
 AMD Phenom II X4 980 Black	3.7GHz	4	125W	 (1)	
 Intel Pentium G645	2.9GHz	2	65W	 (0)	
 Intel Core i7-5775C (OEM/Tray)	3.3GHz	4	65W	 (0)	
 AMD Sempron 140	2.7GHz	1	45W	 (0)	
 Intel Core i5-6500T	2.5GHz	4	35W	 (0)	
 AMD Athlon II X2 215 (OEM/Tray)	2.7GHz	2	65W	 (0)	
-Intel Xeon E5-2650L V3 (OEM/Tray)	1.8GHz	12	65W	 (0)	$1778.54
-Intel Pentium G3430	3.3GHz	2	54W	 (0)	$95.98
+Intel Xeon E5-2650L V3 (OEM/Tray)	1.8GHz	12	65W	 (0)	1778.54
+Intel Pentium G3430	3.3GHz	2	54W	 (0)	95.98
 AMD Phenom II X4 970 Black	3.5GHz	4	125W	 (2)	
 Intel Xeon E5-1680 V3 (OEM/Tray)	3.2GHz	8	140W	 (0)	
-Intel Pentium E2200	2.2GHz	2	65W	 (0)	$48.12
-Intel Xeon E3-1270 V3	3.5GHz	4	80W	 (0)	$324.95
+Intel Pentium E2200	2.2GHz	2	65W	 (0)	48.12
+Intel Xeon E3-1270 V3	3.5GHz	4	80W	 (0)	324.95
 Intel Core i3-2130	3.4GHz	2	65W	 (0)	
 Intel Core i3-3225	3.3GHz	2	55W	 (9)	
 Intel Atom D2500 (OEM/Tray)	1.87Ghz	2	10W	 (0)	
 Intel Core i5-6500T (OEM/Tray)	2.5GHz	4	35W	 (0)	
 Intel Core i5-4670S (OEM/Tray)	3.1GHz	4	65W	 (0)	
-Intel Xeon E5-2650 V2	2.6GHz	8	95W	 (0)	$1119.95
-Intel Pentium E6600	3.06Ghz	2	65W	 (0)	$114.60
+Intel Xeon E5-2650 V2	2.6GHz	8	95W	 (0)	1119.95
+Intel Pentium E6600	3.06Ghz	2	65W	 (0)	114.60
 Intel Core 2 Duo E8500	3.16Ghz	2	65W	 (0)	
 Intel Core i3-4370 (OEM/Tray)	3.8GHz	2	54W	 (0)	
 Intel Core i7-965 Extreme Edition	3.2GHz	4	130W	 (0)	
-Intel Core 2 Extreme QX6850 (OEM/Tray)	3.0GHz	4	130W	 (0)	$1646.05
-Intel Core 2 Extreme QX9650 (OEM/Tray)	3.0GHz	4	130W	 (0)	$250.91
-Intel Core 2 Duo E8600	3.33Ghz	2	65W	 (0)	$158.95
+Intel Core 2 Extreme QX6850 (OEM/Tray)	3.0GHz	4	130W	 (0)	1646.05
+Intel Core 2 Extreme QX9650 (OEM/Tray)	3.0GHz	4	130W	 (0)	250.91
+Intel Core 2 Duo E8600	3.33Ghz	2	65W	 (0)	158.95
 Intel Pentium G630	2.7GHz	2	65W	 (0)	
 AMD Phenom II X6 1035T (OEM/Tray)	2.6GHz	6	95W	 (0)	
 AMD FX-4350 (OEM/Tray)	4.2GHz	4	125W	 (0)	
-Intel Core i3-560	3.33Ghz	2	73W	 (1)	$203.56
+Intel Core i3-560	3.33Ghz	2	73W	 (1)	203.56
 AMD Phenom II X6 1055T	2.8GHz	6	125W	 (0)	
 Intel Core i3-3240 (OEM/Tray)	3.4GHz	2	55W	 (0)	
 AMD Phenom II X6 1065T	2.7GHz	6	95W	 (0)	
@@ -427,47 +427,47 @@ AMD Phenom II X4 975	3.6GHz	4	125W	 (1)
 AMD A10-7800 (OEM/Tray)	3.5GHz	4	65W	 (0)	
 AMD FX-9370 (OEM/Tray)	4.4GHz	8	220W	 (0)	
 Intel Core 2 Duo E6850	3.0GHz	2	65W	 (0)	
-Intel Core i7-860 (OEM/Tray)	2.8GHz	4	95W	 (1)	$345.31
+Intel Core i7-860 (OEM/Tray)	2.8GHz	4	95W	 (1)	345.31
 AMD A6-3650	2.6GHz	4	100W	 (1)	
-Intel Xeon E5-2680 V2	2.8GHz	10	115W	 (0)	$1649.99
+Intel Xeon E5-2680 V2	2.8GHz	10	115W	 (0)	1649.99
 Intel Pentium E5700	3.0GHz	2	65W	 (0)	
 Intel Core i3-6320 (OEM/Tray)	3.9GHz	2	47W	 (0)	
 AMD Athlon II X2 260	3.2GHz	2	65W	 (0)	
-Intel Core 2 Duo E6400 (OEM/Tray)	2.13Ghz	2	65W	 (1)	$46.99
+Intel Core 2 Duo E6400 (OEM/Tray)	2.13Ghz	2	65W	 (1)	46.99
 AMD Athlon II X3 455	3.3GHz	3	95W	 (1)	
 Intel Core 2 Duo E7200	2.53Ghz	2	65W	 (0)	
-Intel Core 2 Quad Q9300	2.5GHz	4	95W	 (0)	$169.96
+Intel Core 2 Quad Q9300	2.5GHz	4	95W	 (0)	169.96
 AMD FX-8120 (OEM/Tray)	3.1GHz	8	125W	 (2)	
-Intel Xeon E5-2603	1.8GHz	4	80W	 (0)	$198.99
+Intel Xeon E5-2603	1.8GHz	4	80W	 (0)	198.99
 Intel Core i7-4790T (OEM/Tray)	2.7GHz	4	45W	 (0)	
 Intel Core i3-4160T (OEM/Tray)	3.1GHz	2	35W	 (0)	
 AMD Phenom II X4 970 (OEM/Tray)	3.5GHz	4	125W	 (0)	
-Intel Pentium E2160 (OEM/Tray)	1.8GHz	2	65W	 (0)	$33.95
+Intel Pentium E2160 (OEM/Tray)	1.8GHz	2	65W	 (0)	33.95
 Intel Core 2 Quad Q9450	2.66Ghz	4	95W	 (0)	
 AMD Phenom II X2 560 Black	3.3GHz	2	80W	 (0)	
 Intel Core i3-4360T (OEM/Tray)	3.2GHz	2	35W	 (0)	
 Intel Pentium G4400 (OEM/Tray)	3.3GHz	2	47W	 (0)	
 Intel Pentium G860	3.0GHz	2	65W	 (8)	
-Intel Pentium E5800	3.2GHz	2	65W	 (0)	$65.33
-Intel Xeon E3-1270 V3 (OEM/Tray)	3.5GHz	4	80W	 (0)	$319.95
-Intel Pentium G6950	2.8GHz	2	73W	 (0)	$119.99
-Intel Xeon E3-1275 V2	3.5GHz	4	77W	 (0)	$325.98
-Intel Xeon E5-2620 (OEM/Tray)	2.0GHz	6	95W	 (0)	$364.99
-AMD Athlon II X3 460	3.4GHz	3	95W	 (0)	$154.94
+Intel Pentium E5800	3.2GHz	2	65W	 (0)	65.33
+Intel Xeon E3-1270 V3 (OEM/Tray)	3.5GHz	4	80W	 (0)	319.95
+Intel Pentium G6950	2.8GHz	2	73W	 (0)	119.99
+Intel Xeon E3-1275 V2	3.5GHz	4	77W	 (0)	325.98
+Intel Xeon E5-2620 (OEM/Tray)	2.0GHz	6	95W	 (0)	364.99
+AMD Athlon II X3 460	3.4GHz	3	95W	 (0)	154.94
 AMD 5350 (OEM/Tray)	2.05Ghz	4	25W	 (0)	
 Intel Pentium E2180	2.0GHz	2	65W	 (0)	
-Intel Core 2 Duo E6550 (OEM/Tray)	2.33Ghz	2	65W	 (0)	$45.99
-Intel Core 2 Duo E8500 (OEM/Tray)	3.16Ghz	2	65W	 (0)	$61.99
-Intel Xeon E3-1220	3.1GHz	4	80W	 (0)	$229.21
+Intel Core 2 Duo E6550 (OEM/Tray)	2.33Ghz	2	65W	 (0)	45.99
+Intel Core 2 Duo E8500 (OEM/Tray)	3.16Ghz	2	65W	 (0)	61.99
+Intel Xeon E3-1220	3.1GHz	4	80W	 (0)	229.21
 Intel Xeon E3-1240 V2	3.4GHz	4	69W	 (0)	
 Intel Core i5-5675C (OEM/Tray)	3.1GHz	4	65W	 (0)	
 Intel Xeon E5-2630L V2 (OEM/Tray)	2.4GHz	6	60W	 (0)	
 Intel Core i5-661	3.33Ghz	2	87W	 (0)	
 AMD Athlon II 160u (OEM/Tray)	1.8GHz	1	20W	 (0)	
 AMD Athlon II X4 645 (OEM/Tray)	3.1GHz	4	95W	 (2)	
-Intel Xeon E3-1245 V2	3.4GHz	4	77W	 (0)	$329.80
+Intel Xeon E3-1245 V2	3.4GHz	4	77W	 (0)	329.80
 AMD Phenom II X4 980 Black (OEM/Tray)	3.7GHz	4	140W	 (0)	
-Intel Core 2 Duo E4300	1.8GHz	2	65W	 (0)	$104.27
+Intel Core 2 Duo E4300	1.8GHz	2	65W	 (0)	104.27
 Intel Core 2 Duo E4600	2.4GHz	2	65W	 (0)	
 Intel Core 2 Duo E6750	2.66Ghz	2	65W	 (0)	
 AMD Phenom II X6 1100T Black (OEM/Tray)	3.3GHz	6	125W	 (0)	
@@ -477,30 +477,30 @@ Intel Pentium G3250T (OEM/Tray)	2.8GHz	2	35W	 (0)
 Intel Xeon E5-2695 V3 (OEM/Tray)	2.3GHz	14	120W	 (0)	
 AMD Athlon II X2 245	2.9GHz	2	65W	 (0)	
 AMD Phenom II X4 810	2.6GHz	4	95W	 (0)	
-Intel Core 2 Duo E8400 (OEM/Tray)	3.0GHz	2	65W	 (0)	$62.99
+Intel Core 2 Duo E8400 (OEM/Tray)	3.0GHz	2	65W	 (0)	62.99
 Intel Core i5-3340S	2.8GHz	4	65W	 (0)	
-Intel Xeon E5-2660 V2	2.2GHz	10	95W	 (0)	$1328.99
+Intel Xeon E5-2660 V2	2.2GHz	10	95W	 (0)	1328.99
 AMD Phenom II X3 720	2.8GHz	3	95W	 (1)	
 Intel Core 2 Duo E7300	2.66Ghz	2	65W	 (0)	
 Intel Celeron G470	2.0GHz	1	35W	 (0)	
 AMD FX-4170 (OEM/Tray)	4.2GHz	4	125W	 (0)	
-Intel Xeon E3-1245 V3 (OEM/Tray)	3.4GHz	4	84W	 (0)	$279.99
+Intel Xeon E3-1245 V3 (OEM/Tray)	3.4GHz	4	84W	 (0)	279.99
 AMD Athlon II X4 635	2.9GHz	4	95W	 (0)	
 AMD Athlon II X2 250u (OEM/Tray)	1.6GHz	2	25W	 (1)	
-Intel Core i7-860S	2.53Ghz	4	82W	 (0)	$295.69
+Intel Core i7-860S	2.53Ghz	4	82W	 (0)	295.69
 Intel Core 2 Extreme QX6700	2.66Ghz	4	100W	 (0)	
 Intel Xeon E3-1230 V2 (OEM/Tray)	3.3GHz	4	69W	 (0)	
 AMD FX-8100 (OEM/Tray)	2.8GHz	8	95W	 (0)	
-Intel Xeon E5-4620	2.2GHz	8	95W	 (0)	$1300.00
-Intel Xeon E5-2609	2.4GHz	4	80W	 (0)	$250.00
+Intel Xeon E5-4620	2.2GHz	8	95W	 (0)	1300.00
+Intel Xeon E5-2609	2.4GHz	4	80W	 (0)	250.00
 AMD A4-6300 (OEM/Tray)	3.7GHz	2	65W	 (0)	
-Intel Pentium E2140	1.6GHz	2	65W	 (0)	$73.96
+Intel Pentium E2140	1.6GHz	2	65W	 (0)	73.96
 Intel Core 2 Duo E6700	2.66Ghz	2	65W	 (0)	
-Intel Core i5-670	3.46Ghz	2	73W	 (0)	$305.97
+Intel Core i5-670	3.46Ghz	2	73W	 (0)	305.97
 AMD Athlon II X4 640 (OEM/Tray)	3.0GHz	4	95W	 (0)	
 AMD Phenom II X4 955 (OEM/Tray)	3.2GHz	4	125W	 (0)	
 Intel Core i3-3210	3.2GHz	2	55W	 (0)	
-Intel Core i3-2105	3.1GHz	2	65W	 (0)	$180.00
+Intel Core i3-2105	3.1GHz	2	65W	 (0)	180.00
 Intel Core i3-6100T (OEM/Tray)	3.2GHz	2	35W	 (0)	
 AMD Phenom II X2 550 Black	3.1GHz	2	80W	 (0)	
 Intel Core 2 Duo E8400	3.0GHz	2	65W	 (0)	
@@ -508,15 +508,15 @@ Intel Core i5-660	3.33Ghz	2	73W	 (0)
 Intel Core i7-880 (OEM/Tray)	3.06Ghz	4	95W	 (0)	
 Intel Core 2 Quad Q9650 (OEM/Tray)	3.0GHz	4	95W	 (0)	
 AMD Athlon II X4 651K	3.0GHz	4	100W	 (0)	
-Intel Xeon E3-1275 V2 (OEM/Tray)	3.5GHz	4	77W	 (0)	$354.99
+Intel Xeon E3-1275 V2 (OEM/Tray)	3.5GHz	4	77W	 (0)	354.99
 AMD Athlon II X2 255	3.1GHz	2	65W	 (0)	
 AMD Phenom II X3 720 Black	2.8GHz	3	95W	 (0)	
 Intel Core 2 Extreme QX9650	3.0GHz	4	130W	 (0)	
-Intel Core 2 Extreme QX9775	3.2GHz	4	150W	 (0)	$889.99
+Intel Core 2 Extreme QX9775	3.2GHz	4	150W	 (0)	889.99
 AMD Phenom II X4 925 (OEM/Tray)	2.8GHz	4	95W	 (0)	
 AMD A10 PRO-7850B (OEM/Tray)	3.7GHz	4	95W	 (0)	
 Intel Celeron G530	2.4GHz	2	65W	 (1)	
-Intel Xeon E5-2609 (OEM/Tray)	2.4GHz	4	80W	 (0)	$270.99
+Intel Xeon E5-2609 (OEM/Tray)	2.4GHz	4	80W	 (0)	270.99
 AMD Phenom II X3 740 Black	3.0GHz	3	95W	 (1)	
 Intel Xeon E3-1225	3.1GHz	4	95W	 (0)	
 Intel Core i3-6300T (OEM/Tray)	3.3GHz	2	35W	 (0)	
@@ -527,19 +527,19 @@ AMD Athlon II X4 635	2.9GHz	4	95W	 (0)
 AMD Athlon II X2 235e	2.7GHz	2	45W	 (0)	
 Intel Xeon E5-2685 V3 (OEM/Tray)	2.6GHz	12	120W	 (0)	
 Intel Pentium G840	2.8GHz	2	65W	 (0)	
-Intel Xeon E5-2670 V2	2.5GHz	10	115W	 (0)	$1419.99
+Intel Xeon E5-2670 V2	2.5GHz	10	115W	 (0)	1419.99
 Intel Xeon E3-1225 V2	3.2GHz	4	77W	 (0)	
 Intel Pentium E5500	2.8GHz	2	65W	 (0)	
 AMD Phenom II X4 960T Black (OEM/Tray)	3.0GHz	4	95W	 (1)	
 AMD A10-6700 (OEM/Tray)	3.7GHz	4	65W	 (0)	
 AMD A10-6700T (OEM/Tray)	2.5GHz	4	45W	 (0)	
 Intel Pentium G4520 (OEM/Tray)	3.6GHz	2	47W	 (0)	
-Intel Xeon E5-2640 V2	2.0GHz	8	95W	 (0)	$849.99
+Intel Xeon E5-2640 V2	2.0GHz	8	95W	 (0)	849.99
 Intel Celeron G1630	2.8GHz	2	55W	 (0)	
 Intel Core 2 Duo E8200	2.66Ghz	2	65W	 (0)	
 Intel Core i5-750S (OEM/Tray)	2.4GHz	4	82W	 (0)	
 AMD A10 PRO-7800B (OEM/Tray)	3.5GHz	4	65W	 (0)	
-Intel Xeon E5-2640	2.5GHz	6	95W	 (0)	$545.00
+Intel Xeon E5-2640	2.5GHz	6	95W	 (0)	545.00
 Intel Pentium G4500 (OEM/Tray)	3.5GHz	2	47W	 (0)	
 AMD 5150 (OEM/Tray)	1.6GHz	4	25W	 (0)	
 Intel Xeon E5-2650L V2 (OEM/Tray)	1.7GHz	10	70W	 (0)	
@@ -547,27 +547,27 @@ AMD Phenom II X4 975 (OEM/Tray)	3.6GHz	4	125W	 (0)
 Intel Pentium G4400T (OEM/Tray)	2.9GHz	2	35W	 (0)	
 Intel Core 2 Duo E6400	2.13Ghz	2	65W	 (0)	
 AMD Phenom II X4 820 (OEM/Tray)	2.8GHz	4	95W	 (0)	
-Intel Xeon E5-2695 V2	2.4GHz	12	115W	 (0)	$2259.99
+Intel Xeon E5-2695 V2	2.4GHz	12	115W	 (0)	2259.99
 AMD Phenom II X4 955 (OEM/Tray)	3.2GHz	4	125W	 (0)	
 AMD E-Series E-450 (OEM/Tray)	1.65Ghz	2	18W	 (0)	
 Intel Core i5-4570S (OEM/Tray)	2.9GHz	4	65W	 (0)	
 Intel Celeron E3400	2.6GHz	2	65W	 (0)	
-Intel Core 2 Duo E7400	2.8GHz	2	65W	 (0)	$144.40
+Intel Core 2 Duo E7400	2.8GHz	2	65W	 (0)	144.40
 Intel Core i7-930 (OEM/Tray)	2.8GHz	4	130W	 (0)	
 Intel Pentium G850	2.9GHz	2	65W	 (0)	
 Intel Core 2 Quad Q8200 (OEM/Tray)	2.33Ghz	4	95W	 (0)	
-Intel Core 2 Extreme QX6800	2.93Ghz	4	100W	 (0)	$386.30
+Intel Core 2 Extreme QX6800	2.93Ghz	4	100W	 (0)	386.30
 Intel Core i5-2380P	3.1GHz	4	95W	 (0)	
 AMD FX-8370E (OEM/Tray)	3.3GHz	8	95W	 (0)	
 AMD A8 PRO-7600B (OEM/Tray)	3.1GHz	4	65W	 (0)	
-Intel Xeon E5-2630 V2 (OEM/Tray)	2.6GHz	6	80W	 (0)	$554.95
+Intel Xeon E5-2630 V2 (OEM/Tray)	2.6GHz	6	80W	 (0)	554.95
 Intel Core i3-3245	3.4GHz	2	55W	 (0)	
 AMD FX-8150 (OEM/Tray)	3.6GHz	8	125W	 (0)	
 Intel Xeon E5-2687W	3.1GHz	8	150W	 (0)	
 AMD A4-5300 (OEM/Tray)	3.4GHz	2	65W	 (0)	
 AMD FX-8120 (OEM/Tray)	3.1GHz	8	125W	 (0)	
 Intel Core i5-4570S	2.9GHz	4	65W	 (0)	
-Intel Xeon E3-1270 V2 (OEM/Tray)	3.5GHz	4	69W	 (0)	$319.99
+Intel Xeon E3-1270 V2 (OEM/Tray)	3.5GHz	4	69W	 (0)	319.99
 AMD Athlon II X3 435	2.9GHz	3	95W	 (0)	
 AMD Athlon II X2 260u (OEM/Tray)	1.8GHz	2	25W	 (0)	
 Intel Core i3-350M (OEM/Tray)	2.27Ghz	2	35W	 (0)	
@@ -576,7 +576,7 @@ Intel Pentium E6800	3.33Ghz	2	65W	 (0)
 AMD FX-8310 (OEM/Tray)	3.4GHz	8	95W	 (0)	
 Intel Xeon E5-2630	2.3GHz	6	95W	 (0)	
 Intel Xeon E5-2620	2.0GHz	6	95W	 (0)	
-Intel Xeon E5-2680	2.7GHz	8	130W	 (0)	$1195.39
+Intel Xeon E5-2680	2.7GHz	8	130W	 (0)	1195.39
 AMD Athlon II X2 250 (OEM/Tray)	3.0GHz	2	65W	 (0)	
 Intel Pentium G2120	3.1GHz	2	55W	 (2)	
 AMD A10-6800B (OEM/Tray)	4.1GHz	4	100W	 (0)	
@@ -584,12 +584,12 @@ AMD FX-4320 (OEM/Tray)	4.0GHz	4	95W	 (0)
 AMD FX-6200 (OEM/Tray)	3.8GHz	6	125W	 (0)	
 AMD A8-7670K (OEM/Tray)	3.6GHz	4	95W	 (0)	
 Intel Core i3-6300 (OEM/Tray)	3.8GHz	2	47W	 (0)	
-Intel Pentium G640	2.8GHz	2	65W	 (0)	$74.98
+Intel Pentium G640	2.8GHz	2	65W	 (0)	74.98
 AMD Athlon II X3 425	2.7GHz	3	95W	 (0)	
-Intel Celeron 440	2.0GHz	1	35W	 (0)	$47.13
+Intel Celeron 440	2.0GHz	1	35W	 (0)	47.13
 AMD Phenom II X4 920	2.8GHz	4	125W	 (0)	
 AMD Phenom II X4 925	2.8GHz	4	95W	 (0)	
-Intel Core 2 Duo E4300 (OEM/Tray)	1.8GHz	2	65W	 (0)	$42.99
+Intel Core 2 Duo E4300 (OEM/Tray)	1.8GHz	2	65W	 (0)	42.99
 Intel Core i3-2100T	2.5GHz	2	35W	 (1)	
 AMD Athlon X4 530 (OEM/Tray)	2.0GHz	4	25W	 (0)	
 AMD A6-6420K (OEM/Tray)	4.0GHz	2	65W	 (0)	
@@ -598,29 +598,29 @@ Intel Xeon E5-2640 V3 (OEM/Tray)	2.6GHz	8	90W	 (0)
 AMD Athlon II X4 620 (OEM/Tray)	2.6GHz	4	95W	 (1)	
 Intel Pentium G2010	2.8GHz	2	55W	 (0)	
 Intel Xeon E3-1230	3.2GHz	4	80W	 (0)	
-Intel Xeon E5-2665	2.4GHz	8	115W	 (0)	$742.43
+Intel Xeon E5-2665	2.4GHz	8	115W	 (0)	742.43
 Intel Pentium G4500T (OEM/Tray)	3.0GHz	2	35W	 (0)	
 AMD A4-3300 (OEM/Tray)	2.5GHz	2	65W	 (0)	
 AMD Athlon II X4 651	3.0GHz	4	100W	 (0)	
 AMD A6-3650 (OEM/Tray)	2.6GHz	4	100W	 (0)	
 AMD Athlon II X4 600e	2.2GHz	4	45W	 (0)	
-Intel Pentium E2160	1.8GHz	2	65W	 (0)	$99.00
-Intel Pentium E6300	2.8GHz	2	65W	 (0)	$67.91
+Intel Pentium E2160	1.8GHz	2	65W	 (0)	99.00
+Intel Pentium E6300	2.8GHz	2	65W	 (0)	67.91
 Intel Core 2 Quad Q8200S (OEM/Tray)	2.33Ghz	4	65W	 (0)	
-Intel Core 2 Quad Q8300 (OEM/Tray)	2.5GHz	4	95W	 (0)	$143.97
+Intel Core 2 Quad Q8300 (OEM/Tray)	2.5GHz	4	95W	 (0)	143.97
 Intel Core 2 Quad Q9450 (OEM/Tray)	2.66Ghz	4	95W	 (0)	
 Intel Pentium G3460 (OEM/Tray)	3.5GHz	2	53W	 (0)	
 Intel Xeon E5-2660 V3 (OEM/Tray)	2.6GHz	10	105W	 (0)	
 AMD Athlon X2 370K (OEM/Tray)	4.2GHz	2	65W	 (0)	
 AMD Athlon II X2 240 (OEM/Tray)	2.8GHz	2	65W	 (0)	
 AMD Phenom II X4 805	2.5GHz	4	95W	 (0)	
-Intel Celeron E3300	2.5GHz	2	65W	 (0)	$80.97
-Intel Core 2 Duo E4400 (OEM/Tray)	2.0GHz	2	65W	 (0)	$49.99
+Intel Celeron E3300	2.5GHz	2	65W	 (0)	80.97
+Intel Core 2 Duo E4400 (OEM/Tray)	2.0GHz	2	65W	 (0)	49.99
 Intel Pentium E5400 (OEM/Tray)	2.7GHz	2	65W	 (0)	
 AMD Phenom II X6 1065T (OEM/Tray)	2.7GHz	6	95W	 (0)	
 Intel Core 2 Quad Q9550 (OEM/Tray)	2.83Ghz	4	95W	 (0)	
 Intel Core 2 Extreme QX6850	3.0GHz	4	130W	 (0)	
-Intel Core 2 Extreme X6800 (OEM/Tray)	2.93Ghz	2	75W	 (0)	$258.47
+Intel Core 2 Extreme X6800 (OEM/Tray)	2.93Ghz	2	75W	 (0)	258.47
 AMD Athlon II X4 641	2.8GHz	4	100W	 (0)	
 Intel Pentium G3250 (OEM/Tray)	3.2GHz	2	53W	 (0)	
 AMD Athlon II X3 440 (OEM/Tray)	3.0GHz	3	95W	 (1)	
@@ -633,8 +633,8 @@ AMD A4-6300B (OEM/Tray)	3.7GHz	2	65W	 (0)
 AMD FX-4150 (OEM/Tray)	4.0GHz	4	125W	 (0)	
 AMD E2-Series E2-3200	2.4GHz	2	65W	 (0)	
 AMD Athlon II X4 630	2.8GHz	4	95W	 (0)	
-Intel Pentium E2220 (OEM/Tray)	2.4GHz	2	65W	 (0)	$46.95
-Intel Core 2 Duo E7600	3.06Ghz	2	65W	 (0)	$154.53
+Intel Pentium E2220 (OEM/Tray)	2.4GHz	2	65W	 (0)	46.95
+Intel Core 2 Duo E7600	3.06Ghz	2	65W	 (0)	154.53
 AMD Phenom II X3 710	2.6GHz	3	95W	 (0)	
 Intel Core i3-2125	3.3GHz	2	65W	 (0)	
 Intel Pentium G3470 (OEM/Tray)	3.6GHz	2	53W	 (0)	
@@ -644,7 +644,7 @@ AMD Athlon II X2 255	3.1GHz	2	65W	 (0)
 Intel Celeron 420	1.6GHz	1	35W	 (0)	
 AMD Athlon II X3 440	3.0GHz	3	95W	 (0)	
 AMD Athlon II X2 240e	2.8GHz	2	45W	 (0)	
-Intel Celeron E1500 (OEM/Tray)	2.2GHz	2	65W	 (0)	$37.35
+Intel Celeron E1500 (OEM/Tray)	2.2GHz	2	65W	 (0)	37.35
 Intel Core 2 Quad Q9550 (OEM/Tray)	2.83Ghz	4	95W	 (0)	
 Intel Core 2 Quad Q9550S	2.83Ghz	4	65W	 (0)	
 Intel Core i5-2450P	3.2GHz	4	95W	 (0)	
@@ -661,7 +661,7 @@ AMD Sempron X2 190 (OEM/Tray)	2.5GHz	2	45W	 (0)
 AMD A10-6790B (OEM/Tray)	4.0GHz	4	100W	 (0)	
 AMD Phenom II X4 910e	2.6GHz	4	65W	 (0)	
 Intel Core i7-860S (OEM/Tray)	2.53Ghz	4	82W	 (0)	
-Intel Core 2 Quad Q8300 (OEM/Tray)	2.5GHz	4	95W	 (0)	$178.98
+Intel Core 2 Quad Q8300 (OEM/Tray)	2.5GHz	4	95W	 (0)	178.98
 Intel Core 2 Extreme X6800	2.93Ghz	2	75W	 (0)	
 AMD Sempron X2 250 (OEM/Tray)	3.2GHz	2	65W	 (0)	
 AMD Phenom II X4 B99 (OEM/Tray)	3.3GHz	4	95W	 (0)	
@@ -677,13 +677,13 @@ Intel Pentium G550	2.6GHz	2	65W	 (2)
 AMD Phenom II X2 545	3.0GHz	2	80W	 (0)	
 AMD Phenom II X4 905e	2.5GHz	4	65W	 (0)	
 Intel Core 2 Duo E6550	2.33Ghz	2	65W	 (0)	
-Intel Core 2 Duo E7600 (OEM/Tray)	3.06Ghz	2	65W	 (0)	$103.20
+Intel Core 2 Duo E7600 (OEM/Tray)	3.06Ghz	2	65W	 (0)	103.20
 Intel Core 2 Duo E8500	3.16Ghz	2	65W	 (0)	
 Intel Core 2 Quad Q8400S	2.66Ghz	4	65W	 (0)	
 Intel Core 2 Quad Q9550S (OEM/Tray)	2.83Ghz	4	65W	 (1)	
 AMD Phenom II X3 720 Black (OEM/Tray)	2.8GHz	3	95W	 (1)	
 AMD Athlon X2 450 (OEM/Tray)	3.5GHz	2	65W	 (0)	
-Intel Core 2 Duo E6420 (OEM/Tray)	2.13Ghz	2	65W	 (0)	$154.86
+Intel Core 2 Duo E6420 (OEM/Tray)	2.13Ghz	2	65W	 (0)	154.86
 Intel Celeron G465	1.9GHz	2	35W	 (0)	
 AMD Athlon II X4 635 (OEM/Tray)	2.9GHz	4	95W	 (0)	
 Intel Pentium G2140	3.3GHz	2	55W	 (0)	
@@ -697,7 +697,7 @@ Intel Core 2 Duo E8300 (OEM/Tray)	2.83Ghz	2	65W	 (0)
 Intel Core i7-940 (OEM/Tray)	2.93Ghz	4	130W	 (0)	
 Intel Core i7-965 Extreme Edition (OEM/Tray)	3.2GHz	4	130W	 (0)	
 Intel Core 2 Quad Q8200S	2.33Ghz	4	65W	 (0)	
-Intel Xeon E5-2630 (OEM/Tray)	2.3GHz	6	95W	 (0)	$748.17
+Intel Xeon E5-2630 (OEM/Tray)	2.3GHz	6	95W	 (0)	748.17
 AMD Athlon X2 350 (OEM/Tray)	3.5GHz	2	65W	 (0)	
 AMD Athlon II X4 630 (OEM/Tray)	2.8GHz	4	95W	 (0)	
 Intel Xeon E3-1275	3.4GHz	4	95W	 (0)	
