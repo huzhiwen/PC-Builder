@@ -6,18 +6,23 @@ import operator
 
 from inverted_index import *
 
-def direct_process(query_list):
-	result_set = dict()
+def process_query(query_list):
+	modify_list = []
 
+	count = 0
 	for query in query_list:
 		if (index.if_indexed(query)):
-			result_set[query] = 1
+			count += 1
 
-	return accumlate_score(result_set)
+	if count == len(query_list):
+		return accumlate_score(query_list)
+	else 
+		trial_list = modify_list.append(query)
+		return accumlate_score(trial_list)
 
 def modified_process(query_list):
 	# editing distance 1
-	result_set = dict()
+	trial_list = []
 	mutate_list_1 = []
 
 	for query in query_list:	
@@ -28,14 +33,15 @@ def modified_process(query_list):
 
 	for trial in mutate_list_1:
 		if (index.if_indexed(trial)):
-			result_set[trial] = 1
+			trial_list.add(trial)
 
-	return accumlate_score(result_set)
+	return trial_list
 
 def accumlate_score(result_set):
 	doc_score = dict()
+	result_list = []
 
-	for word, num in result_set.iteritems():
+	for word in result_set:
 		doc_set = index.doc_set(word)
 		for doc in doc_set: 
 			if doc in doc_score:
@@ -43,7 +49,8 @@ def accumlate_score(result_set):
 			else:
 				doc_score[doc] = index.bm_25(word, doc)
 
-	sorted_score = sorted(doc_score.items(), key=operator.itemgetter(1))
+	sorted_score = sorted(doc_score.items(), key=operator.itemgetter(1), reverse=True)
+
 	return sorted_score
 
 def replace_char(query, mutate_list):
@@ -77,7 +84,7 @@ def reverse_char(query, mutate_list):
 		chars = list(query)
 		chars[i], chars[i+1] = chars[i+1], chars[i]
 		trial = ''.join(chars)
-		mutate_list.append(trial)
+		mutate_list.append(
 
 def split_str(query, cur_dict):
 	for i in range (1, len(query)):
@@ -96,13 +103,13 @@ def data_init():
 	for i in range (26):
 		chars.append(chr(i + ord('a')))
 
-	data_file = open('data/manu_dict', 'r')
+	# data_file = open('data/manu_dict', 'r')
 
-	for data_line in data_file:
-		manu = data_line.lower().rstrip()
-		voca_dict[manu] = -1
+	# for data_line in data_file:
+	# 	manu = data_line.lower().rstrip()
+	# 	voca_dict[manu] = -1
 
-	data_file.close()
+	# data_file.close()
 
 def handle_client(client_socket):
 	request = raw_input().lower()
@@ -110,11 +117,10 @@ def handle_client(client_socket):
 	query_list = request.split()
 	query_list = [query for query in query_list]
 
-	dirct_result = direct_process(query_list)
-	modified_result = modified_process(query_list)
-
-	print dirct_result
-	print modified_result
+	dirct_result = process_query(query_list)
+	# modified_result = modified_process(query_list)
+	for key, val in dirct_result:
+		print index.pro_name(key)
 
 	# client_socket.send("ACK!")
 	# client_socket.close()
@@ -140,7 +146,7 @@ chars = []
 cur_dict = dict()
 voca_dict = dict()
 
-index = inverted_index('data/type_dict')
+index = inverted_index()
 
 data_init()
 # server_start()
