@@ -4,6 +4,7 @@
 <title>PC-Bulider</title>
    <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body id="body-color">
 
   <div class="site__container">
@@ -13,6 +14,7 @@
 <form method="POST" action="signup.php">
 <fieldset style="width:30%">
 <font face="Comic sans MS" size="14"  >Register</font><br>
+<img  src="product/photo/1.png" width="300" height="200"/ ><br>
 <font face="Comic sans MS" size="5"  >Enter Email:<br>
 <input type="text" name="new_user" size="20"> <br>
 <font face="Comic sans MS" size="5" >Enter Password:<br>
@@ -25,6 +27,7 @@
 
 </fieldset> 
 </div>
+
 
 
 

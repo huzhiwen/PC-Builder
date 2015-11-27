@@ -50,10 +50,11 @@
 
   </body>
 
-<div id="Product" style="width:200px;height:400px;padding:10px;border:5px outset white;">
+<div id="Product" style="width:200px;height:430px;padding:10px;border:5px outset white;">
 <!-- <fieldset style="width:50%"> -->
 
-<legend><font face = "Comic sans MS" size="6" color="white">Products:</font></legend>
+<!-- <legend><font face = "Comic sans MS" size="6" color="white">Products:</font></legend> -->
+<img  src="product/photo/login1.png" width="170" height="80"/ ><br>
 
 <br>
 <a href="/trunk/product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
