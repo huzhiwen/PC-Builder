@@ -7,47 +7,35 @@ import operator
 from inverted_index import *
 
 def process_query(query_list):
-	modify_list = []
+	trial_list = dict()
 
-	count = 0
 	for query in query_list:
-		if (index.if_indexed(query)):
-			count += 1
+		if (not index.if_indexed(query)):
+			mutate_list_1 = []
+			remove_char(query, mutate_list_1)
+			reverse_char(query, mutate_list_1)
+			insert_char(query, mutate_list_1)
+			replace_char(query, mutate_list_1)
 
-	if count == len(query_list):
-		return accumlate_score(query_list)
-	else 
-		trial_list = modify_list.append(query)
-		return accumlate_score(trial_list)
+			find_list = []
+			for trial in mutate_list_1:
+				if (index.if_indexed(trial)):
+					find_list.append(trial)
+			for trial in find_list:
+					trial_list[trial] = 1.0 / len(find_list)
+		else:
+			trial_list[query] = 1.0
 
-def modified_process(query_list):
-	# editing distance 1
-	trial_list = []
-	mutate_list_1 = []
-
-	for query in query_list:	
-		remove_char(query, mutate_list_1)
-		reverse_char(query, mutate_list_1)
-		insert_char(query, mutate_list_1)
-		replace_char(query, mutate_list_1)
-
-	for trial in mutate_list_1:
-		if (index.if_indexed(trial)):
-			trial_list.add(trial)
-
-	return trial_list
-
-def accumlate_score(result_set):
 	doc_score = dict()
 	result_list = []
 
-	for word in result_set:
+	for word in trial_list:
 		doc_set = index.doc_set(word)
 		for doc in doc_set: 
 			if doc in doc_score:
-				doc_score[doc] += index.bm_25(word, doc)
+				doc_score[doc] += index.bm_25(word, doc) * trial_list[word]
 			else:
-				doc_score[doc] = index.bm_25(word, doc)
+				doc_score[doc] = index.bm_25(word, doc) * trial_list[word]
 
 	sorted_score = sorted(doc_score.items(), key=operator.itemgetter(1), reverse=True)
 
@@ -84,15 +72,15 @@ def reverse_char(query, mutate_list):
 		chars = list(query)
 		chars[i], chars[i+1] = chars[i+1], chars[i]
 		trial = ''.join(chars)
-		mutate_list.append(
+		mutate_list.append(trial)
 
-def split_str(query, cur_dict):
-	for i in range (1, len(query)):
-		left, right = query[0:i], query[i:len(query)]
-		if (left in cur_dict):
-			result_set[left] = cur_dict[left]
-		if (right in cur_dict):
-			result_set[right] = cur_dict[right]
+# def split_str(query, cur_dict):
+# 	for i in range (1, len(query)):
+# 		left, right = query[0:i], query[i:len(query)]
+# 		if (left in cur_dict):
+# 			result_set[left] = cur_dict[left]
+# 		if (right in cur_dict):
+# 			result_set[right] = cur_dict[right]
 
 def data_init():
 	signal.signal(signal.SIGINT, signal_handler)
@@ -117,9 +105,9 @@ def handle_client(client_socket):
 	query_list = request.split()
 	query_list = [query for query in query_list]
 
-	dirct_result = process_query(query_list)
-	# modified_result = modified_process(query_list)
-	for key, val in dirct_result:
+	result = process_query(query_list)
+
+	for key, value in result:
 		print index.pro_name(key)
 
 	# client_socket.send("ACK!")
