@@ -2,7 +2,7 @@
 
     <link rel="stylesheet" href="css/style.css">
 <div align="center">
-<h1><legend><font face = "Comic sans MS" size="10" color="white">CPU</legend></h1>
+<h1><legend><font face = "Comic sans MS" size="10" color="white">Central Processing Unit</legend></h1>
  </div>   
 
 <fieldset style="height:41%;width:35%;padding:10px;border:5px outset white;">

@@ -7,8 +7,8 @@
 
 <fieldset style="height:41%;width:35%;padding:10px;border:5px outset white;">
 
-<img  src="photo/gpu1.png" width="200" height="200"/ >
-<img  src="photo/gpu2.png" width="200" height="200"/ >
+<img  src="photo/2.png" width="200" height="200"/ >
+<img  src="photo/case1.png" width="200" height="200"/ >
 </fieldset>    
 
 
