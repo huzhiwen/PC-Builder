@@ -27,9 +27,26 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 
 <div class="form__field">
   <label><span class="hidden">Enter your budget</span></label>
-  <input id="login__username" type="text" name ="user" class="form__input" placeholder="budget" required>
+  <input type="text" name ="budget" class="form__input" placeholder="budget" required>
 </div>
+<div class="form__field">
+    <input id="button" type="submit" name="submit" value="submit"> <br><br>
+</div>
+</form>
 
+</body>  
+  
+</html>  
+
+<?php
+	if(isset($_POST['submit'])){
+		echo $_POST['budget'];
+		if($_POST['budget'] > 1000 && $_POST['budget'] < 1500)
+			echo("Intel i7-4790k <br>
+				  Asus Z170
+				 ");
+	}
+?>
 
 </body>
 
