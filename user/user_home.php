@@ -25,6 +25,8 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 </fieldset>
 </div>
 
+<form action="user_home.php" method="post" class="form form--login">
+
 <div class="form__field">
   <label><span class="hidden">Enter your budget</span></label>
   <input type="text" name ="budget" class="form__input" placeholder="budget" required>
