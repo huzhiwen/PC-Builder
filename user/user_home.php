@@ -43,7 +43,7 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 <?php
 	if(isset($_POST['submit'])){
 		echo "Our recommendation: <br> <br>";
-		if($_POST['budget'] > 1000 && $_POST['budget'] < 1500){
+		if($_POST['budget'] > 1000 && $_POST['budget'] < 1700){
 			$diff = $_POST['budget']-1324.91;
 			$link_CPU = "/product/cpu.php";
 			echo("<table>
@@ -94,12 +94,10 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 			  	<tr>
 			    	<td>Total: </td>
 			    	<td>$1324.91 </td>
-			    	<td> <a href = $link> see similar item </a> </td>
 			  	</tr>
 			  	<tr>
 			    	<td>Your budget left: </td>
 			    	<td>$$diff </td>
-			    	<td> <a href = $link> see similar item </a> </td>
 			  	</tr>
   				  
 				</table>
@@ -151,18 +149,16 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 			  	<tr>
 			    	<td>Total: </td>
 			    	<td>$401.81 </td>
-			    	<td> <a href = $link> see similar item </a> </td>
 			  	</tr>
 			  	<tr>
 			    	<td>Your budget left: </td>
 			    	<td>$$diff </td>
-			    	<td> <a href = $link> see similar item </a> </td>
 			  	</tr>
   				  
 				</table>
 				 ");
 		}
-		if($_POST['budget'] > 1500 && $_POST['budget'] < 2000){
+		if($_POST['budget'] > 1700 && $_POST['budget'] < 2100){
 			$diff = $_POST['budget']-1829.3;
 			$link_CPU = "/product/cpu.php";
 			echo("<table>
@@ -213,12 +209,10 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 			  	<tr>
 			    	<td>Total: </td>
 			    	<td>$1829.3 </td>
-			    	<td> <a href = $link> see similar item </a> </td>
 			  	</tr>
 			  	<tr>
 			    	<td>Your budget left: </td>
 			    	<td>$$diff </td>
-			    	<td> <a href = $link> see similar item </a> </td>
 			  	</tr>
   				  
 				</table>
@@ -272,12 +266,10 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 			  	<tr>
 			    	<td>Total: </td>
 			    	<td>$735.10 </td>
-			    	<td> <a href = $link> see similar item </a> </td>
 			  	</tr>
 			  	<tr>
 			    	<td>Your budget left: </td>
 			    	<td>$$diff </td>
-			    	<td> <a href = $link> see similar item </a> </td>
 			  	</tr>
   				  
 				</table>
