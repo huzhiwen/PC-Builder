@@ -14,22 +14,27 @@ if(!$_SESSION['email'])
 </head>
 
 <body>
-Welcome <?php echo $_SESSION['email']; ?> <br>
+<font face = "Comic sans MS" size="10" color="white">
+Welcome <font face = "Lato" size="10" color="white"><?php echo $_SESSION['email']; ?> !<br>
 
 <div id="Sign-Up">
-<fieldset style="width:10%">
-<legend>My-Account</legend>
+<fieldset style="width:30%;padding:10px;border:5px outset white;">
+<font face = "Comic sans MS" size="5" color="white">
+<legend>User Home</legend>
+<font face = "Comic sans MS" size="3" color="white">
 <a href="logout.php">log out</a> <br>
-<a href="user_delete.php">delete account</a> <br>
-<a href="user_change.php">change password</a> <br>
+<a href="user_delete.php">delete this account</a> <br>
+<a href="user_change.php">change account password</a> <br>
 </fieldset>
 </div>
 
+<br><br>
 <form action="user_home.php" method="post" class="form form--login">
-
+<font face = "Comic sans MS" size="4" color="white">
+Enter your budget here:
 <div class="form__field">
   <label><span class="hidden">Enter your budget</span></label>
-  <input type="text" name ="budget" class="form__input" placeholder="budget" required>
+  <input type="text" name ="budget" class="form__input" placeholder="budget..." required>
 </div>
 <div class="form__field">
     <input id="button" type="submit" name="submit" value="submit"> <br><br>
@@ -39,7 +44,8 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 </body>  
   
 </html>  
-
+<fieldset style="width:60%;padding:10px;border:5px outset white;">
+<legend><font face = "Comic sans MS" size="5" color="white">List</legend>
 <?php
 	if(isset($_POST['submit'])){
 		echo "Our recommendation: <br> <br>";
@@ -314,3 +320,4 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 		}
 	}
 ?>
+</fieldset>
