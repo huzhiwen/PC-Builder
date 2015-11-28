@@ -19,12 +19,12 @@ class inverted_index:
 
 		in_file = open(file_name, 'r')
 		for line in in_file:
-			doc = line.lower().rstrip().split("	")
-			words = doc[0].rstrip().split(" ")
+			doc = line.rstrip().split("	")
+			words = doc[0].lower().rstrip().split(" ")
 			for word in words:
 				self.add(word, doc_id)
 				self.doc_length[doc_id] = len(words)
-			self.doc_index[doc_id] = doc[1].rstrip()
+			self.doc_index[doc_id] = doc[1]
 			self.avdl += len(words)
 			self.type_index[doc_id] = doc[2]
 			self.N += 1

@@ -17,10 +17,24 @@ def process_query(query_list):
 			insert_char(query, mutate_list_1)
 			replace_char(query, mutate_list_1)
 
-			find_list = []
+			mutate_list_2 = []
+
 			for trial in mutate_list_1:
-				if (index.if_indexed(trial)):
+				remove_char(trial, mutate_list_2)
+				reverse_char(trial, mutate_list_2)
+				insert_char(trial, mutate_list_2)
+				replace_char(trial, mutate_list_2)
+
+			find_list = []
+
+			for trial in mutate_list_1:
+				if (index.if_indexed(trial) and trial not in find_list):
 					find_list.append(trial)
+
+			for trial in mutate_list_2:
+				if (index.if_indexed(trial) and trial not in find_list):
+					find_list.append(trial)
+
 			for trial in find_list:
 					trial_list[trial] = 1.0 / len(find_list)
 		else:
