@@ -43,7 +43,7 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 <?php
 	if(isset($_POST['submit'])){
 		echo "Our recommendation: <br> <br>";
-		if($_POST['budget'] > 1000 && $_POST['budget'] < 1700){
+		if($_POST['budget'] > 1000 && $_POST['budget'] <= 1700){
 			$diff = $_POST['budget']-1324.91;
 			$link_CPU = "/product/cpu.php";
 			echo("<table>
@@ -102,8 +102,18 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
   				  
 				</table>
 				 ");
+				
+				if($diff >= 100 && $diff < 200){
+					echo "<br>Use the rest budget to get a good keyboard!";
+				}
+				if($diff >= 200){
+					echo "<br>You have the extra money to get a monitor!";
+				}
+				if($diff > 0 && $diff < 100){
+					echo "<br>You saved $$diff!";
+				}
 		}
-		if($_POST['budget'] < 500){
+		if($_POST['budget'] <= 600){
 			$diff = $_POST['budget']-401.81;
 			$link_CPU = "/product/cpu.php";
 			echo("<table>
@@ -157,8 +167,17 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
   				  
 				</table>
 				 ");
+				if($diff >= 100 && $diff < 200){
+					echo "<br>Use the rest budget to get a good keyboard!";
+				}
+				if($diff >= 200){
+					echo "<br>You have the extra money to get a monitor!";
+				}
+				if($diff > 0 && $diff < 100){
+					echo "<br>You saved $$diff!";
+				}
 		}
-		if($_POST['budget'] > 1700 && $_POST['budget'] < 2100){
+		if($_POST['budget'] > 1700 && $_POST['budget'] <= 2100){
 			$diff = $_POST['budget']-1829.3;
 			$link_CPU = "/product/cpu.php";
 			echo("<table>
@@ -217,8 +236,17 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
   				  
 				</table>
 				 ");
+				if($diff >= 100 && $diff < 200){
+					echo "<br>Use the rest budget to get a good keyboard!";
+				}
+				if($diff >= 200){
+					echo "<br>You have the extra money to get a monitor!";
+				}
+				if($diff > 0 && $diff < 100){
+					echo "<br>You saved $$diff!";
+				}
 		}
-		if($_POST['budget'] > 500 && $_POST['budget'] < 1000){
+		if($_POST['budget'] > 600 && $_POST['budget'] <= 1000){
 			$diff = $_POST['budget']-735.10;
 			$link_CPU = "/product/cpu.php";
 			echo("<table>
@@ -274,6 +302,15 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
   				  
 				</table>
 				 ");
+				if($diff >= 100 && $diff < 200){
+					echo "<br>Use the rest budget to get a good keyboard!";
+				}
+				if($diff >= 200){
+					echo "<br>You have the extra money to get a monitor!";
+				}
+				if($diff > 0 && $diff < 100){
+					echo "<br>You saved $$diff!";
+				}
 		}
 	}
 ?>
