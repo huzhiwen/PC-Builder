@@ -45,33 +45,33 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 		echo "Our recommendation: <br> <br>";
 		if($_POST['budget'] > 1000 && $_POST['budget'] <= 1700){
 			$diff = $_POST['budget']-1324.91;
-			$link_CPU = "/product/cpu.php";
+			$link = "recommend.php";
 			echo("<table>
 
 				<tr>
 			    	<td>CPU: Intel i7-4790k</td>
 			    	<td>$298.00 </td>
-			    	<td> <a href = $link_CPU> see similar item </a> </td>
+			    	<td> <a href = $link?price=298.00&group=CPU> see similar item </a> </td>
 			    </tr>
 			    <tr>
 			    	<td>Motherboard: Asus Z97-AR</td> 
 			    	<td>$127.99 </td>
-			    	<td> <a href = $link> see similar item </a> </td>
+			    	<td> <a href = $link?price=127.99&group=MOTHERBOARD> see similar item </a> </td>
 			    </tr>	
 			    <tr>
 			    	<td>Memory: Corsair Vengeance Pro 2x8G</td>
 			    	<td>$107.99 </td>
-			    	<td> <a href = $link> see similar item </a> </td>
+			    	<td> <a href = $link?price=107.99&group=MEMORY> see similar item </a> </td>
 			    </tr>	
 			    <tr>
 			    	<td>Video Card: Asus GeForce GTX 970</td>
 			    	<td>$282.99 </td>
-			    	<td> <a href = $link> see similar item </a> </td>
+			    	<td> <a href = $link?price=282.99&group=GPU> see similar item </a> </td>
 			    </tr>	
 			    <tr>
 			    	<td>Power Supply: Corsair RM850 </td>
 			    	<td>$129.99 </td>
-			    	<td> <a href = $link> see similar item </a> </td>
+			    	<td> <a href = $link?price=129.99&group=PSU> see similar item </a> </td>
 			    </tr>	
 			    <tr>
 			    	<td>Storage: Samsung 850 EVO-Series 500GB<br>
@@ -79,17 +79,17 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 				  	<td>$139.99<br>
 			  			$49.98
 			  		 </td>
-			  		 <td> <a href = $link> see similar item </a> </td>
+			  		 <td> <a href = $link?price=139.99&group=HARD_DRIVE> see similar item </a> </td>
 			  	</tr>	
 			    <tr>
 			    	<td>Case: NZXT H440 (Blue/Black)</td>
 			    	<td>$112.99 </td>
-			    	<td> <a href = $link> see similar item </a> </td>
+			    	<td> <a href = $link?price=112.99&group=CASE> see similar item </a> </td>
 			    </tr>	
 			    <tr>
 			    	<td>Cooler: Corsair H100i GTX</td>
 			    	<td>$119.99 </td>
-			    	<td> <a href = $link> see similar item </a> </td>
+			    	<td> <a href = $link?price=119.99&group=COOLING> see similar item </a> </td>
 			  	</tr>
 			  	<tr>
 			    	<td>Total: </td>
@@ -314,4 +314,3 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 		}
 	}
 ?>
-
