@@ -40,14 +40,247 @@ Welcome <?php echo $_SESSION['email']; ?> <br>
 
 <?php
 	if(isset($_POST['submit'])){
-		echo $_POST['budget'];
-		if($_POST['budget'] > 1000 && $_POST['budget'] < 1500)
-			echo("Intel i7-4790k <br>
-				  Asus Z170
+		echo "Our recommendation: <br> <br>";
+		if($_POST['budget'] > 1000 && $_POST['budget'] < 1500){
+			$diff = $_POST['budget']-1324.91;
+			$link_CPU = "/product/cpu.php";
+			echo("<table>
+
+				<tr>
+			    	<td>CPU: Intel i7-4790k</td>
+			    	<td>$298.00 </td>
+			    	<td> <a href = $link_CPU> see similar item </a> </td>
+			    </tr>
+			    <tr>
+			    	<td>Motherboard: Asus Z97-AR</td> 
+			    	<td>$127.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Memory: Corsair Vengeance Pro 2x8G</td>
+			    	<td>$107.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Video Card: Asus GeForce GTX 970</td>
+			    	<td>$282.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Power Supply: Corsair RM850 </td>
+			    	<td>$129.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Storage: Samsung 850 EVO-Series 500GB<br>
+				  		   Western Digital WD10EZEX 1TB</td>
+				  	<td>$139.99<br>
+			  			$49.98
+			  		 </td>
+			  		 <td> <a href = $link> see similar item </a> </td>
+			  	</tr>	
+			    <tr>
+			    	<td>Case: NZXT H440 (Blue/Black)</td>
+			    	<td>$112.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Cooler: Corsair H100i GTX</td>
+			    	<td>$119.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+			  	<tr>
+			    	<td>Total: </td>
+			    	<td>$1324.91 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+			  	<tr>
+			    	<td>Your budget left: </td>
+			    	<td>$$diff </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+  				  
+				</table>
 				 ");
+		}
+		if($_POST['budget'] < 500){
+			$diff = $_POST['budget']-401.81;
+			$link_CPU = "/product/cpu.php";
+			echo("<table>
+
+				<tr>
+			    	<td>CPU: Intel Core i3-4150</td>
+			    	<td>$119.98 </td>
+			    	<td> <a href = $link_CPU> see similar item </a> </td>
+			    </tr>
+			    <tr>
+			    	<td>Motherboard: Gigabyte GA-H97M-D3H</td> 
+			    	<td>$68.00 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Memory: G.Skill Ripjaws X Series 2x4G</td>
+			    	<td>$51.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Video Card: None</td>
+			    </tr>	
+			    <tr>
+			    	<td>Power Supply: Corsair CX500M </td>
+			    	<td>$51.98 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+				  	<td>Western Digital WD10EZEX 1TB</td>
+				  	<td>$49.98</td>
+			  		 <td> <a href = $link> see similar item </a> </td>
+			  	</tr>	
+			    <tr>
+			    	<td>Case: Cooler Master Elite 130</td>
+			    	<td>$34.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Cooler: Cooler Master Hyper 212 EVO</td>
+			    	<td>$24.89 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+			  	<tr>
+			    	<td>Total: </td>
+			    	<td>$401.81 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+			  	<tr>
+			    	<td>Your budget left: </td>
+			    	<td>$$diff </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+  				  
+				</table>
+				 ");
+		}
+		if($_POST['budget'] > 1500 && $_POST['budget'] < 2000){
+			$diff = $_POST['budget']-1829.3;
+			$link_CPU = "/product/cpu.php";
+			echo("<table>
+
+				<tr>
+			    	<td>CPU: Intel i7-4700k</td>
+			    	<td>$419.99 </td>
+			    	<td> <a href = $link_CPU> see similar item </a> </td>
+			    </tr>
+			    <tr>
+			    	<td>Motherboard: Asus MAXIMUS VIII HERO</td> 
+			    	<td>$184.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Memory: Corsair Dominator Platinum 2x8G</td>
+			    	<td>$194.39 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Video Card: EVGA GeForce GTX 980</td>
+			    	<td>$489.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Power Supply: Corsair RM850 </td>
+			    	<td>$129.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Storage: Samsung 850 EVO-Series 500GB<br>
+				  		   Western Digital WD10EZEX 1TB</td>
+				  	<td>$139.99<br>
+			  			$49.98
+			  		 </td>
+			  		 <td> <a href = $link> see similar item </a> </td>
+			  	</tr>	
+			    <tr>
+			    	<td>Case: Corsair 750D</td>
+			    	<td>$99.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Cooler: Corsair H110i GTX</td>
+			    	<td>$119.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+			  	<tr>
+			    	<td>Total: </td>
+			    	<td>$1829.3 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+			  	<tr>
+			    	<td>Your budget left: </td>
+			    	<td>$$diff </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+  				  
+				</table>
+				 ");
+		}
+		if($_POST['budget'] > 500 && $_POST['budget'] < 1000){
+			$diff = $_POST['budget']-735.10;
+			$link_CPU = "/product/cpu.php";
+			echo("<table>
+
+				<tr>
+			    	<td>CPU: Intel Core i5-4690K</td>
+			    	<td>$209.99 </td>
+			    	<td> <a href = $link_CPU> see similar item </a> </td>
+			    </tr>
+			    <tr>
+			    	<td>Motherboard: Gigabyte GA-H97N-WIFI</td> 
+			    	<td>$91.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Memory: Corsair Vengeance Pro 2x4G</td>
+			    	<td>$52.66 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Video Card: EVGA GeForce GTX 750 Ti	</td>
+			    	<td>$109.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Power Supply: EVGA SuperNOVA 650 </td>
+			    	<td>$80.62 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+				  	<td>Western Digital WD10EZEX 1TB</td>
+				  	<td>$49.98</td>
+			  		 <td> <a href = $link> see similar item </a> </td>
+			  	</tr>	
+			    <tr>
+			    	<td>Case: Fractal Design Define R4 w/Window (Black Pearl)</td>
+			    	<td>$74.99 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			    </tr>	
+			    <tr>
+			    	<td>Cooler: Noctua NH-U12S</td>
+			    	<td>$64.88 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+			  	<tr>
+			    	<td>Total: </td>
+			    	<td>$735.10 </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+			  	<tr>
+			    	<td>Your budget left: </td>
+			    	<td>$$diff </td>
+			    	<td> <a href = $link> see similar item </a> </td>
+			  	</tr>
+  				  
+				</table>
+				 ");
+		}
 	}
 ?>
 
-</body>
-
-</html>
