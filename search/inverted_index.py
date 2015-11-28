@@ -24,9 +24,9 @@ class inverted_index:
 			for word in words:
 				self.add(word, doc_id)
 				self.doc_length[doc_id] = len(words)
-			self.doc_index[doc_id] = doc[0].rstrip()
+			self.doc_index[doc_id] = doc[1].rstrip()
 			self.avdl += len(words)
-			self.type_index[doc_id] = doc[1]
+			self.type_index[doc_id] = doc[2]
 			self.N += 1
 			doc_id += 1
 

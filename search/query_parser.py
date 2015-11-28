@@ -39,7 +39,7 @@ def process_query(query_list):
 
 	sorted_score = sorted(doc_score.items(), key=operator.itemgetter(1), reverse=True)
 
-	return sorted_score
+	return sorted_score[0:20]
 
 def replace_char(query, mutate_list):
 	for i in range (0, len(query)):
@@ -91,14 +91,6 @@ def data_init():
 	for i in range (26):
 		chars.append(chr(i + ord('a')))
 
-	# data_file = open('data/manu_dict', 'r')
-
-	# for data_line in data_file:
-	# 	manu = data_line.lower().rstrip()
-	# 	voca_dict[manu] = -1
-
-	# data_file.close()
-
 def handle_client(client_socket):
 	request = raw_input().lower()
 	# request = client_socket.recv(1024).lower()
@@ -108,7 +100,8 @@ def handle_client(client_socket):
 	result = process_query(query_list)
 
 	for key, value in result:
-		print index.pro_name(key)
+		print index.pro_name(key) + '	',
+		print value
 
 	# client_socket.send("ACK!")
 	# client_socket.close()
