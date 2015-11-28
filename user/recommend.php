@@ -12,9 +12,11 @@
 
 	$query = mysql_query("SELECT * FROM $group Where price < $price+30 AND price > $price-30") or die( mysql_error() );
 
+	echo "<table>";
 	while( $row = mysql_fetch_array($query)){
-		echo $row['manufacturer']."	".$row['model_name']."	".$row['price']."<br>";
+		echo "<tr><td>".$row['manufacturer']."</td><td>".$row['model_name']."</td><td>".$row['price']."<td></tr>";
 	}
+	echo "</table>";
 	
 
 ?>
