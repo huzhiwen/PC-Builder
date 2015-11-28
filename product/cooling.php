@@ -17,8 +17,11 @@
 <legend><font face = "Comic sans MS" size="5" color="white">Search</legend>
 
 <form  method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" id="searchform">
+	<font face = "Comic sans MS" size="5" color="black">
 	<input  type="text" name="user_text" placeholder="Search..."> <br> <br>
 	<input  type="submit" name="search" value="Search"> <br> <br>
+
+	<font face = "Comic sans MS" size="5" color="white">
 	<u>Brand</u> <br>
 	<input type="checkbox" name="manu[0]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/> Corsair<br>
 	<input type="checkbox" name="manu[1]" value="NZXT" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> NZXT<br>

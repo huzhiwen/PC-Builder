@@ -11,14 +11,23 @@
 <img  src="photo/4.png" width="200" height="200"/ >
 </fieldset>    
 
-
+<br> 
 
 <fieldset style="width:20%;padding:10px;border:5px outset white;">
 <legend><font face = "Comic sans MS" size="5" color="white">Search</legend>
 
 <form  method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" id="searchform">
-	<input  type="text" name="user_text" placeholder="Search..."> <br> <br>
+
+
+ <!-- for search and auto correct -->
+	<font face = "Comic sans MS" size="5" color="black">
+	<input  type="text" name="user_text" placeholder="Search..." size="20"> <br> <br>
 	<input  type="submit" name="search" value="Search"> <br> <br>
+
+
+<!--  above-->
+
+	<font face = "Comic sans MS" size="5" color="white">	
 	<u>Brand</u> <br>
 	<input type="checkbox" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/> AMD<br>
 	<input type="checkbox" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> Intel<br>
@@ -27,12 +36,16 @@
 	<input type="checkbox" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> Dual<br>
 	<input type="checkbox" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> Quad<br>
 	<input type="checkbox" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> /> More<br>
+
+	 	<font face = "Comic sans MS" size="5" color="black"><input type="submit" name="submit" value="Get Your Result">
 </form>
 </fieldset> 
 
 <!-- <body id="body-color"> -->
-
-
+<br> <br>
+<fieldset style="width:60%;padding:10px;border:5px outset white;">
+<legend><font face = "Comic sans MS" size="5" color="white">Your results:</legend>
+Manufacturer | Model_Name | Price($) | # of core | Speed(GHz)<br><br>
 <?php
 
 
@@ -46,13 +59,13 @@ $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_
 
 $pname = "CPU";
 
-if(!isset($_POST['search']))
+if(!isset($_POST['submit']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
 
 	while( $row = mysql_fetch_array($query))
 	{
-		echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["core"] . "	" . $row["speed"]. "GHZ". "<br>";
+		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "	  " . $row["core"] . "		 " . $row["speed"].  "<br>";
 	}
 	// echo "<a href='/product/cpu.php?name=".$link_address."'>Link</a>";
 }
@@ -92,7 +105,7 @@ else
 		{
 			$str = $str. "(";
 
-			for ($i=0; $i < 3; $i++)
+			for ($i=0; $i < 4; $i++)
 			{
 				if ($i != 0)
 					$str = $str. " OR";
@@ -109,29 +122,19 @@ else
 		$str = $str. ")";
 	}
 
-	if (isset($_POST['user_text']))
-	{
-		exec("./a.out" , $out);
-
-		$line;
-
-		foreach($out as $line)
-		{
-			echo $line;
-		}
-	}
-
-
-	// $query = mysql_query($str) or die( mysql_error() );
 	
-	// while( $row = mysql_fetch_array($query))
-	// {
-	// 	echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["core"] . "	"  . $row["speed"]. "GHZ". "<br>";
-	// };
+		$query = mysql_query($str);
 
+	while( $row = mysql_fetch_array($query))
+	{
+		
+	echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . " 	  " . $row["core"] . "	 	" . $row["speed"].  "<br>";
+
+	}
 }
-?>
 
+
+?>
 <br> 
 </fieldset> 
 </div>

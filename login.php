@@ -57,14 +57,14 @@
 <img  src="product/photo/login1.png" width="170" height="80"/ ><br>
 
 <br>
-<a href="/product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
-<a href="/product/psu.php"><font size="5" color="white">PSU</font></a> <br>
-<a href="/product/gpu.php"><font size="5" color="white">GPU</font></a> <br>
-<a href="/product/case.php"><font size="5" color="white">Case</font></a> <br>
-<a href="/product/mointor.php"><font size="5" color="white">Monitor</font></a> <br>
-<a href="/product/cooling.php"><font size="5" color="white">Cooling</font></a> <br>
-<a href="/product/hard_drive.php"><font size="5" color="white">Hard Drive</font></a> <br>
-<a href="/product/motherboard.php"><font size="5" color="white">Motherboard</font></a> <br>
+<a href="/trunk/product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
+<a href="/trunk/product/psu.php"><font size="5" color="white">PSU</font></a> <br>
+<a href="/trunk/product/gpu.php"><font size="5" color="white">GPU</font></a> <br>
+<a href="/trunk/product/case.php"><font size="5" color="white">Case</font></a> <br>
+<a href="/trunk/product/mointor.php"><font size="5" color="white">Monitor</font></a> <br>
+<a href="/trunk/product/cooling.php"><font size="5" color="white">Cooling</font></a> <br>
+<a href="/trunk/product/hard_drive.php"><font size="5" color="white">Hard Drive</font></a> <br>
+<a href="/trunk/product/motherboard.php"><font size="5" color="white">Motherboard</font></a> <br>
 
 <br>
 <!-- </fieldset> -->
