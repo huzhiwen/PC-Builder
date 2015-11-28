@@ -15,7 +15,7 @@
 
 	echo "<table>";
 	while( $row = mysql_fetch_array($query)){
-		if($group=='GPU')
+		if($group=='MEMORY')
 			echo "<tr><td>".$row['manufacturer']."</td><td>".$row['model_name']."</td><td>".$row['size']."</td><td>".$row['price']."</td><td>"."<td></tr>";
 		else
 			echo "<tr><td>".$row['manufacturer']."</td><td>".$row['model_name']."</td><td>".$row['price']."<td></tr>";
