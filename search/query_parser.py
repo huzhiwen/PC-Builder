@@ -114,8 +114,9 @@ def handle_client(client_socket):
 
 	result = ''
 	for key, value in sorted_doc:
-		result += index.pro_name(key) + '\n'
+		result += index.pro_name(key) + '	'
 
+	print 'writing back'
 	client_socket.send(result)
 	client_socket.close()
 
