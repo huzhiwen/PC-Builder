@@ -23,8 +23,9 @@
 	<font face = "Comic sans MS" size="5" color="white">
 	<u>Brand</u> <br>
 	<input type="checkbox" name="manu[0]" value="Seagate" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Seagate', $_POST['manu'])) echo 'checked="checked"'; ?>/> Seagate<br>
-	<input type="checkbox" name="manu[1]" value="Samsung" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Samsumg', $_POST['manu'])) echo 'checked="checked"'; ?>/> Samsumg<br>
-	<input type="checkbox" name="manu[2]" value="Toshiba" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Toshiba', $_POST['manu'])) echo 'checked="checked"'; ?>/> Toshiba<br>
+	<input type="checkbox" name="manu[1]" value="Toshiba" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Toshiba', $_POST['manu'])) echo 'checked="checked"'; ?>/> Toshiba<br>
+	<input type="checkbox" name="manu[2]" value="Samsung" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Samsung', $_POST['manu'])) echo 'checked="checked"'; ?>/> Samsung<br>
+	<input type="checkbox" name="manu[3]" value="Hitachi" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Hitachi', $_POST['manu'])) echo 'checked="checked"'; ?>/> Hitachi<br>
 
 	<u>Price</u> <br>
 	<input type="checkbox" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 0-$50<br>
@@ -38,7 +39,7 @@
 
 <fieldset style="width:70%;padding:10px;border:5px outset white;">
 <legend><font face = "Comic sans MS" size="5" color="white">Your results:</legend>
-Manufacturer | Model_Name | Price($) | Cache(GB) | Drive Type | Capacity<br><br>
+Manufacturer | Model_Name | Price($) | Cache | Drive Type | Capacity<br><br>
 <?php
 
 
@@ -58,13 +59,13 @@ if(!isset($_POST['submit']))
 
 	while( $row = mysql_fetch_array($query))
 	{
-		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "  	  " . $row["cache"]. "  	  " . $row["drive_type"] . " 	". $row["capacity"] . "<br>";
+					echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "  " . $row["cache"] . "	" . $row["drive_type"]. "	" . $row["capacity"].  "<br>";
 	}
 	// echo "<a href='/product/cpu.php?name=".$link_address."'>Link</a>";
 }
 else
 {
-	$str = "SELECT * FROM HARD_DRIVE";
+	$str = "SELECT * FROM HARD_DRIVE ";
 
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
@@ -80,7 +81,7 @@ else
 		{
 			$str = $str. "(";
 
-			for ($i=0; $i < 3; $i++)
+			for ($i=0; $i < 4; $i++)
 			{
 				if ($i != 0)
 					$str = $str. " OR";
@@ -135,8 +136,7 @@ else
 		$query = mysql_query($str) or die( mysql_error() );
 			while( $row = mysql_fetch_array($query))
 		{
-							echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "  	  " . $row["cache"]. "  	  " .$row["drive_type"] . " 	". $row["capacity"] . "<br>";
-
+					echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "  " . $row["cache"] . "	" . $row["drive_type"]. "	" . $row["capacity"].  "<br>";
 
 	 	};
 

@@ -26,7 +26,7 @@
 	<input type="checkbox" name="manu[0]" value="NZXT" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('NZXT', $_POST['manu'])) echo 'checked="checked"'; ?>/> NZXT<br>
 	<input type="checkbox" name="manu[1]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/> Corsair<br>
 	<input type="checkbox" name="manu[1]" value="Slivestone" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Slivestone', $_POST['manu'])) echo 'checked="checked"'; ?>/> Slivestone<br>
-
+	<input  type="submit" name="submit" value="Get Your Result"> <br> <br>
 </form>
 </fieldset> 
 
@@ -47,7 +47,7 @@ $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_
 
 $pname = "CASE_";
 
-if(!isset($_POST['search']))
+if(!isset($_POST['submit']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
 

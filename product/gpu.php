@@ -14,6 +14,8 @@
 
 
 
+
+
 <fieldset style="width:20%;padding:10px;border:5px outset white;">
 <legend><font face = "Comic sans MS" size="5" color="white">Search</legend>
 
@@ -61,13 +63,13 @@ if(!isset($_POST['submit']))
 
 	while( $row = mysql_fetch_array($query))
 	{
-		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "  	  " . $row["size"] . "<br>";
+		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "  	  " . $row["size"]. "<br>";
 	}
 	// echo "<a href='/product/cpu.php?name=".$link_address."'>Link</a>";
 }
 else
 {
-	$str = "SELECT * FROM GPU";
+	$str = "SELECT * FROM GPU ";
 
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
@@ -138,7 +140,7 @@ else
 		$query = mysql_query($str) or die( mysql_error() );
 			while( $row = mysql_fetch_array($query))
 		{
-					echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "  " . $row["size"] . "<br>";
+					echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "  " .$row["size"] . "<br>";
 
 	 	};
 
