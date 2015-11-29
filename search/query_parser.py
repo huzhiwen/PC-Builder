@@ -18,7 +18,6 @@ def process_query(query_list):
 			replace_char(query, mutate_list_1)
 
 			mutate_list_2 = []
-
 			for trial in mutate_list_1:
 				remove_char(trial, mutate_list_2)
 				reverse_char(trial, mutate_list_2)
@@ -106,19 +105,19 @@ def data_init():
 		chars.append(chr(i + ord('a')))
 
 def handle_client(client_socket):
-	request = raw_input().lower()
-	# request = client_socket.recv(1024).lower()
+	# request = raw_input().lower()
+	request = client_socket.recv(1024).lower()
 	query_list = request.split()
 	query_list = [query for query in query_list]
 
-	result = process_query(query_list)
+	sorted_doc = process_query(query_list)
 
-	for key, value in result:
-		print index.pro_name(key) + '	',
-		print value
+	result = ''
+	for key, value in sorted_doc:
+		result += index.pro_name(key) + '\n'
 
-	# client_socket.send("ACK!")
-	# client_socket.close()
+	client_socket.send(result)
+	client_socket.close()
 
 def server_start():
 	bind_ip = "127.0.0.1"
@@ -144,6 +143,4 @@ voca_dict = dict()
 index = inverted_index()
 
 data_init()
-# server_start()
-while True:
-	handle_client(1)
+server_start()
