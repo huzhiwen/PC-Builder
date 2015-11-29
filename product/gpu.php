@@ -13,32 +13,35 @@
 
 
 
+
 <fieldset style="width:20%;padding:10px;border:5px outset white;">
 <legend><font face = "Comic sans MS" size="5" color="white">Search</legend>
 
 <form  method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" id="searchform">
+
 	<font face = "Comic sans MS" size="5" color="black">
-
-	<input  type="text" name="user_text" placeholder="Search..."> <br> <br>
+	<input  type="text" name="user_text" placeholder="Search..." size="20"> <br> <br>
 	<input  type="submit" name="search" value="Search"> <br> <br>
-
 	<font face = "Comic sans MS" size="5" color="white">
 	<u>Brand</u> <br>
-	<input type="checkbox" name="manu[0]" value="Asus" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/> Asus<br>
-	<input type="checkbox" name="manu[1]" value="MSI" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> MSI<br>
-	<input type="checkbox" name="manu[1]" value="EVGA" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> EVGA<br>
-	<input type="checkbox" name="manu[1]" value="Sapphire" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> Sapphire<br>
+	<input type="checkbox" name="manu[0]" value="Asus" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Asus', $_POST['manu'])) echo 'checked="checked"'; ?>/> Asus<br>
+	<input type="checkbox" name="manu[1]" value="MSI" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('MSI', $_POST['manu'])) echo 'checked="checked"'; ?>/> MSI<br>
+	<input type="checkbox" name="manu[2]" value="EVGA" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('EVGA', $_POST['manu'])) echo 'checked="checked"'; ?>/> EVGA<br>
+	<input type="checkbox" name="manu[3]" value="Sapphire" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Sapphire', $_POST['manu'])) echo 'checked="checked"'; ?>/> Sapphire<br>
 
-	<u>Memory</u> <br>
-	<input type="checkbox" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 1-4GB<br>
-	<input type="checkbox" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> 4-8GB<br>
-	<input type="checkbox" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> 8-12GB<br>
-	<input type="checkbox" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> /> >12GB<br>
+	<u>Price</u> <br>
+	<input type="checkbox" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 0-$50<br>
+	<input type="checkbox" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> 50-$100<br>
+	<input type="checkbox" name="num[2]" value="3" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('3', $_POST['num'])) echo 'checked="checked"'; ?> /> 100-$150<br>
+	<input type="checkbox" name="num[3]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> >$150<br>
+	<input  type="submit" name="submit" value="Get Your Result"> <br> <br>
 </form>
 </fieldset> 
 
 
-
+<fieldset style="width:60%;padding:10px;border:5px outset white;">
+<legend><font face = "Comic sans MS" size="5" color="white">Your results:</legend>
+Manufacturer | Model_Name | Price($) | Size(GB)<br><br>
 <?php
 
 
@@ -50,21 +53,21 @@ define('DB_PASSWORD','1234');
 $con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
 $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
 
-$pname = "CPU";
+$pname = "GPU";
 
-if(!isset($_POST['search']))
+if(!isset($_POST['submit']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
 
 	while( $row = mysql_fetch_array($query))
 	{
-		echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["core"] . "	" . $row["speed"]. "GHZ". "<br>";
+		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "  	  " . $row["size"] . "<br>";
 	}
 	// echo "<a href='/product/cpu.php?name=".$link_address."'>Link</a>";
 }
 else
 {
-	$str = "SELECT * FROM CPU ";
+	$str = "SELECT * FROM GPU";
 
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
@@ -80,7 +83,7 @@ else
 		{
 			$str = $str. "(";
 
-			for ($i=0; $i < 2; $i++)
+			for ($i=0; $i < 4; $i++)
 			{
 				if ($i != 0)
 					$str = $str. " OR";
@@ -98,15 +101,30 @@ else
 		{
 			$str = $str. "(";
 
-			for ($i=0; $i < 3; $i++)
+			for ($i=0; $i < 4; $i++)
 			{
-				if ($i != 0)
-					$str = $str. " OR";
 
-				if ($nums[$i] == 5)
-					$str = $str. " core>4";
-				else
-					$str = $str. " core='". $nums[$i] . "'";
+				if ($nums[$i] == 1)
+				{
+					$str = $str. " price < 50";
+				}
+				if ($nums[$i] == 2)
+				{
+					$str = $str. " price > 50";
+					$str = $str. " AND";
+					$str = $str. " price < 100";
+					
+				}
+				if ($nums[$i] == 3)
+				{
+					$str = $str. " price > 100";
+					$str = $str. " AND";
+					$str = $str. " price < 150";
+					
+				}
+				if ($nums[$i] == 4)
+					$str = $str. " price > 150";
+			
 			}
 
 			$str = $str. ")";	
@@ -115,25 +133,14 @@ else
 		$str = $str. ")";
 	}
 
-	if (isset($_POST['user_text']))
-	{
-		exec("./a.out" , $out);
 
-		$line;
 
-		foreach($out as $line)
+		$query = mysql_query($str) or die( mysql_error() );
+			while( $row = mysql_fetch_array($query))
 		{
-			echo $line;
-		}
-	}
+					echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "  " . $row["size"] . "<br>";
 
-
-	// $query = mysql_query($str) or die( mysql_error() );
-	
-	// while( $row = mysql_fetch_array($query))
-	// {
-	// 	echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["core"] . "	"  . $row["speed"]. "GHZ". "<br>";
-	// };
+	 	};
 
 }
 ?>

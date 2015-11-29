@@ -23,10 +23,10 @@
 	<input  type="submit" name="search" value="Search"> <br> <br>
 	<font face = "Comic sans MS" size="5" color="white">
 	<u>Brand</u> <br>
-	<input type="checkbox" name="manu[0]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/> Corsair<br>
-	<input type="checkbox" name="manu[1]" value="XFX" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> XFX<br>
-	<input type="checkbox" name="manu[2]" value="EVGA" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> EVGA<br>
-	<input type="checkbox" name="manu[3]" value="SeaSonic" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> SeaSonic<br>
+	<input type="checkbox" name="manu[0]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/> Corsair<br>
+	<input type="checkbox" name="manu[1]" value="XFX" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('XFX', $_POST['manu'])) echo 'checked="checked"'; ?>/> XFX<br>
+	<input type="checkbox" name="manu[2]" value="EVGA" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('EVGA', $_POST['manu'])) echo 'checked="checked"'; ?>/> EVGA<br>
+	<input type="checkbox" name="manu[3]" value="SeaSonic" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('SeaSonic', $_POST['manu'])) echo 'checked="checked"'; ?>/> SeaSonic<br>
 
 	<u>Price</u> <br>
 	<input type="checkbox" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 0-$50<br>

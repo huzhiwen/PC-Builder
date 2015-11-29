@@ -45,6 +45,9 @@
 
 
 
+<fieldset style="width:60%;padding:10px;border:5px outset white;">
+<legend><font face = "Comic sans MS" size="5" color="white">Your results:</legend>
+Manufacturer | Model_Name | Price($) | Sock Type | Board Size<br><br>
 <?php
 
 
@@ -56,21 +59,21 @@ define('DB_PASSWORD','1234');
 $con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
 $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
 
-$pname = "CPU";
+$pname = "MOTHERBOARD";
 
-if(!isset($_POST['search']))
+if(!isset($_POST['submit']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
 
 	while( $row = mysql_fetch_array($query))
 	{
-		echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["core"] . "	" . $row["speed"]. "GHZ". "<br>";
+		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "  	  " . $row["sock_type"] . "  	  " . $row["board_size"] ."<br>";
 	}
 	// echo "<a href='/product/cpu.php?name=".$link_address."'>Link</a>";
 }
 else
 {
-	$str = "SELECT * FROM CPU ";
+	$str = "SELECT * FROM MOTHERBOARD";
 
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
@@ -86,7 +89,7 @@ else
 		{
 			$str = $str. "(";
 
-			for ($i=0; $i < 2; $i++)
+			for ($i=0; $i < 4; $i++)
 			{
 				if ($i != 0)
 					$str = $str. " OR";
@@ -104,15 +107,30 @@ else
 		{
 			$str = $str. "(";
 
-			for ($i=0; $i < 3; $i++)
+			for ($i=0; $i < 4; $i++)
 			{
-				if ($i != 0)
-					$str = $str. " OR";
 
-				if ($nums[$i] == 5)
-					$str = $str. " core>4";
-				else
-					$str = $str. " core='". $nums[$i] . "'";
+				if ($nums[$i] == 1)
+				{
+					$str = $str. " price < 50";
+				}
+				if ($nums[$i] == 2)
+				{
+					$str = $str. " price > 50";
+					$str = $str. " AND";
+					$str = $str. " price < 100";
+					
+				}
+				if ($nums[$i] == 3)
+				{
+					$str = $str. " price > 100";
+					$str = $str. " AND";
+					$str = $str. " price < 150";
+					
+				}
+				if ($nums[$i] == 4)
+					$str = $str. " price > 150";
+			
 			}
 
 			$str = $str. ")";	
@@ -121,25 +139,14 @@ else
 		$str = $str. ")";
 	}
 
-	if (isset($_POST['user_text']))
-	{
-		exec("./a.out" , $out);
 
-		$line;
 
-		foreach($out as $line)
+		$query = mysql_query($str) or die( mysql_error() );
+			while( $row = mysql_fetch_array($query))
 		{
-			echo $line;
-		}
-	}
+		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "  	  " . $row["sock_type"] . "  	  " . $row["board_size"]. "<br>";
 
-
-	// $query = mysql_query($str) or die( mysql_error() );
-	
-	// while( $row = mysql_fetch_array($query))
-	// {
-	// 	echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["core"] . "	"  . $row["speed"]. "GHZ". "<br>";
-	// };
+	 	};
 
 }
 ?>

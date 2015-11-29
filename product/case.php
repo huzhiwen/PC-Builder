@@ -23,15 +23,17 @@
 
 	<font face = "Comic sans MS" size="5" color="white">
 	<u>Brand</u> <br>
-	<input type="checkbox" name="manu[0]" value="NZXT" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/> NZXT<br>
-	<input type="checkbox" name="manu[1]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> Corsair<br>
-	<input type="checkbox" name="manu[1]" value="Slivestone" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> Slivestone<br>
+	<input type="checkbox" name="manu[0]" value="NZXT" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('NZXT', $_POST['manu'])) echo 'checked="checked"'; ?>/> NZXT<br>
+	<input type="checkbox" name="manu[1]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/> Corsair<br>
+	<input type="checkbox" name="manu[1]" value="Slivestone" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Slivestone', $_POST['manu'])) echo 'checked="checked"'; ?>/> Slivestone<br>
 
 </form>
 </fieldset> 
 
 
-
+<fieldset style="width:60%;padding:10px;border:5px outset white;">
+<legend><font face = "Comic sans MS" size="5" color="white">Your results:</legend>
+Manufacturer | Model_Name | Price($) | Case Type<br><br>
 <?php
 
 
@@ -43,7 +45,7 @@ define('DB_PASSWORD','1234');
 $con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
 $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
 
-$pname = "CPU";
+$pname = "CASE_";
 
 if(!isset($_POST['search']))
 {
@@ -51,13 +53,13 @@ if(!isset($_POST['search']))
 
 	while( $row = mysql_fetch_array($query))
 	{
-		echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["core"] . "	" . $row["speed"]. "GHZ". "<br>";
+		echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "	" . $row["case_type"]. "<br>";
 	}
 	// echo "<a href='/product/cpu.php?name=".$link_address."'>Link</a>";
 }
 else
 {
-	$str = "SELECT * FROM CPU ";
+	$str = "SELECT * FROM CASE_ ";
 
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
@@ -73,7 +75,7 @@ else
 		{
 			$str = $str. "(";
 
-			for ($i=0; $i < 2; $i++)
+			for ($i=0; $i < 4; $i++)
 			{
 				if ($i != 0)
 					$str = $str. " OR";
@@ -84,49 +86,18 @@ else
 			$str = $str. ")";	
 		}
 
-		if ($N != 0 && $M != 0)
-			$str = $str. " AND ";
-
-		if ($M != 0)
-		{
-			$str = $str. "(";
-
-			for ($i=0; $i < 3; $i++)
-			{
-				if ($i != 0)
-					$str = $str. " OR";
-
-				if ($nums[$i] == 5)
-					$str = $str. " core>4";
-				else
-					$str = $str. " core='". $nums[$i] . "'";
-			}
-
-			$str = $str. ")";	
-		}		
-
 		$str = $str. ")";
 	}
 
-	if (isset($_POST['user_text']))
-	{
-		exec("./a.out" , $out);
-
-		$line;
-
-		foreach($out as $line)
-		{
-			echo $line;
-		}
-	}
 
 
-	// $query = mysql_query($str) or die( mysql_error() );
+
+	 $query = mysql_query($str) or die( mysql_error() );
 	
-	// while( $row = mysql_fetch_array($query))
-	// {
-	// 	echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["core"] . "	"  . $row["speed"]. "GHZ". "<br>";
-	// };
+	 while( $row = mysql_fetch_array($query))
+	 {
+		echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "	"  . $row["case_type"]. "<br>";
+	 };
 
 }
 ?>
