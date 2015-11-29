@@ -7,6 +7,9 @@ query = ''
 for i in range(1, len(sys.argv)):
 	query += sys.argv[i] + ' '
 
+if query == '':
+	sys.exit(0)
+
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect((target_host,target_port))
 client.send(query)

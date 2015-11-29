@@ -16,16 +16,10 @@
 <fieldset style="width:20%;padding:10px;border:5px outset white;">
 <legend><font face = "Comic sans MS" size="5" color="white">Search</legend>
 
-<form  method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" id="searchform">
-
-
- <!-- for search and auto correct -->
+<form  method="post" action="cpu.php" id="searchform">
 	<font face = "Comic sans MS" size="5" color="black">
 	<input  type="text" name="user_text" placeholder="Search..." size="20"> <br> <br>
 	<input  type="submit" name="search" value="Search"> <br> <br>
-
-
-<!--  above-->
 
 	<font face = "Comic sans MS" size="5" color="white">	
 	<u>Brand</u> <br>
@@ -59,7 +53,11 @@ $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_
 
 $pname = "CPU";
 
-if(!isset($_POST['submit']))
+if (isset($_POST['user_text']))
+{
+	search();
+}
+else if(!isset($_POST['submit']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
 
@@ -71,10 +69,10 @@ if(!isset($_POST['submit']))
 }
 else
 {
-	$str = "SELECT * FROM CPU ";
-
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
+
+	$str = "SELECT * FROM CPU ";
 
 	$N = count($manus);
 	$M = count($nums);
@@ -122,14 +120,26 @@ else
 		$str = $str. ")";
 	}
 
-	
-		$query = mysql_query($str);
+	$query = mysql_query($str);
 
 	while( $row = mysql_fetch_array($query))
 	{
-		
-	echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . " 	  " . $row["core"] . "	 	" . $row["speed"].  "<br>";
+		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . " 	  " . $row["core"] . "	 	" . $row["speed"].  "<br>";
+	}
+}
 
+function search()
+{
+	$response = exec('python query_sender.py '.$_POST['user_text']);
+	$results = explode("	", $response);
+	$len = count($results);
+
+	
+	for ($i = 0; $i < $len; $i++)
+	{
+		$pieces = explode('^', $results[$i]);
+		echo $pieces[0].'	'.$pieces[1];
+		echo '<br>';
 	}
 }
 
