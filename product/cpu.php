@@ -32,7 +32,8 @@
 	<input type="checkbox" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> Quad<br>
 	<input type="checkbox" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> /> More<br>
 
-	 	<font face = "Comic sans MS" size="5" color="black"><input type="submit" name="submit" value="Get Your Result">
+	 	<font face = "Comic sans MS" size="5" color="black"><input type="submit" name="submit" value="Get Your Result"><br><br>
+	 	<font face = "Comic sans MS" size="5" color="black"><input type="submit" name="like" value="Like them all">
 </form>
 </fieldset> 
 
@@ -68,9 +69,11 @@ if(!isset($_POST['submit']))
 
 	while( $row = mysql_fetch_array($query))
 	{
+
 		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "	  " . $row["core"] . "		 " . $row["speed"].  "<br>";
 		//echo "<a href='/product/cpu.php?name=".$link_address."'>   	Like</a>".  "<br>";
 		//echo "<a href='/product/like.php?name=".$row["manufacturer"].>   	Like</a>".  "<br>";
+		//$likestr = "INSERT INTO LIKE_ VALUES (";
 	}
 	
 }
