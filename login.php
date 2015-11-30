@@ -50,12 +50,12 @@
 
   </body>
 
-<div id="Product" style="width:200px;height:430px;padding:10px;border:5px outset white;">
+<!-- <div id="Product" style="width:200px;height:430px;padding:10px;border:5px outset white;"> -->
 <!-- <fieldset style="width:50%"> -->
 
 <!-- <legend><font face = "Comic sans MS" size="6" color="white">Products:</font></legend> -->
-<img  src="product/photo/login1.png" width="170" height="80"/ ><br>
-
+<!-- <img  src="product/photo/login1.png" width="170" height="80"/ ><br> -->
+<!-- 
 <br>
 <a href="/trunk/product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
 <a href="/trunk/product/psu.php"><font size="5" color="white">PSU</font></a> <br>
@@ -67,8 +67,8 @@
 <a href="/trunk/product/motherboard.php"><font size="5" color="white">Motherboard</font></a> <br>
 
 <br>
-<!-- </fieldset> -->
-</div>
+ --><!-- </fieldset> -->
+<!-- </div> -->
 
 </body>
 </html>

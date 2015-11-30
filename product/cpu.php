@@ -1,3 +1,4 @@
+
 <title>PC-Bulider</title>
 
     <link rel="stylesheet" href="css/style.css">
@@ -11,7 +12,7 @@
 <img  src="photo/4.png" width="200" height="200"/ >
 </fieldset>    
 
-<br> 
+<a href="/../trunk/user/user_home.php"><font size="5" color="white">back <span class="fontawesome-arrow-left"></span></font> <br></a>
 
 <fieldset style="width:20%;padding:10px;border:5px outset white;">
 <legend><font face = "Comic sans MS" size="5" color="white">Search</legend>
@@ -40,8 +41,10 @@
 <fieldset style="width:60%;padding:10px;border:5px outset white;">
 <legend><font face = "Comic sans MS" size="5" color="white">Your results:</legend>
 Manufacturer | Model_Name | Price($) | # of core | Speed(GHz)<br><br>
-<?php
 
+Welcome <font face = "Lato" size="5" color="white"><?php echo $_SESSION['email']; ?> !<br>
+
+<?php
 
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'practice');
@@ -55,20 +58,25 @@ $pname = "CPU";
 
 if (isset($_POST['user_text']))
 {
+
 	search();
+
 }
-else if(!isset($_POST['submit']))
+if(!isset($_POST['submit']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
 
 	while( $row = mysql_fetch_array($query))
 	{
 		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "	  " . $row["core"] . "		 " . $row["speed"].  "<br>";
+		//echo "<a href='/product/cpu.php?name=".$link_address."'>   	Like</a>".  "<br>";
+		//echo "<a href='/product/like.php?name=".$row["manufacturer"].>   	Like</a>".  "<br>";
 	}
-	// echo "<a href='/product/cpu.php?name=".$link_address."'>Link</a>";
+	
 }
-else
+if(isset($_POST['submit']))
 {
+
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
 
@@ -124,7 +132,8 @@ else
 
 	while( $row = mysql_fetch_array($query))
 	{
-		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . " 	  " . $row["core"] . "	 	" . $row["speed"].  "<br>";
+		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . " 	  " . $row["core"] . "	 	" . $row["speed"].  "<br>" ;
+		//echo  "<a href="signup.php"> Sign up now</a>";
 	}
 }
 

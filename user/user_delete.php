@@ -11,17 +11,25 @@ if(!$_SESSION['email'])
    <link rel="stylesheet" href="css/style.css">
 </head>
 <body id="body-color">
+
+<font face = "Comic sans MS" size="8" color="white">
 Goodbye <?php echo $_SESSION['email'] ?> <br>
 <div id="Delete-Account">
-<fieldset style="width:30%">
+
+
+<fieldset style="width:30%;padding:10px;border:5px outset white;">
+<font face = "Comic sans MS" size="5" color="white">
+
+
 <legend>Delete-Account</legend>
 <form method="POST" action="user_delete.php">
-Enter Password <br>
+Enter Password: <br>
 <input type="password" name="pass" size="40"> <br>
-Confirm Password <br>
+Confirm Password: <br>
 <input type="password" name="repeat_pass" size="40"> <br> <br> 
 <input id="button" type="submit" name="submit" value="Submit"> <br><br>
-<a href="user_home.php">my home</a>
+<font face = "Comic sans MS" size="6" color="white">
+<a href="user_home.php">back to my home</a>
 </fieldset> 
 </div>
 

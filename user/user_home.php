@@ -321,3 +321,25 @@ Enter your budget here:
 	}
 ?>
 </fieldset>
+
+
+<fieldset style="width:60%;padding:10px;border:5px outset white;">
+<!-- <fieldset style="width:50%"> -->
+
+<!-- <legend><font face = "Comic sans MS" size="6" color="white">Products:</font></legend> -->
+<img  src="/../trunk/product/photo/login1.png" width="300" height="150"/ ><br>
+
+<br>
+<a href="/../trunk/product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
+<a href="/../trunk/product/psu.php"><font size="5" color="white">PSU</font></a> <br>
+<a href="/../trunk/product/gpu.php"><font size="5" color="white">GPU</font></a> <br>
+<a href="/../trunk/product/case.php"><font size="5" color="white">Case</font></a> <br>
+<a href="/../trunk/product/mointor.php"><font size="5" color="white">Monitor</font></a> <br>
+<a href="/../trunk/product/cooling.php"><font size="5" color="white">Cooling</font></a> <br>
+<a href="/../trunk/product/hard_drive.php"><font size="5" color="white">Hard Drive</font></a> <br>
+<a href="/../trunk/product/motherboard.php"><font size="5" color="white">Motherboard</font></a> <br>
+
+<br>
+<!-- </fieldset> -->
+</fieldset>
+
