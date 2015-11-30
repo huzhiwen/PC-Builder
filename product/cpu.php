@@ -1,4 +1,7 @@
+<?php
+session_start();
 
+?>
 <title>PC-Bulider</title>
 
     <link rel="stylesheet" href="css/style.css">
@@ -69,11 +72,17 @@ if(!isset($_POST['submit']))
 
 	while( $row = mysql_fetch_array($query))
 	{
+		if (isset($_POST['like'])) {
+			$likestr = "INSERT INTO LIKE_ VALUES (" . $_SESSION['email'].  $row["model_name"] ." ) ";
+			//mysql_query( $likestr, $con );
+	
+			mysql_query($likestr,$con);
 
+		}
 		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "	  " . $row["core"] . "		 " . $row["speed"].  "<br>";
 		//echo "<a href='/product/cpu.php?name=".$link_address."'>   	Like</a>".  "<br>";
 		//echo "<a href='/product/like.php?name=".$row["manufacturer"].>   	Like</a>".  "<br>";
-		//$likestr = "INSERT INTO LIKE_ VALUES (";
+		//
 	}
 	
 }
@@ -135,6 +144,7 @@ if(isset($_POST['submit']))
 
 	while( $row = mysql_fetch_array($query))
 	{
+		
 		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . " 	  " . $row["core"] . "	 	" . $row["speed"].  "<br>" ;
 		//echo  "<a href="signup.php"> Sign up now</a>";
 	}
