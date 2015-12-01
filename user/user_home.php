@@ -15,7 +15,7 @@ if(!$_SESSION['email'])
 
 <body>
 <font face = "Comic sans MS" size="10" color="white">
-Welcome <font face = "Lato" size="10" color="white"><?php echo $_SESSION['email']; ?> !<br>
+Welcome <font face = "Lato" size="10" color="white"><?php echo $_SESSION['email']; ?><br>
 
 <div id="Sign-Up">
 <fieldset style="width:30%;padding:10px;border:5px outset white;">
@@ -330,7 +330,7 @@ Enter your budget here:
 <img  src="/../trunk/product/photo/login1.png" width="300" height="150"/ ><br>
 
 <br>
-<a href="/../trunk/product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
+<a href="../product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
 <a href="/../trunk/product/psu.php"><font size="5" color="white">PSU</font></a> <br>
 <a href="/../trunk/product/gpu.php"><font size="5" color="white">GPU</font></a> <br>
 <a href="/../trunk/product/case.php"><font size="5" color="white">Case</font></a> <br>
