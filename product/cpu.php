@@ -6,29 +6,26 @@
     <!-- <link rel="stylesheet" href="css/style.css"> -->
 
 <div align="center">
-<h1><legend><font face = "Comic sans MS" size="10" color="white">Central Processing Unit</legend></h1></div>   
+<h1><legend size="10" >Central Processing Unit</legend></h1></div>   
 
-<a href="../user/user_home.php"><font size="5" color="black">back <span class="fontawesome-arrow-left"></span></font> <br></a>
+<a href="../user/user_home.php"><font size="3" color="black">home <span class="fontawesome-arrow-left"></span></font> <br><br></a>
 
-<fieldset style="width:20%;padding:10px;border:5px outset white;">
-<legend><font face = "Comic sans MS" size="5" color="white">Search</legend>
 
-<form  method="post" action="cpu.php" id="searchform">
-	<font face = "Comic sans MS" color="black">
-	<input  type="text" name="user_text" placeholder="Search..." size="4"> <br> <br>
-	<input  type="submit" name="search" value="Search"> <br> <br>
-
-	<!-- <font face = "Comic sans MS" size="5" color="white">	 -->
-	manufacture <br>
-	<input type="checkbox" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/> AMD<br>
-	<input type="checkbox" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> Intel<br>
-	cores <br>
-	<input type="checkbox" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> Single<br>
-	<input type="checkbox" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> Dual<br>
-	<input type="checkbox" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> Quad<br>
-	<input type="checkbox" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> /> More<br>
+<form  method="post" action="cpu.php" id="searchform" class="pure-form">
+	<fieldset>
+		<input  type="text" name="user_text" placeholder="Search..." size="10" >
+		<input  type="submit" name="search" class="pure-button pure-button-primary" value="Search"> <br> 
+		<br> 
+		manufacture <br>
+		<input type="checkbox" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/> AMD<br>
+		<input type="checkbox" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> Intel<br>
+		cores <br>
+		<input type="checkbox" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> single<br>
+		<input type="checkbox" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> dual<br>
+		<input type="checkbox" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> quad<br>
+		<input type="checkbox" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> /> more<br>
+    </fieldset>
 </form>
-</fieldset> 
 
 <br> <br>
 
@@ -38,9 +35,9 @@
     <tr>
         <th>manufacturer</th>
         <th>model name</th>
-        <th>price</th>
-        <th>cores</th>
         <th>speed</th>
+        <th>cores</th>
+        <th>price</th>
         <th>option</th>
     </tr>
 </thead>
@@ -70,16 +67,18 @@ if(!isset($_POST['search']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
 
+	$i = 1;
 	while( $row = mysql_fetch_array($query))
 	{
 		echo "<tr><td>".$row['manufacturer']."</td>";
 		echo "<td>".$row["model_name"]."</td>";
-		echo "<td>".$row["price"]."</td>";
-		echo "<td>".$row["core"]."</td>";
 		echo "<td>".$row["speed"]."</td> ";
-		echo "<td> <form  method=\"post\" action= \"cpu.php\" id=\"searchform\">";
+		echo "<td>".$row["core"]."</td>";
+		echo "<td>".$row["price"]."</td>";
+		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform".$i."\" id=\"searchform".$i."\">";
 		echo "<button name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 		echo "like</button> </tr> </form>";
+		$i ++;
 	}
 	echo "</tbody> </table>";
 }
@@ -132,7 +131,7 @@ else
 		echo "<td>".$row["price"]."</td>";
 		echo "<td>".$row["core"]."</td>";
 		echo "<td>".$row["speed"]."</td> ";
-		echo "<td> <form  method=\"post\" action= \"cpu.php\" id=\"searchform\">";
+		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform\" id=\"searchform\">";
 		echo "<button name=\"like\" type=\"submit\" value=".$row["model_name"].">";
 		echo "like</button> </tr> </form>";
 	}
