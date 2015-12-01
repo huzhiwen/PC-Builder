@@ -1,12 +1,12 @@
 <head>
-  
+
 <meta charset="UTF-8">
 <title>PC-Bulider</title>
 
         <link rel="stylesheet" href="css/style.css">
 
 </head>
- 
+
 <body>
 
     <body class="align">
@@ -54,7 +54,7 @@
 
 <!-- <legend><font face = "Comic sans MS" size="6" color="white">Products:</font></legend> -->
 <!-- <img  src="product/photo/login1.png" width="170" height="80"/ ><br> -->
-<!-- 
+<!--
 <br>
 <a href="/trunk/product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
 <a href="/trunk/product/psu.php"><font size="5" color="white">PSU</font></a> <br>
