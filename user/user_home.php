@@ -22,9 +22,11 @@ Welcome <font face = "Lato" size="10" color="white"><?php echo $_SESSION['email'
 <font face = "Comic sans MS" size="5" color="white">
 <legend>User Home</legend>
 <font face = "Comic sans MS" size="3" color="white">
+<a href="user_like.php">show favoriate</a> <br>
+<a href="user_delete.php">delete account</a> <br>
+<a href="user_change.php">change password</a> <br>
+
 <a href="logout.php">log out</a> <br>
-<a href="user_delete.php">delete this account</a> <br>
-<a href="user_change.php">change account password</a> <br>
 </fieldset>
 </div>
 
@@ -36,7 +38,7 @@ Enter your budget here:
   <label><span class="hidden">Enter your budget</span></label>
   <input type="text" name ="budget" class="form__input" placeholder="budget..." required>
 </div>
-<div class="form__field">
+<div class="form__field" style="width:110px">
     <input id="button" type="submit" name="submit" value="submit"> <br><br>
 </div>
 </form>
@@ -327,17 +329,17 @@ Enter your budget here:
 <!-- <fieldset style="width:50%"> -->
 
 <!-- <legend><font face = "Comic sans MS" size="6" color="white">Products:</font></legend> -->
-<img  src="/../trunk/product/photo/login1.png" width="300" height="150"/ ><br>
+<!-- <img  src="/../trunk/product/photo/login1.png" width="300" height="150"/ ><br> -->
 
 <br>
 <a href="../product/cpu.php"><font size="5" color="white">CPU</font></a> <br>
-<a href="/../trunk/product/psu.php"><font size="5" color="white">PSU</font></a> <br>
-<a href="/../trunk/product/gpu.php"><font size="5" color="white">GPU</font></a> <br>
-<a href="/../trunk/product/case.php"><font size="5" color="white">Case</font></a> <br>
-<a href="/../trunk/product/mointor.php"><font size="5" color="white">Monitor</font></a> <br>
-<a href="/../trunk/product/cooling.php"><font size="5" color="white">Cooling</font></a> <br>
-<a href="/../trunk/product/hard_drive.php"><font size="5" color="white">Hard Drive</font></a> <br>
-<a href="/../trunk/product/motherboard.php"><font size="5" color="white">Motherboard</font></a> <br>
+<a href="../product/psu.php"><font size="5" color="white">PSU</font></a> <br>
+<a href="../product/gpu.php"><font size="5" color="white">GPU</font></a> <br>
+<a href="../product/case.php"><font size="5" color="white">Case</font></a> <br>
+<a href="../product/mointor.php"><font size="5" color="white">Monitor</font></a> <br>
+<a href="../product/cooling.php"><font size="5" color="white">Cooling</font></a> <br>
+<a href="../product/hard_drive.php"><font size="5" color="white">Hard Drive</font></a> <br>
+<a href="../product/motherboard.php"><font size="5" color="white">Motherboard</font></a> <br>
 
 <br>
 <!-- </fieldset> -->

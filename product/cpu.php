@@ -61,7 +61,6 @@ if(isset($_POST['like']) and isset($_SESSION['email']))
 {
 	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."','".$pname."');";
 	$query = mysql_query($string) or die( mysql_error() );
-	// echo $string;
 }
 if (isset($_POST['user_text']))
 {
@@ -83,7 +82,6 @@ if(!isset($_POST['search']))
 		echo "like</button> </tr> </form>";
 	}
 	echo "</tbody> </table>";
-	
 }
 else
 {
