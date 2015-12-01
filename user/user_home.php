@@ -6,9 +6,9 @@ if(!$_SESSION['email'])
 }
 ?>
 
-<html>
+<html >
 
-<head>
+<head class="major special">
 <title>My-Home</title>
    <link rel="stylesheet" href="css/style.css">
 </head>
@@ -43,11 +43,11 @@ Enter your budget here:
 </div>
 </form>
 
-</body>  
-  
-</html>  
+</body>
 <fieldset style="width:60%;padding:10px;border:5px outset white;">
 <legend><font face = "Comic sans MS" size="5" color="white">List</legend>
+</html>
+
 <?php
 	if(isset($_POST['submit'])){
 		echo "Our recommendation: <br> <br>";
@@ -62,25 +62,25 @@ Enter your budget here:
 			    	<td> <a href = $link?price=298.00&group=CPU> see similar item </a> </td>
 			    </tr>
 			    <tr>
-			    	<td>Motherboard: Asus Z97-AR</td> 
+			    	<td>Motherboard: Asus Z97-AR</td>
 			    	<td>$127.99 </td>
 			    	<td> <a href = $link?price=127.99&group=MOTHERBOARD> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Memory: Corsair Vengeance Pro 2x8G</td>
 			    	<td>$107.99 </td>
 			    	<td> <a href = $link?price=107.99&group=MEMORY> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Video Card: Asus GeForce GTX 970</td>
 			    	<td>$282.99 </td>
 			    	<td> <a href = $link?price=282.99&group=GPU> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Power Supply: Corsair RM850 </td>
 			    	<td>$129.99 </td>
 			    	<td> <a href = $link?price=129.99&group=PSU> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Storage: Samsung 850 EVO-Series 500GB<br>
 				  		   Western Digital WD10EZEX 1TB</td>
@@ -88,12 +88,12 @@ Enter your budget here:
 			  			$49.98
 			  		 </td>
 			  		 <td> <a href = $link?price=139.99&group=HARD_DRIVE> see similar item </a> </td>
-			  	</tr>	
+			  	</tr>
 			    <tr>
 			    	<td>Case: NZXT H440 (Blue/Black)</td>
 			    	<td>$112.99 </td>
 			    	<td> <a href = $link?price=112.99&group=CASE> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Cooler: Corsair H100i GTX</td>
 			    	<td>$119.99 </td>
@@ -107,10 +107,10 @@ Enter your budget here:
 			    	<td>Your budget left: </td>
 			    	<td>$$diff </td>
 			  	</tr>
-  				  
+
 				</table>
 				 ");
-				
+
 				if($diff >= 100 && $diff < 200){
 					echo "<br>Use the rest budget to get a good keyboard!";
 				}
@@ -129,36 +129,36 @@ Enter your budget here:
 				<tr>
 			    	<td>CPU: Intel Core i3-4150</td>
 			    	<td>$119.98 </td>
-			    	<td> <a href = $link_CPU> see similar item </a> </td>
+			    	<td> <a href = $link> see similar item </a> </td>
 			    </tr>
 			    <tr>
-			    	<td>Motherboard: Gigabyte GA-H97M-D3H</td> 
+			    	<td>Motherboard: Gigabyte GA-H97M-D3H</td>
 			    	<td>$68.00 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Memory: G.Skill Ripjaws X Series 2x4G</td>
 			    	<td>$51.99 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Video Card: None</td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Power Supply: Corsair CX500M </td>
 			    	<td>$51.98 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 				  	<td>Western Digital WD10EZEX 1TB</td>
 				  	<td>$49.98</td>
 			  		 <td> <a href = $link> see similar item </a> </td>
-			  	</tr>	
+			  	</tr>
 			    <tr>
 			    	<td>Case: Cooler Master Elite 130</td>
 			    	<td>$34.99 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Cooler: Cooler Master Hyper 212 EVO</td>
 			    	<td>$24.89 </td>
@@ -172,7 +172,7 @@ Enter your budget here:
 			    	<td>Your budget left: </td>
 			    	<td>$$diff </td>
 			  	</tr>
-  				  
+
 				</table>
 				 ");
 				if($diff >= 100 && $diff < 200){
@@ -193,28 +193,28 @@ Enter your budget here:
 				<tr>
 			    	<td>CPU: Intel i7-4700k</td>
 			    	<td>$419.99 </td>
-			    	<td> <a href = $link_CPU> see similar item </a> </td>
+			    	<td> <a href = $link> see similar item </a> </td>
 			    </tr>
 			    <tr>
-			    	<td>Motherboard: Asus MAXIMUS VIII HERO</td> 
+			    	<td>Motherboard: Asus MAXIMUS VIII HERO</td>
 			    	<td>$184.99 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Memory: Corsair Dominator Platinum 2x8G</td>
 			    	<td>$194.39 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Video Card: EVGA GeForce GTX 980</td>
 			    	<td>$489.99 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Power Supply: Corsair RM850 </td>
 			    	<td>$129.99 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Storage: Samsung 850 EVO-Series 500GB<br>
 				  		   Western Digital WD10EZEX 1TB</td>
@@ -222,12 +222,12 @@ Enter your budget here:
 			  			$49.98
 			  		 </td>
 			  		 <td> <a href = $link> see similar item </a> </td>
-			  	</tr>	
+			  	</tr>
 			    <tr>
 			    	<td>Case: Corsair 750D</td>
 			    	<td>$99.99 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Cooler: Corsair H110i GTX</td>
 			    	<td>$119.99 </td>
@@ -241,7 +241,7 @@ Enter your budget here:
 			    	<td>Your budget left: </td>
 			    	<td>$$diff </td>
 			  	</tr>
-  				  
+
 				</table>
 				 ");
 				if($diff >= 100 && $diff < 200){
@@ -262,38 +262,38 @@ Enter your budget here:
 				<tr>
 			    	<td>CPU: Intel Core i5-4690K</td>
 			    	<td>$209.99 </td>
-			    	<td> <a href = $link_CPU> see similar item </a> </td>
+			    	<td> <a href = $link> see similar item </a> </td>
 			    </tr>
 			    <tr>
-			    	<td>Motherboard: Gigabyte GA-H97N-WIFI</td> 
+			    	<td>Motherboard: Gigabyte GA-H97N-WIFI</td>
 			    	<td>$91.99 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Memory: Corsair Vengeance Pro 2x4G</td>
 			    	<td>$52.66 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Video Card: EVGA GeForce GTX 750 Ti	</td>
 			    	<td>$109.99 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Power Supply: EVGA SuperNOVA 650 </td>
 			    	<td>$80.62 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 				  	<td>Western Digital WD10EZEX 1TB</td>
 				  	<td>$49.98</td>
 			  		 <td> <a href = $link> see similar item </a> </td>
-			  	</tr>	
+			  	</tr>
 			    <tr>
 			    	<td>Case: Fractal Design Define R4 w/Window (Black Pearl)</td>
 			    	<td>$74.99 </td>
 			    	<td> <a href = $link> see similar item </a> </td>
-			    </tr>	
+			    </tr>
 			    <tr>
 			    	<td>Cooler: Noctua NH-U12S</td>
 			    	<td>$64.88 </td>
@@ -307,7 +307,7 @@ Enter your budget here:
 			    	<td>Your budget left: </td>
 			    	<td>$$diff </td>
 			  	</tr>
-  				  
+
 				</table>
 				 ");
 				if($diff >= 100 && $diff < 200){
