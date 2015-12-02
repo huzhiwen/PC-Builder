@@ -31,13 +31,14 @@ $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_
 ?>
 
 <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
-
-CPU <br>
-
+<font face = "Comic sans MS" size="9" color="black">
+CPU <br><br><br>
+</font>
 		<table style=\"color:black\">
 		<tbody>
 		<thead>
 				 <tr>
+<font size="6" color="black">
         <th>manufacturer</th>
         <th>model name</th>
         <th>speed</th>
@@ -47,6 +48,7 @@ CPU <br>
    		 </tr>
 		</thead>
          </table>
+         </font>
           
 
 
