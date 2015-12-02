@@ -10,20 +10,35 @@ if(!$_SESSION['email'])
 <title>Change-Password</title>
    <link rel="stylesheet" href="css/style3.css">
 </head>
-<body id="body-color">
-<div id="Change-Password">
-<fieldset style="width:30%;padding:10px;border:5px outset black;">
+
+ <body class="align">
+
+  <div class="site__container">
+
+    <div class="grid__container">
+
 <font face = "Comic sans MS" size="5" color="black">
 <legend>Change Your Password</legend>
-<form method="POST" action="user_change.php">
-Current Password: <br>
+<form method="POST" action="user_change.php" class="form form--login">
+
+<div class="form__field">
+<label class="fontawesome-lock" for="login__password"><span class="hidden">Current Password</span></label>
 <input type="password" name="old_pass" size="40"> <br>
-New Password: <br>
+</div>
+
+<div class="form__field">
+<label class="fontawesome-lock" for="login__password"><span class="hidden">New Password</span></label>
 <input type="password" name="new_pass" size="40"> <br>
-Confirm Password: <br>
+</div>
+
+<div class="form__field">
+<label class="fontawesome-lock" for="login__password"><span class="hidden">Confirm Password</span></label>
 <input type="password" name="repeat_pass" size="40"> <br>
 <br>
+
+<div class="form__field">
 <input id="button" type="submit" name="submit" value="Submit"> <br> <br>
+</div>
 
 <font face = "Comic sans MS" size="5" color="black">
 <a href="user_home.php">back to my home</a>
@@ -33,6 +48,16 @@ Confirm Password: <br>
 </body>
 </html>
 
+        <div class="form__field">
+          <label class="fontawesome-lock" for="login__password"><span class="hidden">Password</span></label>
+          <input id="login__password" type="password" name ="pass" class="form__input" placeholder="Password" required>
+        </div>
+
+        <div class="form__field">
+          <input id="button" type="submit" name="Submit" value="Sign In"> <br><br>
+        </div>
+
+      </form> -->
 <?php
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'practice');
