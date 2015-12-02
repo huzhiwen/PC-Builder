@@ -157,7 +157,6 @@
           				</div>
           			</section>
           				 ");
-
           				if($diff >= 100 && $diff < 200){
           					echo "<br><p style=\"text-align: center; color:black\">Use the rest budget to get a good keyboard!</p>";
           				}
@@ -176,7 +175,6 @@
           					<div class=\"row 200%\">
           						<div class=\"table_wrapper\">
           						<table style=\"color:black\">
-
           				<tr>
           			    	<td>CPU: Intel Core i3-4150</td>
           			    	<td>$119.98 </td>
@@ -225,7 +223,6 @@
           			    	<td>$$diff </td>
                       <td> </td>
           			  	</tr>
-
           				</table>
           			</div>
           		</div>
@@ -250,7 +247,6 @@
           					<div class=\"row 200%\">
           						<div class=\"table_wrapper\">
           						<table style=\"color:black\">
-
           				<tr>
           			    	<td>CPU: Intel i7-4700k</td>
           			    	<td>$419.99 </td>
@@ -304,7 +300,6 @@
           			    	<td>$$diff </td>
                       <td> </td>
           			  	</tr>
-
           				</table>
           			</div>
           		</div>
@@ -329,7 +324,6 @@
           					<div class=\"row 200%\">
           						<div class=\"table_wrapper\">
           						<table style=\"color:black\">
-
           				<tr>
           			    	<td>CPU: Intel Core i5-4690K</td>
           			    	<td>$209.99 </td>
@@ -380,7 +374,6 @@
           			    	<td>$$diff </td>
                       <td> </td>
           			  	</tr>
-
           				</table>
           			</div>
           		</div>
