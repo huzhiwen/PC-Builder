@@ -23,12 +23,12 @@
 
 <div class="form__field">
   <label class="fontawesome-lock" for="login__username"><span class="hidden">Password</span></label>
-  <input id="login__username" type="text" name ="new_pass" class="form__input" placeholder="Password..." required>
+  <input type="password" name ="new_pass" class="form__input" placeholder="Password..." required>
 </div>
 
 <div class="form__field">
   <label class="fontawesome-lock" for="login__username"><span class="hidden">Password</span></label>
-  <input id="login__username" type="text" name ="repeat_pass" class="form__input" placeholder="Confirm Password..." required>
+  <input type="password" name ="repeat_pass" class="form__input" placeholder="Confirm Password..." required>
 </div>
 
 <br>
@@ -54,20 +54,20 @@ function SignUp()
 	if (strlen($_POST['new_pass']) < 1)
 		die("password too short");
 
-	if (strlen($_POST['new_pass']) > 40)
+	if (strlen($_POST['new_pass']) > 20)
 		die("password too long");
 
 	if (strcmp($_POST['new_pass'], $_POST['repeat_pass']) != 0)
 		die("password must be confirmed");
 
-	$query = mysql_query("SELECT username FROM Users WHERE username='$_POST[new_user]'");
+  $string = "SELECT * FROM User WHERE email='". $_POST[new_user]."';";
+	$query = mysql_query($string) or die( mysql_error() );
 
-  if(!is_null($query)){
+  if( mysql_num_rows($query) > 0){
   	die("account already exist");
   }
 
 	$query = mysql_query("INSERT INTO User VALUES('$_POST[new_user]', '$_POST[new_pass]') ") or die( mysql_error() );
-
 
 	$_SESSION['email'] = $_POST[new_user];
 

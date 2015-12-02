@@ -1,46 +1,54 @@
 <?php session_start();?>
 
-<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+	<head>
+		<title>My-Home</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+
+		<script src="js/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-xlarge.css" />
+		</noscript>
+	</head>
+
 
 <title>PC-Bulider</title>
-    <!-- <link rel="stylesheet" href="css/style.css"> -->
 
 <div align="center">
 <h1><legend size="10" >Central Processing Unit</legend></h1></div>   
 
-<a href="../user/user_home.php"><font size="3" color="black">home <span class="fontawesome-arrow-left"></span></font> <br><br></a>
 
-
-<form  method="post" action="cpu.php" id="searchform" class="pure-form">
-	<fieldset>
-		<input  type="text" name="user_text" placeholder="Search..." size="10" >
-		<input  type="submit" name="search" class="pure-button pure-button-primary" value="Search"> <br> 
-		<br> 
-		manufacture <br>
-		<input type="checkbox" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/> AMD<br>
-		<input type="checkbox" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> Intel<br>
-		cores <br>
-		<input type="checkbox" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> single<br>
-		<input type="checkbox" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> dual<br>
-		<input type="checkbox" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> quad<br>
-		<input type="checkbox" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> /> more<br>
+						<a href="../user/user_home.php"> home </a>
+						<form  method="post" action="cpu.php" id="searchform">
+						<input  style="float: left; width: 60%" type="text" name="user_text" placeholder="Search..." size="2" >
+						<input  type="submit" name="search" class=\"button small\" value="Search"> <br> <br> 
+						<fieldset style="float:left width: 30%">
+						<label> <font size="2"> Manufacture </font> </label>
+						<input type="checkbox"  id="AMD" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+						<label for="AMD"> AMD </label>
+						<input type="checkbox" id="Intel" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+						<label for="Intel"> Intel </label> 
+						</fieldset>
+						<fieldset style="float:left width: 60%">
+						<label> Cores </label>
+						<input type="checkbox" id= "1" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 
+						<label for="1"> single </label>
+						<input type="checkbox" id= "2" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> 
+						<label for="2"> dual </label> 
+						<input type="checkbox" id= "3" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> 
+						<label for="4"> quad </label> 
+						<input type="checkbox" id= "4" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> /> 
+						<label for="5"> more </label> <br>
     </fieldset>
 </form>
 
-<br> <br>
 
-<table class="pure-table pure-table-bordered">
-<tbody>
-<thead>
-    <tr>
-        <th>manufacturer</th>
-        <th>model name</th>
-        <th>speed</th>
-        <th>cores</th>
-        <th>price</th>
-        <th>option</th>
-    </tr>
-</thead>
 
 <?php
 
@@ -67,6 +75,21 @@ if(!isset($_POST['search']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
 
+	echo("<fieldset  style=\"float:left width: 40%\">
+	          						<div class=\"table_wrapper\">
+	          						<table style=\"color:black\">
+									<thead>
+									    <tr>
+									        <th>Manufacturer</th>
+									        <th>Model name</th>
+									        <th>Speed</th>
+									        <th>Cores</th>
+									        <th>Price</th>
+									        <th>Option</th>
+									    </tr>
+									</thead>
+	          						<tbody>");
+
 	$i = 1;
 	while( $row = mysql_fetch_array($query))
 	{
@@ -76,11 +99,14 @@ if(!isset($_POST['search']))
 		echo "<td>".$row["core"]."</td>";
 		echo "<td>".$row["price"]."</td>";
 		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform".$i."\" id=\"searchform".$i."\">";
-		echo "<button name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
+		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 		echo "like</button> </tr> </form>";
 		$i ++;
+
+		if ($i == 20)
+			break;
 	}
-	echo "</tbody> </table>";
+	echo "</tbody> </table></fieldset>";
 }
 else
 {
@@ -123,6 +149,23 @@ else
 	}
 
 	$query = mysql_query($str);
+
+	echo("<section id=\"one\" class=\"wrapper style1\">
+	          				<div class=\"container 125%\">
+	          					<div class=\"row 200%\">
+	          						<div class=\"table_wrapper\">
+	          						<table style=\"color:black\">
+									<thead>
+									    <tr>
+									        <th>Manufacturer</th>
+									        <th>Model name</th>
+									        <th>Speed</th>
+									        <th>Cores</th>
+									        <th>Price</th>
+									        <th>Option</th>
+									    </tr>
+									</thead>
+	          						<tbody>");
 
 	while( $row = mysql_fetch_array($query))
 	{
