@@ -34,7 +34,7 @@
 		else
 			echo "<tr><td>".$row['manufacturer']."</td><td>".$row['model_name']."</td><td>"."$".$row['price']."<td></tr>";
 	}
-	echo "</table></div>";
+	echo "</table>";
 
 
 ?>
