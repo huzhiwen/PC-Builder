@@ -1,39 +1,41 @@
+<?php
+  session_start();
+?>
 
-
-<head> 
+<html>
+<head>
 <title>PC-Bulider</title>
-   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/style1.css">
 </head>
 
-<body id="body-color">
+<body class="align">
 
-  <div class="site__container">
+<div class="site__container">
 
-    <div class="grid__container">
-<div id="Sign-Up">
-<form method="POST" action="signup.php">
-<fieldset style="width:30%">
+<div class="grid__container">
+
+<form method="POST" action="signup.php" class="form form--login">
 <font face="Comic sans MS" size="14"  >Register</font><br>
-<img  src="product/photo/1.png" width="300" height="200"/ ><br>
-<font face="Comic sans MS" size="5"  >Enter Email:<br>
-<input type="text" name="new_user" size="20"> <br>
-<font face="Comic sans MS" size="5" >Enter Password:<br>
-<input type="password" name="new_pass" size="20"> <br>
-<font face="Comic sans MS" size="5" >Confirm Password:<br>
-<input type="password" name="repeat_pass" size="20"> <br>
-<br> 
-
-<input id="button" type="submit" name="sign_up" value="Sign-Up">
-
-</fieldset> 
+<div class="form__field">
+  <label class="fontawesome-user" for="login__username"><span class="hidden">Enter Email</span></label>
+  <input id="login__username" type="text" name ="new_user" class="form__input" placeholder="Email..." required>
 </div>
 
+<div class="form__field">
+  <label class="fontawesome-lock" for="login__username"><span class="hidden">Password</span></label>
+  <input id="login__username" type="text" name ="new_pass" class="form__input" placeholder="Password..." required>
+</div>
 
+<div class="form__field">
+  <label class="fontawesome-lock" for="login__username"><span class="hidden">Password</span></label>
+  <input id="login__username" type="text" name ="repeat_pass" class="form__input" placeholder="Confirm Password..." required>
+</div>
 
+<br>
 
+<input id="button" type="submit" name="sign_up" value="Sign-Up">
+</form>
 
-
-</body>
 
 
 
@@ -57,19 +59,19 @@ function SignUp()
 
 	if (strcmp($_POST['new_pass'], $_POST['repeat_pass']) != 0)
 		die("password must be confirmed");
-	
+
 	$query = mysql_query("SELECT username FROM Users WHERE username='$_POST[new_user]'");
 
-	if (mysql_num_rows($query) != 0)
-		die("account already exist");
+  if(!is_null($query)){
+  	die("account already exist");
+  }
 
 	$query = mysql_query("INSERT INTO User VALUES('$_POST[new_user]', '$_POST[new_pass]') ") or die( mysql_error() );
 
-	session_start();
 
 	$_SESSION['email'] = $_POST[new_user];
 
-	echo"<script>window.open('user/user_home.php','_self')</script>";  
+	echo"<script>window.open('user/user_home.php','_self')</script>";
 }
 
 if(isset($_POST['sign_up']))
@@ -78,3 +80,9 @@ if(isset($_POST['sign_up']))
 }
 
 ?>
+
+</div>
+</div>
+
+</body>
+</html>
