@@ -22,18 +22,18 @@ if(!$_SESSION['email'])
 <form method="POST" action="user_change.php" class="form form--login">
 
 <div class="form__field">
-<label class="fontawesome-lock" for="login__password"><span class="hidden">Current Password</span></label>
-<input type="password" name="old_pass" size="40"> <br>
+  <label class="fontawesome-lock" for="login__username"></label>
+  <input type="password" name ="old_pass" class="form__input" placeholder="Current Password" required>
 </div>
 
 <div class="form__field">
-<label class="fontawesome-lock" for="login__password"><span class="hidden">New Password</span></label>
-<input type="password" name="new_pass" size="40"> <br>
+<label class="fontawesome-lock" for="login__password"></label>
+<input type="password" name="new_pass" placeholder="New Password" required "> <br>
 </div>
 
 <div class="form__field">
 <label class="fontawesome-lock" for="login__password"><span class="hidden">Confirm Password</span></label>
-<input type="password" name="repeat_pass" size="40"> <br>
+<input type="password" name="repeat_pass" placeholder="Confirm Password"> <br>
 </div>
 
 <br> 
@@ -44,24 +44,7 @@ if(!$_SESSION['email'])
 
 <font face = "Comic sans MS" size="5" color="black">
 <a href="user_home.php">back to my home</a> <br>
-<!-- 
-      <form action="user_change.php" method="post" class="form form--login">
 
-        <div class="form__field">
-          <label class="fontawesome-user" for="login__username"><span class="hidden">Username</span></label>
-          <input id="login__username" type="text" name ="user" class="form__input" placeholder="Username" required>
-        </div>
-
-        <div class="form__field">
-          <label class="fontawesome-lock" for="login__password"><span class="hidden">Password</span></label>
-          <input id="login__password" type="password" name ="pass" class="form__input" placeholder="Password" required>
-        </div>
-
-        <div class="form__field">
-          <input id="button" type="submit" name="Submit" value="Sign In"> <br><br>
-        </div>
-
-      </form> -->
 <?php
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'practice');
