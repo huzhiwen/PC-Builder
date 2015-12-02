@@ -10,6 +10,17 @@
 	<link rel="stylesheet" href="css/style-xlarge.css" />
 </noscript>
 
+<div align="center">
+	<header id="header" class="skels-layers-fixed">
+		<h1><strong>Results</strong> </h1>
+		<nav id="nav">
+			<ul>
+				<li><a href="../user/user_home.php">Home</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+
 </html>
 
 <?php
