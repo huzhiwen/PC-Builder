@@ -6,7 +6,42 @@ if(!$_SESSION['email'])
 }    
 ?>
 
-<head> 
+<html>
+<head>
+<title>PC-Bulider</title>
+   <link rel="stylesheet" href="../css/style1.css">
+</head>
+
+<body class="align">
+
+<div class="site__container">
+
+<div class="grid__container">
+
+<form method="POST" action="user_delete.php" class="form form--login">
+<font face="Comic sans MS" size="14"  >Delete your account</font><br>
+
+<div class="form__field">
+  <label class="fontawesome-lock" for="login__username"><span class="hidden">Enter Password:</span></label>
+  <input type="password" name ="pass" class="form__input" placeholder="Password..." required>
+</div>
+
+<div class="form__field">
+  <label class="fontawesome-lock" for="login__username"><span class="hidden">Confrim Password:</span></label>
+  <input type="password" name ="repeat_pass" class="form__input" placeholder="Confirm Password..." required>
+</div>
+
+<br>
+
+<input id="button" type="submit" name="submit" value="Delete">
+</form>
+<font face = "Comic sans MS" size="6" color="black">
+<a href="user_home.php">back to my home</a>
+</body>
+</html>
+
+
+<!-- <head> 
 <title>Delete-Account</title>
    <link rel="stylesheet" href="css/style.css">
 </head>
@@ -28,13 +63,15 @@ Enter Password: <br>
 Confirm Password: <br>
 <input type="password" name="repeat_pass" size="40"> <br> <br> 
 <input id="button" type="submit" name="submit" value="Submit"> <br><br>
+
+
 <font face = "Comic sans MS" size="6" color="black">
 <a href="user_home.php">back to my home</a>
 </fieldset> 
 </div>
 
 </body>
-</html> 
+</html>  -->
 
 <?php
 define('DB_HOST', 'localhost');

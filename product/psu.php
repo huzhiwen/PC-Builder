@@ -150,3 +150,178 @@ else
 
 
 </html> 
+
+
+
+
+<?php session_start();?>
+
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+
+<title>PC-Bulider</title>
+    <!-- <link rel="stylesheet" href="css/style.css"> -->
+
+<div align="center">
+<h1><legend size="10" >Power Supply Unit</legend></h1></div>   
+
+<a href="../user/user_home.php"><font size="3" color="black">home <span class="fontawesome-arrow-left"></span></font> <br><br></a>
+
+
+<form  method="post" action="psu.php" id="searchform" class="pure-form">
+	<fieldset>
+		<input  type="text" name="user_text" placeholder="Search..." size="10" >
+		<input  type="submit" name="search" class="pure-button pure-button-primary" value="Search"> <br> 
+		<br> 
+		<u>Manufacture</u> <br>
+	<input type="checkbox" name="manu[0]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/> Corsair<br>
+	<input type="checkbox" name="manu[1]" value="XFX" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('XFX', $_POST['manu'])) echo 'checked="checked"'; ?>/> XFX<br>
+	<input type="checkbox" name="manu[2]" value="EVGA" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('EVGA', $_POST['manu'])) echo 'checked="checked"'; ?>/> EVGA<br>
+	<input type="checkbox" name="manu[3]" value="SeaSonic" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('SeaSonic', $_POST['manu'])) echo 'checked="checked"'; ?>/> SeaSonic<br>
+
+	<u>Price</u> <br>
+	<input type="checkbox" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 0-$50<br>
+	<input type="checkbox" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> 50-$100<br>
+	<input type="checkbox" name="num[2]" value="3" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('3', $_POST['num'])) echo 'checked="checked"'; ?> /> 100-$150<br>
+	<input type="checkbox" name="num[3]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> >$150<br>
+		
+</form>
+
+<br> <br>
+
+<table class="pure-table pure-table-bordered">
+<tbody>
+<thead>
+    <tr>
+        <th>manufacturer</th>
+        <th>model name</th>
+        <th>watts</th>
+        <th>efficiency</th>
+        <th>price</th>
+        <th>option</th>
+    </tr>
+</thead>
+
+<?php
+
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'practice');
+define('DB_USER','testuser');
+define('DB_PASSWORD','1234');
+
+$con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
+$db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
+
+$pname = "CPU";
+
+if(isset($_POST['like']) and isset($_SESSION['email']))
+{
+	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
+	$query = mysql_query($string) or die( mysql_error() );
+}
+if (isset($_POST['user_text']))
+{
+	search();
+}
+if(!isset($_POST['search']))
+{
+	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
+
+	$i = 1;
+	while( $row = mysql_fetch_array($query))
+	{
+		echo "<tr><td>".$row['manufacturer']."</td>";
+		echo "<td>".$row["model_name"]."</td>";
+		echo "<td>".$row["speed"]."</td> ";
+		echo "<td>".$row["core"]."</td>";
+		echo "<td>".$row["price"]."</td>";
+		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform".$i."\" id=\"searchform".$i."\">";
+		echo "<button name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
+		echo "like</button> </tr> </form>";
+		$i ++;
+	}
+	echo "</tbody> </table>";
+}
+else
+{
+	$manus = $_POST['manu'];
+	$nums = $_POST['num'];
+	$str = "SELECT * FROM CPU ";
+	$N = count($manus);
+	$M = count($nums);
+
+	if ($N != 0 || $M != 0)
+	{
+		$str = $str."WHERE (";
+		if ($N != 0)
+		{
+			$str = $str. "(";
+			for ($i=0; $i < 2; $i++)
+			{
+				if ($i != 0)	$str = $str. " OR";
+				$str = $str. " upper(manufacturer)='". $manus[$i] . "'";
+			}
+			$str = $str. ")";	
+		}
+		if ($N != 0 && $M != 0)
+			$str = $str. " AND ";
+		if ($M != 0)
+		{
+			$str = $str. "(";
+			for ($i=0; $i < 4; $i++)
+			{
+				if ($i != 0)
+					$str = $str. " OR";
+				if ($nums[$i] == 5)
+					$str = $str. " core>4";
+				else
+					$str = $str. " core='". $nums[$i] . "'";
+			}
+			$str = $str. ")";	
+		}		
+		$str = $str. ")";
+	}
+
+	$query = mysql_query($str);
+
+	while( $row = mysql_fetch_array($query))
+	{
+		echo "<tr><td>".$row['manufacturer']."</td>";
+		echo "<td>".$row["model_name"]."</td>";
+		echo "<td>".$row["price"]."</td>";
+		echo "<td>".$row["core"]."</td>";
+		echo "<td>".$row["speed"]."</td> ";
+		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform\" id=\"searchform\">";
+		echo "<button name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+		echo "like</button> </tr> </form>";
+	}
+	echo "</tbody> </table>";
+}
+
+
+function search()
+{
+	$response = exec('python query_sender.py '.$_POST['user_text']);
+	$results = explode("	", $response);
+	$len = count($results);
+	
+	for ($i = 0; $i < $len; $i++)
+	{
+		$pieces = explode('^', $results[$i]);
+		echo $pieces[0].'	'.$pieces[1];
+		echo '<br>';
+	}
+}
+?>
+
+</tbody>
+</table>
+
+
+<br> 
+<!-- </fieldset>  -->
+<!-- </div> -->
+
+    
+
+
+</html> 

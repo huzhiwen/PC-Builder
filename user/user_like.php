@@ -2,6 +2,7 @@
 	session_start(); 
 ?>
 <html>
+<title>Like page</title>
 	<script src="js/jquery.min.js"></script>
 	<script src="js/skel.min.js"></script>
 	<script src="js/skel-layers.min.js"></script>
