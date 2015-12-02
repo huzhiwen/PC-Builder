@@ -12,9 +12,9 @@ if(!$_SESSION['email'])
 </head>
 <body id="body-color">
 <div id="Change-Password">
-<fieldset style="width:30%;padding:10px;border:5px outset white;">
-<font face = "Comic sans MS" size="5" color="white">
-<legend>Delete Your Account</legend>
+<fieldset style="width:30%;padding:10px;border:5px outset black;">
+<font face = "Comic sans MS" size="5" color="black">
+<legend>Change Your Password</legend>
 <form method="POST" action="user_change.php">
 Current Password: <br>
 <input type="password" name="old_pass" size="40"> <br>
@@ -25,7 +25,7 @@ Confirm Password: <br>
 <br> 
 <input id="button" type="submit" name="submit" value="Submit"> <br> <br>
 
-<font face = "Comic sans MS" size="5" color="white">
+<font face = "Comic sans MS" size="5" color="black">
 <a href="user_home.php">back to my home</a>
 </fieldset> 
 </div>
