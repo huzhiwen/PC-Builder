@@ -1,9 +1,12 @@
+<?php
+session_start();
+?>
 <head>
 
 <meta charset="UTF-8">
 <title>PC-Bulider</title>
 
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/style1.css">
 
 </head>
 
@@ -36,18 +39,9 @@
 
       <p class="text--center">Not a member? <a href="signup.php">Sign up now</a> <span class="fontawesome-arrow-right"></span></p>
 
-    </div>
-
-  </div>
-
-
-</body>
 
 
 
-
-
-  </body>
 
 <!-- <div id="Product" style="width:200px;height:430px;padding:10px;border:5px outset white;"> -->
 <!-- <fieldset style="width:50%"> -->
@@ -69,8 +63,6 @@
  --><!-- </fieldset> -->
 <!-- </div> -->
 
-</body>
-</html>
 
 
 <?php
@@ -88,7 +80,7 @@ $link_address = abc;
 
 function SignIn()
 {
-	session_start();
+	// session_start();
 
 	if(!empty($_POST['user'])) //checking the 'user' name which is from Sign-In.html, is it empty or have some text
 	{
@@ -98,7 +90,7 @@ function SignIn()
 
 		if (!$row)
 		{
-			echo("email or password not correct");
+			echo("<p class=\"text--center\">email or password not correct</p>");
 		}
 
 		if(!empty($row['email']) AND !empty($row['paswd']))
@@ -106,7 +98,6 @@ function SignIn()
 			$_SESSION['email'] = $_POST[user];
 			echo"<script>window.open('./user/user_home.php','_self')</script>";
 		}
-
    }
 }
 
@@ -116,3 +107,8 @@ if(isset($_POST['Submit']))
 }
 
 ?>
+</div>
+</div>
+</body>
+</body>
+</html>
