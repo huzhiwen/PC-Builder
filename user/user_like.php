@@ -1,3 +1,19 @@
+<?php
+	session_start(); 
+?>
+<html>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/skel.min.js"></script>
+	<script src="js/skel-layers.min.js"></script>
+	<script src="js/init.js"></script>
+	<noscript>
+		<link rel="stylesheet" href="css/skel.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/style-xlarge.css" />
+	</noscript>
+
+</html>
+
 <?php session_start(); 
 if(!$_SESSION['email'])
 {
@@ -17,18 +33,23 @@ $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_
 <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
 
 CPU <br>
-<table class="pure-table pure-table-bordered">
-<tbody>
-<thead>
-    <tr>
+
+		<table style=\"color:black\">
+		<tbody>
+		<thead>
+				 <tr>
         <th>manufacturer</th>
         <th>model name</th>
         <th>speed</th>
         <th>cores</th>
         <th>price</th>
         <th>option</th>
-    </tr>
-</thead>
+   		 </tr>
+		</thead>
+         </table>
+          
+
+
 <?php
 
 if(isset($_POST['unlike']))
@@ -48,6 +69,9 @@ $query = mysql_query($string)  or die( mysql_error() );
 
 while( $row = mysql_fetch_array($query))
 {
+
+	echo("
+          				 ");
 	echo "<tr><td>".$row['manufacturer']."</td>";
 	echo "<td>".$row["model_name"]."</td>";
 	echo "<td>".$row["speed"]."</td> ";
