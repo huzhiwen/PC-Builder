@@ -31,7 +31,17 @@ $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_
 
 ?>
 
-<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+<div align="center">
+	<header id="header" class="skels-layers-fixed">
+		<h1><strong>Your favouriates</strong> </h1>
+		<nav id="nav">
+			<ul>
+				<li><a href="../user/user_home.php">Home</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+
 <font face = "Comic sans MS" size="9" color="black">
 CPU <br><br><br>
 </font>
