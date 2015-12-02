@@ -23,28 +23,27 @@
 <div align="center">
 <h1><legend size="10" >Central Processing Unit</legend></h1></div>   
 
-
-						<a href="../user/user_home.php"> home </a>
-						<form  method="post" action="cpu.php" id="searchform">
-						<input  style="float: left; width: 60%" type="text" name="user_text" placeholder="Search..." size="2" >
-						<input  type="submit" name="search" class=\"button small\" value="Search"> <br> <br> 
-						<fieldset style="float:left width: 30%">
-						<label> <font size="2"> Manufacture </font> </label>
-						<input type="checkbox"  id="AMD" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-						<label for="AMD"> AMD </label>
-						<input type="checkbox" id="Intel" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-						<label for="Intel"> Intel </label> 
-						</fieldset>
-						<fieldset style="float:left width: 60%">
-						<label> Cores </label>
-						<input type="checkbox" id= "1" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 
-						<label for="1"> single </label>
-						<input type="checkbox" id= "2" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> 
-						<label for="2"> dual </label> 
-						<input type="checkbox" id= "3" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> 
-						<label for="4"> quad </label> 
-						<input type="checkbox" id= "4" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> /> 
-						<label for="5"> more </label> <br>
+	<a href="../user/user_home.php"> home </a>
+	<form  method="post" action="cpu.php" id="searchform">
+	<input  style="float: left; width: 60%" type="text" name="user_text" placeholder="Search..." size="2" >
+	<input  type="submit" name="search" class=\"button small\" value="Search"> <br> <br> 
+	<fieldset style="float:left width: 30%">
+	<label> <font size="2"> Manufacture </font> </label>
+	<input type="checkbox"  id="AMD" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+	<label for="AMD"> AMD </label>
+	<input type="checkbox" id="Intel" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+	<label for="Intel"> Intel </label> 
+	</fieldset>
+	<fieldset style="float:left width: 60%">
+	<label> Cores </label>
+	<input type="checkbox" id= "1" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 
+	<label for="1"> single </label>
+	<input type="checkbox" id= "2" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> 
+	<label for="2"> dual </label> 
+	<input type="checkbox" id= "3" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> 
+	<label for="4"> quad </label> 
+	<input type="checkbox" id= "4" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> /> 
+	<label for="5"> more </label> <br>
     </fieldset>
 </form>
 
