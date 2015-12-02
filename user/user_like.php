@@ -91,7 +91,7 @@ while( $row = mysql_fetch_array($query))
 	echo "<td>".$row["core"]."</td>";
 	echo "<td>".$row["price"]."</td>";
 	echo "<td> <form  method=\"post\" action= \"user_like.php\" id=\"searchform\">";
-	echo "<button name=\"unlike\" type=\"submit\" value=\"".$row["model_name"]."\" >";
+	echo "<button class=\"button small\"name=\"unlike\" type=\"submit\" value=\"".$row["model_name"]."\" >";
 	echo "unlike</button> </td> </tr> </form>";
 }
 echo "</tbody> </table>";
