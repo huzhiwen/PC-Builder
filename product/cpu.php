@@ -43,9 +43,9 @@
 	<label for="1"> single core</label>
 	<input type="checkbox" id= "2" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> />
 	<label for="2"> dual core</label>
-	<input type="checkbox" id= "3" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> />
+	<input type="checkbox" id= "4" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> />
 	<label for="4"> quad core</label>
-	<input type="checkbox" id= "4" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> />
+	<input type="checkbox" id= "5" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> />
 	<label for="5"> more core</label> <br>
     </fieldset>
 </form>
@@ -83,16 +83,12 @@ echo("<section id=\"one\" class=\"wrapper style1\">
 if(isset($_POST['like']) and isset($_SESSION['email']))
 {
 	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
-	$query = mysql_query($string) or die( mysql_error() );
+	$query = mysql_query($string);
 }
 
-if (isset($_POST['user_text']) and !empty($_POST['user_text']))
-{ 
-	search();
-}
-else if(!isset($_POST['search']))
+if(!isset($_POST['search']))
 {
-	$string = "SELECT * FROM ".$pname." WHERE price <> '0';";
+	$string = "SELECT * FROM ".$pname." ORDER BY RAND();";
 	$query = mysql_query($string) or die( mysql_error() );
 
 	$i = 1;
@@ -108,13 +104,13 @@ else if(!isset($_POST['search']))
 		echo "like</button> </tr> </form>";
 		$i ++;
 
-		if ($i == 20)
+		if ($i == 100)
 			break;
 	}
-	echo "</tbody> </table></fieldset>";
+
 }
-else
-{
+else if (!isset($_POST['user_text']) or empty($_POST['user_text']))
+{ 
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
 	$str = "SELECT * FROM CPU ";
@@ -168,19 +164,58 @@ else
 	}
 	echo "</tbody> </table>";
 }
-
-
-function search()
+else
 {
 	$response = exec('python query_sender.py '.$_POST['user_text']);
 	$results = explode("	", $response);
 	$len = count($results);
 
+
+	$manus = $_POST['manu'];
+	$nums = $_POST['num'];
+	$str = "CREATE VIEW CPU_VIEW AS SELECT * FROM CPU";
+	$N = count($manus);
+	$M = count($nums);
+
+	if ($N != 0 || $M != 0)
+	{
+		$str = $str." WHERE (";
+		if ($N != 0)
+		{
+			$str = $str. "(";
+			for ($i=0; $i < 2; $i++)
+			{
+				if ($i != 0)	$str = $str. " OR";
+				$str = $str. " upper(manufacturer)='". $manus[$i] . "'";
+			}
+			$str = $str. ")";
+		}
+		if ($N != 0 && $M != 0)
+			$str = $str. " AND ";
+		if ($M != 0)
+		{
+			$str = $str. "(";
+			for ($i=0; $i < 4; $i++)
+			{
+				if ($i != 0)
+					$str = $str. " OR";
+				if ($nums[$i] == 5)
+					$str = $str. " core>4";
+				else
+					$str = $str. " core='". $nums[$i] . "'";
+			}
+			$str = $str. ")";
+		}
+		$str = $str. ")";
+	}
+
+	mysql_query($str);
+
 	for ($i = 0; $i < $len; $i++)
 	{
 		$pieces = explode('^', $results[$i]);
-		// echo $pieces[0].'	'.$pieces[1];
-		$string = "SELECT * FROM CPU WHERE manufacturer ='".$pieces[0]."' AND model_name = '".$pieces[1]."';";
+
+		$string = "SELECT * FROM CPU_VIEW WHERE manufacturer ='".$pieces[0]."' AND model_name = '".$pieces[1]."';";
 		echo $string;
 		$query = mysql_query($string);
 
@@ -196,9 +231,39 @@ function search()
 		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
 		echo "like</button> </tr> </form>";
 	}
-	echo "</tbody> </table></fieldset>";
+
+	mysql_query("DROP VIEW CPU_VIEW;");
+
+// function search()
+// {
+// 	$response = exec('python query_sender.py '.$_POST['user_text']);
+// 	$results = explode("	", $response);
+// 	$len = count($results);
+
+// 	for ($i = 0; $i < $len; $i++)
+// 	{
+// 		$pieces = explode('^', $results[$i]);
+// 		// echo $pieces[0].'	'.$pieces[1];
+// 		$string = "SELECT * FROM CPU WHERE manufacturer ='".$pieces[0]."' AND model_name = '".$pieces[1]."';";
+// 		echo $string;
+// 		$query = mysql_query($string);
+
+// 		if (mysql_num_rows($query) == 0)
+// 			continue;
+// 		$row = mysql_fetch_array($query);
+// 		echo "<tr><td>".$row['manufacturer']."</td>";
+// 		echo "<td>".$row["model_name"]."</td>";
+// 		echo "<td>".$row["speed"]."</td> ";
+// 		echo "<td>".$row["core"]."</td>";
+// 		echo "<td>".$row["price"]."</td>";
+// 		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform\" id=\"searchform\">";
+// 		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+// 		echo "like</button> </tr> </form>";
+// 	}
 	
+// }
 }
+echo "</tbody> </table></fieldset>";
 ?>
 
 </tbody>
