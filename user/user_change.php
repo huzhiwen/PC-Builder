@@ -1,14 +1,14 @@
-<?php
-session_start();
-if(!$_SESSION['email'])
-{
-    header("Location: login.php");//redirect to login page to secure the welcome page without login access.
-}
+<?php  
+session_start(); 
+if(!$_SESSION['email'])  
+{  
+    header("Location: login.php");//redirect to login page to secure the welcome page without login access.  
+}    
 ?>
 
-<head>
+<head> 
 <title>Change-Password</title>
-   <link rel="stylesheet" href="css/style3.css">
+   <link rel="stylesheet" href="../css/style1.css">
 </head>
 
  <body class="align">
@@ -34,19 +34,23 @@ if(!$_SESSION['email'])
 <div class="form__field">
 <label class="fontawesome-lock" for="login__password"><span class="hidden">Confirm Password</span></label>
 <input type="password" name="repeat_pass" size="40"> <br>
-<br>
+</div>
+
+<br> 
 
 <div class="form__field">
 <input id="button" type="submit" name="submit" value="Submit"> <br> <br>
 </div>
 
 <font face = "Comic sans MS" size="5" color="black">
-<a href="user_home.php">back to my home</a>
-</fieldset>
-</div>
+<a href="user_home.php">back to my home</a> <br>
+<!-- 
+      <form action="user_change.php" method="post" class="form form--login">
 
-</body>
-</html>
+        <div class="form__field">
+          <label class="fontawesome-user" for="login__username"><span class="hidden">Username</span></label>
+          <input id="login__username" type="text" name ="user" class="form__input" placeholder="Username" required>
+        </div>
 
         <div class="form__field">
           <label class="fontawesome-lock" for="login__password"><span class="hidden">Password</span></label>
@@ -98,3 +102,8 @@ if(isset($_POST['submit']))
 }
 
 ?>
+</div>
+</div>
+</body>
+</html> 
+
