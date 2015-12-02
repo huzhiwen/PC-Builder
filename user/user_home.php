@@ -1,9 +1,5 @@
+<?php session_start(); ?>
 <!DOCTYPE HTML>
-<!--
-	Spatial by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
 <html>
 	<head>
 		<title>My-Home</title>
@@ -25,7 +21,7 @@
 
 		<!-- Header -->
 			<header id="header" class="alt">
-				<h1><strong><a>Welcome</a></strong>  1234</h1>
+				<h1><strong><a>Welcome </a></strong><?php echo $_SESSION['email']; ?></h1>
 				<nav id="nav">
 					<ul>
 						<li><a href="user_delete.php">Delete Account </a></li>
