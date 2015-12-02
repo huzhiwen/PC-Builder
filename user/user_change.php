@@ -28,7 +28,7 @@ if(!$_SESSION['email'])
 
 <div class="form__field">
 <label class="fontawesome-lock" for="login__password"></label>
-<input type="password" name="new_pass" placeholder="New Password" required "> <br>
+<input type="password" name="new_pass" placeholder="New Password" required> <br>
 </div>
 
 <div class="form__field">

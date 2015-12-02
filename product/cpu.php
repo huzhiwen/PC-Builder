@@ -61,36 +61,39 @@ define('DB_PASSWORD','1234');
 
 $con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
 $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
-
 $pname = "CPU";
+
+echo("<section id=\"one\" class=\"wrapper style1\">
+      				<div class=\"container 125%\">
+      					<div class=\"row 200%\">
+      						<div class=\"table_wrapper\">
+      						<table style=\"color:black\">
+							<thead>
+							    <tr>
+							        <th>Manufacturer</th>
+							        <th>Model name</th>
+							        <th>Speed</th>
+							        <th>Cores</th>
+							        <th>Price</th>
+							        <th>Option</th>
+							    </tr>
+							</thead>
+      						<tbody>");
 
 if(isset($_POST['like']) and isset($_SESSION['email']))
 {
 	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
 	$query = mysql_query($string) or die( mysql_error() );
 }
-if (isset($_POST['user_text']))
-{
+
+if (isset($_POST['user_text']) and !empty($_POST['user_text']))
+{ 
 	search();
 }
-if(!isset($_POST['search']))
+else if(!isset($_POST['search']))
 {
-	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
-
-	echo("<fieldset  style=\"float:left width: 40%\">
-	          						<div class=\"table_wrapper\">
-	          						<table style=\"color:black\">
-									<thead>
-									    <tr>
-									        <th>Manufacturer</th>
-									        <th>Model name</th>
-									        <th>Speed</th>
-									        <th>Cores</th>
-									        <th>Price</th>
-									        <th>Option</th>
-									    </tr>
-									</thead>
-	          						<tbody>");
+	$string = "SELECT * FROM ".$pname." WHERE price <> '0';";
+	$query = mysql_query($string) or die( mysql_error() );
 
 	$i = 1;
 	while( $row = mysql_fetch_array($query))
@@ -152,32 +155,15 @@ else
 
 	$query = mysql_query($str);
 
-	echo("<section id=\"one\" class=\"wrapper style1\">
-	          				<div class=\"container 125%\">
-	          					<div class=\"row 200%\">
-	          						<div class=\"table_wrapper\">
-	          						<table style=\"color:black\">
-									<thead>
-									    <tr>
-									        <th>Manufacturer</th>
-									        <th>Model name</th>
-									        <th>Speed</th>
-									        <th>Cores</th>
-									        <th>Price</th>
-									        <th>Option</th>
-									    </tr>
-									</thead>
-	          						<tbody>");
-
 	while( $row = mysql_fetch_array($query))
 	{
 		echo "<tr><td>".$row['manufacturer']."</td>";
 		echo "<td>".$row["model_name"]."</td>";
-		echo "<td>".$row["price"]."</td>";
-		echo "<td>".$row["core"]."</td>";
 		echo "<td>".$row["speed"]."</td> ";
+		echo "<td>".$row["core"]."</td>";
+		echo "<td>".$row["price"]."</td>";
 		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform\" id=\"searchform\">";
-		echo "<button name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
 		echo "like</button> </tr> </form>";
 	}
 	echo "</tbody> </table>";
@@ -193,9 +179,25 @@ function search()
 	for ($i = 0; $i < $len; $i++)
 	{
 		$pieces = explode('^', $results[$i]);
-		echo $pieces[0].'	'.$pieces[1];
-		echo '<br>';
+		// echo $pieces[0].'	'.$pieces[1];
+		$string = "SELECT * FROM CPU WHERE manufacturer ='".$pieces[0]."' AND model_name = '".$pieces[1]."';";
+		echo $string;
+		$query = mysql_query($string);
+
+		if (mysql_num_rows($query) == 0)
+			continue;
+		$row = mysql_fetch_array($query);
+		echo "<tr><td>".$row['manufacturer']."</td>";
+		echo "<td>".$row["model_name"]."</td>";
+		echo "<td>".$row["speed"]."</td> ";
+		echo "<td>".$row["core"]."</td>";
+		echo "<td>".$row["price"]."</td>";
+		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform\" id=\"searchform\">";
+		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+		echo "like</button> </tr> </form>";
 	}
+	echo "</tbody> </table></fieldset>";
+	
 }
 ?>
 
@@ -204,8 +206,6 @@ function search()
 
 
 <br>
-<!-- </fieldset>  -->
-<!-- </div> -->
 
 
 
