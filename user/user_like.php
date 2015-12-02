@@ -47,7 +47,7 @@ CPU <br><br><br>
         <th>option</th>
    		 </tr>
 		</thead>
-         </table>
+       
          </font>
           
 
@@ -57,7 +57,7 @@ CPU <br><br><br>
 if(isset($_POST['unlike']))
 {
 	$string = "DELETE FROM LIKE_ WHERE email ='".$_SESSION['email']."' AND model_name ='".$_POST['unlike']."';";
-	echo $string;
+	//echo $string;
 	$query = mysql_query($string) or die( mysql_error() );
 
 }
@@ -80,7 +80,7 @@ while( $row = mysql_fetch_array($query))
 	echo "<td>".$row["core"]."</td>";
 	echo "<td>".$row["price"]."</td>";
 	echo "<td> <form  method=\"post\" action= \"user_like.php\" id=\"searchform\">";
-	echo "<button name=\"unlike\" type=\"submit\" value=\"".$row["model_name"]."\">";
+	echo "<button name=\"unlike\" type=\"submit\" value=\"".$row["model_name"]."\" >";
 	echo "unlike</button> </td> </tr> </form>";
 }
 echo "</tbody> </table>";

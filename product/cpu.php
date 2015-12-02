@@ -56,7 +56,7 @@ $pname = "CPU";
 
 if(isset($_POST['like']) and isset($_SESSION['email']))
 {
-	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."','".$pname."');";
+	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
 	$query = mysql_query($string) or die( mysql_error() );
 }
 if (isset($_POST['user_text']))
