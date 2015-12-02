@@ -1,14 +1,14 @@
-<?php  
-session_start(); 
-if(!$_SESSION['email'])  
-{  
-    header("Location: login.php");//redirect to login page to secure the welcome page without login access.  
-}    
+<?php
+session_start();
+if(!$_SESSION['email'])
+{
+    header("Location: login.php");//redirect to login page to secure the welcome page without login access.
+}
 ?>
 
-<head> 
+<head>
 <title>Change-Password</title>
-   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/style3.css">
 </head>
 <body id="body-color">
 <div id="Change-Password">
@@ -22,16 +22,16 @@ New Password: <br>
 <input type="password" name="new_pass" size="40"> <br>
 Confirm Password: <br>
 <input type="password" name="repeat_pass" size="40"> <br>
-<br> 
+<br>
 <input id="button" type="submit" name="submit" value="Submit"> <br> <br>
 
 <font face = "Comic sans MS" size="5" color="black">
 <a href="user_home.php">back to my home</a>
-</fieldset> 
+</fieldset>
 </div>
 
 </body>
-</html> 
+</html>
 
 <?php
 define('DB_HOST', 'localhost');

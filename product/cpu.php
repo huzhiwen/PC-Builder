@@ -21,29 +21,32 @@
 <title>PC-Bulider</title>
 
 <div align="center">
-<h1><legend size="10" >Central Processing Unit</legend></h1></div>   
-
-	<a href="../user/user_home.php"> home </a>
+	<header id="header" class="skels-layers-fixed">
+		<h1><strong><a href="#">Central Processing Unit</a></strong> </h1>
+		<nav id="nav">
+			<ul>
+				<li><a href="../user/user_home.php">Home</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
 	<form  method="post" action="cpu.php" id="searchform">
-	<input  style="float: left; width: 60%" type="text" name="user_text" placeholder="Search..." size="2" >
-	<input  type="submit" name="search" class=\"button small\" value="Search"> <br> <br> 
-	<fieldset style="float:left width: 30%">
-	<label> <font size="2"> Manufacture </font> </label>
-	<input type="checkbox"  id="AMD" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+		<br>
+	<input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" >
+	<input  style="float: mid; width: 10%;  margin-left:2em" type="submit" name="search" class=\"button small\" value="Search"> <br>
+	<fieldset>
+	<input style="margin-left:3em" type="checkbox"  id="AMD" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/>
 	<label for="AMD"> AMD </label>
 	<input type="checkbox" id="Intel" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-	<label for="Intel"> Intel </label> 
-	</fieldset>
-	<fieldset style="float:left width: 60%">
-	<label> Cores </label>
-	<input type="checkbox" id= "1" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 
-	<label for="1"> single </label>
-	<input type="checkbox" id= "2" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> 
-	<label for="2"> dual </label> 
-	<input type="checkbox" id= "3" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> 
-	<label for="4"> quad </label> 
-	<input type="checkbox" id= "4" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> /> 
-	<label for="5"> more </label> <br>
+	<label for="Intel"> Intel </label>
+	<input type="checkbox" id= "1" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> />
+	<label for="1"> single core</label>
+	<input type="checkbox" id= "2" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> />
+	<label for="2"> dual core</label>
+	<input type="checkbox" id= "3" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> />
+	<label for="4"> quad core</label>
+	<input type="checkbox" id= "4" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> />
+	<label for="5"> more core</label> <br>
     </fieldset>
 </form>
 
@@ -126,7 +129,7 @@ else
 				if ($i != 0)	$str = $str. " OR";
 				$str = $str. " upper(manufacturer)='". $manus[$i] . "'";
 			}
-			$str = $str. ")";	
+			$str = $str. ")";
 		}
 		if ($N != 0 && $M != 0)
 			$str = $str. " AND ";
@@ -142,8 +145,8 @@ else
 				else
 					$str = $str. " core='". $nums[$i] . "'";
 			}
-			$str = $str. ")";	
-		}		
+			$str = $str. ")";
+		}
 		$str = $str. ")";
 	}
 
@@ -186,7 +189,7 @@ function search()
 	$response = exec('python query_sender.py '.$_POST['user_text']);
 	$results = explode("	", $response);
 	$len = count($results);
-	
+
 	for ($i = 0; $i < $len; $i++)
 	{
 		$pieces = explode('^', $results[$i]);
@@ -200,11 +203,11 @@ function search()
 </table>
 
 
-<br> 
+<br>
 <!-- </fieldset>  -->
 <!-- </div> -->
 
-    
 
 
-</html> 
+
+</html>
