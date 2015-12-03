@@ -85,38 +85,38 @@
           	if(isset($_POST['haha'])){
           		echo "Our recommendation: <br> <br>";
           		if($_POST['budget'] > 1000 && $_POST['budget'] <= 1700){
+								$_SESSION['price'] = $_POST['budget'];
           			$diff = $_POST['budget']-1324.91;
           			$link = "recommend.php";
           			echo("
           			<section id=\"one\" class=\"wrapper style1\">
-          				<div class=\"container 75%\">
+          				<div class=\"container 100%\">
           					<div class=\"row 200%\">
-          						<div class=\"table_wrapper\">
           						<table style=\"color:black\">
           							<tr>
           						    	<td>CPU: Intel i7-4790k</td>
           						    	<td>$298.00 </td>
-          						    	<td> <a href = $link?price=298.00&group=CPU style=\"text-decoration: none\"> see similar item </a> </td>
+          						    	<td> <a target=\"_blank\" href = $link?price=298.00&group=CPU style=\"text-decoration: none\"> see similar item </a> </td>
           						    </tr>
           						    <tr>
           						    	<td>Motherboard: Asus Z97-AR</td>
           						    	<td>$127.99 </td>
-          						    	<td> <a href = $link?price=127.99&group=MOTHERBOARD style=\"text-decoration: none\"> see similar item </a> </td>
+          						    	<td> <a target=\"_blank\" href = $link?price=127.99&group=MOTHERBOARD style=\"text-decoration: none\"> see similar item </a> </td>
           						    </tr>
           						    <tr>
           						    	<td>Memory: Corsair Vengeance Pro 2x8G</td>
           						    	<td>$107.99 </td>
-          						    	<td> <a href = $link?price=107.99&group=MEMORY style=\"text-decoration: none\"> see similar item </a> </td>
+          						    	<td> <a target=\"_blank\" href = $link?price=107.99&group=MEMORY style=\"text-decoration: none\"> see similar item </a> </td>
           						    </tr>
           						    <tr>
           						    	<td>Video Card: Asus GeForce GTX 970</td>
           						    	<td>$282.99 </td>
-          						    	<td> <a href = $link?price=282.99&group=GPU style=\"text-decoration: none\"> see similar item </a> </td>
+          						    	<td> <a target=\"_blank\" href = $link?price=282.99&group=GPU style=\"text-decoration: none\"> see similar item </a> </td>
           						    </tr>
           						    <tr>
           						    	<td>Power Supply: Corsair RM850 </td>
           						    	<td>$129.99 </td>
-          						    	<td> <a href = $link?price=129.99&group=PSU style=\"text-decoration: none\"> see similar item </a> </td>
+          						    	<td> <a target=\"_blank\" href = $link?price=129.99&group=PSU style=\"text-decoration: none\"> see similar item </a> </td>
           						    </tr>
           						    <tr>
           						    	<td>Storage: Samsung 850 EVO-Series 500GB<br>
@@ -124,17 +124,17 @@
           							  	<td>$139.99<br>
           						  			$49.98
           						  		 </td>
-          						  		 <td> <a href = $link?price=139.99&group=HARD_DRIVE style=\"text-decoration: none\"> see similar item </a> </td>
+          						  		 <td> <a target=\"_blank\" href = $link?price=139.99&group=HARD_DRIVE style=\"text-decoration: none\"> see similar item </a> </td>
           						  	</tr>
           						    <tr>
           						    	<td>Case: NZXT H440 (Blue/Black)</td>
           						    	<td>$112.99 </td>
-          						    	<td> <a href = $link?price=112.99&group=CASE style=\"text-decoration: none\"> see similar item </a> </td>
+          						    	<td> <a target=\"_blank\" href = $link?price=112.99&group=CASE_ style=\"text-decoration: none\"> see similar item </a> </td>
           						    </tr>
           						    <tr>
           						    	<td>Cooler: Corsair H100i GTX</td>
           						    	<td>$119.99 </td>
-          						    	<td> <a href = $link?price=119.99&group=COOLING style=\"text-decoration: none\"> see similar item </a> </td>
+          						    	<td> <a target=\"_blank\" href = $link?price=119.99&group=COOLING style=\"text-decoration: none\"> see similar item </a> </td>
           						  	</tr>
           						  	<tr>
           						    	<td>Total: </td>
@@ -149,7 +149,6 @@
           							</table>
           						</div>
           					</div>
-          				</div>
           			</section>
           				 ");
           				if($diff >= 100 && $diff < 200){
@@ -163,27 +162,27 @@
           				}
           		}
           		if($_POST['budget'] <= 600){
+								$_SESSION['price'] = $_POST['budget'];
           			$diff = $_POST['budget']-401.81;
           			$link = "recommend.php";
           			echo("<section id=\"one\" class=\"wrapper style1\">
-          				<div class=\"container 75%\">
+          				<div class=\"container 100%\">
           					<div class=\"row 200%\">
-          						<div class=\"table_wrapper\">
           						<table style=\"color:black\">
           				<tr>
           			    	<td>CPU: Intel Core i3-4150</td>
           			    	<td>$119.98 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=119.98&group=CPU style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Motherboard: Gigabyte GA-H97M-D3H</td>
           			    	<td>$68.00 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=68.00&group=MOTHERBOARD style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Memory: G.Skill Ripjaws X Series 2x4G</td>
           			    	<td>$51.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=51.99&group=MEMORY style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Video Card: None</td>
@@ -191,22 +190,22 @@
           			    <tr>
           			    	<td>Power Supply: Corsair CX500M </td>
           			    	<td>$51.98 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=51.99&group=PSU style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           				  	<td>Western Digital WD10EZEX 1TB</td>
           				  	<td>$49.98</td>
-          			  		 <td> <a href = $link> see similar item </a> </td>
+          			  		 <td> <a target=\"_blank\" href = $link?price=49.98&group=HARD_DRIVE style=\"text-decoration: none\"> see similar item </a> </td>
           			  	</tr>
           			    <tr>
           			    	<td>Case: Cooler Master Elite 130</td>
           			    	<td>$34.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=34.99&group=CASE_ style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Cooler: Cooler Master Hyper 212 EVO</td>
           			    	<td>$24.89 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link style=\"text-decoration: none\"> see similar item </a> </td>
           			  	</tr>
           			  	<tr>
           			    	<td>Total: </td>
@@ -221,7 +220,6 @@
           				</table>
           			</div>
           		</div>
-          	</div>
           </section>
           				 ");
           				if($diff >= 100 && $diff < 200){
@@ -235,37 +233,37 @@
           				}
           		}
           		if($_POST['budget'] > 1700 && $_POST['budget'] <= 2100){
+								$_SESSION['price'] = $_POST['budget'];
           			$diff = $_POST['budget']-1829.3;
           			$link = "recommend.php";
           			echo("<section id=\"one\" class=\"wrapper style1\">
-          				<div class=\"container 75%\">
+          				<div class=\"container 100%\">
           					<div class=\"row 200%\">
-          						<div class=\"table_wrapper\">
           						<table style=\"color:black\">
           				<tr>
           			    	<td>CPU: Intel i7-4700k</td>
           			    	<td>$419.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=419.99&group=CPU style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Motherboard: Asus MAXIMUS VIII HERO</td>
           			    	<td>$184.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=184.99&group=MOTHERBOARD style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Memory: Corsair Dominator Platinum 2x8G</td>
           			    	<td>$194.39 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=194.39&group=MEMORY style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Video Card: EVGA GeForce GTX 980</td>
           			    	<td>$489.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=489.99&group=GPU style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Power Supply: Corsair RM850 </td>
           			    	<td>$129.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=129.99&group=PSU style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Storage: Samsung 850 EVO-Series 500GB<br>
@@ -273,17 +271,17 @@
           				  	<td>$139.99<br>
           			  			$49.98
           			  		 </td>
-          			  		 <td> <a href = $link> see similar item </a> </td>
+          			  		 <td> <a target=\"_blank\" href = $link?price=139.99&group=HARD_DRIVE style=\"text-decoration: none\"> see similar item </a> </td>
           			  	</tr>
           			    <tr>
           			    	<td>Case: Corsair 750D</td>
           			    	<td>$99.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=99.99&group=CASE_ style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Cooler: Corsair H110i GTX</td>
           			    	<td>$119.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link style=\"text-decoration: none\"> see similar item </a> </td>
           			  	</tr>
           			  	<tr>
           			    	<td>Total: </td>
@@ -298,7 +296,6 @@
           				</table>
           			</div>
           		</div>
-          	</div>
           </section>
           				 ");
           				if($diff >= 100 && $diff < 200){
@@ -312,52 +309,52 @@
           				}
           		}
           		if($_POST['budget'] > 600 && $_POST['budget'] <= 1000){
+								$_SESSION['price'] = $_POST['budget'];
           			$diff = $_POST['budget']-735.10;
           			$link = "recommend.php";
           			echo("<section id=\"one\" class=\"wrapper style1\">
-          				<div class=\"container 75%\">
+          				<div class=\"container 100%\">
           					<div class=\"row 200%\">
-          						<div class=\"table_wrapper\">
           						<table style=\"color:black\">
           				<tr>
           			    	<td>CPU: Intel Core i5-4690K</td>
           			    	<td>$209.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=209.99&group=CPU style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Motherboard: Gigabyte GA-H97N-WIFI</td>
           			    	<td>$91.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=91.99&group=MOTHERBOARD style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Memory: Corsair Vengeance Pro 2x4G</td>
           			    	<td>$52.66 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=52.66&group=MEMORY style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Video Card: EVGA GeForce GTX 750 Ti	</td>
           			    	<td>$109.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=109.99&group=GPU style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Power Supply: EVGA SuperNOVA 650 </td>
           			    	<td>$80.62 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=80.62&group=PSU style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           				  	<td>Western Digital WD10EZEX 1TB</td>
           				  	<td>$49.98</td>
-          			  		 <td> <a href = $link> see similar item </a> </td>
+          			  		 <td> <a target=\"_blank\" href = $link?price=49.98&group=HARD_DRIVE style=\"text-decoration: none\"> see similar item </a> </td>
           			  	</tr>
           			    <tr>
           			    	<td>Case: Fractal Design Define R4 w/Window (Black Pearl)</td>
           			    	<td>$74.99 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link?price=74.99&group=CASE_ style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>
           			    <tr>
           			    	<td>Cooler: Noctua NH-U12S</td>
           			    	<td>$64.88 </td>
-          			    	<td> <a href = $link> see similar item </a> </td>
+          			    	<td> <a target=\"_blank\" href = $link style=\"text-decoration: none\"> see similar item </a> </td>
           			  	</tr>
           			  	<tr>
           			    	<td>Total: </td>
@@ -372,7 +369,6 @@
           				</table>
           			</div>
           		</div>
-          	</div>
           </section>
           				 ");
           				if($diff >= 100 && $diff < 200){
