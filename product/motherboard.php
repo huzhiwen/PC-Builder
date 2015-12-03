@@ -226,7 +226,7 @@ function search()
           //echo "<td>".$row["capacity"]."</td>";
 
 		echo "<td> <form  method=\"post\" action= \"motherboard.php#searchform\" id=\"searchform\">";
-		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 		echo "like</button> </tr> </form>";
 	}
 }

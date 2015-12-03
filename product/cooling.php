@@ -108,7 +108,7 @@ else
       echo "<td>".$row["price"]."</td>";
       echo "<td>".$row["fan"]."</td>";
       echo "<td> <form  method=\"post\" action= \"cooling.php#searchform\" id=\"searchform\">";
-      echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+      echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
       echo "like</button> </tr> </form>";
     }
   }

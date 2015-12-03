@@ -212,7 +212,7 @@ function search()
     echo "<td>".$row["watts"]."</td>";
     echo "<td>".$row["efficiency"]."</td>";
 		echo "<td> <form  method=\"post\" action= \"psu.php#searchform\" id=\"searchform\">";
-		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 		echo "like</button> </tr> </form>";
 	}
 }
