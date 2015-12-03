@@ -215,7 +215,7 @@ function search()
     echo "<td>".$row["size"]."</td>";
 
 		echo "<td> <form  method=\"post\" action= \"gpu.php#searchform\" id=\"searchform\">";
-		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 		echo "like</button> </tr> </form>";
 	}
 }
