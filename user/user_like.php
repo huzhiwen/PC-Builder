@@ -287,6 +287,79 @@ while( $row = mysql_fetch_array($query5))
 }
 echo "</tbody> </table>";
 
+/////////////////////// cooling
+
+$string6 = "SELECT * FROM LIKE_ , COOLING WHERE email='".$_SESSION['email']."'";
+$string6 = $string6."AND LIKE_.model_name = COOLING.model_name;";
+$query6 = mysql_query($string6)  or die( mysql_error() );
+
+		echo" Cooling";
+		echo"<table style=\"color:black\">";
+		//echo"<tbody><thead><tr><font size="6" color="black">";
+        echo "<th>manufacturer</th>";
+        echo "<th>model name</th>";
+        echo "<th>Fan</th>";
+       // echo "<th>sock type</th>";
+       //  echo "<th>capacity</th>";
+        echo "<th>price</th>";
+        echo "<th>option</th>";
+   		 echo "</tr></thead></font>";
+
+
+while( $row = mysql_fetch_array($query6))
+{
+
+	echo("
+          				 ");
+	echo "<tr><td>".$row['manufacturer']."</td>";
+	echo "<td>".$row["model_name"]."</td>";
+	echo "<td>".$row["fan"]."</td> ";
+	//echo "<td>".$row["board_size"]."</td>";
+//	echo "<td>".$row["capacity"]."</td>";
+	echo "<td>".$row["price"]."</td>";
+	echo "<td> <form  method=\"post\" action= \"user_like.php\" id=\"searchform\">";
+	echo "<button class=\"button small\"name=\"unlike\" type=\"submit\" value=\"".$row["model_name"]."\" >";
+	echo "unlike</button> </td> </tr> </form>";
+}
+echo "</tbody> </table>";
+
+
+/////////////////////// memory
+
+$string7 = "SELECT * FROM LIKE_ , MEMORY WHERE email='".$_SESSION['email']."'";
+$string7 = $string7."AND LIKE_.model_name = MEMORY.model_name;";
+$query7 = mysql_query($string7)  or die( mysql_error() );
+
+		echo" Memory";
+		echo"<table style=\"color:black\">";
+		//echo"<tbody><thead><tr><font size="6" color="black">";
+        echo "<th>manufacturer</th>";
+        echo "<th>model name</th>";
+        echo "<th>size</th>";
+       // echo "<th>sock type</th>";
+         echo "<th>memory speed</th>";
+        echo "<th>price</th>";
+        echo "<th>option</th>";
+   		 echo "</tr></thead></font>";
+
+
+while( $row = mysql_fetch_array($query7))
+{
+
+	echo("
+          				 ");
+	echo "<tr><td>".$row['manufacturer']."</td>";
+	echo "<td>".$row["model_name"]."</td>";
+	echo "<td>".$row["size"]."</td> ";
+	//echo "<td>".$row["board_size"]."</td>";
+	echo "<td>".$row["memory_speed"]."</td>";
+	echo "<td>".$row["price"]."</td>";
+	echo "<td> <form  method=\"post\" action= \"user_like.php\" id=\"searchform\">";
+	echo "<button class=\"button small\"name=\"unlike\" type=\"submit\" value=\"".$row["model_name"]."\" >";
+	echo "unlike</button> </td> </tr> </form>";
+}
+echo "</tbody> </table>";
+
 
 
 ?>
