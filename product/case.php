@@ -38,7 +38,7 @@
 	<label for="NZXT"> NZXT </label>	
 	<input type="checkbox" id = "Corsair" name="manu[1]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
 	<label for="Corsair"> Corsair </label>	
-	<input type="checkbox" id = "Fractal Design" name="manu[1]" value="Fractal Design" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Slivestone', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
+	<input type="checkbox" id = "Fractal Design" name="manu[2]" value="Fractal Design" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Fractal Design', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
 	<label for="Fractal Design"> Fractal Design </label>
 
    <input style="margin-left:3em" type="checkbox" name="num[0]" value="1" id="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> />
@@ -64,6 +64,14 @@ $con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MyS
 $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
 
 $pname = "CASE_";
+
+
+if(isset($_POST['like']) and isset($_SESSION['email']))
+{
+	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
+	$query = mysql_query($string) or die( mysql_error() );
+}
+
 
 echo("<section id=\"one\" class=\"wrapper style1\">
       				<div class=\"container 125%\">
@@ -92,7 +100,7 @@ if(!isset($_POST['search']))
 		echo "<td>".$row["model_name"]."</td>";
 		echo "<td>".$row["price"]."</td> ";
 		echo "<td>".$row["case_type"]."</td>";
-		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform".$i."\" id=\"searchform".$i."\">";
+		echo "<td> <form  method=\"post\" action= \"case.php#searchform".$i."\" id=\"searchform".$i."\">";
 		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 		echo "like</button> </tr> </form>";
 		$i ++;
@@ -119,7 +127,7 @@ else
   		if ($N != 0)
   		{
   			$str = $str. "(";
-  			for ($i=0; $i < 4; $i++)
+  			for ($i=0; $i < 3; $i++)
   			{
   				if ($i != 0)
   					$str = $str. " OR";
@@ -169,7 +177,7 @@ else
 		echo "<td>".$row["model_name"]."</td>";
 		echo "<td>".$row["price"]."</td> ";
 		echo "<td>".$row["case_type"]."</td>";
-		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform".$i."\" id=\"searchform".$i."\">";
+		echo "<td> <form  method=\"post\" action= \"case.php#searchform".$i."\" id=\"searchform".$i."\">";
 		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 		echo "like</button> </tr> </form>";
 	};
