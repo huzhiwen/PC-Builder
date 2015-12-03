@@ -393,7 +393,7 @@
 						<li><a href="#" class="icon fa-instagram"></a></li>
 					</ul>
 					<ul class="copyright">
-						<li>&copy; Untitled.txt</li>
+						<li>&copy; Unnamed.txt</li>
 						<li>Design: <a href="http://templated.co">NIBABA</a></li>
 						<li>Images: <a href="http://unsplash.com">NIMAMA</a></li>
 					</ul>
