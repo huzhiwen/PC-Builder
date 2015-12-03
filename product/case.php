@@ -167,18 +167,49 @@ else
   	}
 
 	mysql_query($str);
-	$query = mysql_query("SELECT * FROM CASE_VIEW;");
 
-	while( $row = mysql_fetch_array($query))
+	if (!isset($_POST['user_text']) or empty($_POST['user_text']))
 	{
-		echo "<tr><td>".$row['manufacturer']."</td>";
-		echo "<td>".$row["model_name"]."</td>";
-		echo "<td>".$row["price"]."</td> ";
-		echo "<td>".$row["case_type"]."</td>";
-		echo "<td> <form  method=\"post\" action= \"case.php#searchform".$i."\" id=\"searchform".$i."\">";
-		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
-		echo "like</button> </tr> </form>";
-	};
+		$query = mysql_query("SELECT * FROM CASE_VIEW;");
+
+		while( $row = mysql_fetch_array($query))
+		{
+			echo "<tr><td>".$row['manufacturer']."</td>";
+			echo "<td>".$row["model_name"]."</td>";
+			echo "<td>".$row["price"]."</td> ";
+			echo "<td>".$row["case_type"]."</td>";
+			echo "<td> <form  method=\"post\" action= \"case.php#searchform".$i."\" id=\"searchform".$i."\">";
+			echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
+			echo "like</button> </tr> </form>";
+		};
+	}
+	else
+	{
+		$response = exec('python query_sender.py '.$_POST['user_text']);
+		$results = explode("	", $response);
+		$len = count($results);
+
+		for ($i = 0; $i < $len; $i++)
+		{
+			$pieces = explode('^', $results[$i]);
+
+			$string = "SELECT * FROM CASE_VIEW WHERE manufacturer ='".$pieces[0]."' AND model_name = '".$pieces[1]."';";
+
+			$query = mysql_query($string);
+
+			if (mysql_num_rows($query) == 0)
+				continue;
+			$row = mysql_fetch_array($query);
+			echo "<tr><td>".$row['manufacturer']."</td>";
+			echo "<td>".$row["model_name"]."</td>";
+			echo "<td>".$row["speed"]."</td> ";
+			echo "<td>".$row["core"]."</td>";
+			echo "<td>".$row["price"]."</td>";
+			echo "<td> <form  method=\"post\" action= \"cpu.php#searchform\" id=\"searchform\">";
+			echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+			echo "like</button> </tr> </form>";
+		}
+	}
 
 	echo "</tbody> </table>";
 	mysql_query("DROP VIEW CASE_VIEW;");
