@@ -90,7 +90,6 @@ echo("<section id=\"one\" class=\"wrapper style1\">
 							</thead>
       						<tbody>");
 
-
 if(isset($_POST['like']) and isset($_SESSION['email']))
 {
 	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
@@ -219,8 +218,6 @@ function search()
 		echo "<td>".$row["model_name"]."</td>";
     echo "<td>".$row["price"]."</td>";
     echo "<td>".$row["size"]."</td>";
-   // echo "<td>".$row["board_size"]."</td>";
-          //echo "<td>".$row["capacity"]."</td>";
 
 		echo "<td> <form  method=\"post\" action= \"gpu.php#searchform\" id=\"searchform\">";
 		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
