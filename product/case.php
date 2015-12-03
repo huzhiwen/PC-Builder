@@ -31,7 +31,7 @@
 
 
 <form  method="post" action="case.php" id="searchform"> <br>
-	<input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" >
+	<input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" value="<?php echo htmlspecialchars($_POST['user_text']); ?>">
 	<input  style="float: mid; width: 10%;  margin-left:2em" type="submit" name="search" class=\"button small\" value="Search"> <br>
 
 	<input style="margin-left:3em" id = "NZXT" type="checkbox" name="manu[0]" value="NZXT" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('NZXT', $_POST['manu'])) echo 'checked="checked"'; ?>/>
@@ -49,9 +49,6 @@
     <label for="3"> 100-$150 </label>
    <input type="checkbox" name="num[3]" value="4" id="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> />
     <label for="4"> >$150 </label>
-
-
-
 </form>
 
 <?php
@@ -69,6 +66,7 @@ $pname = "CASE_";
 if(isset($_POST['like']) and isset($_SESSION['email']))
 {
 	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
+	echo $string;
 	$query = mysql_query($string);
 }
 
@@ -178,7 +176,7 @@ else
 			echo "<td>".$row["model_name"]."</td>";
 			echo "<td>".$row["price"]."</td> ";
 			echo "<td>".$row["case_type"]."</td>";
-			echo "<td> <form  method=\"post\" action= \"case.php#searchform".$i."\" id=\"searchform".$i."\">";
+			echo "<td> <form  method=\"post\" action= \"case.php".$i."\" id=\"searchform".$i."\">";
 			echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 			echo "like</button> </tr> </form>";
 		};
@@ -204,8 +202,8 @@ else
 			echo "<td>".$row["model_name"]."</td>";
 			echo "<td>".$row["price"]."</td> ";
 			echo "<td>".$row["case_type"]."</td>";
-			echo "<td> <form  method=\"post\" action= \"case.php#searchform\" id=\"searchform\">";
-			echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+			echo "<td> <form  method=\"post\" action= \"case.php\" id=\"searchform\">";
+			echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 			echo "like</button> </tr> </form>";
 		}
 	}
