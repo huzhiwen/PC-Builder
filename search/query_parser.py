@@ -52,7 +52,7 @@ def process_query(query_list):
 
 	sorted_score = sorted(doc_score.items(), key=operator.itemgetter(1), reverse=True)
 
-	return sorted_score[0:20]
+	return sorted_score
 
 def replace_char(query, mutate_list):
 	for i in range (0, len(query)):
