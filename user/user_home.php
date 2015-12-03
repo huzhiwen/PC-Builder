@@ -33,6 +33,7 @@
 
 		<!-- Banner -->
 			<section id="banner">
+				
 				<h2>PC Builder</h2>
 				<p>It's not about what you will build <br /> It's about what you experience.</p>
 				<ul class="actions">
