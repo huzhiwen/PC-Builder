@@ -1,19 +1,24 @@
 PC Power & Cooling PPCMK3S750	PC^Power & Cooling PPCMK3S750	PSU
-Asus Radeon R9 290	Asus^Radeon R9 290	GPU
+Deepcool GAMMAXX 300	Deepcool^GAMMAXX 300	COOLER
+Fractal Design Define XL R2 Black Pearl	Fractal Design^Define XL R2 (Black Pearl)	CASE
+Dynatron K17	Dynatron^K17	COOLER
 Asus Sabertooth 990FX	Asus^Sabertooth 990FX	MOTHER
+CRYORIG C1	CRYORIG^C1	COOLER
 LEPA G1600 MA	LEPA^G1600-MA	PSU
 Biostar H61MLC	Biostar^H61MLC	MOTHER
+Thermaltake CL P008 AL09WT A	Thermaltake^CL-P008-AL09WT-A	COOLER
 Gigabyte GA Z97X UD5H BK	Gigabyte^GA-Z97X-UD5H-BK	MOTHER
-MSI Radeon HD 7770 GHz Edition	MSI^Radeon HD 7770 GHz Edition	GPU
+AMD FX 8370E	AMD^FX-8370E	CPU
 FSP Group AU 1200PRO	FSP^Group AU-1200PRO	PSU
 Intel Core 2 Extreme QX9650 OEM Tray	Intel^Core 2 Extreme QX9650 (OEM/Tray)	CPU
 Seagate ST1000LM028	Seagate^ST1000LM028	DRIVE
 Intel Core i3 4340	Intel^Core i3-4340	CPU
+Zotac GeForce GTX 980 Ti	Zotac^GeForce GTX 980 Ti	GPU
 Intel Pentium G640	Intel^Pentium G640	CPU
 Seagate ST1000LM024	Seagate^ST1000LM024	DRIVE
 Intel Pentium G645	Intel^Pentium G645	CPU
 Intel Core 2 Duo E6540 OEM Tray	Intel^Core 2 Duo E6540 (OEM/Tray)	CPU
-Fractal Design Define XL R2 Black Pearl	Fractal Design^Define XL R2 (Black Pearl)	CASE
+Western Digital WD10EARS	Western Digital^WD10EARS	DRIVE
 Crucial CT500MX200SSD6	Crucial^CT500MX200SSD6	DRIVE
 Crucial CT500MX200SSD4	Crucial^CT500MX200SSD4	DRIVE
 AMD Athlon II X4 605e	AMD^Athlon II X4 605e	CPU
@@ -24,9 +29,10 @@ Intel Xeon E5 2680 V3 OEM Tray	Intel^Xeon E5-2680 V3 (OEM/Tray)	CPU
 Sandisk SDSSDRC 032G G26	Sandisk^SDSSDRC-032G-G26	DRIVE
 SeaSonic SS 650AM	SeaSonic^SS-650AM	PSU
 AMD Athlon II X3 415e	AMD^Athlon II X3 415e	CPU
+Silverstone TD03 LITE	Silverstone^TD03-LITE	COOLER
 Cooler Master Elite 342 Black	Cooler Master^Elite 342 (Black)	CASE
 Seagate ST3250824AS	Seagate^ST3250824AS	DRIVE
-Club Radeon HD 7870 XT	Club^Radeon HD 7870 XT	GPU
+Intel Pentium G3460 OEM Tray	Intel^Pentium G3460 (OEM/Tray)	CPU
 Samsung MZ 7GE240EW	Samsung^MZ-7GE240EW	DRIVE
 Intel Xeon E3 1270 V3	Intel^Xeon E3-1270 V3	CPU
 EVGA GeForce GTX 780 Ti	EVGA^GeForce GTX 780 Ti	GPU
@@ -34,47 +40,58 @@ Intel Core i7 4790S	Intel^Core i7-4790S	CPU
 Intel Xeon E3 1230	Intel^Xeon E3-1230	CPU
 AMD A6 3500	AMD^A6-3500	CPU
 Intel Xeon E3 1235	Intel^Xeon E3-1235	CPU
+Gelid Solutions ns CC Spirit 02 A	Gelid Solutions^ns CC-Spirit-02-A	COOLER
 AMD Athlon II X3 440	AMD^Athlon II X3 440	CPU
 HEC 6K28BB8F	HEC^6K28BB8F	CASE
 AMD Athlon II X3 445	AMD^Athlon II X3 445	CPU
-XFX Radeon HD 6970	XFX^Radeon HD 6970	GPU
+Gigabyte Radeon HD 7970	Gigabyte^Radeon HD 7970	GPU
+Thermaltake CL P0508	Thermaltake^CL-P0508	COOLER
+SeaSonic SS 750AM	SeaSonic^SS-750AM	PSU
 AMD FX 8370 OEM Tray	AMD^FX-8370 (OEM/Tray)	CPU
 EVGA GeForce GT 610	EVGA^GeForce GT 610	GPU
 Intel Core i7 4790K	Intel^Core i7-4790K	CPU
-Corsair CSSD F240GBLSB	Corsair^CSSD-F240GBLSB	DRIVE
+Zalman Reserator 3 MAX	Zalman^Reserator 3 MAX	COOLER
 Rosewill PATRIOT	Rosewill^PATRIOT	CASE
 Seagate ST2000VM002	Seagate^ST2000VM002	DRIVE
+Evercool HPS 810CP	Evercool^HPS-810CP	COOLER
+Western Digital WD2500AVVS	Western Digital^WD2500AVVS	DRIVE
 Intel Celeron G1840	Intel^Celeron G1840	CPU
 Thermaltake W0319RU	Thermaltake^W0319RU	PSU
-AMD FX 8370E	AMD^FX-8370E	CPU
+MSI Radeon HD 7770 GHz Edition	MSI^Radeon HD 7770 GHz Edition	GPU
 Cooler Master RS450 ACAAD3 US	Cooler Master^RS450-ACAAD3-US	PSU
+Mushkin Blackline	Mushkin^Blackline	MEMORY
 Corsair CSSD F480GBLSB	Corsair^CSSD-F480GBLSB	DRIVE
+Thermalright TRUE Spirit 140 POWER	Thermalright^TRUE Spirit 140 POWER	COOLER
 Intel Xeon E5 2687W	Intel^Xeon E5-2687W	CPU
 Intel SSDSC2BW240A401	Intel^SSDSC2BW240A401	DRIVE
 Sandisk SDSSDA 120G G25	Sandisk^SDSSDA-120G-G25	DRIVE
 Intel Xeon E5 2643 V3 OEM Tray	Intel^Xeon E5-2643 V3 (OEM/Tray)	CPU
 Western Digital WD7500AZEX	Western Digital^WD7500AZEX	DRIVE
+CRYORIG H5 Ultimate	CRYORIG^H5 Ultimate	COOLER
+Cooler Master  Glacer 240L Ver. 2	Cooler Master^ Glacer 240L Ver. 2	COOLER
 Asus Z87 K	Asus^Z87-K	MOTHER
 Intel Core i7 2600S	Intel^Core i7-2600S	CPU
 Toshiba PH3300U 1I72	Toshiba^PH3300U-1I72	DRIVE
-Asus GeForce GT 630	Asus^GeForce GT 630	GPU
+Corsair AX850	Corsair^AX850	PSU
 Sapphire Radeon R9 380	Sapphire^Radeon R9 380	GPU
 AMD Athlon II X2 250u OEM Tray	AMD^Athlon II X2 250u (OEM/Tray)	CPU
 Thermaltake PS TPD 0850MPCGUS 1	Thermaltake^PS-TPD-0850MPCGUS-1	PSU
 Asus Z87 C	Asus^Z87-C	MOTHER
+Thermaltake CLP0527	Thermaltake^CLP0527	COOLER
 Asus Z87 A	Asus^Z87-A	MOTHER
 AMD A8 5500	AMD^A8-5500	CPU
 Corsair Air 240	Corsair^Air 240	CASE
 AMD FX 8300 OEM Tray	AMD^FX-8300 (OEM/Tray)	CPU
 Super Flower SF 1200F14MP White	Super^Flower SF-1200F14MP White	PSU
 Intel Core 2 Duo E8500 OEM Tray	Intel^Core 2 Duo E8500 (OEM/Tray)	CPU
+Evercool HPO 12025	Evercool^HPO-12025	COOLER
 Gigabyte GA Z77X UD5H WB	Gigabyte^GA-Z77X-UD5H-WB	MOTHER
-Corsair CSSD F960GBLSB	Corsair^CSSD-F960GBLSB	DRIVE
 Intel Core i7 2600K	Intel^Core i7-2600K	CPU
 be quiet! BN227	be^quiet! BN227	PSU
+XFX Radeon R9 280	XFX^Radeon R9 280	GPU
 Gigabyte GA Z87X OC Force	Gigabyte^GA-Z87X-OC Force	MOTHER
 Plextor PX 256M6S	Plextor^PX-256M6S	DRIVE
-A Data Premier Series	A-Data^Premier Series	MEMORY
+Patriot PI240GS325SSDR	Patriot^PI240GS325SSDR	DRIVE
 Gigabyte GA X99 SLI	Gigabyte^GA-X99-SLI	MOTHER
 Intel DZ87KLT75K	Intel^DZ87KLT75K	MOTHER
 Fractal Design Define XL R2 Titanium Grey	Fractal Design^Define XL R2 (Titanium Grey)	CASE
@@ -84,6 +101,8 @@ MSI CSM H87M G43	MSI^CSM-H87M-G43	MOTHER
 Intel Core 2 Quad Q9505 OEM Tray	Intel^Core 2 Quad Q9505 (OEM/Tray)	CPU
 AMD Athlon II X2 255	AMD^Athlon II X2 255	CPU
 Biostar TA970XE	Biostar^TA970XE	MOTHER
+Silverstone HE02	Silverstone^HE02	COOLER
+Thermaltake BigTyp Revo.	Thermaltake^BigTyp Revo.	COOLER
 Asus P8P67 M PRO	Asus^P8P67-M PRO	MOTHER
 Western Digital WD5000AZRX	Western Digital^WD5000AZRX	DRIVE
 Intel Xeon E5 2630 OEM Tray	Intel^Xeon E5-2630 (OEM/Tray)	CPU
@@ -95,22 +114,24 @@ Mushkin MKNSSDEC240GB	Mushkin^MKNSSDEC240GB	DRIVE
 Gigabyte Radeon R9 270X	Gigabyte^Radeon R9 270X	GPU
 be quiet! Silent Base 800 Black	be^quiet! Silent Base 800 (Black)	CASE
 Sapphire Radeon HD 7850	Sapphire^Radeon HD 7850	GPU
+Asus Radeon R9 390	Asus^Radeon R9 390	GPU
 Intel Pentium E2220 OEM Tray	Intel^Pentium E2220 (OEM/Tray)	CPU
 Enermax ENP450AST	Enermax^ENP450AST	PSU
 Samsung ST2000LM003	Samsung^ST2000LM003	DRIVE
 Intel Xeon E5 1660 V2	Intel^Xeon E5-1660 V2	CPU
-Asus Z97 AR	Asus^Z97-AR	MOTHER
 XFX Radeon HD 7950	XFX^Radeon HD 7950	GPU
 Rosewill Glacier 600M	Rosewill^Glacier 600M	PSU
 AMD Phenom II X4 960T Black OEM Tray	AMD^Phenom II X4 960T Black (OEM/Tray)	CPU
 Crucial CT500MX200SSD1	Crucial^CT500MX200SSD1	DRIVE
 Fractal Design Newton R3 600W	Fractal Design^Newton R3 600W	PSU
 ASRock FM2A88X Extreme6+	ASRock^FM2A88X Extreme6+	MOTHER
+Thermaltake CLP0556	Thermaltake^CLP0556	COOLER
+be quiet!  PURE ROCK	be quiet!^ PURE ROCK	COOLER
 Patriot PI480GS25SSDR	Patriot^PI480GS25SSDR	DRIVE
 Seagate ST6000DM001	Seagate^ST6000DM001	DRIVE
 AMD Sempron 145 OEM Tray	AMD^Sempron 145 (OEM/Tray)	CPU
 Gigabyte GeForce GT 440	Gigabyte^GeForce GT 440	GPU
-Avexir Core series	Avexir^Core series	MEMORY
+Deepcool ASSASSIN II	Deepcool^ASSASSIN II	COOLER
 Thermaltake Core X9	Thermaltake^Core X9	CASE
 EVGA Z97 Classified	EVGA^Z97 Classified	MOTHER
 Seagate ST3250318AS	Seagate^ST3250318AS	DRIVE
@@ -122,20 +143,25 @@ MSI Z97 Guard Pro	MSI^Z97 Guard-Pro	MOTHER
 MyDigitalSSD MDM242 SB 032	MyDigitalSSD^MDM242-SB-032	DRIVE
 Zalman Z11	Zalman^Z11	CASE
 Intel Core i7 870 OEM Tray	Intel^Core i7-870 (OEM/Tray)	CPU
-EVGA GeForce GTX 660 Ti	EVGA^GeForce GTX 660 Ti	GPU
+Crucial CT1000BX100SSD1	Crucial^CT1000BX100SSD1	DRIVE
 Cooler Master CM Storm Scout 2 Advanced	Cooler Master^CM Storm Scout 2 Advanced	CASE
+Zalman CNPS7X LED	Zalman^CNPS7X LED	COOLER
+Thermaltake Contac 16	Thermaltake^Contac 16	COOLER
 Asus Z87 Pro V Edition	Asus^Z87-Pro (V Edition)	MOTHER
 AMD FX 8140 OEM Tray	AMD^FX-8140 (OEM/Tray)	CPU
 AMD FX 4350 OEM Tray	AMD^FX-4350 (OEM/Tray)	CPU
 Silverstone RV02B EW USB3.0 Black	Silverstone^RV02B-EW-USB3.0 (Black)	CASE
 Apevia ATX CB700W	Apevia^ATX-CB700W	PSU
+Enermax ETS T40F W	Enermax^ETS-T40F-W	COOLER
 MSI Z87 G55	MSI^Z87-G55	MOTHER
 Intel Core i7 3970X Extreme Edition	Intel^Core i7-3970X Extreme Edition	CPU
 BitFenix Prodigy Orange	BitFenix^Prodigy (Orange)	CASE
 Toshiba HDTS748XZSTA	Toshiba^HDTS748XZSTA	DRIVE
 Intel SSDSC2BP480G4R5	Intel^SSDSC2BP480G4R5	DRIVE
 Corsair CSSD F240GBGS BK	Corsair^CSSD-F240GBGS-BK	DRIVE
+OCZ OCZSSD2 1CLSLT1T	OCZ^OCZSSD2-1CLSLT1T	DRIVE
 ASRock 970 Pro3 R2.0	ASRock^970 Pro3 R2.0	MOTHER
+Silverstone AR05	Silverstone^AR05	COOLER
 Kingston SHSS37A 240G	Kingston^SHSS37A/240G	DRIVE
 Intel Celeron E1200	Intel^Celeron E1200	CPU
 XFX Radeon HD 7770	XFX^Radeon HD 7770	GPU
@@ -144,27 +170,30 @@ Western Digital WDBH2D0020HNC NRSN	Western Digital^WDBH2D0020HNC-NRSN	DRIVE
 Cooler Master MasterCase Pro 5	Cooler Master^MasterCase Pro 5	CASE
 Gigabyte GA Z68AP D3R2.0	Gigabyte^GA-Z68AP-D3(R2.0)	MOTHER
 G.Skill Sniper Low Voltage Series	G.Skill^Sniper Low Voltage Series	MEMORY
-Asus GeForce GTX 780 Ti	Asus^GeForce GTX 780 Ti	GPU
+Logisys MC4004IEXT	Logisys^MC4004IEXT	COOLER
 Western Digital WD5000AAJS	Western Digital^WD5000AAJS	DRIVE
 Gigabyte GA X79 UD3	Gigabyte^GA-X79-UD3	MOTHER
+Logisys IC4100AST	Logisys^IC4100AST	COOLER
 ASRock FM2A55M VG3+	ASRock^FM2A55M-VG3+	MOTHER
 Gigabyte Radeon R9 290	Gigabyte^Radeon R9 290	GPU
 Kingston SHSS3B7A 240G Bundle	Kingston^SHSS3B7A/240G Bundle	DRIVE
-Corsair Vengeance C70 White	Corsair^Vengeance C70 (White)	CASE
+Intel Core 2 Quad Q8200S OEM Tray	Intel^Core 2 Quad Q8200S (OEM/Tray)	CPU
 Asus H81I PLUS	Asus^H81I-PLUS	MOTHER
 Intel Core i5 6400T	Intel^Core i5-6400T	CPU
+Noctua NH L9a	Noctua^NH-L9a	COOLER
 Gigabyte GA Z97 HD3	Gigabyte^GA-Z97-HD3	MOTHER
 Asus P8H61 M LE CSM R2.0	Asus^P8H61-M LE/CSM R2.0	MOTHER
-Seagate ST500LM021	Seagate^ST500LM021	DRIVE
+Thermalright TRUE Spirit 90M Rev.A	Thermalright^TRUE Spirit 90M Rev.A	COOLER
 Intel Celeron E1400 OEM Tray	Intel^Celeron E1400 (OEM/Tray)	CPU
 A Data ASP550SS3 240GM C	A-Data^ASP550SS3-240GM-C	DRIVE
 Seagate ST3000VN000	Seagate^ST3000VN000	DRIVE
 Team Xtreem LV	Team^Xtreem LV	MEMORY
-EVGA GeForce GTX 970	EVGA^GeForce GTX 970	GPU
+AMD A8 7670K	AMD^A8-7670K	CPU
 Crucial CT960BX200SSD1	Crucial^CT960BX200SSD1	DRIVE
 MSI A55M E35	MSI^A55M-E35	MOTHER
 Cooler Master G650M	Cooler Master^G650M	PSU
 MSI A55M E33	MSI^A55M-E33	MOTHER
+Logisys MC3001IE	Logisys^MC3001IE	COOLER
 Intel Xeon E5 2620 V3 OEM Tray	Intel^Xeon E5-2620 V3 (OEM/Tray)	CPU
 Intel Pentium G2010	Intel^Pentium G2010	CPU
 AMD A6 7400K	AMD^A6-7400K	CPU
@@ -181,32 +210,36 @@ ASRock FM2A68M HD+	ASRock^FM2A68M-HD+	MOTHER
 Corsair Graphite Series 230T Black	Corsair^Graphite Series 230T Black	CASE
 Rosewill Hive 550	Rosewill^Hive-550	PSU
 Seagate ST31000524AS	Seagate^ST31000524AS	DRIVE
+Logisys IC231PWM	Logisys^IC231PWM	COOLER
 Intel Xeon E5 2695 V3 OEM Tray	Intel^Xeon E5-2695 V3 (OEM/Tray)	CPU
+Crucial CT512M4SSD2	Crucial^CT512M4SSD2	DRIVE
 Hitachi A7K1000 500	Hitachi^A7K1000-500	DRIVE
 Corsair CSSD N960GBXT	Corsair^CSSD-N960GBXT	DRIVE
 AMD Phenom II X6 1045T	AMD^Phenom II X6 1045T	CPU
 Thermaltake SP 550PCBUS	Thermaltake^SP-550PCBUS	PSU
-Corsair Vengeance C70 Black	Corsair^Vengeance C70 (Black)	CASE
+Gigabyte GeForce GTX 650 Ti Boost	Gigabyte^GeForce GTX 650 Ti Boost	GPU
 Seagate STBD2000101	Seagate^STBD2000101	DRIVE
 Asus GeForce GTX 960	Asus^GeForce GTX 960	GPU
 Corsair HX1000	Corsair^HX1000	PSU
+Rosewill RCX ZAIO 92	Rosewill^RCX-ZAIO-92	COOLER
+Xigmatek Prime SD1484	Xigmatek^Prime SD1484	COOLER
 Intel Xeon E5 2650L OEM Tray	Intel^Xeon E5-2650L (OEM/Tray)	CPU
 Cooler Master CM690 II Advanced	Cooler Master^CM690 II Advanced	CASE
 AMD Phenom II X2 545	AMD^Phenom II X2 545	CPU
-Intel Core i5 2310	Intel^Core i5-2310	CPU
-Zotac GeForce GTX 970	Zotac^GeForce GTX 970	GPU
+Intel Xeon E3 1271 V3	Intel^Xeon E3-1271 V3	CPU
+Samsung MZ 7TD250BW	Samsung^MZ-7TD250BW	DRIVE
 ASRock Z97 PROFESSIONAL	ASRock^Z97 PROFESSIONAL	MOTHER
 MSI GeForce GTX 670	MSI^GeForce GTX 670	GPU
 ASRock H77 Pro4 MVP	ASRock^H77 Pro4/MVP	MOTHER
 Team Xtreem Dark Series	Team^Xtreem Dark Series	MEMORY
 Thermaltake Chaser MK I	Thermaltake^Chaser MK-I	CASE
 Asus H87 PLUS	Asus^H87-PLUS	MOTHER
-AMD A8 7600	AMD^A8-7600	CPU
+Intel Core i5 6600 OEM Tray	Intel^Core i5-6600 (OEM/Tray)	CPU
 Plextor PX G128M6e	Plextor^PX-G128M6e	DRIVE
 Intel Core i7 940	Intel^Core i7-940	CPU
 Gigabyte GA B85M D3H	Gigabyte^GA-B85M-D3H	MOTHER
 OCZ TRN100 25SAT3 120G	OCZ^TRN100-25SAT3-120G	DRIVE
-SeaSonic SS 750AM	SeaSonic^SS-750AM	PSU
+XFX Radeon HD 6970	XFX^Radeon HD 6970	GPU
 AMD Athlon II X3 440 OEM Tray	AMD^Athlon II X3 440 (OEM/Tray)	CPU
 Asus Rampage III Gene	Asus^Rampage III Gene	MOTHER
 Intel SSDSC2CW120A310	Intel^SSDSC2CW120A310	DRIVE
@@ -217,39 +250,47 @@ Antec VP 450	Antec^VP-450	PSU
 Intel Core 2 Duo E6400	Intel^Core 2 Duo E6400	CPU
 Western Digital WD3200BPVT	Western Digital^WD3200BPVT	DRIVE
 BitFenix Prodigy Black	BitFenix^Prodigy (Black)	CASE
+XFX Radeon HD 5770	XFX^Radeon HD 5770	GPU
 Gigabyte GA F2A88XN WIFI	Gigabyte^GA-F2A88XN-WIFI	MOTHER
 Asus H87M Plus CSM	Asus^H87M-Plus/CSM	MOTHER
 Intel Core i7 940 OEM Tray	Intel^Core i7-940 (OEM/Tray)	CPU
 Seagate ST3500418AS	Seagate^ST3500418AS	DRIVE
+CRYORIG R1 Ultimate	CRYORIG^R1 Ultimate	COOLER
 Gigabyte GA H81M DS2	Gigabyte^GA-H81M-DS2	MOTHER
+Masscool 8WA743	Masscool^8WA743	COOLER
 Gigabyte GA H170M D3H	Gigabyte^GA-H170M-D3H	MOTHER
 Asus Z87 Deluxe	Asus^Z87-Deluxe	MOTHER
 Toshiba HDKPC09	Toshiba^HDKPC09	DRIVE
 PowerColor Radeon HD 5850	PowerColor^Radeon HD 5850	GPU
+Phanteks PH TC12DX	Phanteks^PH-TC12DX	COOLER
+Mushkin Silverline	Mushkin^Silverline	MEMORY
 Hitachi 0F23668	Hitachi^0F23668	DRIVE
 Silverstone ST1500	Silverstone^ST1500	PSU
 Western Digital WD6001FFWX	Western Digital^WD6001FFWX	DRIVE
 MSI Radeon R9 380	MSI^Radeon R9 380	GPU
 Asus P8H61 M LX PLUS R2.0	Asus^P8H61-M LX PLUS R2.0	MOTHER
 Western Digital WD7500BPVX	Western Digital^WD7500BPVX	DRIVE
-Asus GeForce GTX 650 Ti Boost	Asus^GeForce GTX 650 Ti Boost	GPU
+Evercool HPQ 12025	Evercool^HPQ-12025	COOLER
+NZXT Source 210 Elite Black	NZXT^Source 210 Elite (Black)	CASE
 Gigabyte GeForce GTX 960	Gigabyte^GeForce GTX 960	GPU
 OCZ VTR180 25SAT3 480G	OCZ^VTR180-25SAT3-480G	DRIVE
 Corsair TX950	Corsair^TX950	PSU
 MSI Z87 G41 PC Mate	MSI^Z87-G41 PC Mate	MOTHER
 Foxconn H77MXV D	Foxconn^H77MXV-D	MOTHER
 OCZ Gold	OCZ^Gold	MEMORY
-EVGA GeForce GTX 750	EVGA^GeForce GTX 750	GPU
+Dynatron R25	Dynatron^R25	COOLER
 Toshiba HDWD110XZSTA	Toshiba^HDWD110XZSTA	DRIVE
-Intel SSDSC2BW120A401	Intel^SSDSC2BW120A401	DRIVE
-Corsair 450D	Corsair^450D	CASE
+Enermax Liqtech 120X	Enermax^Liqtech 120X	COOLER
+Intel Core i3 2125	Intel^Core i3-2125	CPU
 Sigma ZEN WAR	Sigma^ZEN-WAR	CASE
-Gigabyte Radeon HD 7970	Gigabyte^Radeon HD 7970	GPU
+Dynatron R27	Dynatron^R27	COOLER
+Plextor PX G256M6e	Plextor^PX-G256M6e	DRIVE
 Rosewill THRONE G Window	Rosewill^THRONE-G-Window	CASE
 Intel Core 2 Duo E8200 OEM Tray	Intel^Core 2 Duo E8200 (OEM/Tray)	CPU
 OCZ AGT3 25SAT3 60G	OCZ^AGT3-25SAT3-60G	DRIVE
 Enermax ECA3290A G	Enermax^ECA3290A-G	CASE
 Gigabyte GA Z97N Gaming 5	Gigabyte^GA-Z97N-Gaming 5	MOTHER
+Toshiba DT01ACA050	Toshiba^DT01ACA050	DRIVE
 Samsung HD161GJ	Samsung^HD161GJ	DRIVE
 MSI Z97 MPOWER	MSI^Z97 MPOWER	MOTHER
 Toshiba HDWD105XZSTA	Toshiba^HDWD105XZSTA	DRIVE
@@ -268,11 +309,10 @@ Mushkin MKNSSDCR240GB 7	Mushkin^MKNSSDCR240GB-7	DRIVE
 Inwin D FRAME Orange	Inwin^D-FRAME Orange	CASE
 Intel Pentium E6300	Intel^Pentium E6300	CPU
 Rosewill RD700	Rosewill^RD700	PSU
-Samsung HN M101MBB ST1000LM024	Samsung^HN-M101MBB/ST1000LM024	DRIVE
-Seagate ST1000VX000	Seagate^ST1000VX000	DRIVE
+Silverstone TD02 LITE	Silverstone^TD02-LITE	COOLER
 Western Digital WD10EZEX	Western Digital^WD10EZEX	DRIVE
 AMD A4 3420 OEM Tray	AMD^A4-3420 (OEM/Tray)	CPU
-Seagate ST5000NM0024	Seagate^ST5000NM0024	DRIVE
+Masscool 5T568S1H3	Masscool^5T568S1H3	COOLER
 Hitachi HTS545050A7E380	Hitachi^HTS545050A7E380	DRIVE
 Western Digital WD1002F9YZ	Western Digital^WD1002F9YZ	DRIVE
 Intel Core i7 920 OEM Tray	Intel^Core i7-920 (OEM/Tray)	CPU
@@ -280,34 +320,37 @@ A Data ASP920SS3 128GM C	A-Data^ASP920SS3-128GM-C	DRIVE
 Patrio Patriot	Patrio^Patriot	MEMORY
 Cougar COUGAR A760	Cougar^COUGAR-A760	PSU
 Sapphire Radeon HD 6950	Sapphire^Radeon HD 6950	GPU
-XFX Radeon R9 280X	XFX^Radeon R9 280X	GPU
+Antec HCP 1300 Platinum	Antec^HCP-1300 Platinum	PSU
 Foxconn A88GMV	Foxconn^A88GMV	MOTHER
 Western Digital WD40E31X	Western Digital^WD40E31X	DRIVE
-Seagate ST480FP0021	Seagate^ST480FP0021	DRIVE
 Cooler Master RSA00 SPM2D3 US	Cooler Master^RSA00-SPM2D3-US	PSU
 Intel Xeon E3 1245	Intel^Xeon E3-1245	CPU
-AMD Athlon II X2 245e	AMD^Athlon II X2 245e	CPU
+Antec TP 750 Blue	Antec^TP-750 Blue	PSU
 Intel Xeon E3 1240	Intel^Xeon E3-1240	CPU
 Corsair 330R	Corsair^330R	CASE
 AMD Athlon II X3 405e	AMD^Athlon II X3 405e	CPU
-Rosewill Galaxy 02	Rosewill^Galaxy-02	CASE
+Thermalright Silver Arrow ITX	Thermalright^Silver Arrow ITX	COOLER
+EVGA ACX mITX	EVGA^ACX mITX	COOLER
 Samsung MZ 7TD120BW	Samsung^MZ-7TD120BW	DRIVE
-Crucial Ballistix Sport LT	Crucial^Ballistix Sport LT	MEMORY
-Asus SABERTOOTH Z97 MARK S	Asus^SABERTOOTH Z97 MARK S	MOTHER
+Corsair Dominator GT	Corsair^Dominator GT	MEMORY
+Crucial Ballistix Sport	Crucial^Ballistix Sport	MEMORY
+StarTech FAN7751U	StarTech^FAN7751U	COOLER
 Aerocool DS Cube	Aerocool^DS-Cube	CASE
 Kingston FURY	Kingston^FURY	MEMORY
 Intel Celeron G1850	Intel^Celeron G1850	CPU
 ASRock H61M DGS	ASRock^H61M-DGS	MOTHER
 Asus Sabertooth 990FX GEN3 R2.0	Asus^Sabertooth 990FX/GEN3 R2.0	MOTHER
 Kingston Black	Kingston^Black	MEMORY
+Dynatron T450	Dynatron^T450	COOLER
 EVGA GeForce GTX 650 Ti	EVGA^GeForce GTX 650 Ti	GPU
 ASRock X79 Extreme3	ASRock^X79 Extreme3	MOTHER
 Corsair Vengeance LPX	Corsair^Vengeance LPX	MEMORY
 NZXT Source 210 Black	NZXT^Source 210 (Black)	CASE
-Sandisk SDSSDP 064G G25	Sandisk^SDSSDP-064G-G25	DRIVE
+Arctic Cooling  Alpine 11 Plus	Arctic Cooling^ Alpine 11 Plus	COOLER
 MSI Radeon HD 7790	MSI^Radeon HD 7790	GPU
 Intel Xeon E5 2667 V3 OEM Tray	Intel^Xeon E5-2667 V3 (OEM/Tray)	CPU
 ASRock X79 Extreme4	ASRock^X79 Extreme4	MOTHER
+Deepcool GAMMAXX 200	Deepcool^GAMMAXX 200	COOLER
 Asus GRYPHON Z97	Asus^GRYPHON Z97	MOTHER
 Biostar TZ77A	Biostar^TZ77A	MOTHER
 Cougar Solution 2	Cougar^Solution 2	CASE
@@ -318,12 +361,14 @@ Asus Maximus V Formula ThunderFX	Asus^Maximus V Formula/ThunderFX	MOTHER
 ASRock X79 Extreme6	ASRock^X79 Extreme6	MOTHER
 ASRock Z77 Extreme6 TB4	ASRock^Z77 Extreme6/TB4	MOTHER
 Asus M4N98TD EVO	Asus^M4N98TD EVO	MOTHER
+Thermaltake CLP0533	Thermaltake^CLP0533	COOLER
 Intel Core i7 3770S	Intel^Core i7-3770S	CPU
 Silverstone ML03B	Silverstone^ML03B	CASE
 Intel Core i7 3770K	Intel^Core i7-3770K	CPU
 Intel Celeron E3200 OEM Tray	Intel^Celeron E3200 (OEM/Tray)	CPU
 Gigabyte Radeon R9 290X	Gigabyte^Radeon R9 290X	GPU
-PowerColor Radeon HD 7750	PowerColor^Radeon HD 7750	GPU
+Thermaltake CL P0497	Thermaltake^CL-P0497	COOLER
+Seagate ST6000VX0011	Seagate^ST6000VX0011	DRIVE
 Intel Core 2 Extreme QX6800 OEM Tray	Intel^Core 2 Extreme QX6800 (OEM/Tray)	CPU
 Thermaltake W0070RUC	Thermaltake^W0070RUC	PSU
 Intel Core 2 Duo E6320 OEM Tray	Intel^Core 2 Duo E6320 (OEM/Tray)	CPU
@@ -334,12 +379,13 @@ Intel Xeon E5 2650L V2 OEM Tray	Intel^Xeon E5-2650L V2 (OEM/Tray)	CPU
 AMD Athlon II X4 645 OEM Tray	AMD^Athlon II X4 645 (OEM/Tray)	CPU
 Gigabyte GA Z87M D3H 1.0	Gigabyte^GA-Z87M-D3H 1.0	MOTHER
 MSI H87M E35	MSI^H87M-E35	MOTHER
-Samsung MZVPV512HDGL 00000	Samsung^MZVPV512HDGL-00000	DRIVE
+AMD A4 4000	AMD^A4-4000	CPU
 Sapphire Radeon R9 280	Sapphire^Radeon R9 280	GPU
 Samsung MZHPU512HCGL 00004	Samsung^MZHPU512HCGL-00004	DRIVE
 AMD Phenom II X4 970 Black	AMD^Phenom II X4 970 Black	CPU
 Intel Xeon E5 2695 V2	Intel^Xeon E5-2695 V2	CPU
 Intel Xeon E5 2695 V3	Intel^Xeon E5-2695 V3	CPU
+Thermaltake A1964	Thermaltake^A1964	COOLER
 Intel Xeon E5 2609	Intel^Xeon E5-2609	CPU
 Phanteks Enthoo Luxe	Phanteks^Enthoo Luxe	CASE
 Intel SSDSC2BA012T401	Intel^SSDSC2BA012T401	DRIVE
@@ -348,7 +394,7 @@ Thermaltake VP300A5W2N	Thermaltake^VP300A5W2N	CASE
 Hitachi A7K1000 750	Hitachi^A7K1000-750	DRIVE
 Intel Xeon E5 2603	Intel^Xeon E5-2603	CPU
 Intel Core 2 Quad Q8300 OEM Tray	Intel^Core 2 Quad Q8300 (OEM/Tray)	CPU
-Western Digital WD10EARS	Western Digital^WD10EARS	DRIVE
+OCZ ZD4CM84 HH 1.2T	OCZ^ZD4CM84-HH-1.2T	DRIVE
 AMD FX 9590 OEM Tray	AMD^FX-9590 (OEM/Tray)	CPU
 Gigabyte GA G41MT S2PT	Gigabyte^GA-G41MT-S2PT	MOTHER
 Thermaltake Level 10 GT Battle Edition	Thermaltake^Level 10 GT Battle Edition	CASE
@@ -363,8 +409,9 @@ Transcend TS64GMTS800	Transcend^TS64GMTS800	DRIVE
 Apex TX 381 C	Apex^TX-381-C	CASE
 MSI P67A G45 B3	MSI^P67A-G45 (B3)	MOTHER
 Seagate ST8000AS0002	Seagate^ST8000AS0002	DRIVE
-Team Elite	Team^Elite	MEMORY
+OCZ VTR180 25SAT3 240G	OCZ^VTR180-25SAT3-240G	DRIVE
 Fractal Design Define R5 Blackout Edition	Fractal Design^Define R5 Blackout Edition	CASE
+Zotac GeForce GTX 780	Zotac^GeForce GTX 780	GPU
 Silverstone PS07B	Silverstone^PS07B	CASE
 ASRock X99M Extreme4	ASRock^X99M Extreme4	MOTHER
 Intel DH77KC	Intel^DH77KC	MOTHER
@@ -373,8 +420,10 @@ NZXT Phantom 820 Black	NZXT^Phantom 820 (Black)	CASE
 Kingston SHSS37A 120G	Kingston^SHSS37A/120G	DRIVE
 Corsair CS750M	Corsair^CS750M	PSU
 ASRock Z97E ITX ac	ASRock^Z97E-ITX/ac	MOTHER
+Logisys IC4300X4	Logisys^IC4300X4	COOLER
 Cooler Master RS550 PCARE3 US	Cooler Master^RS550-PCARE3-US	PSU
-Corsair CS550M	Corsair^CS550M	PSU
+be quiet!  Dark Rock Advanced C1	be quiet!^ Dark Rock Advanced C1	COOLER
+AMD Athlon X4 740	AMD^Athlon X4 740	CPU
 OCZ VTR180 25SAT3 120G	OCZ^VTR180-25SAT3-120G	DRIVE
 ASRock Z87 Pro4	ASRock^Z87 Pro4	MOTHER
 Corsair 500R White	Corsair^500R White	CASE
@@ -391,50 +440,59 @@ Intel Xeon E5 2650 V2	Intel^Xeon E5-2650 V2	CPU
 G.Skill Value Series	G.Skill^Value Series	MEMORY
 Gigabyte GA H87M D3H	Gigabyte^GA-H87M-D3H	MOTHER
 Thermaltake ARMOR A30i	Thermaltake^ARMOR A30i	CASE
+EVGA GeForce GTX Titan Black	EVGA^GeForce GTX Titan Black	GPU
 Asus MAXIMUS VII HERO	Asus^MAXIMUS VII HERO	MOTHER
 Antec NSK4482B	Antec^NSK4482B	CASE
 XFX P1 1050 BEFX	XFX^P1-1050-BEFX	PSU
 Gigabyte GA Z97X UD5H	Gigabyte^GA-Z97X-UD5H	MOTHER
 Fractal Design FD PSU IN2B 500W	Fractal Design^FD-PSU-IN2B-500W	PSU
 Hitachi HUH728080ALE600	Hitachi^HUH728080ALE600	DRIVE
+PowerColor Radeon HD 7750	PowerColor^Radeon HD 7750	GPU
 Intel Xeon E5 2660 V2	Intel^Xeon E5-2660 V2	CPU
 Intel Xeon E5 2660 V3	Intel^Xeon E5-2660 V3	CPU
 Fractal Design Define R5 w Window Titanium	Fractal Design^Define R5 w/Window (Titanium)	CASE
 Corsair TX750M	Corsair^TX750M	PSU
 EVGA 111 IB E692 KR	EVGA^111-IB-E692-KR	MOTHER
+Corsair H90	Corsair^H90	COOLER
 AMD Phenom II X4 910	AMD^Phenom II X4 910	CPU
 Asus P8B75 M LE	Asus^P8B75-M LE	MOTHER
 AMD A4 6300	AMD^A4-6300	CPU
+Kingston HyperX Fury Black	Kingston^HyperX Fury Black	MEMORY
+Rosewill AIOLOS	Rosewill^AIOLOS	COOLER
+Noctua NH D15S	Noctua^NH-D15S	COOLER
+Cooler Master  Hyper 103	Cooler Master^ Hyper 103	COOLER
 ASRock 990FX Killer	ASRock^990FX Killer	MOTHER
 AMD A4 3300 OEM Tray	AMD^A4-3300 (OEM/Tray)	CPU
+Sapphire Radeon HD 7870 XT	Sapphire^Radeon HD 7870 XT	GPU
 Intel Core i5 3340	Intel^Core i5-3340	CPU
 ASRock B75M	ASRock^B75M	MOTHER
 LEPA G1000 MA	LEPA^G1000-MA	PSU
+Rosewill RCX Z775 LP	Rosewill^RCX-Z775-LP	COOLER
 Asus P9X79 DELUXE	Asus^P9X79 DELUXE	MOTHER
 OCZ TRN100 25SAT3 480G	OCZ^TRN100-25SAT3-480G	DRIVE
 Aerocool DS Cube Orange Edition Silent Cube	Aerocool^DS Cube Orange Edition Silent Cube	CASE
 Asus Z87 Deluxe DUAL	Asus^Z87-Deluxe/DUAL	MOTHER
-HIS Radeon R7 260X	HIS^Radeon R7 260X	GPU
+Intel Core i7 5775C	Intel^Core i7-5775C	CPU
 Samsung MZ 7KE512BW	Samsung^MZ-7KE512BW	DRIVE
 Intel SSDSCKJW240H601	Intel^SSDSCKJW240H601	DRIVE
 BitFenix Neos Black Blue	BitFenix^Neos Black/Blue	CASE
 Antec HCG 750M	Antec^HCG-750M	PSU
 Deepcool KENDOMEN Red	Deepcool^KENDOMEN Red	CASE
+Scythe SCKZT 1000	Scythe^SCKZT-1000	COOLER
 Asus Radeon HD 7970	Asus^Radeon HD 7970	GPU
 Seagate ST1000NM0053	Seagate^ST1000NM0053	DRIVE
 BitFenix Colossus Window White	BitFenix^Colossus Window (White)	CASE
 Intel Core 2 Duo E6400 OEM Tray	Intel^Core 2 Duo E6400 (OEM/Tray)	CPU
+Crucial CT032V4SSD2	Crucial^CT032V4SSD2	DRIVE
 Intel Core i5 5675C	Intel^Core i5-5675C	CPU
 ASRock FM2A75M Pro4+	ASRock^FM2A75M Pro4+	MOTHER
 Western Digital WD3200AAJS	Western Digital^WD3200AAJS	DRIVE
-CoolMax V 600	CoolMax^V-600	PSU
 Intel Xeon E5 2690 OEM Tray	Intel^Xeon E5-2690 (OEM/Tray)	CPU
 Thermaltake Core V71	Thermaltake^Core V71	CASE
 Fractal Design Define R5 w Window Black	Fractal Design^Define R5 w/Window (Black)	CASE
 Gigabyte GA Z97N WIFI	Gigabyte^GA-Z97N-WIFI	MOTHER
 Gigabyte GA A75 D3H	Gigabyte^GA-A75-D3H	MOTHER
-Patriot PI240GS325SSDR	Patriot^PI240GS325SSDR	DRIVE
-Asus M5A78L M LX PLUS	Asus^M5A78L-M LX PLUS	MOTHER
+A Data Premier Series	A-Data^Premier Series	MEMORY
 Intel Xeon E5 2609 V3 OEM Tray	Intel^Xeon E5-2609 V3 (OEM/Tray)	CPU
 AMD FX 8370	AMD^FX-8370	CPU
 Intel SSDSCKJW360H601	Intel^SSDSCKJW360H601	DRIVE
@@ -442,20 +500,23 @@ AMD Athlon X2 340	AMD^Athlon X2 340	CPU
 Toshiba MQ01ABD100	Toshiba^MQ01ABD100	DRIVE
 Cooler Master Elite 430	Cooler Master^Elite 430	CASE
 AMD Phenom II X2 550	AMD^Phenom II X2 550	CPU
-MSI Radeon HD 6570	MSI^Radeon HD 6570	GPU
+Samsung MZVPV256HDGL 00000	Samsung^MZVPV256HDGL-00000	DRIVE
 HIS Radeon HD 7870 GHz Edition	HIS^Radeon HD 7870 GHz Edition	GPU
 Western Digital WD1003FBYX	Western Digital^WD1003FBYX	DRIVE
 ASRock Fatal1ty Z97M Killer	ASRock^Fatal1ty Z97M Killer	MOTHER
+RAIJINTEK TRITON GREEN	RAIJINTEK^TRITON GREEN	COOLER
 AMD A10 6800K OEM Tray	AMD^A10-6800K (OEM/Tray)	CPU
 Aerocool DS Cube Green	Aerocool^DS-Cube Green	CASE
 PC Power & Cooling PPCMK3S600	PC^Power & Cooling PPCMK3S600	PSU
 MSI GeForce GTX 660	MSI^GeForce GTX 660	GPU
+Thermalright Silver Arrow	Thermalright^Silver Arrow	COOLER
 Hitachi 0F23651	Hitachi^0F23651	DRIVE
 Kingston HyperX	Kingston^HyperX	MEMORY
+Masscool 8W2002F1M4	Masscool^8W2002F1M4	COOLER
 Corsair CX400	Corsair^CX400	PSU
 Rosewill Legacy U3 S Window	Rosewill^Legacy U3-S-Window	CASE
 Intel Core i7 970	Intel^Core i7-970	CPU
-Intel Xeon E5 2603 V3	Intel^Xeon E5-2603 V3	CPU
+NZXT Phantom 630 Gunmetal	NZXT^Phantom 630 (Gunmetal)	CASE
 Western Digital WD2000F9YZ	Western Digital^WD2000F9YZ	DRIVE
 NZXT Source 210 White	NZXT^Source 210 (White)	CASE
 Azza CSAZ 8000W	Azza^CSAZ-8000W	CASE
@@ -465,9 +526,11 @@ Intel Pentium G840	Intel^Pentium G840	CPU
 ASRock Fatal1ty Z87 Professional	ASRock^Fatal1ty Z87 Professional	MOTHER
 Intel Xeon E5 1620 V3	Intel^Xeon E5-1620 V3	CPU
 Corsair VS550	Corsair^VS550	PSU
+Western Digital WD3200AAJB	Western Digital^WD3200AAJB	DRIVE
 Asus P8Z77 V PRO	Asus^P8Z77-V PRO	MOTHER
 Gigabyte GA B85M HD3	Gigabyte^GA-B85M-HD3	MOTHER
 Asus GeForce GTX 760 X2	Asus^GeForce GTX 760 X2	GPU
+Corsair H100i	Corsair^H100i	COOLER
 Western Digital WD10EZRX	Western Digital^WD10EZRX	DRIVE
 Gigabyte GA F2A85XM D3H	Gigabyte^GA-F2A85XM-D3H	MOTHER
 Asus Z97 K CSM	Asus^Z97-K/CSM	MOTHER
@@ -477,7 +540,7 @@ Biostar TZ68A+	Biostar^TZ68A+	MOTHER
 be quiet! STRAIGHT POWER E9 680W   CM	be^quiet! STRAIGHT POWER E9 680W / CM	PSU
 Raidmax RX 735AP	Raidmax^RX-735AP	PSU
 Seagate ST3320311CS	Seagate^ST3320311CS	DRIVE
-MSI Radeon R9 390	MSI^Radeon R9 390	GPU
+Gigabyte GA Z77M D3H	Gigabyte^GA-Z77M-D3H	MOTHER
 Intel Core i3 6100 OEM Tray	Intel^Core i3-6100 (OEM/Tray)	CPU
 Intel Core 2 Extreme QX6800	Intel^Core 2 Extreme QX6800	CPU
 XFX P1 750B NLG9	XFX^P1-750B-NLG9	PSU
@@ -486,23 +549,28 @@ Intel Core 2 Duo E6700	Intel^Core 2 Duo E6700	CPU
 Inwin GRone Gray Gray	Inwin^GRone Gray (Gray)	CASE
 Antec SONATA III 500	Antec^SONATA III 500	CASE
 Asus P9X79 E WS	Asus^P9X79-E WS	MOTHER
+MSI Radeon R9 280	MSI^Radeon R9 280	GPU
+Titan TTC NA43TZ CU35	Titan^TTC-NA43TZ/CU35	COOLER
 AMD A10 6700T OEM Tray	AMD^A10-6700T (OEM/Tray)	CPU
 Intel Core 2 Quad Q9400 OEM Tray	Intel^Core 2 Quad Q9400 (OEM/Tray)	CPU
 Patriot Viper Xtreme	Patriot^Viper Xtreme	MEMORY
 EVGA 160 SB E689 K2	EVGA^160-SB-E689-K2	MOTHER
+Prolimatech Basic 68	Prolimatech^Basic 68	COOLER
 Asus GeForce GTX 650 Ti	Asus^GeForce GTX 650 Ti	GPU
 Intel Core 2 Quad Q8400S	Intel^Core 2 Quad Q8400S	CPU
-Western Digital WD15EVDS	Western Digital^WD15EVDS	DRIVE
-Fractal Design Node 304	Fractal Design^Node 304	CASE
+Prolimatech Basic 65	Prolimatech^Basic 65	COOLER
 Intel Xeon E5 1620 V2 OEM Tray	Intel^Xeon E5-1620 V2 (OEM/Tray)	CPU
-A Data ASP900S3 128GM C	A-Data^ASP900S3-128GM-C	DRIVE
+Dynatron K5	Dynatron^K5	COOLER
 A Data ASX900S3 128GM C	A-Data^ASX900S3-128GM-C	DRIVE
 Corsair 230T Windowed BLUE	Corsair^230T Windowed-BLUE	CASE
 Intel Pentium G3460	Intel^Pentium G3460	CPU
 NZXT HALE90 750 M	NZXT^HALE90-750-M	PSU
 Silverstone ST50F P	Silverstone^ST50F-P	PSU
+Dynatron T195	Dynatron^T195	COOLER
 Antec HCP 1200	Antec^HCP-1200	PSU
 AMD A10 7870K	AMD^A10-7870K	CPU
+Corsair Vengeance	Corsair^Vengeance	MEMORY
+NZXT Kraken X31	NZXT^Kraken X31	COOLER
 ASRock Z87 Extreme6	ASRock^Z87 Extreme6	MOTHER
 Gigabyte GA Z77X UP5 TH	Gigabyte^GA-Z77X-UP5 TH	MOTHER
 Deepcool TESSERACT BF	Deepcool^TESSERACT BF	CASE
@@ -515,12 +583,14 @@ Transcend TS1TSSD370	Transcend^TS1TSSD370	DRIVE
 AMD Athlon II X4 610e	AMD^Athlon II X4 610e	CPU
 Western Digital WD4003FZEX	Western Digital^WD4003FZEX	DRIVE
 Corsair Dominator	Corsair^Dominator	MEMORY
-XFX Radeon HD 6950	XFX^Radeon HD 6950	GPU
+Arctic Cooling  Freezer Xtreme	Arctic Cooling^ Freezer Xtreme	COOLER
 Fractal Design FD PSU IN3B 550W	Fractal Design^FD-PSU-IN3B-550W	PSU
+EVGA GeForce GTX 970	EVGA^GeForce GTX 970	GPU
 Seagate ST31000340NS   FFP	Seagate^ST31000340NS - FFP	DRIVE
 Corsair 900D	Corsair^900D	CASE
 Seagate ST6000NM0024	Seagate^ST6000NM0024	DRIVE
 AMD FX 6300 OEM Tray	AMD^FX-6300 (OEM/Tray)	CPU
+Western Digital WD20PURX	Western Digital^WD20PURX	DRIVE
 OCZ OCZ ZT650W	OCZ^OCZ-ZT650W	PSU
 SeaSonic S12G 750	SeaSonic^S12G-750	PSU
 Corsair 650D	Corsair^650D	CASE
@@ -536,12 +606,13 @@ MSI H87M G43	MSI^H87M-G43	MOTHER
 Enermax EPM600AWT	Enermax^EPM600AWT	PSU
 AMD FX 6350	AMD^FX-6350	CPU
 MSI Z77A G43	MSI^Z77A-G43	MOTHER
+Zalman CNPS2X	Zalman^CNPS2X	COOLER
 Crucial CT128M4SSD2	Crucial^CT128M4SSD2	DRIVE
 SeaSonic S12II 430B	SeaSonic^S12II 430B	PSU
-Corsair 250D	Corsair^250D	CASE
+Intel Core 2 Duo E8400	Intel^Core 2 Duo E8400	CPU
 AMD A6 PRO 7400B OEM Tray	AMD^A6 PRO-7400B (OEM/Tray)	CPU
 Gigabyte GeForce GTX 660	Gigabyte^GeForce GTX 660	GPU
-Club Radeon R9 280	Club^Radeon R9 280	GPU
+Intel Celeron E1500 OEM Tray	Intel^Celeron E1500 (OEM/Tray)	CPU
 Silverstone SX600 G	Silverstone^SX600-G	PSU
 SeaSonic SS 400ET Bronze	SeaSonic^SS-400ET Bronze	PSU
 ASRock Z87 Professional	ASRock^Z87 Professional	MOTHER
@@ -553,23 +624,25 @@ Seagate ST800FM0002	Seagate^ST800FM0002	DRIVE
 MSI H87 G43	MSI^H87-G43	MOTHER
 Rosewill FBM 01	Rosewill^FBM-01	CASE
 Rosewill FBM 02	Rosewill^FBM-02	CASE
+SilenX EFZ 92HA3	SilenX^EFZ-92HA3	COOLER
 Phanteks Enthoo Primo	Phanteks^Enthoo Primo	CASE
+Arctic Cooling  Freezer 7 Pro Rev.2	Arctic Cooling^ Freezer 7 Pro Rev.2	COOLER
 Hitachi 0F10452	Hitachi^0F10452	DRIVE
 Rosewill ARC M450	Rosewill^ARC M450	PSU
 Fractal Design Define R3 Silver Arrow	Fractal Design^Define R3 Silver Arrow	CASE
 Cooler Master COSMOS SE	Cooler Master^COSMOS SE	CASE
 Rosewill CAPSTONE 550 M	Rosewill^CAPSTONE-550-M	PSU
 Mushkin MKNSSDEC60GB	Mushkin^MKNSSDEC60GB	DRIVE
-XFX Radeon HD 5450	XFX^Radeon HD 5450	GPU
-Silverstone ML04B	Silverstone^ML04B	CASE
+Transcend TS512GMTS600	Transcend^TS512GMTS600	DRIVE
 Sapphire Radeon R9 290	Sapphire^Radeon R9 290	GPU
+Scythe SCMG 3000	Scythe^SCMG-3000	COOLER
 Silverstone FT02B W USB3.0 Black	Silverstone^FT02B-W-USB3.0 (Black)	CASE
 Gigabyte GA H87 D3H	Gigabyte^GA-H87-D3H	MOTHER
 ASRock Z97 EXTREME9	ASRock^Z97 EXTREME9	MOTHER
 ASRock Z97 EXTREME6	ASRock^Z97 EXTREME6	MOTHER
 Asus Crosshair V Formula Z	Asus^Crosshair V Formula-Z	MOTHER
 ASRock Z97 EXTREME4	ASRock^Z97 EXTREME4	MOTHER
-Asus Radeon HD 7870 GHz Edition	Asus^Radeon HD 7870 GHz Edition	GPU
+Gigabyte GA Z68XP UD3	Gigabyte^GA-Z68XP-UD3	MOTHER
 Intel Xeon E5 2630	Intel^Xeon E5-2630	CPU
 Toshiba PH3500U 1I72	Toshiba^PH3500U-1I72	DRIVE
 Intel Pentium G4520	Intel^Pentium G4520	CPU
@@ -590,24 +663,28 @@ Intel Core i7 980X Extreme Edition	Intel^Core i7-980X Extreme Edition	CPU
 Inwin 901	Inwin^901	CASE
 A Data ASP610SS3 1TM C	A-Data^ASP610SS3-1TM-C	DRIVE
 Corsair CSSD F128GBLX	Corsair^CSSD-F128GBLX	DRIVE
-Thermaltake Chaser A31 Snow White	Thermaltake^Chaser A31 Snow White	CASE
+Intel Xeon E5 2665	Intel^Xeon E5-2665	CPU
 ASRock FM2A88X Extreme4+	ASRock^FM2A88X Extreme4+	MOTHER
 Inwin 904	Inwin^904	CASE
 Antec DF 85	Antec^DF-85	CASE
+Evercool TTC NK35TZ RPW V3	Evercool^TTC-NK35TZ/RPW/V3	COOLER
 Intel Core i5 4570	Intel^Core i5-4570	CPU
 Topower ZU 500W	Topower^ZU-500W	PSU
-Toshiba HDWE150XZSTA	Toshiba^HDWE150XZSTA	DRIVE
+Silverstone AR01	Silverstone^AR01	COOLER
 AMD Athlon II X4 630 OEM Tray	AMD^Athlon II X4 630 (OEM/Tray)	CPU
-OCZ OCZSSD2 1CLSLT1T	OCZ^OCZSSD2-1CLSLT1T	DRIVE
+Silverstone AR03	Silverstone^AR03	COOLER
+Silverstone AR02	Silverstone^AR02	COOLER
 Raidmax ATX 502WUU	Raidmax^ATX-502WUU	CASE
+Silverstone AR04	Silverstone^AR04	COOLER
 Samsung MZHPV256HDGL 00000	Samsung^MZHPV256HDGL-00000	DRIVE
+Silverstone AR06	Silverstone^AR06	COOLER
 Rosewill RD400 2 SB	Rosewill^RD400-2-SB	PSU
 PNY XLR8	PNY^XLR8	MEMORY
 SeaSonic X660 Gold	SeaSonic^X660 Gold	PSU
 Cougar COUGAR 1000CMX	Cougar^COUGAR-1000CMX	PSU
 Asus A88XM Plus	Asus^A88XM-Plus	MOTHER
 Corsair HX850	Corsair^HX850	PSU
-Crucial CT512M4SSD2	Crucial^CT512M4SSD2	DRIVE
+Cooler Master  GeminII S524 Ver 2	Cooler Master^ GeminII S524 Ver 2	COOLER
 Corsair 400R	Corsair^400R	CASE
 Corsair RM650	Corsair^RM650	PSU
 Samsung HD103UJ	Samsung^HD103UJ	DRIVE
@@ -615,37 +692,41 @@ Western Digital WD1600AAJS	Western Digital^WD1600AAJS	DRIVE
 Antec NEO ECO 520C	Antec^NEO ECO 520C	PSU
 Western Digital WD10JPVX	Western Digital^WD10JPVX	DRIVE
 Asus P8Z77 V DELUXE	Asus^P8Z77-V DELUXE	MOTHER
+Cooler Master  Hyper D92	Cooler Master^ Hyper D92	COOLER
 BitFenix BFP FUR 550G KSXK RP	BitFenix^BFP-FUR-550G-KSXK-RP	PSU
 Corsair TX850M	Corsair^TX850M	PSU
 Gigabyte GeForce GTX 680	Gigabyte^GeForce GTX 680	GPU
 AMD E2 Series E2 3200 OEM Tray	AMD^E2-Series E2-3200 (OEM/Tray)	CPU
+Enermax ETS T40 W	Enermax^ETS-T40-W	COOLER
 EVGA GeForce GTX 980	EVGA^GeForce GTX 980	GPU
 Gigabyte GA F2A88XM HD3	Gigabyte^GA-F2A88XM-HD3	MOTHER
 Rosewill Galaxy 01	Rosewill^Galaxy-01	CASE
-PowerColor Radeon R9 270X	PowerColor^Radeon R9 270X	GPU
+Rosewill Galaxy 02	Rosewill^Galaxy-02	CASE
 Rosewill Galaxy 03	Rosewill^Galaxy-03	CASE
 Team T253L3120GMC101	Team^T253L3120GMC101	DRIVE
 Toshiba HDTS325XZSTA	Toshiba^HDTS325XZSTA	DRIVE
-Samsung MZ 7PC128B WW	Samsung^MZ-7PC128B/WW	DRIVE
+Logisys MC2001IE	Logisys^MC2001IE	COOLER
 Samsung MZ V5P512BW	Samsung^MZ-V5P512BW	DRIVE
+Thermalright Macho Rev.ABW	Thermalright^Macho Rev.A(BW)	COOLER
 be quiet! BN604	be^quiet! BN604	PSU
 be quiet! BN603	be^quiet! BN603	PSU
-GeIL SUPER LUCE	GeIL^SUPER LUCE	MEMORY
+Asus GeForce GTX 770	Asus^GeForce GTX 770	GPU
 be quiet! BN601	be^quiet! BN601	PSU
 be quiet! BN600	be^quiet! BN600	PSU
+Deepcool CAPTAIN 240	Deepcool^CAPTAIN 240	COOLER
 Mushkin MKNSSDCR120GB 7	Mushkin^MKNSSDCR120GB-7	DRIVE
 Asus M5A78L M USB3	Asus^M5A78L-M/USB3	MOTHER
 Asus P8P67 Deluxe REV 3.0	Asus^P8P67 Deluxe (REV 3.0)	MOTHER
 Intel Core 2 Duo E8400 OEM Tray	Intel^Core 2 Duo E8400 (OEM/Tray)	CPU
 AMD A4 PRO 7300B OEM Tray	AMD^A4 PRO-7300B (OEM/Tray)	CPU
-Asus Z97 P	Asus^Z97-P	MOTHER
+Gigabyte Radeon R9 280X	Gigabyte^Radeon R9 280X	GPU
 Intel SSDSC2BB012T401	Intel^SSDSC2BB012T401	DRIVE
 Zalman ZM Z9 U3 Black	Zalman^ZM-Z9 U3 (Black)	CASE
-Hitachi 0S03660	Hitachi^0S03660	DRIVE
+Prolimatech PRO MGH C	Prolimatech^PRO-MGH-C	COOLER
 AMD Phenom II X3 715 Black OEM Tray	AMD^Phenom II X3 715 Black (OEM/Tray)	CPU
 Intel Pentium G630T	Intel^Pentium G630T	CPU
 Apevia X DREAMER4 GN	Apevia^X-DREAMER4-GN	CASE
-AMD Phenom II X4 805	AMD^Phenom II X4 805	CPU
+Patriot Gamer Series	Patriot^Gamer Series	MEMORY
 PN PNY	PN^PNY	MEMORY
 Kingston SV300S3D7 240G	Kingston^SV300S3D7/240G	DRIVE
 Gigabyte GA X99 UD4	Gigabyte^GA-X99-UD4	MOTHER
@@ -654,9 +735,11 @@ Asus F2A55 M CSM	Asus^F2A55-M/CSM	MOTHER
 MSI FM2 A75MA E35	MSI^FM2-A75MA-E35	MOTHER
 Western Digital WD3200AVVS	Western Digital^WD3200AVVS	DRIVE
 AMD Phenom II X4 970 OEM Tray	AMD^Phenom II X4 970 (OEM/Tray)	CPU
+Arctic Cooling  Freezer A11	Arctic Cooling^ Freezer A11	COOLER
 Silverstone SG06BB 450 USB3.0 Black	Silverstone^SG06BB-450-USB3.0 (Black)	CASE
 Intel Pentium E5300	Intel^Pentium E5300	CPU
 AMD A10 6700	AMD^A10-6700	CPU
+Cooler Master  Hyper TX3 Evo	Cooler Master^ Hyper TX3 Evo	COOLER
 MSI GeForce GTX 660 Ti	MSI^GeForce GTX 660 Ti	GPU
 EVGA SuperNOVA NEX750B	EVGA^SuperNOVA NEX750B	PSU
 EVGA 130 SB E685 KR	EVGA^130-SB-E685-KR	MOTHER
@@ -665,12 +748,13 @@ ASRock P67 Pro3 B3	ASRock^P67 Pro3 (B3)	MOTHER
 Asus Z97 E	Asus^Z97-E	MOTHER
 Western Digital WD1200BEVT	Western Digital^WD1200BEVT	DRIVE
 ECS P67H2 A	ECS^P67H2-A	MOTHER
+G.Skill NS	G.Skill^NS	MEMORY
 Thermaltake Versa H22	Thermaltake^Versa H22	CASE
 Thermaltake Versa H23	Thermaltake^Versa H23	CASE
 Thermaltake Versa H21	Thermaltake^Versa H21	CASE
 AMD FX 4130	AMD^FX-4130	CPU
 MSI Z77A G45	MSI^Z77A-G45	MOTHER
-Mushkin Stealth	Mushkin^Stealth	MEMORY
+A Data ASP920SS3 1TM C	A-Data^ASP920SS3-1TM-C	DRIVE
 Intel Xeon E5 2680 V2	Intel^Xeon E5-2680 V2	CPU
 Thermaltake Chaser A31	Thermaltake^Chaser A31	CASE
 Crucial Ballistix Tactical	Crucial^Ballistix Tactical	MEMORY
@@ -688,6 +772,7 @@ Rosewill Tachyon 750	Rosewill^Tachyon-750	PSU
 XClio Touch 320	XClio^Touch 320	CASE
 Asus M4N68T M V2	Asus^M4N68T-M V2	MOTHER
 Hitachi HMH7210A0ALN604	Hitachi^HMH7210A0ALN604	DRIVE
+Gigabyte GeForce GTX 980 Ti	Gigabyte^GeForce GTX 980 Ti	GPU
 Gigabyte GA X58A UD3R	Gigabyte^GA-X58A-UD3R	MOTHER
 XFX P1 650X XXB9	XFX^P1-650X-XXB9	PSU
 Mushkin MKNSSDEC512GB	Mushkin^MKNSSDEC512GB	DRIVE
@@ -700,37 +785,43 @@ Kingston Predator	Kingston^Predator	MEMORY
 Asus A55BM E	Asus^A55BM-E	MOTHER
 Silverstone GD05B USB3.0 Black	Silverstone^GD05B-USB3.0 (Black)	CASE
 SeaSonic SS 660XP2	SeaSonic^SS-660XP2	PSU
+Avexir Core series	Avexir^Core series	MEMORY
 EVGA SuperNOVA 550	EVGA^SuperNOVA 550	PSU
+EVGA GeForce GTX 950	EVGA^GeForce GTX 950	GPU
 Gigabyte GA Z87X UD5 TH	Gigabyte^GA-Z87X-UD5 TH	MOTHER
 Antec Nine Hundred Two V3	Antec^Nine Hundred Two V3	CASE
 NZXT Phantom 530 Red	NZXT^Phantom 530 (Red)	CASE
 AMD Phenom II X6 1065T	AMD^Phenom II X6 1065T	CPU
 Intel Celeron E1600 OEM Tray	Intel^Celeron E1600 (OEM/Tray)	CPU
-AMD Athlon II X3 460	AMD^Athlon II X3 460	CPU
+Gelid Solutions ns CC Siberian 01	Gelid Solutions^ns CC-Siberian-01	COOLER
+OCZ OCZSSD2 1CLS1T	OCZ^OCZSSD2-1CLS1T	DRIVE
 Rosewill THOR V2	Rosewill^THOR V2	CASE
 PC Power & Cooling PPCMK3S500	PC^Power & Cooling PPCMK3S500	PSU
 Fractal Design FD PSU TS2B 650W	Fractal Design^FD-PSU-TS2B-650W	PSU
 be quiet! PURE POWER L8 300W	be^quiet! PURE POWER L8 300W	PSU
 AMD A8 7600 OEM Tray	AMD^A8-7600 (OEM/Tray)	CPU
 Crucial CT240BX200SSD1	Crucial^CT240BX200SSD1	DRIVE
+Toshiba HDTS412XZSTA	Toshiba^HDTS412XZSTA	DRIVE
+Kingston SHPM2280P2 480G	Kingston^SHPM2280P2/480G	DRIVE
 Seagate ST3320413AS	Seagate^ST3320413AS	DRIVE
 Gigabyte Radeon HD 7950	Gigabyte^Radeon HD 7950	GPU
 SeaSonic SS 400FL2	SeaSonic^SS-400FL2	PSU
 Lian Li PC K65 Black	Lian-Li^PC-K65 (Black)	CASE
 Sandisk SD8SNAT 128G 1122	Sandisk^SD8SNAT-128G-1122	DRIVE
 Intel SSDPECME032T401	Intel^SSDPECME032T401	DRIVE
-PowerColor Radeon HD 7770 GHz Edition	PowerColor^Radeon HD 7770 GHz Edition	GPU
+Corsair CSSD N480GBXTB	Corsair^CSSD-N480GBXTB	DRIVE
 Intel Xeon E3 1241 V3	Intel^Xeon E3-1241 V3	CPU
 Silverstone TJ08B E	Silverstone^TJ08B-E	CASE
 Western Digital WD3200LPVX	Western Digital^WD3200LPVX	DRIVE
 Intel Core 2 Quad Q9300 OEM Tray	Intel^Core 2 Quad Q9300 (OEM/Tray)	CPU
-Kingston HyperX Beast	Kingston^HyperX Beast	MEMORY
-A Data ASP920SS3 1TM C	A-Data^ASP920SS3-1TM-C	DRIVE
+Samsung 840 EVO	Samsung^840 EVO	DRIVE
 EVGA 160 SB E689 KR	EVGA^160-SB-E689-KR	MOTHER
 Intel Pentium G3258 OEM Tray	Intel^Pentium G3258 (OEM/Tray)	CPU
 BitFenix Prodigy M Midnight	BitFenix^Prodigy M Midnight	CASE
 AMD A4 3300	AMD^A4-3300	CPU
 Asus P7P55D E LX	Asus^P7P55D-E LX	MOTHER
+Corsair CSSD F120GBLS	Corsair^CSSD-F120GBLS	DRIVE
+Cooler Master  Nepton 140XL	Cooler Master^ Nepton 140XL	COOLER
 Intel Core 2 Extreme QX6850 OEM Tray	Intel^Core 2 Extreme QX6850 (OEM/Tray)	CPU
 Xion XON 560	Xion^XON-560	CASE
 Intel Pentium G6950	Intel^Pentium G6950	CPU
@@ -740,21 +831,24 @@ Intel Core i5 4690K	Intel^Core i5-4690K	CPU
 Intel SSDSC2BA800G401	Intel^SSDSC2BA800G401	DRIVE
 Asus M4A88TD M USB3	Asus^M4A88TD-M/USB3	MOTHER
 AMD A8 7650K	AMD^A8-7650K	CPU
+Zalman CNPS7000VAL 1 PWMB	Zalman^CNPS7000V(AL)-1-PWMB	COOLER
 Samsung MZ M5E1T0BW	Samsung^MZ-M5E1T0BW	DRIVE
 Gigabyte GA F2A55M S1	Gigabyte^GA-F2A55M-S1	MOTHER
-BitFenix Prodigy M Arctic White	BitFenix^Prodigy M Arctic White	CASE
 Rosewill HERCULES 1600	Rosewill^HERCULES-1600	PSU
 ASRock Fatal1ty H97 Killer	ASRock^Fatal1ty H97 Killer	MOTHER
+Phanteks PH TC90LS	Phanteks^PH-TC90LS	COOLER
 Enermax ENP500AWT	Enermax^ENP500AWT	PSU
 Silicon Power Xpower	Silicon^Power Xpower	MEMORY
 A Data XPG Gaming Series v2.0	A-Data^XPG Gaming Series v2.0	MEMORY
-Sapphire Radeon HD 7870 GHz Edition	Sapphire^Radeon HD 7870 GHz Edition	GPU
+Antec ISK 110 VESA	Antec^ISK 110 VESA	CASE
 Gigabyte GeForce GTX 650 Ti	Gigabyte^GeForce GTX 650 Ti	GPU
 Asus F2A85 V PRO	Asus^F2A85-V PRO	MOTHER
 A Data ASP900S3 512GM C	A-Data^ASP900S3-512GM-C	DRIVE
 Kingston SM2280S3 120G	Kingston^SM2280S3/120G	DRIVE
 AMD Phenom II X4 820 OEM Tray	AMD^Phenom II X4 820 (OEM/Tray)	CPU
 MSI Z97 U3 Plus	MSI^Z97 U3 Plus	MOTHER
+Crucial Ballistix	Crucial^Ballistix	MEMORY
+Sandisk SD6SB1M 128G 1022i	Sandisk^SD6SB1M-128G-1022i	DRIVE
 Asus M5A97 LE R2.0 BOM	Asus^M5A97 LE R2.0 BOM	MOTHER
 Intel SSDSC2CW240A3K5	Intel^SSDSC2CW240A3K5	DRIVE
 NZXT Phantom	NZXT^Phantom	CASE
@@ -764,20 +858,22 @@ Intel Xeon E3 1245 V3	Intel^Xeon E3-1245 V3	CPU
 Corsair CS450M	Corsair^CS450M	PSU
 Cooler Master Elite 311 Blue	Cooler Master^Elite 311 (Blue)	CASE
 Diablotek PSDA500	Diablotek^PSDA500	PSU
+LEPA AquaChanger 120	LEPA^AquaChanger 120	COOLER
 Gigabyte GA X99 UD5 WIFI	Gigabyte^GA-X99-UD5 WIFI	MOTHER
+Zalman ZM CNPS14X	Zalman^ZM-CNPS14X	COOLER
 AMD Phenom II X4 955 Black	AMD^Phenom II X4 955 Black	CPU
-MSI Radeon HD 7770	MSI^Radeon HD 7770	GPU
+Deepcool LUCIFER K2	Deepcool^LUCIFER K2	COOLER
 PNY SSD7CS2111 240 RB	PNY^SSD7CS2111-240-RB	DRIVE
 Rosewill LIGHTNING 1300	Rosewill^LIGHTNING-1300	PSU
 Hitachi 0J11563	Hitachi^0J11563	DRIVE
 Asus M5A97 PLUS	Asus^M5A97 PLUS	MOTHER
-PowerColor Radeon R9 390	PowerColor^Radeon R9 390	GPU
+Cooler Master Storm Scout 2	Cooler Master^Storm Scout 2	CASE
 Western Digital WD20EARX	Western Digital^WD20EARX	DRIVE
 Gigabyte GA F2A78M D3H	Gigabyte^GA-F2A78M-D3H	MOTHER
+Cooler Master  RR LEE L911 GP	Cooler Master^ RR-LEE-L911-GP	COOLER
 NZXT Source 210 Window	NZXT^Source 210 Window	CASE
 NZXT Phantom 240	NZXT^Phantom 240	CASE
-Patriot Gamer Series	Patriot^Gamer Series	MEMORY
-Gigabyte GeForce GTX 670	Gigabyte^GeForce GTX 670	GPU
+Gigabyte GA F2A58M HD2	Gigabyte^GA-F2A58M-HD2	MOTHER
 AMD Athlon II X4 645	AMD^Athlon II X4 645	CPU
 Asus MAXIMUS VII RANGER	Asus^MAXIMUS VII RANGER	MOTHER
 AMD Athlon II X4 640	AMD^Athlon II X4 640	CPU
@@ -787,13 +883,13 @@ MSI FM2 A55M E33	MSI^FM2-A55M-E33	MOTHER
 Intel Core i5 4590S	Intel^Core i5-4590S	CPU
 Gigabyte GA H87 HD3	Gigabyte^GA-H87-HD3	MOTHER
 ASRock Z68 Pro3 M	ASRock^Z68 Pro3-M	MOTHER
-MSI Z87M GAMING	MSI^Z87M GAMING	MOTHER
+AMD A4 3450 OEM Tray	AMD^A4-3450 (OEM/Tray)	CPU
 Intel Core i7 860 OEM Tray	Intel^Core i7-860 (OEM/Tray)	CPU
 MSI Z170 Krait Gaming	MSI^Z170 Krait Gaming	MOTHER
 AMD Athlon II X4 600e	AMD^Athlon II X4 600e	CPU
 Seagate ST1000NX0313	Seagate^ST1000NX0313	DRIVE
-Sandisk SD8SBAT 128G 1122	Sandisk^SD8SBAT-128G-1122	DRIVE
-MSI Radeon HD 7970	MSI^Radeon HD 7970	GPU
+Thermaltake Water 3.0 Performer	Thermaltake^Water 3.0 Performer	COOLER
+Team T253L5240GMC101	Team^T253L5240GMC101	DRIVE
 Azza Genesis 9000 White	Azza^Genesis 9000 (White)	CASE
 ASRock B85M Pro4	ASRock^B85M Pro4	MOTHER
 SeaSonic SS 760XP	SeaSonic^SS-760XP	PSU
@@ -829,9 +925,12 @@ Corsair Dominator Platinum	Corsair^Dominator Platinum	MEMORY
 SeaSonic SS 850AM	SeaSonic^SS-850AM	PSU
 AMD A4 6300 OEM Tray	AMD^A4-6300 (OEM/Tray)	CPU
 Corsair AX1200	Corsair^AX1200	PSU
+Masscool 8W553B1M3	Masscool^8W553B1M3	COOLER
+Zalman CNPS8900 Quiet	Zalman^CNPS8900 Quiet	COOLER
 PowerColor Radeon R9 280X	PowerColor^Radeon R9 280X	GPU
 SeaSonic SS 750KM3	SeaSonic^SS-750KM3	PSU
-Kingston SV300S3D7 120G	Kingston^SV300S3D7/120G	DRIVE
+Intel Celeron G1610	Intel^Celeron G1610	CPU
+Galaxy GeForce GTX 760	Galaxy^GeForce GTX 760	GPU
 MSI B85M GAMING	MSI^B85M GAMING	MOTHER
 Asus Rampage IV Formula	Asus^Rampage IV Formula	MOTHER
 MSI Z87 MPOWER SP	MSI^Z87 MPOWER SP	MOTHER
@@ -853,14 +952,15 @@ Intel SSDSC2BW240H6R5	Intel^SSDSC2BW240H6R5	DRIVE
 Intel SSDSC2BW240A4K5	Intel^SSDSC2BW240A4K5	DRIVE
 Intel Core 2 Quad Q6600	Intel^Core 2 Quad Q6600	CPU
 Corsair TX650 V2	Corsair^TX650 V2	PSU
-Transcend TS128GMTS800	Transcend^TS128GMTS800	DRIVE
-G.Skill NS	G.Skill^NS	MEMORY
+Arctic Cooling  Alpine M1   Passive	Arctic Cooling^ Alpine M1 - Passive	COOLER
+Silicon Power S60 3K P E	Silicon^Power S60 3K P/E	DRIVE
 Biostar H77MU3	Biostar^H77MU3	MOTHER
 AMD Phenom II X4 955 OEM Tray	AMD^Phenom II X4 955 (OEM/Tray)	CPU
 Gigabyte GA P55A UD3	Gigabyte^GA-P55A-UD3	MOTHER
 Raidmax RX 600AF	Raidmax^RX-600AF	PSU
 Corsair Vengeance LP	Corsair^Vengeance LP	MEMORY
 Intel Core 2 Quad Q9550	Intel^Core 2 Quad Q9550	CPU
+PNY GeForce GTX 780	PNY^GeForce GTX 780	GPU
 Thermaltake TPX 1475M	Thermaltake^TPX-1475M	PSU
 G.Skill Ripjaws V Series	G.Skill^Ripjaws V Series	MEMORY
 Asus Maximus V Extreme	Asus^Maximus V Extreme	MOTHER
@@ -872,7 +972,7 @@ Corsair Obsidian Series 800D	Corsair^Obsidian Series 800D	CASE
 Sentey ERP 700 SS	Sentey^ERP-700-SS	PSU
 Gigabyte GA 990FXA UD7	Gigabyte^GA-990FXA-UD7	MOTHER
 Raidmax Viper GX	Raidmax^Viper GX	CASE
-Apoto Apotop	Apoto^Apotop	MEMORY
+Prolimatech Megahalems Rev.B	Prolimatech^Megahalems Rev.B	COOLER
 Gigabyte GA 990FXA UD3	Gigabyte^GA-990FXA-UD3	MOTHER
 Intel Core i5 750S OEM Tray	Intel^Core i5-750S (OEM/Tray)	CPU
 Intel Xeon E3 1275 V3	Intel^Xeon E3-1275 V3	CPU
@@ -881,9 +981,13 @@ Western Digital WD10JPVT	Western Digital^WD10JPVT	DRIVE
 Gigabyte Radeon HD 7970 GHz Edition	Gigabyte^Radeon HD 7970 GHz Edition	GPU
 AMD FX 6120 OEM Tray	AMD^FX-6120 (OEM/Tray)	CPU
 OCZ ZD4CM84 HH 600G	OCZ^ZD4CM84-HH-600G	DRIVE
+Thermaltake CL P0187	Thermaltake^CL-P0187	COOLER
 Fractal Design Define R4 Blackout	Fractal Design^Define R4 Blackout	CASE
 MSI Z97 GAMING 5	MSI^Z97-GAMING 5	MOTHER
 MSI Z97 GAMING 7	MSI^Z97-GAMING 7	MOTHER
+Intel BXTS15A	Intel^BXTS15A	COOLER
+Samsung MZ 7PC128B WW	Samsung^MZ-7PC128B/WW	DRIVE
+EVGA GeForce GT 740	EVGA^GeForce GT 740	GPU
 Intel Xeon E5 2620 OEM Tray	Intel^Xeon E5-2620 (OEM/Tray)	CPU
 Crucial CT1024M550SSD1	Crucial^CT1024M550SSD1	DRIVE
 Seagate ST2000NX0253	Seagate^ST2000NX0253	DRIVE
@@ -892,10 +996,10 @@ BitFenix Prodigy Green	BitFenix^Prodigy (Green)	CASE
 AMD A6 5400K	AMD^A6-5400K	CPU
 Intel Core 2 Extreme QX9770 OEM Tray	Intel^Core 2 Extreme QX9770 (OEM/Tray)	CPU
 Corsair CS850M	Corsair^CS850M	PSU
+Asus Radeon R9 270	Asus^Radeon R9 270	GPU
 Asus M4A78LT M	Asus^M4A78LT-M	MOTHER
 Toshiba PH2100U 1I54	Toshiba^PH2100U-1I54	DRIVE
 Intel Core i7 4820K	Intel^Core i7-4820K	CPU
-Samsung 840 EVO	Samsung^840 EVO	DRIVE
 Biostar TH67B	Biostar^TH67B	MOTHER
 MSI ZH77A G43	MSI^ZH77A-G43	MOTHER
 G.Skill Sniper	G.Skill^Sniper	MEMORY
@@ -906,37 +1010,38 @@ Gigabyte GA Z77MX D3H	Gigabyte^GA-Z77MX-D3H	MOTHER
 BitFenix Comrade	BitFenix^Comrade	CASE
 OCZ OCZ ZT550W	OCZ^OCZ-ZT550W	PSU
 Gigabyte GA B85M D2V	Gigabyte^GA-B85M-D2V	MOTHER
-XFX Radeon R9 280	XFX^Radeon R9 280	GPU
+LEPA LPALV12 BK	LEPA^LPALV12-BK	COOLER
 AMD FX 8310	AMD^FX-8310	CPU
-XFX Radeon R9 285	XFX^Radeon R9 285	GPU
+Samsung MZ M5E500BW	Samsung^MZ-M5E500BW	DRIVE
+Corsair CSSD F240GBLSB	Corsair^CSSD-F240GBLSB	DRIVE
 Cooler Master RS 400 PSAR J3	Cooler Master^RS-400-PSAR-J3	PSU
 Western Digital WD5000LPVX	Western Digital^WD5000LPVX	DRIVE
 Asus B85 PLUS	Asus^B85-PLUS	MOTHER
 Thermaltake TPX 1375M	Thermaltake^TPX-1375M	PSU
-Raidmax RX 700AC B	Raidmax^RX-700AC-B	PSU
+Intel Core i5 6500 OEM Tray	Intel^Core i5-6500 (OEM/Tray)	CPU
 Intel SSDPEDMW012T401	Intel^SSDPEDMW012T401	DRIVE
 GeIL EVO Veloce Series	GeIL^EVO Veloce Series	MEMORY
-Thermaltake Level 10 GT Snow Edition	Thermaltake^Level 10 GT Snow Edition	CASE
 Asus X99 E WS	Asus^X99-E WS	MOTHER
-Thermaltake Core V1	Thermaltake^Core V1	CASE
+AMD A10 7850K	AMD^A10-7850K	CPU
 Intel Core i5 2380P	Intel^Core i5-2380P	CPU
 Samsung MZ 75E120B AM	Samsung^MZ-75E120B/AM	DRIVE
 Rosewill FORTRESS 650	Rosewill^FORTRESS-650	PSU
 MSI A55M P33	MSI^A55M-P33	MOTHER
 Hitachi 7K2000	Hitachi^7K2000	DRIVE
 Intel Core i5 650	Intel^Core i5-650	CPU
-Corsair CSSD N480GBXTB	Corsair^CSSD-N480GBXTB	DRIVE
+PowerColor Radeon HD 7770 GHz Edition	PowerColor^Radeon HD 7770 GHz Edition	GPU
 Fractal Design Define R4 Black Pearl	Fractal Design^Define R4 (Black Pearl)	CASE
 MSI B150 Gaming M3	MSI^B150 Gaming M3	MOTHER
 Fractal Design Define R5 Blackout Edition w  Window	Fractal Design^Define R5 Blackout Edition w/ Window	CASE
 Crucial CT256M4SSD2	Crucial^CT256M4SSD2	DRIVE
 EVGA GeForce GTX 560 Ti	EVGA^GeForce GTX 560 Ti	GPU
 Intel Xeon E5 2603 V2 OEM Tray	Intel^Xeon E5-2603 V2 (OEM/Tray)	CPU
-Western Digital WD5001FZWX	Western Digital^WD5001FZWX	DRIVE
 Intel Core i5 2320	Intel^Core i5-2320	CPU
-Inwin BQS656.DD120BL	Inwin^BQS656.DD120BL	CASE
+Phanteks PH TC14PE_BL	Phanteks^PH-TC14PE_BL	COOLER
+Gigabyte GA Z170 HD3	Gigabyte^GA-Z170-HD3	MOTHER
 Samsung MZ 7KE2T0BW	Samsung^MZ-7KE2T0BW	DRIVE
 Asus Maximus VI Gene	Asus^Maximus VI Gene	MOTHER
+Samsung MZ 7KE128BW	Samsung^MZ-7KE128BW	DRIVE
 LEPA B850 MA	LEPA^B850-MA	PSU
 Fractal Design Define R4 w Window Black Pearl	Fractal Design^Define R4 w/Window (Black Pearl)	CASE
 Sandisk SDSSDHII 240G G25	Sandisk^SDSSDHII-240G-G25	DRIVE
@@ -944,6 +1049,7 @@ Raidmax Cobra Z	Raidmax^Cobra Z	CASE
 Crucial CT250BX100SSD1	Crucial^CT250BX100SSD1	DRIVE
 Sapphire Radeon R9 295X2	Sapphire^Radeon R9 295X2	GPU
 Seagate ST2000NM0024	Seagate^ST2000NM0024	DRIVE
+ID COOLING IS VC45	ID-COOLING^IS-VC45	COOLER
 Intel Core i7 6700T OEM Tray	Intel^Core i7-6700T (OEM/Tray)	CPU
 Intel DZ77BH55K	Intel^DZ77BH55K	MOTHER
 XFX P1 850B BEFX	XFX^P1-850B-BEFX	PSU
@@ -953,16 +1059,19 @@ A Data ASP900S3 256GM C	A-Data^ASP900S3-256GM-C	DRIVE
 Samsung MZ 7TD500BW	Samsung^MZ-7TD500BW	DRIVE
 Corsair 550D	Corsair^550D	CASE
 ASRock Z170M ITX ac	ASRock^Z170M-ITX/ac	MOTHER
+Noctua NH D9DX i4 3U	Noctua^NH-D9DX i4 3U	COOLER
 Antec EA 430D Green	Antec^EA-430D Green	PSU
 Silverstone FT03S MINI	Silverstone^FT03S-MINI	CASE
 AMD Athlon X4 760K	AMD^Athlon X4 760K	CPU
 MyDigitalSSD MDM242 SBe 064	MyDigitalSSD^MDM242-SBe-064	DRIVE
 Cooler Master RSC00 80GAD3 US	Cooler Master^RSC00-80GAD3-US	PSU
+Gigabyte Radeon HD 6850	Gigabyte^Radeon HD 6850	GPU
 OCZ OCZ ZX1000W	OCZ^OCZ-ZX1000W	PSU
 EVGA GeForce GTX 780	EVGA^GeForce GTX 780	GPU
 AMD A6 7400K OEM Tray	AMD^A6-7400K (OEM/Tray)	CPU
+A Data Gaming Series	A-Data^Gaming Series	MEMORY
 ASRock FM2A88M EXTREME4+	ASRock^FM2A88M EXTREME4+	MOTHER
-PNY SSD7SC240GOPT RB	PNY^SSD7SC240GOPT-RB	DRIVE
+Scythe BIG Shuriken 2 Rev. B	Scythe^BIG Shuriken 2 Rev. B	COOLER
 Thermaltake Commander MS I Epic Edition Black Red	Thermaltake^Commander MS-I Epic Edition (Black/Red)	CASE
 Gigabyte GA F2A88X UP4	Gigabyte^GA-F2A88X-UP4	MOTHER
 Fractal Design Core 500	Fractal Design^Core 500	CASE
@@ -970,19 +1079,24 @@ Cooler Master RSA00 AFBAG1 US	Cooler Master^RSA00-AFBAG1-US	PSU
 Kingston SKC300S37A 120G	Kingston^SKC300S37A/120G	DRIVE
 Intel Core 2 Duo E8500	Intel^Core 2 Duo E8500	CPU
 MSI 870 G45	MSI^870-G45	MOTHER
+XFX Radeon HD 6950	XFX^Radeon HD 6950	GPU
+Zalman LQ 320	Zalman^LQ-320	COOLER
 AMD 5350	AMD^5350	CPU
-Western Digital WD4000FYYZ	Western Digital^WD4000FYYZ	DRIVE
+Kingston SHPM2280P2H 480G	Kingston^SHPM2280P2H/480G	DRIVE
 EVGA GeForce GTX 650	EVGA^GeForce GTX 650	GPU
+be quiet!  Dark Rock Pro 3	be quiet!^ Dark Rock Pro 3	COOLER
 Asus Sabertooth 990FX R2.0	Asus^Sabertooth 990FX R2.0	MOTHER
+Gigabyte Radeon HD 7770 GHz Edition	Gigabyte^Radeon HD 7770 GHz Edition	GPU
 Intel Pentium G3440	Intel^Pentium G3440	CPU
 XFX P1 550B BEFX	XFX^P1-550B-BEFX	PSU
 Ultra Rogue M925	Ultra^Rogue M925	CASE
 XFX Radeon R7 260X	XFX^Radeon R7 260X	GPU
 AMD A10 7700K	AMD^A10-7700K	CPU
-SeaSonic SS 750KM	SeaSonic^SS-750KM	PSU
+Fractal Design Define R5 Black	Fractal Design^Define R5 (Black)	CASE
 NZXT HALE90 V2 1000W	NZXT^HALE90 V2 1000W	PSU
 Corsair SPEC 02	Corsair^SPEC-02	CASE
 PowerColor Radeon R9 280	PowerColor^Radeon R9 280	GPU
+SilenX EFZ 80HA3	SilenX^EFZ-80HA3	COOLER
 Intel Core i5 4440S	Intel^Core i5-4440S	CPU
 Thermaltake TR 600	Thermaltake^TR-600	PSU
 Silverstone SG08B	Silverstone^SG08B	CASE
@@ -1001,6 +1115,7 @@ Samsung MZ 7TE120KW	Samsung^MZ-7TE120KW	DRIVE
 Zalman ZM T4	Zalman^ZM-T4	CASE
 Asus A78M E	Asus^A78M-E	MOTHER
 Western Digital WDBSLA0040HNC NRSN	Western Digital^WDBSLA0040HNC-NRSN	DRIVE
+Crucial Ballistix Smart Tracer	Crucial^Ballistix Smart Tracer	MEMORY
 Intel Core 2 Duo E4600 OEM Tray	Intel^Core 2 Duo E4600 (OEM/Tray)	CPU
 Rosewill RISE	Rosewill^RISE	CASE
 Gigabyte GA B75M D3V	Gigabyte^GA-B75M-D3V	MOTHER
@@ -1019,22 +1134,26 @@ BitFenix Prodigy Red	BitFenix^Prodigy (Red)	CASE
 SeaSonic SS 460FL Active PFC F3	SeaSonic^SS-460FL Active PFC F3	PSU
 NZXT H440 Orange Black	NZXT^H440 (Orange/Black)	CASE
 MSI Radeon R7 260	MSI^Radeon R7 260	GPU
-PowerColor Radeon R9 380	PowerColor^Radeon R9 380	GPU
+MSI Radeon R7 265	MSI^Radeon R7 265	GPU
 MSI H97 GAMING 3	MSI^H97 GAMING 3	MOTHER
 Thermaltake TPG 700M	Thermaltake^TPG-700M	PSU
+Kingston SV300S3D7 120G	Kingston^SV300S3D7/120G	DRIVE
+PNY GeForce GTX 650 Ti	PNY^GeForce GTX 650 Ti	GPU
 Samsung ST500LM012	Samsung^ST500LM012	DRIVE
 Gigabyte GA H97 D3H	Gigabyte^GA-H97-D3H	MOTHER
 AMD Athlon II X4 651	AMD^Athlon II X4 651	CPU
+Arctic Cooling  ACALP64 GT	Arctic Cooling^ ACALP64-GT	COOLER
 Mushkin MKNSSDCR480GB 7 A	Mushkin^MKNSSDCR480GB-7-A	DRIVE
 Intel SSDSC2CW240A310	Intel^SSDSC2CW240A310	DRIVE
 Cooler Master RS550 PCARN1 US	Cooler Master^RS550-PCARN1-US	PSU
 AMD Entertainment Edition	AMD^Entertainment Edition	MEMORY
+Apoto Apotop	Apoto^Apotop	MEMORY
 Seagate ST310005N1A1AS RK	Seagate^ST310005N1A1AS-RK	DRIVE
 Corsair CX500	Corsair^CX500	PSU
-Asus Radeon R9 270	Asus^Radeon R9 270	GPU
+Rosewill BlackHawk	Rosewill^BlackHawk	CASE
 OCZ VTX4 25SAT3 128G	OCZ^VTX4-25SAT3-128G	DRIVE
 Asus P8Z68 V PRO GEN3	Asus^P8Z68-V PRO/GEN3	MOTHER
-Antec EA 550	Antec^EA-550	PSU
+AMD FX 6200	AMD^FX-6200	CPU
 Mushkin MKNSSDCR120GB	Mushkin^MKNSSDCR120GB	DRIVE
 Intel Core i7 6700	Intel^Core i7-6700	CPU
 SeaSonic SS 350ET Bronze	SeaSonic^SS-350ET Bronze	PSU
@@ -1046,6 +1165,7 @@ Intel Pentium G550	Intel^Pentium G550	CPU
 Thermaltake TPX 1275M	Thermaltake^TPX-1275M	PSU
 Phanteks Enthoo Primo White	Phanteks^Enthoo Primo White	CASE
 ASRock H97M PRO4	ASRock^H97M PRO4	MOTHER
+Prolimatech PRO SAM17	Prolimatech^PRO-SAM17	COOLER
 Raidmax Seiran Black	Raidmax^Seiran (Black)	CASE
 MSI Z97I Gaming AC	MSI^Z97I Gaming AC	MOTHER
 Intel SSDSC2BF480H501	Intel^SSDSC2BF480H501	DRIVE
@@ -1053,7 +1173,7 @@ Intel Celeron G470	Intel^Celeron G470	CPU
 Biostar Hi Fi A85W	Biostar^Hi-Fi A85W	MOTHER
 Sandisk SDSSDHP 128G G25	Sandisk^SDSSDHP-128G-G25	DRIVE
 Western Digital WD30EFRX	Western Digital^WD30EFRX	DRIVE
-Seagate ST31500341AS	Seagate^ST31500341AS	DRIVE
+be quiet!  Dark Rock 3	be quiet!^ Dark Rock 3	COOLER
 Sapphire Radeon R7 260X	Sapphire^Radeon R7 260X	GPU
 Kingston HyperX Grey	Kingston^HyperX Grey	MEMORY
 ASRock FM2A85X ITX	ASRock^FM2A85X-ITX	MOTHER
@@ -1067,15 +1187,17 @@ Hitachi 0J38065	Hitachi^0J38065	DRIVE
 Thermaltake Urban T31 Window	Thermaltake^Urban T31 Window	CASE
 MSI Z87 GD65 Gaming	MSI^Z87-GD65 Gaming	MOTHER
 Asus AM1M A	Asus^AM1M-A	MOTHER
-Galaxy GeForce GTX 660	Galaxy^GeForce GTX 660	GPU
+Thermalright SILVER ARROW IB E	Thermalright^SILVER ARROW IB-E	COOLER
+EVGA GeForce GTX 560	EVGA^GeForce GTX 560	GPU
 Intel Core i3 3220	Intel^Core i3-3220	CPU
 Rosewill RX750 S B	Rosewill^RX750-S-B	PSU
 Seagate STBD4000400	Seagate^STBD4000400	DRIVE
 Intel Core i3 3225	Intel^Core i3-3225	CPU
 MSI Z170I GAMING PRO AC	MSI^Z170I GAMING PRO AC	MOTHER
 Gigabyte GeForce GTX 560 Ti	Gigabyte^GeForce GTX 560 Ti	GPU
-NZXT S340 White	NZXT^S340 (White)	CASE
+Crucial CT250MX200SSD4	Crucial^CT250MX200SSD4	DRIVE
 Gigabyte GA F2A85XN WIFI	Gigabyte^GA-F2A85XN-WIFI	MOTHER
+HIS Radeon R7 260X	HIS^Radeon R7 260X	GPU
 ASRock Z77 Performance	ASRock^Z77 Performance	MOTHER
 AMD FX 8310 OEM Tray	AMD^FX-8310 (OEM/Tray)	CPU
 ASRock G43Twins FullHD	ASRock^G43Twins-FullHD	MOTHER
@@ -1093,16 +1215,17 @@ Intel Core 2 Duo E7500 OEM Tray	Intel^Core 2 Duo E7500 (OEM/Tray)	CPU
 Intel Pentium G4500	Intel^Pentium G4500	CPU
 Intel Xeon E5 2650	Intel^Xeon E5-2650	CPU
 Gigabyte GA B85M GAMING 3	Gigabyte^GA-B85M-GAMING 3	MOTHER
-Antec NEO ECO 620C	Antec^NEO ECO 620C	PSU
+Thermaltake CLP0587	Thermaltake^CLP0587	COOLER
+Cooler Master HAF X Blue	Cooler Master^HAF X Blue	CASE
 Raidmax RX 700GH	Raidmax^RX-700GH	PSU
 Asus Maximus V Gene	Asus^Maximus V Gene	MOTHER
 Fractal Design Arc Midi	Fractal Design^Arc Midi	CASE
-Avexir Core Series	Avexir^Core Series	MEMORY
+Corsair CSSD F512GBLX	Corsair^CSSD-F512GBLX	DRIVE
 AMD Phenom II X4 965 OEM Tray	AMD^Phenom II X4 965 (OEM/Tray)	CPU
 Intel Xeon E5 2687W V3	Intel^Xeon E5-2687W V3	CPU
-Sapphire Radeon HD 6670	Sapphire^Radeon HD 6670	GPU
+Intel Xeon E5 2687W V2	Intel^Xeon E5-2687W V2	CPU
 Western Digital WD5000AZLX	Western Digital^WD5000AZLX	DRIVE
-PNY GeForce GTX 650	PNY^GeForce GTX 650	GPU
+AMD A6 6420K	AMD^A6-6420K	CPU
 Enermax ECA3253 PW	Enermax^ECA3253-PW	CASE
 Intel Core i5 3330	Intel^Core i5-3330	CPU
 Intel Celeron G470 OEM Tray	Intel^Celeron G470 (OEM/Tray)	CPU
@@ -1122,18 +1245,20 @@ Asus P8Z77 V LE	Asus^P8Z77-V LE	MOTHER
 Gigabyte G1.Sniper Z87	Gigabyte^G1.Sniper Z87	MOTHER
 MSI GeForce GTX 560 Ti	MSI^GeForce GTX 560 Ti	GPU
 Corsair 300R	Corsair^300R	CASE
+Western Digital WD5002ABYS	Western Digital^WD5002ABYS	DRIVE
 Raidmax Hyperion	Raidmax^Hyperion	CASE
 Team Vulcan	Team^Vulcan	MEMORY
 NZXT H630 Black	NZXT^H630 (Black)	CASE
-Antec ISK 110 VESA	Antec^ISK 110 VESA	CASE
+Sapphire Radeon HD 7870 GHz Edition	Sapphire^Radeon HD 7870 GHz Edition	GPU
 Mini Box M350	Mini-Box^M350	CASE
 ASRock B85 Pro4	ASRock^B85 Pro4	MOTHER
 Gigabyte GA B85 HD3	Gigabyte^GA-B85-HD3	MOTHER
-Western Digital WD6000HLHX	Western Digital^WD6000HLHX	DRIVE
+Silverstone TD02 E	Silverstone^TD02-E	COOLER
 AMD Phenom II X4 965 Black	AMD^Phenom II X4 965 Black	CPU
 Asus Z170M PLUS	Asus^Z170M-PLUS	MOTHER
 Asus GeForce GTS 450	Asus^GeForce GTS 450	GPU
 Toshiba HDD3B04	Toshiba^HDD3B04	DRIVE
+RAIJINTEK THEMIS	RAIJINTEK^THEMIS	COOLER
 NZXT H630 White	NZXT^H630 (White)	CASE
 Asus M5A97 LE R2.0	Asus^M5A97 LE R2.0	MOTHER
 Antec EA 650 Green	Antec^EA-650 Green	PSU
@@ -1155,9 +1280,10 @@ Western Digital WD5003ABYX	Western Digital^WD5003ABYX	DRIVE
 Seagate STCL2000400	Seagate^STCL2000400	DRIVE
 Intel Pentium G3250T OEM Tray	Intel^Pentium G3250T (OEM/Tray)	CPU
 Fractal Design Define R4 Titanium Grey	Fractal Design^Define R4 (Titanium Grey)	CASE
-Western Digital WD2500AVVS	Western Digital^WD2500AVVS	DRIVE
+Logisys AC2200BT	Logisys^AC2200BT	COOLER
 Plextor PX 512M6Pro	Plextor^PX-512M6Pro	DRIVE
 Intel Xeon E5 2697 V3 OEM Tray	Intel^Xeon E5-2697 V3 (OEM/Tray)	CPU
+Zalman CNPS10X Performa	Zalman^CNPS10X Performa	COOLER
 XFX Radeon R9 290	XFX^Radeon R9 290	GPU
 Kingston SHPM2280P2H 240G	Kingston^SHPM2280P2H/240G	DRIVE
 Intel Xeon E5 2637 V3 OEM Tray	Intel^Xeon E5-2637 V3 (OEM/Tray)	CPU
@@ -1166,6 +1292,7 @@ Thermaltake Level 10 GTS Snow Edition	Thermaltake^Level 10 GTS Snow Edition	CASE
 Antec EA 750 Green	Antec^EA-750 Green	PSU
 EVGA Micro 2	EVGA^Micro 2	MOTHER
 Intel Pentium G2120	Intel^Pentium G2120	CPU
+Zalman CNPS9900ALED	Zalman^CNPS9900ALED	COOLER
 AMD FX 8120 OEM Tray	AMD^FX-8120 (OEM/Tray)	CPU
 Patriot PBT240GS25SSDBK	Patriot^PBT240GS25SSDBK	DRIVE
 Corsair CX430	Corsair^CX430	PSU
@@ -1179,60 +1306,67 @@ ASRock FM2A78M HD+	ASRock^FM2A78M-HD+	MOTHER
 PNY SSD7CS1111 120 RB	PNY^SSD7CS1111-120-RB	DRIVE
 NZXT Source 530	NZXT^Source 530	CASE
 Seagate ST500LM020	Seagate^ST500LM020	DRIVE
-Samsung MZ 7TD250BW	Samsung^MZ-7TD250BW	DRIVE
+Zotac GeForce GTX 970	Zotac^GeForce GTX 970	GPU
 XClio 320	XClio^320	CASE
-BitFenix Colossus Micro	BitFenix^Colossus Micro	CASE
+OCZ VTR180 25SAT3 960G	OCZ^VTR180-25SAT3-960G	DRIVE
 Fractal Design Integra R2 650W	Fractal Design^Integra R2 650W	PSU
 Cooler Master RSA00 SPPAD3 US	Cooler Master^RSA00-SPPAD3-US	PSU
 Intel Core 2 Duo E7400	Intel^Core 2 Duo E7400	CPU
-Intel Xeon E3 1271 V3	Intel^Xeon E3-1271 V3	CPU
-MSI A88X G45 GAMING	MSI^A88X-G45 GAMING	MOTHER
+Intel Core i5 2310	Intel^Core i5-2310	CPU
+Gelid Solutions ns SnowStorm	Gelid Solutions^ns SnowStorm	COOLER
 Intel Core i3 2100T	Intel^Core i3-2100T	CPU
 Gigabyte G1.SNIPER 5	Gigabyte^G1.SNIPER 5	MOTHER
 MSI A78M E35 V2	MSI^A78M-E35 V2	MOTHER
 Seagate ST1000DX001	Seagate^ST1000DX001	DRIVE
-Asus Radeon R7 260X	Asus^Radeon R7 260X	GPU
+Gigabyte G1.SNIPER Z5S	Gigabyte^G1.SNIPER Z5S	MOTHER
 OCZ ZD4RM84 HH 1.2T	OCZ^ZD4RM84-HH-1.2T	DRIVE
+Phanteks PH TC14CS_RD	Phanteks^PH-TC14CS_RD	COOLER
+Scythe SCKTN 4000	Scythe^SCKTN-4000	COOLER
 Intel Core i5 4430	Intel^Core i5-4430	CPU
 Seagate ST2000NM0033	Seagate^ST2000NM0033	DRIVE
 Samsung MZ 75E1T0B AM	Samsung^MZ-75E1T0B/AM	DRIVE
 AMD FX 8100 OEM Tray	AMD^FX-8100 (OEM/Tray)	CPU
-Fractal Design Define R4 Arctic White	Fractal Design^Define R4 (Arctic White)	CASE
+Intel Core 2 Extreme QX9775 OEM Tray	Intel^Core 2 Extreme QX9775 (OEM/Tray)	CPU
+Phanteks PH TC14PE_RD	Phanteks^PH-TC14PE_RD	COOLER
 AMD Athlon X2 370K	AMD^Athlon X2 370K	CPU
 Asus P8Z68 Deluxe	Asus^P8Z68 Deluxe	MOTHER
 Jetway JM26GT4 D3 LF	Jetway^JM26GT4-D3-LF	MOTHER
 Corsair 780T	Corsair^780T	CASE
 MSI H81M E35	MSI^H81M-E35	MOTHER
+Toshiba HDWE150XZSTA	Toshiba^HDWE150XZSTA	DRIVE
 Kingston HyperX T1	Kingston^HyperX T1	MEMORY
 MSI H81M E33	MSI^H81M-E33	MOTHER
 Asus X99 DELUXE U3.1	Asus^X99-DELUXE/U3.1	MOTHER
 Cooler Master Storm Stryker White	Cooler Master^Storm Stryker (White)	CASE
-Asus P8Z77 V	Asus^P8Z77-V	MOTHER
+Asus Z97 DELUXE	Asus^Z97-DELUXE	MOTHER
 Gigabyte GA Z87 HD3	Gigabyte^GA-Z87-HD3	MOTHER
 Asus Z87 Plus	Asus^Z87-Plus	MOTHER
-Seagate ST6000VX0011	Seagate^ST6000VX0011	DRIVE
+Gigabyte GA P67A UD5 B3	Gigabyte^GA-P67A-UD5-B3	MOTHER
 NZXT Source 220	NZXT^Source 220	CASE
 AMD FX 8320	AMD^FX-8320	CPU
 ASRock 970 EXTREME4	ASRock^970 EXTREME4	MOTHER
 Gigabyte GA Z87X UD4H	Gigabyte^GA-Z87X-UD4H	MOTHER
-Intel Core i5 6600 OEM Tray	Intel^Core i5-6600 (OEM/Tray)	CPU
+AMD A8 7600	AMD^A8-7600	CPU
 Corsair Air 540 Silver	Corsair^Air 540 Silver	CASE
+LEPA EXllusion 240	LEPA^EXllusion 240	COOLER
 Corsair VS450	Corsair^VS450	PSU
 XFX P1 650G TS3X	XFX^P1-650G-TS3X	PSU
 Intel Xeon E5 2609 V3	Intel^Xeon E5-2609 V3	CPU
 Intel Xeon E5 2609 V2	Intel^Xeon E5-2609 V2	CPU
 MSI X99S SLI Plus	MSI^X99S SLI Plus	MOTHER
 Enermax ETL650AWT	Enermax^ETL650AWT	PSU
+MSI Radeon HD 7770	MSI^Radeon HD 7770	GPU
 MSI Z97S SLI Krait Edition	MSI^Z97S SLI Krait Edition	MOTHER
-OCZ RVD350 FHPX28 960G	OCZ^RVD350-FHPX28-960G	DRIVE
+Thermalright TRUE Spirit 120MBW Rev.A	Thermalright^TRUE Spirit 120M(BW) Rev.A	COOLER
 Western Digital WD1003FBYZ	Western Digital^WD1003FBYZ	DRIVE
-EVGA GeForce GTX 560 Ti 448	EVGA^GeForce GTX 560 Ti 448	GPU
+Intel Xeon E5 2603 V3	Intel^Xeon E5-2603 V3	CPU
 Intel Xeon E5 2603 V2	Intel^Xeon E5-2603 V2	CPU
+Cooler Master  Hyper T2	Cooler Master^ Hyper T2	COOLER
 Silverstone FT02B W	Silverstone^FT02B-W	CASE
 Cooler Master Cosmos II Black	Cooler Master^Cosmos II (Black)	CASE
 Antec EA 500 Green	Antec^EA-500 Green	PSU
 Asus GeForce GTX 980	Asus^GeForce GTX 980	GPU
-AMD A4 3450 OEM Tray	AMD^A4-3450 (OEM/Tray)	CPU
+Fractal Design Node 304	Fractal Design^Node 304	CASE
 ASRock Z87 Extreme3	ASRock^Z87 Extreme3	MOTHER
 MSI A88XI AC	MSI^A88XI AC	MOTHER
 Intel Pentium G3450	Intel^Pentium G3450	CPU
@@ -1241,17 +1375,19 @@ Thermaltake TP 1000M	Thermaltake^TP-1000M	PSU
 Antec HCG 520M	Antec^HCG-520M	PSU
 Intel Core 2 Extreme X6800 OEM Tray	Intel^Core 2 Extreme X6800 (OEM/Tray)	CPU
 MSI P55 GD65 USB3	MSI^P55-GD65 USB3	MOTHER
-Western Digital WD20PURX	Western Digital^WD20PURX	DRIVE
-GeIL Enhance CORSA	GeIL^Enhance CORSA	MEMORY
+Intel Celeron G1630	Intel^Celeron G1630	CPU
+Seagate ST240FP0021	Seagate^ST240FP0021	DRIVE
 Western Digital WD20EARS	Western Digital^WD20EARS	DRIVE
-Intel Core 2 Duo E8400	Intel^Core 2 Duo E8400	CPU
-NZXT Source 210 Elite Black	NZXT^Source 210 Elite (Black)	CASE
+Corsair 250D	Corsair^250D	CASE
+Corsair H55	Corsair^H55	COOLER
+Antec KUHLER H2O 650	Antec^KUHLER H2O 650	COOLER
+Asus SABERTOOTH Z97 MARK S	Asus^SABERTOOTH Z97 MARK S	MOTHER
 Intel Core 2 Quad Q9450 OEM Tray	Intel^Core 2 Quad Q9450 (OEM/Tray)	CPU
 MSI 890FXA GD65	MSI^890FXA-GD65	MOTHER
 Biostar A55MD2	Biostar^A55MD2	MOTHER
 Asus Z87 A NFC Express Edition	Asus^Z87-A (NFC Express Edition)	MOTHER
-GeIL Evo Two	GeIL^Evo Two	MEMORY
-Apevia X Jupiter Jr G Type Black	Apevia^X-Jupiter-Jr G-Type Black	CASE
+Seagate ST31000520AS	Seagate^ST31000520AS	DRIVE
+Scythe SCMG 3100	Scythe^SCMG-3100	COOLER
 ASRock B75M ITX	ASRock^B75M-ITX	MOTHER
 Gigabyte GA Z170X UD3	Gigabyte^GA-Z170X-UD3	MOTHER
 Intel Celeron 430 OEM Tray	Intel^Celeron 430 (OEM/Tray)	CPU
@@ -1259,13 +1395,12 @@ Intel Core i7 4790K OEM Tray	Intel^Core i7-4790K (OEM/Tray)	CPU
 CoolMax ZU 500B	CoolMax^ZU-500B	PSU
 Diablotek PSUL675	Diablotek^PSUL675	PSU
 MSI 970A SLI Krait Edition	MSI^970A SLI Krait Edition	MOTHER
-Gigabyte Radeon R9 280X	Gigabyte^Radeon R9 280X	GPU
+Asus Z97 P	Asus^Z97-P	MOTHER
 Intel Core i7 4770	Intel^Core i7-4770	CPU
 Intel Core i7 4771	Intel^Core i7-4771	CPU
 Intel Pentium G630	Intel^Pentium G630	CPU
 Intel Core 2 Quad Q6600 OEM Tray	Intel^Core 2 Quad Q6600 (OEM/Tray)	CPU
-Asus GeForce GTX 670	Asus^GeForce GTX 670	GPU
-Asus M4A87TD USB3	Asus^M4A87TD/USB3	MOTHER
+Intel Core i3 3240	Intel^Core i3-3240	CPU
 Western Digital WD200MFYYZ	Western Digital^WD200MFYYZ	DRIVE
 Topower ZU 750W	Topower^ZU-750W	PSU
 Asus Z97 A	Asus^Z97-A	MOTHER
@@ -1274,6 +1409,7 @@ Samsung MZ 7TE500LW	Samsung^MZ-7TE500LW	DRIVE
 Corsair HX1000i	Corsair^HX1000i	PSU
 Zalman Z9	Zalman^Z9	CASE
 Mushkin MKNP22SC480GB	Mushkin^MKNP22SC480GB	DRIVE
+PowerColor Radeon R9 390	PowerColor^Radeon R9 390	GPU
 Seagate ST4000VN0001	Seagate^ST4000VN0001	DRIVE
 EVGA GeForce GTX 570	EVGA^GeForce GTX 570	GPU
 Intel Core 2 Quad Q8200 OEM Tray	Intel^Core 2 Quad Q8200 (OEM/Tray)	CPU
@@ -1288,115 +1424,125 @@ Intel Xeon E3 1231 V3	Intel^Xeon E3-1231 V3	CPU
 Intel DH67CLB3	Intel^DH67CLB3	MOTHER
 Samsung MZ 7TE500BW	Samsung^MZ-7TE500BW	DRIVE
 AMD FX 4170 OEM Tray	AMD^FX-4170 (OEM/Tray)	CPU
+G.Skill FM 25S3 240GPF	G.Skill^FM-25S3-240GPF	DRIVE
 Asus Z97 PRO	Asus^Z97-PRO	MOTHER
 Silverstone ML07B	Silverstone^ML07B	CASE
 Western Digital WD5000HHTZ	Western Digital^WD5000HHTZ	DRIVE
 Corsair G700	Corsair^G700	PSU
 Intel Core i5 6600K	Intel^Core i5-6600K	CPU
+Evercool HPFI 10025	Evercool^HPFI-10025	COOLER
+Corsair H80i	Corsair^H80i	COOLER
 Hitachi E7K1000	Hitachi^E7K1000	DRIVE
+RAIJINTEK Pallas Black	RAIJINTEK^Pallas Black	COOLER
 Thermaltake Commander G42	Thermaltake^Commander G42	CASE
 Rosewill Line M	Rosewill^Line-M	CASE
 Thermaltake Commander G41	Thermaltake^Commander G41	CASE
+Corsair H110	Corsair^H110	COOLER
 Intel Core i5 2550K	Intel^Core i5-2550K	CPU
 NZXT Phantom White Red	NZXT^Phantom (White/Red)	CASE
-Corsair XMS3	Corsair^XMS3	MEMORY
 Western Digital WD2500BEKT	Western Digital^WD2500BEKT	DRIVE
 Intel Core i5 6600T	Intel^Core i5-6600T	CPU
 Enermax OSTROG	Enermax^OSTROG	CASE
-Seagate ST3500312CS	Seagate^ST3500312CS	DRIVE
-Gigabyte GA F2A58M HD2	Gigabyte^GA-F2A58M-HD2	MOTHER
-Corsair CSSD F60GBLSB	Corsair^CSSD-F60GBLSB	DRIVE
+Transcend TS128GMTS800	Transcend^TS128GMTS800	DRIVE
+Titan TTC NC85TZRB	Titan^TTC-NC85TZ(RB)	COOLER
 NZXT Phantom 820 Grey	NZXT^Phantom 820 (Grey)	CASE
+Noctua NH U9DXi4	Noctua^NH-U9DXi4	COOLER
 Antec EA 750 Platinum	Antec^EA-750 Platinum	PSU
 Intel Celeron G465	Intel^Celeron G465	CPU
 Fractal Design Define R5 Titanium	Fractal Design^Define R5 (Titanium)	CASE
 ASRock Z68 Extreme4 Gen3	ASRock^Z68 Extreme4 Gen3	MOTHER
 Fractal Design FD CA CORE 3300 BL	Fractal Design^FD-CA-CORE-3300-BL	CASE
 AMD Athlon X2 450 OEM Tray	AMD^Athlon X2 450 (OEM/Tray)	CPU
-Zotac GeForce GTX 980 Ti	Zotac^GeForce GTX 980 Ti	GPU
+Asus Z97 AR	Asus^Z97-AR	MOTHER
 HEC 6C28BBX585	HEC^6C28BBX585	CASE
 XFX P1 650S NLB9	XFX^P1-650S-NLB9	PSU
-Crucial CT480BX200SSD1	Crucial^CT480BX200SSD1	DRIVE
+Asus GeForce GTX Titan Black	Asus^GeForce GTX Titan Black	GPU
 NZXT H440 Blue Black	NZXT^H440 (Blue/Black)	CASE
-Gigabyte GeForce GTX 980	Gigabyte^GeForce GTX 980	GPU
+Inwin BQS656.DD120BL	Inwin^BQS656.DD120BL	CASE
 Asus Z87 WS	Asus^Z87-WS	MOTHER
 Intel Core i7 6700 OEM Tray	Intel^Core i7-6700 (OEM/Tray)	CPU
 Apevia X HERMES RD	Apevia^X-HERMES-RD	CASE
-Hitachi HTS547550A9E384	Hitachi^HTS547550A9E384	DRIVE
+Zalman CNPS10X QUIET	Zalman^CNPS10X QUIET	COOLER
 Intel Core i3 4130T	Intel^Core i3-4130T	CPU
 Cooler Master RS 475 PCAR	Cooler Master^RS-475-PCAR	PSU
 AMD Athlon II X4 641	AMD^Athlon II X4 641	CPU
-Kingston SHPM2280P2H 480G	Kingston^SHPM2280P2H/480G	DRIVE
+be quiet!  Dark Rock Pro 2	be quiet!^ Dark Rock Pro 2	COOLER
 Asus P8Z68 Deluxe GEN3	Asus^P8Z68 Deluxe/GEN3	MOTHER
 Kingston SS200S3 30G	Kingston^SS200S3/30G	DRIVE
 Rosewill RG530 S12	Rosewill^RG530-S12	PSU
 Intel Core i3 3210	Intel^Core i3-3210	CPU
 Gigabyte G1.Sniper B5	Gigabyte^G1.Sniper B5	MOTHER
+Noctua NH U14S	Noctua^NH-U14S	COOLER
 AMD FX 6300	AMD^FX-6300	CPU
 Fractal Design Core 1000 USB 3.0	Fractal Design^Core 1000 USB 3.0	CASE
+Evercool NI2011E 9525EP	Evercool^NI2011E-9525EP	COOLER
+ZEROtherm ZT 1000D 1156	ZEROtherm^ZT-1000D 1156	COOLER
 AMD Radeon R9 Gamer Series	AMD^Radeon R9 Gamer Series	MEMORY
 Asus Crosshair V Formula	Asus^Crosshair V Formula	MOTHER
 Gigabyte GA H87M HD3	Gigabyte^GA-H87M-HD3	MOTHER
 Western Digital WD5000BPVT	Western Digital^WD5000BPVT	DRIVE
 Gigabyte GA H81M DS2V	Gigabyte^GA-H81M-DS2V	MOTHER
+MSI Z87M GAMING	MSI^Z87M GAMING	MOTHER
 Rosewill CAPSTONE 550	Rosewill^CAPSTONE-550	PSU
 Gigabyte GA Z97X UD3H	Gigabyte^GA-Z97X-UD3H	MOTHER
 SeaSonic SSR 450RM	SeaSonic^SSR-450RM	PSU
 Intel Xeon E5 2640	Intel^Xeon E5-2640	CPU
 Mushkin MKNSSDCR120GB G2	Mushkin^MKNSSDCR120GB-G2	DRIVE
-XFX Radeon HD 7870	XFX^Radeon HD 7870	GPU
+Seagate ST33000651AS	Seagate^ST33000651AS	DRIVE
 AMD A4 3400 OEM Tray	AMD^A4-3400 (OEM/Tray)	CPU
 Western Digital WD10000LSRTL	Western Digital^WD10000LSRTL	DRIVE
-Intel SSDSC2BF120H501	Intel^SSDSC2BF120H501	DRIVE
 Cougar SL500	Cougar^SL500	PSU
+Swiftech H140 X	Swiftech^H140-X	COOLER
 AMD Athlon II X4 630	AMD^Athlon II X4 630	CPU
-Raidmax ATX 502WBG	Raidmax^ATX-502WBG	CASE
+Asus Radeon R7 360	Asus^Radeon R7 360	GPU
 Asus P8Z77 M PRO	Asus^P8Z77-M PRO	MOTHER
 EVGA SuperNOVA NEX 750 B	EVGA^SuperNOVA NEX 750 B	PSU
 Intel Core 2 Duo E4400	Intel^Core 2 Duo E4400	CPU
 Western Digital WD7502ABYS	Western Digital^WD7502ABYS	DRIVE
 Seagate ST3000VN0001	Seagate^ST3000VN0001	DRIVE
+Zalman CNPS9900NT	Zalman^CNPS9900NT	COOLER
+Corsair H50	Corsair^H50	COOLER
 Nanoxia Deep Silence 2	Nanoxia^Deep Silence 2	CASE
 Nanoxia Deep Silence 1	Nanoxia^Deep Silence 1	CASE
 Asus P8Z77 V LE PLUS	Asus^P8Z77-V LE PLUS	MOTHER
+SilenX EFZ 100HA2	SilenX^EFZ-100HA2	COOLER
 MSI FM2 A75IA E53	MSI^FM2-A75IA-E53	MOTHER
 PC Power & Cooling PPCMK2S950	PC^Power & Cooling PPCMK2S950	PSU
 Biostar A880G+	Biostar^A880G+	MOTHER
 ASRock Z97M Pro4	ASRock^Z97M Pro4	MOTHER
 Gigabyte GA 78LMT S2P	Gigabyte^GA-78LMT-S2P	MOTHER
-Crucial CT1000BX100SSD1	Crucial^CT1000BX100SSD1	DRIVE
 Gigabyte G1.SNIPER H6	Gigabyte^G1.SNIPER H6	MOTHER
 NZXT HALE82 V2 550W	NZXT^HALE82 V2 550W	PSU
 MSI 990FXA GD80V2	MSI^990FXA-GD80V2	MOTHER
 Intel Core i3 550	Intel^Core i3-550	CPU
-Team T253L5240GMC101	Team^T253L5240GMC101	DRIVE
+MSI Radeon HD 7970	MSI^Radeon HD 7970	GPU
 Intel Core i7 860S	Intel^Core i7-860S	CPU
 Western Digital WD60PURX	Western Digital^WD60PURX	DRIVE
 BitFenix Shinobi Window	BitFenix^Shinobi Window	CASE
-Rosewill FBM 01 450P	Rosewill^FBM-01-450P	CASE
+XFX Radeon HD 7750	XFX^Radeon HD 7750	GPU
 Kingston SHFS37A 120G	Kingston^SHFS37A/120G	DRIVE
-Asus Radeon R7 360	Asus^Radeon R7 360	GPU
-Rosewill RG630 S12	Rosewill^RG630-S12	PSU
+Raidmax ATX 502WBG	Raidmax^ATX-502WBG	CASE
 Fractal Design Arc Midi R2 Black	Fractal Design^Arc Midi R2 (Black)	CASE
 A Data ASP610SS3 128GM C	A-Data^ASP610SS3-128GM-C	DRIVE
+RAIJINTEK EreBoss	RAIJINTEK^EreBoss	COOLER
 Seagate ST4000NM0033	Seagate^ST4000NM0033	DRIVE
 Patriot PBT960GS25SSDBK	Patriot^PBT960GS25SSDBK	DRIVE
 Mushkin MKNSSDCR480GB 7	Mushkin^MKNSSDCR480GB-7	DRIVE
-Crucial CT032V4SSD2	Crucial^CT032V4SSD2	DRIVE
+Deepcool CAPTAIN 360	Deepcool^CAPTAIN 360	COOLER
 Raidmax ATX 298WW	Raidmax^ATX-298WW	CASE
 Intel Pentium E2180	Intel^Pentium E2180	CPU
-Gigabyte GA Z68XP UD3	Gigabyte^GA-Z68XP-UD3	MOTHER
 Raidmax ATX 298WR	Raidmax^ATX-298WR	CASE
 Western Digital WD30PURX	Western Digital^WD30PURX	DRIVE
 Enermax Hoplite ST	Enermax^Hoplite ST	CASE
 Xigmatek Aquila	Xigmatek^Aquila	CASE
 Samsung MZHPU256HCGL 00000	Samsung^MZHPU256HCGL-00000	DRIVE
-HIS Radeon HD 6950	HIS^Radeon HD 6950	GPU
+MSI B75MA E33	MSI^B75MA-E33	MOTHER
 AMD FX 8150	AMD^FX-8150	CPU
+Cooler Master  RR H101 22FK RA	Cooler Master^ RR-H101-22FK-RA	COOLER
 Silverstone FT02B USB3.0 Black	Silverstone^FT02B-USB3.0 (Black)	CASE
 ASRock Z87 OC Formula	ASRock^Z87 OC Formula	MOTHER
 Biostar A880GZ	Biostar^A880GZ	MOTHER
-G.Skill Trident X Series	G.Skill^Trident X Series	MEMORY
+PNY SSD7CS1111 240 RB	PNY^SSD7CS1111-240-RB	DRIVE
 Intel Core i5 2500	Intel^Core i5-2500	CPU
 Kingston Beast	Kingston^Beast	MEMORY
 Kingston Predator Series	Kingston^Predator Series	MEMORY
@@ -1407,6 +1553,9 @@ Cooler Master HAF XB EVO	Cooler Master^HAF XB EVO	CASE
 Western Digital WD5000AVVS	Western Digital^WD5000AVVS	DRIVE
 SeaSonic SS 520FL	SeaSonic^SS-520FL	PSU
 NZXT HALE82 650 M	NZXT^HALE82-650-M	PSU
+Team Zeus Red	Team^Zeus Red	MEMORY
+Prolimatech Megahelms No Fans	Prolimatech^Megahelms (No Fans)	COOLER
+Western Digital WD60EZRZ	Western Digital^WD60EZRZ	DRIVE
 AMD E2 Series E2 3200	AMD^E2-Series E2-3200	CPU
 MyDigitalSSD MDM242 SB 008	MyDigitalSSD^MDM242-SB-008	DRIVE
 Hitachi HMH7210A0ALE601	Hitachi^HMH7210A0ALE601	DRIVE
@@ -1414,20 +1563,26 @@ Intel Pentium G2130	Intel^Pentium G2130	CPU
 Hitachi HMH7210A0ALE604	Hitachi^HMH7210A0ALE604	DRIVE
 NZXT Switch 810 White	NZXT^Switch 810 (White)	CASE
 Silverstone ST45SF G	Silverstone^ST45SF-G	PSU
-Samsung MZ 7PD256Z DUP	Samsung^MZ-7PD256Z DUP	DRIVE
+Seagate ST3000VX006	Seagate^ST3000VX006	DRIVE
+Zalman CNPS9300 AT	Zalman^CNPS9300 AT	COOLER
 Kingston SH103S3 90G	Kingston^SH103S3/90G	DRIVE
+EVGA GeForce GTX 750	EVGA^GeForce GTX 750	GPU
+StarTech FANK8AM2	StarTech^FANK8AM2	COOLER
 ASRock B75M R2.0	ASRock^B75M R2.0	MOTHER
 Asus X79 Deluxe	Asus^X79 Deluxe	MOTHER
 Crucial CT960M500SSD1	Crucial^CT960M500SSD1	DRIVE
 Gigabyte GA 970A UD3	Gigabyte^GA-970A-UD3	MOTHER
 Hitachi 0F12455	Hitachi^0F12455	DRIVE
 Gigabyte GA Z68X UD5 B3	Gigabyte^GA-Z68X-UD5-B3	MOTHER
-PNY GeForce GTX 670	PNY^GeForce GTX 670	GPU
-G.Skill Sniper Series	G.Skill^Sniper Series	MEMORY
+Zalman CNPS9500A LED	Zalman^CNPS9500A-LED	COOLER
+Intel Core i7 930	Intel^Core i7-930	CPU
+Hitachi 0S03664	Hitachi^0S03664	DRIVE
 Seagate ST3750525AS	Seagate^ST3750525AS	DRIVE
 Intel Core i5 2300	Intel^Core i5-2300	CPU
+Noctua NH L12	Noctua^NH-L12	COOLER
 Corsair Air 540	Corsair^Air 540	CASE
 Seagate ST120HM000	Seagate^ST120HM000	DRIVE
+Intel SSDSC2BW120A401	Intel^SSDSC2BW120A401	DRIVE
 Toshiba DT01ACA300	Toshiba^DT01ACA300	DRIVE
 MSI AM1I	MSI^AM1I	MOTHER
 Samsung MZ N5E500BW	Samsung^MZ-N5E500BW	DRIVE
@@ -1440,23 +1595,22 @@ Super Flower SF 550P14XE HX	Super^Flower SF-550P14XE (HX)	PSU
 Crucial CT128M550SSD1	Crucial^CT128M550SSD1	DRIVE
 Seagate STBD1000400	Seagate^STBD1000400	DRIVE
 AMD A8 3850 OEM Tray	AMD^A8-3850 (OEM/Tray)	CPU
+Masscool 8W2002B1M4	Masscool^8W2002B1M4	COOLER
 Intel SSDPE2ME800G401	Intel^SSDPE2ME800G401	DRIVE
 Silverstone ST65F G	Silverstone^ST65F-G	PSU
 Intel Pentium G3470	Intel^Pentium G3470	CPU
 Intel Core 2 Duo E7500	Intel^Core 2 Duo E7500	CPU
 Intel Pentium E2160	Intel^Pentium E2160	CPU
 Silverstone ST60F PS	Silverstone^ST60F-PS	PSU
-Gigabyte GA Z97 D3H	Gigabyte^GA-Z97-D3H	MOTHER
+Asus Radeon HD 7770 GHz Edition	Asus^Radeon HD 7770 GHz Edition	GPU
 EVGA 100 W1 0500 KR	EVGA^100-W1-0500-KR	PSU
 be quiet! PURE POWER L7 | 530W	be^quiet! PURE POWER L7 | 530W	PSU
 Cooler Master RS 650 AMAA G1	Cooler Master^RS-650-AMAA-G1	PSU
 Silverstone RV03B W	Silverstone^RV03B-W	CASE
 CoolMax ZX 500	CoolMax^ZX-500	PSU
 ASRock X79 Extreme11	ASRock^X79 Extreme11	MOTHER
-MSI B75A G43	MSI^B75A-G43	MOTHER
 Intel Celeron G1620	Intel^Celeron G1620	CPU
 ASRock H61M U3S3	ASRock^H61M/U3S3	MOTHER
-MSI B75MA E33	MSI^B75MA-E33	MOTHER
 Enermax ECA3280A BL	Enermax^ECA3280A-BL	CASE
 Western Digital WD1001X06XDTL	Western Digital^WD1001X06XDTL	DRIVE
 AMD Athlon X2 350 OEM Tray	AMD^Athlon X2 350 (OEM/Tray)	CPU
@@ -1467,85 +1621,96 @@ Zalman Z11 Plus HF1	Zalman^Z11 Plus HF1	CASE
 Parvum Systems S2.0 WH BK	Parvum^Systems S2.0 WH/BK	CASE
 Fractal Design FD PSU NT3B 600W	Fractal Design^FD-PSU-NT3B-600W	PSU
 Fractal Design Arc XL	Fractal Design^Arc XL	CASE
-PNY SSD7CS1111 240 RB	PNY^SSD7CS1111-240-RB	DRIVE
+G.Skill Trident X Series	G.Skill^Trident X Series	MEMORY
 MSI Z87 G45 Gaming	MSI^Z87-G45 Gaming	MOTHER
 AMD FX 9590	AMD^FX-9590	CPU
+Noctua NH U9S	Noctua^NH-U9S	COOLER
 EVGA GeForce GTX 670	EVGA^GeForce GTX 670	GPU
+Scythe Ashura	Scythe^Ashura	COOLER
 Sapphire Radeon HD 7970 GHz Edition	Sapphire^Radeon HD 7970 GHz Edition	GPU
-Asus GeForce GTX 460	Asus^GeForce GTX 460	GPU
+PowerColor Radeon R9 270X	PowerColor^Radeon R9 270X	GPU
 Gigabyte GA Z97P D3	Gigabyte^GA-Z97P-D3	MOTHER
-MSI Z97M Gaming	MSI^Z97M Gaming	MOTHER
+Asus Radeon HD 7970 GHz Edition	Asus^Radeon HD 7970 GHz Edition	GPU
 Intel SSDSC2BW480H601	Intel^SSDSC2BW480H601	DRIVE
 Antec EDGE 650	Antec^EDGE 650	PSU
 Toshiba MBF245LRC	Toshiba^MBF245LRC	DRIVE
 Intel Pentium G3420	Intel^Pentium G3420	CPU
 BitFenix Raider	BitFenix^Raider	CASE
-Seagate ST31000520AS	Seagate^ST31000520AS	DRIVE
+Hitachi 0F14688	Hitachi^0F14688	DRIVE
 Intel Xeon E5 2660 V3 OEM Tray	Intel^Xeon E5-2660 V3 (OEM/Tray)	CPU
 Gigabyte Radeon HD 7850	Gigabyte^Radeon HD 7850	GPU
 Asus SABERTOOTH Z97 MARK 1	Asus^SABERTOOTH Z97 MARK 1	MOTHER
-Cooler Master RS850 AMBAJ3 US	Cooler Master^RS850-AMBAJ3-US	PSU
+Silverstone ST85F GS	Silverstone^ST85F-GS	PSU
 Asus Maximus VI Impact	Asus^Maximus VI Impact	MOTHER
 Foxconn H61S	Foxconn^H61S	MOTHER
 HEC 6K28BBX585	HEC^6K28BBX585	CASE
 Intel Core 2 Quad Q9550 OEM Tray	Intel^Core 2 Quad Q9550 (OEM/Tray)	CPU
 AMD Phenom II X4 905e	AMD^Phenom II X4 905e	CPU
 ECS Z77H2 A2X DELUXEV2.0	ECS^Z77H2-A2X DELUXE(V2.0)	MOTHER
-HIS Radeon HD 7770	HIS^Radeon HD 7770	GPU
+NZXT Phantom 630 Windowed Edition White	NZXT^Phantom 630 Windowed Edition (White)	CASE
 AMD Phenom II X6 1065T OEM Tray	AMD^Phenom II X6 1065T (OEM/Tray)	CPU
 Intel Xeon E3 1270 V2 OEM Tray	Intel^Xeon E3-1270 V2 (OEM/Tray)	CPU
 Gigabyte GA 990XA UD3	Gigabyte^GA-990XA-UD3	MOTHER
 Corsair SPEC 03 White	Corsair^SPEC-03 White	CASE
 Rosewill Legacy U3 B	Rosewill^Legacy U3-B	CASE
-Mushkin Essentials	Mushkin^Essentials	MEMORY
+Evercool HPJ 12025	Evercool^HPJ-12025	COOLER
 AMD Athlon II X2 245 OEM Tray	AMD^Athlon II X2 245 (OEM/Tray)	CPU
 Sapphire Radeon HD 6870	Sapphire^Radeon HD 6870	GPU
+Cooler Master  Nepton 280L	Cooler Master^ Nepton 280L	COOLER
 ASRock FM2A88M PRO3+	ASRock^FM2A88M PRO3+	MOTHER
 Intel Pentium G620	Intel^Pentium G620	CPU
 AMD Phenom II X6 1075T	AMD^Phenom II X6 1075T	CPU
-Kingston Savage	Kingston^Savage	MEMORY
+Zotac GeForce GTX 650 Ti	Zotac^GeForce GTX 650 Ti	GPU
 Cooler Master Elite 120 Advanced Black	Cooler Master^Elite 120 Advanced (Black)	CASE
 Cooler Master RS 700 AMBA D3	Cooler Master^RS-700-AMBA-D3	PSU
 Antec GX500	Antec^GX500	CASE
-Intel Core i7 2700K	Intel^Core i7-2700K	CPU
+Intel Celeron G1820	Intel^Celeron G1820	CPU
+Raidmax RX 500AF	Raidmax^RX-500AF	PSU
 Gigabyte GA 78LMT S2PREV5.0	Gigabyte^GA-78LMT-S2P(REV5.0)	MOTHER
 ASRock X99 Extreme6 ac	ASRock^X99 Extreme6/ac	MOTHER
 Gigabyte GA 970A DS3	Gigabyte^GA-970A-DS3	MOTHER
 Kingston Blu Red Series	Kingston^Blu Red Series	MEMORY
+Logisys MC4005IB	Logisys^MC4005IB	COOLER
 EVGA 150 SE E789 KR	EVGA^150-SE-E789-KR	MOTHER
+Asus Radeon R7 250	Asus^Radeon R7 250	GPU
 Samsung HE103SJ	Samsung^HE103SJ	DRIVE
 ASRock X99 Extreme3	ASRock^X99 Extreme3	MOTHER
 Asus P8Z77 V PRO THUNDERBOLT	Asus^P8Z77-V PRO/THUNDERBOLT	MOTHER
-Hitachi 0J26005	Hitachi^0J26005	DRIVE
 NZXT HALE82 850 M	NZXT^HALE82-850-M	PSU
-VisionTek Data Fusion 2 way	VisionTek^Data Fusion 2-way	DRIVE
+Deepcool GABRIEL	Deepcool^GABRIEL	COOLER
 Rosewill Quark 550	Rosewill^Quark 550	PSU
 MSI Z170A KRAIT GAMING	MSI^Z170A KRAIT GAMING	MOTHER
 Intel Xeon E5 2687W OEM Tray	Intel^Xeon E5-2687W (OEM/Tray)	CPU
 Western Digital WD1000CHTZ	Western Digital^WD1000CHTZ	DRIVE
+Asus Radeon R9 280	Asus^Radeon R9 280	GPU
 MSI Z87I	MSI^Z87I	MOTHER
 NZXT Guardian 921 RB	NZXT^Guardian 921 RB	CASE
 Asus RAMPAGE V EXTREME U3	Asus^RAMPAGE V EXTREME/U3	MOTHER
 Gigabyte GA 78LMT USB3	Gigabyte^GA-78LMT-USB3	MOTHER
-Gigabyte GeForce GTX 660 Ti	Gigabyte^GeForce GTX 660 Ti	GPU
+Cooler Master  V8	Cooler Master^ V8	COOLER
 Zalman Z11 NEO	Zalman^Z11 NEO	CASE
 MSI P67A G43 B3	MSI^P67A-G43 (B3)	MOTHER
+Asus GeForce GTX 670	Asus^GeForce GTX 670	GPU
 AMD Phenom II X4 975 OEM Tray	AMD^Phenom II X4 975 (OEM/Tray)	CPU
 Seagate ST3500413AS	Seagate^ST3500413AS	DRIVE
+Thermaltake NiC L32	Thermaltake^NiC L32	COOLER
 Corsair 760T White	Corsair^760T White	CASE
 Corsair CSSD F256GBLX	Corsair^CSSD-F256GBLX	DRIVE
 Intel Core i5 6500T	Intel^Core i5-6500T	CPU
 Biostar TZ77XE3	Biostar^TZ77XE3	MOTHER
 NZXT Phantom 630 White	NZXT^Phantom 630 (White)	CASE
 Biostar TA990FXE	Biostar^TA990FXE	MOTHER
+be quiet!  Dark Rock 2	be quiet!^ Dark Rock 2	COOLER
 ASRock 960GM U3S3 FX	ASRock^960GM/U3S3 FX	MOTHER
 Intel Pentium E5800	Intel^Pentium E5800	CPU
 Sentey GS 6600 Wolf	Sentey^GS-6600 Wolf	CASE
 Gigabyte GA X79 UP4	Gigabyte^GA-X79-UP4	MOTHER
 Gigabyte GA Z77X UD5H	Gigabyte^GA-Z77X-UD5H	MOTHER
+Arctic Cooling  ACFZ13	Arctic Cooling^ ACFZ13	COOLER
 EVGA SuperNOVA 1600	EVGA^SuperNOVA 1600	PSU
 Asus P8Z77 V PREMIUM	Asus^P8Z77-V PREMIUM	MOTHER
 Apex DM 387	Apex^DM-387	CASE
+Asus GeForce GTX 690	Asus^GeForce GTX 690	GPU
 Intel Core i3 6300 OEM Tray	Intel^Core i3-6300 (OEM/Tray)	CPU
 Corsair G600	Corsair^G600	PSU
 Gigabyte GA 970A D3	Gigabyte^GA-970A-D3	MOTHER
@@ -1565,7 +1730,7 @@ Biostar Hi Fi A88W 3D	Biostar^Hi-Fi A88W 3D	MOTHER
 ASRock A75M	ASRock^A75M	MOTHER
 AMD Phenom II X6 1100T Black OEM Tray	AMD^Phenom II X6 1100T Black (OEM/Tray)	CPU
 Cooler Master Storm Scout	Cooler Master^Storm Scout	CASE
-Seagate ST33000651AS	Seagate^ST33000651AS	DRIVE
+Seagate ST5000NM0024	Seagate^ST5000NM0024	DRIVE
 EVGA SuperNOVA 850	EVGA^SuperNOVA 850	PSU
 Intel Core i7 5960X OEM Tray	Intel^Core i7-5960X (OEM/Tray)	CPU
 Seagate ST3750528AS	Seagate^ST3750528AS	DRIVE
@@ -1576,19 +1741,24 @@ Intel Xeon E5 2670	Intel^Xeon E5-2670	CPU
 NZXT H230 Black	NZXT^H230 (Black)	CASE
 SeaSonic X 1250	SeaSonic^X-1250	PSU
 Intel DP67BGB3	Intel^DP67BGB3	MOTHER
-Intel Core i5 3450S	Intel^Core i5-3450S	CPU
+Intel Core i5 3470	Intel^Core i5-3470	CPU
+Xigmatek Dark Knight SD1483 Night Hawk	Xigmatek^Dark Knight SD1483 Night Hawk	COOLER
 Kingston SH100S3B 120G	Kingston^SH100S3B/120G	DRIVE
 Cooler Master RS600 PCARE3 US	Cooler Master^RS600-PCARE3-US	PSU
 Seagate ST1500DM003	Seagate^ST1500DM003	DRIVE
 MSI FM2 A75MA P33	MSI^FM2-A75MA-P33	MOTHER
 Thermaltake PS TPG 0850DPCGUS 1	Thermaltake^PS-TPG-0850DPCGUS-1	PSU
 Intel Pentium E2200 OEM Tray	Intel^Pentium E2200 (OEM/Tray)	CPU
-Toshiba HDTS412XZSTA	Toshiba^HDTS412XZSTA	DRIVE
+Cooler Master  Hyper 412 Slim	Cooler Master^ Hyper 412 Slim	COOLER
 Corsair ValueSelect	Corsair^ValueSelect	MEMORY
 Intel Xeon E5 2690	Intel^Xeon E5-2690	CPU
 Intel Core i5 4440	Intel^Core i5-4440	CPU
+Samsung MZ 7PD256Z DUP	Samsung^MZ-7PD256Z DUP	DRIVE
+Vantec VAF 1225	Vantec^VAF-1225	COOLER
+EVGA GeForce GTX 550 Ti	EVGA^GeForce GTX 550 Ti	GPU
 Intel Core i7 2600	Intel^Core i7-2600	CPU
 Rosewill BLACKHAWK BLUE	Rosewill^BLACKHAWK-BLUE	CASE
+Zalman FX70	Zalman^FX70	COOLER
 Rosewill BLACKHAWK ULTRA	Rosewill^BLACKHAWK-ULTRA	CASE
 Toshiba HDWE140XZSTA	Toshiba^HDWE140XZSTA	DRIVE
 Intel Core i5 2400S	Intel^Core i5-2400S	CPU
@@ -1601,10 +1771,10 @@ Plextor PX AG128M6E	Plextor^PX-AG128M6E	DRIVE
 AMD Athlon II X3 425 OEM Tray	AMD^Athlon II X3 425 (OEM/Tray)	CPU
 AMD FX 8320E OEM Tray	AMD^FX-8320E (OEM/Tray)	CPU
 MSI H77MA G43	MSI^H77MA-G43	MOTHER
-PNY SSD9SC120GMDF RB	PNY^SSD9SC120GMDF-RB	DRIVE
-Antec HCP 1300 Platinum	Antec^HCP-1300 Platinum	PSU
+BitFenix Shinobi	BitFenix^Shinobi	CASE
 Corsair 380T	Corsair^380T	CASE
 Intel Pentium G4500 OEM Tray	Intel^Pentium G4500 (OEM/Tray)	CPU
+Thermalright Silver Arrow IB E Extreme	Thermalright^Silver Arrow IB-E Extreme	COOLER
 Intel Core i3 540	Intel^Core i3-540	CPU
 Asus P8P67 LE	Asus^P8P67 LE	MOTHER
 MSI A88X G41 PC MATE	MSI^A88X-G41 PC MATE	MOTHER
@@ -1615,7 +1785,7 @@ ECS H81H3 I HDMI V1.0	ECS^H81H3-I/HDMI (V1.0)	MOTHER
 AMD Phenom II X4 940 Black OEM Tray	AMD^Phenom II X4 940 Black (OEM/Tray)	CPU
 Deepcool KENDOMEN Black	Deepcool^KENDOMEN Black	CASE
 Thermaltake Chaser A71	Thermaltake^Chaser A71	CASE
-Intel Celeron E3400 OEM Tray	Intel^Celeron E3400 (OEM/Tray)	CPU
+NZXT Phantom Black Orange	NZXT^Phantom (Black/Orange)	CASE
 Intel Core 2 Quad Q9450	Intel^Core 2 Quad Q9450	CPU
 NZXT Noctis 450	NZXT^Noctis 450	CASE
 Kingston HyperX 10th Anniversary Series	Kingston^HyperX 10th Anniversary Series	MEMORY
@@ -1628,25 +1798,29 @@ Seagate ST4000VN003	Seagate^ST4000VN003	DRIVE
 Seagate ST1000DM004	Seagate^ST1000DM004	DRIVE
 Rosewill Neutron	Rosewill^Neutron	CASE
 Western Digital WD7500AALX	Western Digital^WD7500AALX	DRIVE
-Antec TP 750 Blue	Antec^TP-750 Blue	PSU
-Intel Core 2 Extreme X6800	Intel^Core 2 Extreme X6800	CPU
+AMD Athlon II X2 245e	AMD^Athlon II X2 245e	CPU
+Rosewill Tachyon 1000	Rosewill^Tachyon-1000	PSU
 Western Digital WD10EURX	Western Digital^WD10EURX	DRIVE
-Zotac GeForce GT 730	Zotac^GeForce GT 730	GPU
+RAIJINTEK THEMIS Evo	RAIJINTEK^THEMIS Evo	COOLER
 Intel Core i5 4590	Intel^Core i5-4590	CPU
 Intel SSDPEDMW012T4R5	Intel^SSDPEDMW012T4R5	DRIVE
+Gelid Solutions ns CC SiberianP 01	Gelid Solutions^ns CC-SiberianP-01	COOLER
 Intel SSDSC2BW180H601	Intel^SSDSC2BW180H601	DRIVE
 Rosewill CHALLENGER	Rosewill^CHALLENGER	CASE
 Intel Core i3 6300T	Intel^Core i3-6300T	CPU
-Intel Core i7 930	Intel^Core i7-930	CPU
+MSI H97M G43	MSI^H97M-G43	MOTHER
 AMD A8 5600K	AMD^A8-5600K	CPU
-Gigabyte Radeon HD 6850	Gigabyte^Radeon HD 6850	GPU
+BitFenix Colossus Micro	BitFenix^Colossus Micro	CASE
 Seagate ST2000VX003	Seagate^ST2000VX003	DRIVE
 Thermaltake Core V21	Thermaltake^Core V21	CASE
+G.Skill Sniper Series	G.Skill^Sniper Series	MEMORY
 Intel Xeon E5 1620 OEM Tray	Intel^Xeon E5-1620 (OEM/Tray)	CPU
 Gigabyte GA H67N USB3 B3	Gigabyte^GA-H67N-USB3-B3	MOTHER
 Cooler Master CM 690 II Black	Cooler Master^CM 690 II (Black)	CASE
-Asus A88XM PLUS CSM	Asus^A88XM-PLUS/CSM	MOTHER
+Thermaltake Gravity A1	Thermaltake^Gravity A1	COOLER
+Arctic Cooling  Freezer i11	Arctic Cooling^ Freezer i11	COOLER
 XFX Radeon R9 270	XFX^Radeon R9 270	GPU
+Corsair H110i GTX	Corsair^H110i GTX	COOLER
 NZXT S340 Black Red	NZXT^S340 (Black/Red)	CASE
 Intel Core i5 750	Intel^Core i5-750	CPU
 Gigabyte GA Z87N WIFI	Gigabyte^GA-Z87N-WIFI	MOTHER
@@ -1655,67 +1829,76 @@ Asus H81M A	Asus^H81M-A	MOTHER
 Intel Core i7 4960X Extreme Edition	Intel^Core i7-4960X Extreme Edition	CPU
 Intel Pentium G2140	Intel^Pentium G2140	CPU
 MSI A78M E35	MSI^A78M-E35	MOTHER
+Crucial Ballistix Sport LT	Crucial^Ballistix Sport LT	MEMORY
 Cooler Master HAF X	Cooler Master^HAF X	CASE
 Antec Three Hundred Illusion	Antec^Three Hundred Illusion	CASE
 Silverstone Raven	Silverstone^Raven	CASE
 Kingston SKC310S3B7A 960G	Kingston^SKC310S3B7A/960G	DRIVE
 Zalman Z9 Plus	Zalman^Z9 Plus	CASE
-Intel Core i5 680	Intel^Core i5-680	CPU
+BitFenix Colossus Mini	BitFenix^Colossus Mini	CASE
 PNY GeForce GTX 660	PNY^GeForce GTX 660	GPU
 ASRock FM2A68M DG3+	ASRock^FM2A68M-DG3+	MOTHER
-Intel Core i7 920	Intel^Core i7-920	CPU
+Corsair 350D Window	Corsair^350D Window	CASE
 Western Digital WD15EARS	Western Digital^WD15EARS	DRIVE
 Seagate ST5000VN0001	Seagate^ST5000VN0001	DRIVE
 SeaSonic Platinum 1000	SeaSonic^Platinum-1000	PSU
 Team Dark Series	Team^Dark Series	MEMORY
 ASRock FM2A88X+ Killer	ASRock^FM2A88X+ Killer	MOTHER
 AMD Athlon II X4 651 OEM Tray	AMD^Athlon II X4 651 (OEM/Tray)	CPU
-VisionTe VisionTek	VisionTe^VisionTek	MEMORY
-Rosewill ARC 750	Rosewill^ARC 750	PSU
+HIS Radeon HD 7770	HIS^Radeon HD 7770	GPU
 Kingston SV300S37A 480G	Kingston^SV300S37A/480G	DRIVE
+Rosewill ARC 750	Rosewill^ARC 750	PSU
+EVGA GeForce GTX 560 Ti 448	EVGA^GeForce GTX 560 Ti 448	GPU
 MSI Z77IA E53	MSI^Z77IA-E53	MOTHER
+Thermaltake Water 3.0 Performer C + LNC	Thermaltake^Water 3.0 Performer C + LNC	COOLER
 ASRock Z97 Extreme3	ASRock^Z97 Extreme3	MOTHER
-MSI GeForce GTX 760	MSI^GeForce GTX 760	GPU
-EVGA GeForce GTX 480	EVGA^GeForce GTX 480	GPU
+MSI B75A G43	MSI^B75A-G43	MOTHER
+CRYORIG M9i	CRYORIG^M9i	COOLER
 Gigabyte GA 880GM UD2H	Gigabyte^GA-880GM-UD2H	MOTHER
 AMD Performance Edition	AMD^Performance Edition	MEMORY
 Patriot PI960GS25SSDR	Patriot^PI960GS25SSDR	DRIVE
 Samsung MZ 75E500B AM	Samsung^MZ-75E500B/AM	DRIVE
-Corsair 600T Silver	Corsair^600T Silver	CASE
+AMD A10 7800	AMD^A10-7800	CPU
 Intel SSDSC2BP240G4R5	Intel^SSDSC2BP240G4R5	DRIVE
-Crucial Ballistix	Crucial^Ballistix	MEMORY
+EVGA GeForce GTX 980 Ti	EVGA^GeForce GTX 980 Ti	GPU
 Intel Xeon E3 1245 V3 OEM Tray	Intel^Xeon E3-1245 V3 (OEM/Tray)	CPU
 Intel Pentium G4400T OEM Tray	Intel^Pentium G4400T (OEM/Tray)	CPU
 Intel Core 2 Extreme QX6850	Intel^Core 2 Extreme QX6850	CPU
+Enermax ETS T40F TB	Enermax^ETS-T40F-TB	COOLER
 Kingsto Kingston	Kingsto^Kingston	MEMORY
+EVGA M020 00 000234	EVGA^M020-00-000234	COOLER
 Sigma ATLANTIS B	Sigma^ATLANTIS-B	CASE
 Intel Core i3 6300	Intel^Core i3-6300	CPU
 Seagate ST9160412AS	Seagate^ST9160412AS	DRIVE
-Intel Celeron G1630	Intel^Celeron G1630	CPU
+Cooler Master Elite 130	Cooler Master^Elite 130	CASE
 Intel DG33TLM	Intel^DG33TLM	MOTHER
+Rosewill RCX Z2	Rosewill^RCX-Z2	COOLER
 MSI H61M P31 W8	MSI^H61M-P31/W8	MOTHER
 Asus B85M E CSM	Asus^B85M-E/CSM	MOTHER
-AMD Phenom II X4 840 OEM Tray	AMD^Phenom II X4 840 (OEM/Tray)	CPU
-Western Digital WD1600AVVS	Western Digital^WD1600AVVS	DRIVE
+Club Radeon HD 7870 XT	Club^Radeon HD 7870 XT	GPU
+Corsair Graphite Series 230T Grey	Corsair^Graphite Series 230T Grey	CASE
+Zalman LQ 315	Zalman^LQ-315	COOLER
+Cooler Master  Hyper TX3	Cooler Master^ Hyper TX3	COOLER
 MSI X99S GAMING 9 ACK	MSI^X99S GAMING 9 ACK	MOTHER
 Intel DZ77GA70K	Intel^DZ77GA70K	MOTHER
 Mushkin MKNSSDRE512GB	Mushkin^MKNSSDRE512GB	DRIVE
-Sandisk SDSSDXPS 240G G25	Sandisk^SDSSDXPS-240G-G25	DRIVE
 Intel SSDPEDMW800G4X1	Intel^SSDPEDMW800G4X1	DRIVE
 Kingston SHSS37A 960G	Kingston^SHSS37A/960G	DRIVE
 MSI B85 G43 GAMING	MSI^B85-G43 GAMING	MOTHER
 Crucial CT256MX100SSD1	Crucial^CT256MX100SSD1	DRIVE
 Intel Pentium E6500	Intel^Pentium E6500	CPU
 Seagate ST2000DX001	Seagate^ST2000DX001	DRIVE
-EVGA GeForce GTX 660	EVGA^GeForce GTX 660	GPU
+Corsair CSSD N240GBXT	Corsair^CSSD-N240GBXT	DRIVE
 Intel Core i3 2120T	Intel^Core i3-2120T	CPU
 Asus Radeon HD 7870	Asus^Radeon HD 7870	GPU
-AMD A4 4000	AMD^A4-4000	CPU
+Scythe SCKC 3000	Scythe^SCKC-3000	COOLER
+Antec EA 550	Antec^EA-550	PSU
 Intel Pentium G3430	Intel^Pentium G3430	CPU
-Silicon Power S60 3K P E	Silicon^Power S60 3K P/E	DRIVE
-MSI Radeon HD 7870 GHz Edition	MSI^Radeon HD 7870 GHz Edition	GPU
+be quiet!  Shadow Rock Slim	be quiet!^ Shadow Rock Slim	COOLER
+Thermalright Macho Rev.B	Thermalright^Macho Rev.B	COOLER
 Rosewill Legacy V3 Plus B	Rosewill^Legacy V3 Plus-B	CASE
 MSI 760GM P23 FX	MSI^760GM-P23 (FX)	MOTHER
+Thermaltake CL P0503	Thermaltake^CL-P0503	COOLER
 Seagate ST9500423AS	Seagate^ST9500423AS	DRIVE
 Silverstone Sugo SG13B	Silverstone^Sugo SG13B	CASE
 Gigabyte GA 990FXA UD3 R5	Gigabyte^GA-990FXA-UD3 R5	MOTHER
@@ -1726,8 +1909,8 @@ Intel Core i5 5675C OEM Tray	Intel^Core i5-5675C (OEM/Tray)	CPU
 Thermaltake Urban R31	Thermaltake^Urban R31	CASE
 Intel Xeon E5 2643 V2 OEM Tray	Intel^Xeon E5-2643 V2 (OEM/Tray)	CPU
 EVGA Z87 FTW	EVGA^Z87 FTW	MOTHER
+Silverstone NT07 1156	Silverstone^NT07-1156	COOLER
 Sapphire Radeon R9 270X	Sapphire^Radeon R9 270X	GPU
-Western Digital WD7500LPCX	Western Digital^WD7500LPCX	DRIVE
 HEC 98R9BB	HEC^98R9BB	CASE
 Asus GeForce GTX 650	Asus^GeForce GTX 650	GPU
 Thermaltake PS TPG 0850MPCGUS 1	Thermaltake^PS-TPG-0850MPCGUS-1	PSU
@@ -1742,6 +1925,7 @@ Asus Sabertooth P67	Asus^Sabertooth P67	MOTHER
 Intel Xeon E5 2687W V3 OEM Tray	Intel^Xeon E5-2687W V3 (OEM/Tray)	CPU
 AMD Athlon X4 750K	AMD^Athlon X4 750K	CPU
 Thermaltake PS TPD 0750MPCGUS 1	Thermaltake^PS-TPD-0750MPCGUS-1	PSU
+Silverstone NT07 115X	Silverstone^NT07-115X	COOLER
 Apevia X SNIPER2 RD	Apevia^X-SNIPER2-RD	CASE
 NZXT Tempest 410 Elite Black	NZXT^Tempest 410 Elite (Black)	CASE
 MSI H81I	MSI^H81I	MOTHER
@@ -1751,16 +1935,19 @@ MSI Radeon R9 390X	MSI^Radeon R9 390X	GPU
 Toshiba HDKPC05	Toshiba^HDKPC05	DRIVE
 Western Digital WD60EZRX	Western Digital^WD60EZRX	DRIVE
 Toshiba HDKPC08	Toshiba^HDKPC08	DRIVE
-Western Digital WD60EZRZ	Western Digital^WD60EZRZ	DRIVE
+Phanteks PH TC12DX_BK	Phanteks^PH-TC12DX_BK	COOLER
+Hitachi A7K1000 1000	Hitachi^A7K1000-1000	DRIVE
 Kingston SHSS3B7A 480G Bundle	Kingston^SHSS3B7A/480G Bundle	DRIVE
 Toshiba HDTS312XZSTA	Toshiba^HDTS312XZSTA	DRIVE
 XFX P1850SNLB9	XFX^P1850SNLB9	PSU
 Intel Core i7 880 OEM Tray	Intel^Core i7-880 (OEM/Tray)	CPU
 Seagate ST3500641AS RK	Seagate^ST3500641AS-RK	DRIVE
 Biostar A780L3C	Biostar^A780L3C	MOTHER
+Corsair CSSD F60GBLSB	Corsair^CSSD-F60GBLSB	DRIVE
 Intel Core i7 5775C OEM Tray	Intel^Core i7-5775C (OEM/Tray)	CPU
 AMD A10 PRO 7850B OEM Tray	AMD^A10 PRO-7850B (OEM/Tray)	CPU
 Thermaltake TR 800P	Thermaltake^TR-800P	PSU
+MSI GeForce GTX 780	MSI^GeForce GTX 780	GPU
 Thermaltake VL90001W2Z	Thermaltake^VL90001W2Z	CASE
 ASRock 970M PRO3	ASRock^970M PRO3	MOTHER
 ASRock H61MV ITX	ASRock^H61MV-ITX	MOTHER
@@ -1774,15 +1961,17 @@ Hitachi 7K1000.C	Hitachi^7K1000.C	DRIVE
 ASRock X79 Extreme9	ASRock^X79 Extreme9	MOTHER
 Transcend TS256GSSD370S	Transcend^TS256GSSD370S	DRIVE
 MSI Z170A GAMING M5	MSI^Z170A GAMING M5	MOTHER
+Cooler Master  Hyper 212 Plus	Cooler Master^ Hyper 212 Plus	COOLER
 MSI Z170A GAMING M7	MSI^Z170A GAMING M7	MOTHER
 Gigabyte GA Z68X UD3H B3	Gigabyte^GA-Z68X-UD3H-B3	MOTHER
 Samsung MZ 7PC256B WW	Samsung^MZ-7PC256B/WW	DRIVE
 AMD Phenom II X4 B99 OEM Tray	AMD^Phenom II X4 B99 (OEM/Tray)	CPU
+Xigmatek Janus LD1266	Xigmatek^Janus LD1266	COOLER
 Asus GeForce GTX 560 Ti	Asus^GeForce GTX 560 Ti	GPU
 Gigabyte GA Z170MX Gaming 5	Gigabyte^GA-Z170MX-Gaming 5	MOTHER
 Intel Xeon E5 2622 V3 OEM Tray	Intel^Xeon E5-2622 V3 (OEM/Tray)	CPU
 Western Digital WD6001F9YZ	Western Digital^WD6001F9YZ	DRIVE
-Silverstone RV02 BW	Silverstone^RV02-BW	CASE
+Evercool HPI 12025	Evercool^HPI-12025	COOLER
 Gigabyte GA Z68A D3H B3	Gigabyte^GA-Z68A-D3H-B3	MOTHER
 Intel SSDSC2BB600G401	Intel^SSDSC2BB600G401	DRIVE
 Seagate ST2000LM003	Seagate^ST2000LM003	DRIVE
@@ -1790,16 +1979,18 @@ A Data XPG Gaming Series	A-Data^XPG Gaming Series	MEMORY
 Intel Celeron G440	Intel^Celeron G440	CPU
 Azza PSAZ 650B14	Azza^PSAZ-650B14	PSU
 Crucial CT128MX100SSD1	Crucial^CT128MX100SSD1	DRIVE
+Zalman CNPS7000 AlCu	Zalman^CNPS7000-AlCu	COOLER
 Cougar PX700V2	Cougar^PX700V2	PSU
 Asus F1A55 M LX PLUS	Asus^F1A55-M LX PLUS	MOTHER
 ASRock Z77 Pro3	ASRock^Z77 Pro3	MOTHER
 Mushkin MKNSSDRE1TB	Mushkin^MKNSSDRE1TB	DRIVE
 AMD R9 2400	AMD^R9 2400	MEMORY
+Enermax ELC LM120S HP	Enermax^ELC-LM120S-HP	COOLER
 Samsung MZ 7WD400EW	Samsung^MZ-7WD400EW	DRIVE
 MSI 760GMA P34FX	MSI^760GMA-P34(FX)	MOTHER
 AMD FX 4300	AMD^FX-4300	CPU
 Intel Core 2 Duo E8200	Intel^Core 2 Duo E8200	CPU
-Western Digital WD3200AAJB	Western Digital^WD3200AAJB	DRIVE
+RAIJINTEK AIDOS BLACK	RAIJINTEK^AIDOS BLACK	COOLER
 G.Skill Ripjaws Series	G.Skill^Ripjaws Series	MEMORY
 Raidmax RX 630SS	Raidmax^RX-630SS	PSU
 AMD Athlon II X3 435	AMD^Athlon II X3 435	CPU
@@ -1813,41 +2004,47 @@ Gigabyte GA 990FXA UD5	Gigabyte^GA-990FXA-UD5	MOTHER
 Intel Celeron G530	Intel^Celeron G530	CPU
 Samsung MZ 7PD128BW	Samsung^MZ-7PD128BW	DRIVE
 PNY GeForce GTX 780 Ti	PNY^GeForce GTX 780 Ti	GPU
+Enermax ELC LM120S TAA	Enermax^ELC-LM120S-TAA	COOLER
 AMD A10 6700 OEM Tray	AMD^A10-6700 (OEM/Tray)	CPU
 Asus Sabertooth Z87	Asus^Sabertooth Z87	MOTHER
 Rosewill Challenger U3	Rosewill^Challenger-U3	CASE
 Asus M5A88 M	Asus^M5A88-M	MOTHER
-EVGA GeForce GTX Titan Black	EVGA^GeForce GTX Titan Black	GPU
+Corsair CSSD F960GBLSB	Corsair^CSSD-F960GBLSB	DRIVE
 Cooler Master Storm Scout 2 Black	Cooler Master^Storm Scout 2 (Black)	CASE
 AMD Athlon II X2 221	AMD^Athlon II X2 221	CPU
 Kingston ValueRAM	Kingston^ValueRAM	MEMORY
 Azza CSAZ 206	Azza^CSAZ-206	CASE
-Intel Xeon E5 2665	Intel^Xeon E5-2665	CPU
+Thermaltake Chaser A31 Snow White	Thermaltake^Chaser A31 Snow White	CASE
 ASRock Z77E ITX	ASRock^Z77E-ITX	MOTHER
 MSI Z87M G43	MSI^Z87M-G43	MOTHER
 ASRock 970 Extreme3 R2.0	ASRock^970 Extreme3 R2.0	MOTHER
 Intel Xeon E5 2660	Intel^Xeon E5-2660	CPU
 Gigabyte GA H97N WIFI	Gigabyte^GA-H97N-WIFI	MOTHER
-Asus AM1I A	Asus^AM1I-A	MOTHER
+Silverstone SST HE01	Silverstone^SST-HE01	COOLER
 Samsung MZ 7PD256BW	Samsung^MZ-7PD256BW	DRIVE
 ASRock H61ICAFE	ASRock^H61ICAFE	MOTHER
 Corsair SPEC 03 Red	Corsair^SPEC-03 Red	CASE
 Western Digital WD2502ABYS	Western Digital^WD2502ABYS	DRIVE
 Intel Xeon E5 2680	Intel^Xeon E5-2680	CPU
+Thermaltake Water 3.0 Extreme S	Thermaltake^Water 3.0 Extreme S	COOLER
 FSP Group ZEN 400	FSP^Group ZEN 400	PSU
 Intel Core i7 965 Extreme Edition OEM Tray	Intel^Core i7-965 Extreme Edition (OEM/Tray)	CPU
+Noctua NH U12P SE2	Noctua^NH-U12P SE2	COOLER
 Intel Core 2 Quad Q6700	Intel^Core 2 Quad Q6700	CPU
+Corsair H75	Corsair^H75	COOLER
 Mushkin Redline	Mushkin^Redline	MEMORY
 Asus H97 PRO GAMER	Asus^H97-PRO GAMER	MOTHER
 AMD A10 7870K OEM Tray	AMD^A10-7870K (OEM/Tray)	CPU
 Kingston SHFS37A 240G	Kingston^SHFS37A/240G	DRIVE
-AMD A4 4020 OEM Tray	AMD^A4-4020 (OEM/Tray)	CPU
+Intel Core 2 Duo E4300	Intel^Core 2 Duo E4300	CPU
 FSP Group AURUM S 400W	FSP^Group AURUM S 400W	PSU
-Intel Core i3 4360T OEM Tray	Intel^Core i3-4360T (OEM/Tray)	CPU
+Rosewill THOR V2 W	Rosewill^THOR V2-W	CASE
+Cooler Master  V6 GT	Cooler Master^ V6 GT	COOLER
 AMD A6 3650 OEM Tray	AMD^A6-3650 (OEM/Tray)	CPU
+Asus GeForce GTX 660 Ti	Asus^GeForce GTX 660 Ti	GPU
 Intel Atom D2500 OEM Tray	Intel^Atom D2500 (OEM/Tray)	CPU
 Intel Celeron E3500	Intel^Celeron E3500	CPU
-MSI H61M P20 G3	MSI^H61M-P20 (G3)	MOTHER
+Arctic Cooling  ACFZI30	Arctic Cooling^ ACFZI30	COOLER
 Intel Core i5 6600T OEM Tray	Intel^Core i5-6600T (OEM/Tray)	CPU
 PC Power & Cooling PPCS760	PC^Power & Cooling PPCS760	PSU
 Lian Li PC V1000LB	Lian-Li^PC-V1000LB	CASE
@@ -1861,15 +2058,16 @@ ASRock H97 PERFORMANCE	ASRock^H97 PERFORMANCE	MOTHER
 GeIL Pristine	GeIL^Pristine	MEMORY
 Intel Pentium E5400	Intel^Pentium E5400	CPU
 Team Zeus Blue	Team^Zeus Blue	MEMORY
-PNY GeForce GTX 780	PNY^GeForce GTX 780	GPU
+Deepcool FROSTWIN V2.0	Deepcool^FROSTWIN V2.0	COOLER
 Intel Core i5 6400T OEM Tray	Intel^Core i5-6400T (OEM/Tray)	CPU
 AMD Phenom II X4 960T Black	AMD^Phenom II X4 960T Black	CPU
+XFX Radeon R9 290X	XFX^Radeon R9 290X	GPU
 Cooler Master RS A50 SPHA D3	Cooler Master^RS-A50-SPHA-D3	PSU
 Enermax ECA3310A B	Enermax^ECA3310A-B	CASE
 Galaxy GeForce GTX 650 Ti	Galaxy^GeForce GTX 650 Ti	GPU
 Hitachi 0S03839	Hitachi^0S03839	DRIVE
 AMD A10 7800 OEM Tray	AMD^A10-7800 (OEM/Tray)	CPU
-Intel Core i5 6500 OEM Tray	Intel^Core i5-6500 (OEM/Tray)	CPU
+Raidmax RX 700AC B	Raidmax^RX-700AC-B	PSU
 Intel Core i7 5930K OEM Tray	Intel^Core i7-5930K (OEM/Tray)	CPU
 Intel Core 2 Quad Q8200S	Intel^Core 2 Quad Q8200S	CPU
 Asus Maximus VI Hero	Asus^Maximus VI Hero	MOTHER
@@ -1881,62 +2079,74 @@ Asus M5A99X EVO	Asus^M5A99X EVO	MOTHER
 Kingston SH103S3B 120G	Kingston^SH103S3B/120G	DRIVE
 OCZ VTX4 25SAT3 64G	OCZ^VTX4-25SAT3-64G	DRIVE
 ASRock H81M	ASRock^H81M	MOTHER
-Patriot Signature Line	Patriot^Signature Line	MEMORY
+Hitachi 0J26005	Hitachi^0J26005	DRIVE
 Raidmax RX 850AE	Raidmax^RX-850AE	PSU
+Thermaltake NiC C5	Thermaltake^NiC C5	COOLER
 Western Digital WD10EADS	Western Digital^WD10EADS	DRIVE
 Intel Pentium G3470 OEM Tray	Intel^Pentium G3470 (OEM/Tray)	CPU
 NZXT Phantom 410 Black	NZXT^Phantom 410 (Black)	CASE
 Western Digital WD4001FFSX	Western Digital^WD4001FFSX	DRIVE
-PNY GeForce GTX 650 Ti	PNY^GeForce GTX 650 Ti	GPU
+Rosewill RG630 S12	Rosewill^RG630-S12	PSU
 Intel Xeon E3 1246 V3	Intel^Xeon E3-1246 V3	CPU
+RAIJINTEK RHEA	RAIJINTEK^RHEA	COOLER
 Rosewill Hive 650	Rosewill^Hive-650	PSU
 PNY SSD7CS1211 120 RB	PNY^SSD7CS1211-120-RB	DRIVE
 Silverstone GD04S USB3.0	Silverstone^GD04S-USB3.0	CASE
+Gelid Solutions ns CC TranQ 01 A	Gelid Solutions^ns CC-TranQ-01-A	COOLER
 Thermaltake Element G	Thermaltake^Element G	CASE
-Seagate ST3000VX006	Seagate^ST3000VX006	DRIVE
+Silverstone TD03 E	Silverstone^TD03-E	COOLER
+Toshiba DT01ACA200	Toshiba^DT01ACA200	DRIVE
 Kingston HyperX Blu	Kingston^HyperX Blu	MEMORY
 MSI 970A G43	MSI^970A-G43	MOTHER
 Intel Core i7 5960X	Intel^Core i7-5960X	CPU
 MSI 970A G46	MSI^970A-G46	MOTHER
 Western Digital WD10SPCX	Western Digital^WD10SPCX	DRIVE
-Western Digital WD5002ABYS	Western Digital^WD5002ABYS	DRIVE
+Noctua NH U12DXi4	Noctua^NH-U12DXi4	COOLER
 Intel Core 2 Quad Q8200	Intel^Core 2 Quad Q8200	CPU
 Cooler Master Storm Enforcer	Cooler Master^Storm Enforcer	CASE
 Transcend TS256GSSD370	Transcend^TS256GSSD370	DRIVE
 Western Digital WD1003FZEX	Western Digital^WD1003FZEX	DRIVE
 A Data ASP900S3 64GM C	A-Data^ASP900S3-64GM-C	DRIVE
 AMD Phenom II X2 555 Black	AMD^Phenom II X2 555 Black	CPU
+Thermalright TS 120M	Thermalright^TS-120M	COOLER
 MSI 970 GAMING	MSI^970 GAMING	MOTHER
 Asus M4A88T V EVO	Asus^M4A88T-V EVO	MOTHER
 Kingston SH103S3 480G	Kingston^SH103S3/480G	DRIVE
 Western Digital WD15EZRX	Western Digital^WD15EZRX	DRIVE
 Western Digital WD3001FFSX	Western Digital^WD3001FFSX	DRIVE
 AMD A4 7300	AMD^A4-7300	CPU
+PowerColor Radeon R9 380	PowerColor^Radeon R9 380	GPU
 MSI GeForce GTX 770	MSI^GeForce GTX 770	GPU
 Team T253L3240GMC101	Team^T253L3240GMC101	DRIVE
+Cooler Master  Hyper T4	Cooler Master^ Hyper T4	COOLER
 Samsung MZ 7PC512D AM	Samsung^MZ-7PC512D/AM	DRIVE
 Intel Xeon E3 1265L V3 OEM Tray	Intel^Xeon E3-1265L V3 (OEM/Tray)	CPU
 Intel Xeon E3 1265L V2	Intel^Xeon E3-1265L V2	CPU
 Asus P8H61 I R2.0	Asus^P8H61-I R2.0	MOTHER
+Thermaltake MeOrb II	Thermaltake^MeOrb II	COOLER
 Intel Core i7 860	Intel^Core i7-860	CPU
 NZXT Source 210 Elite White	NZXT^Source 210 Elite (White)	CASE
 Silverstone RVZ01B	Silverstone^RVZ01B	CASE
+Gelid Solutions ns Slimhero	Gelid Solutions^ns Slimhero	COOLER
 ASRock H77M	ASRock^H77M	MOTHER
 Rosewill Line Glow	Rosewill^Line Glow	CASE
 Intel Pentium E2140	Intel^Pentium E2140	CPU
 Silverstone SG05BB 450 USB3.0 Black	Silverstone^SG05BB-450-USB3.0 (Black)	CASE
-Intel Pentium G3450 OEM Tray	Intel^Pentium G3450 (OEM/Tray)	CPU
+Asus Radeon R7 240	Asus^Radeon R7 240	GPU
 Corsair CSSD N240GBXTB	Corsair^CSSD-N240GBXTB	DRIVE
+Asus GeForce GTX 460	Asus^GeForce GTX 460	GPU
+Noctua NH L9x65	Noctua^NH-L9x65	COOLER
 AMD A10 5800K OEM Tray	AMD^A10-5800K (OEM/Tray)	CPU
+Zalman CNPS80F	Zalman^CNPS80F	COOLER
 Asus H97I PLUS	Asus^H97I-PLUS	MOTHER
 Corsair TX650	Corsair^TX650	PSU
-Gigabyte Radeon HD 7870	Gigabyte^Radeon HD 7870	GPU
+Silverstone ML04B	Silverstone^ML04B	CASE
+Masscool 8WT15 38	Masscool^8WT15-38	COOLER
 MSI A88XM E45	MSI^A88XM-E45	MOTHER
 MSI Z77A GD65	MSI^Z77A-GD65	MOTHER
 ASRock FM2A75 Pro4 M	ASRock^FM2A75 Pro4-M	MOTHER
 AMD 5150	AMD^5150	CPU
 OCZ OCZ FTY750W	OCZ^OCZ-FTY750W	PSU
-BitFenix Shinobi Window XL Black	BitFenix^Shinobi Window XL (Black)	CASE
 MSI X79A GD45 Plus	MSI^X79A-GD45 Plus	MOTHER
 NZXT Phantom 410 White	NZXT^Phantom 410 (White)	CASE
 AMD A10 6800K	AMD^A10-6800K	CPU
@@ -1944,19 +2154,25 @@ AMD Athlon II X2 215 OEM Tray	AMD^Athlon II X2 215 (OEM/Tray)	CPU
 Intel Core 2 Duo E6320	Intel^Core 2 Duo E6320	CPU
 Western Digital WD2003FYYS	Western Digital^WD2003FYYS	DRIVE
 Asus P8P67 PRO	Asus^P8P67 PRO	MOTHER
-Corsair Dominator GT	Corsair^Dominator GT	MEMORY
+Thermalright AXP 100R	Thermalright^AXP-100R	COOLER
 Intel Xeon E5 2637 V2 OEM Tray	Intel^Xeon E5-2637 V2 (OEM/Tray)	CPU
+RAIJINTEK PALLAS	RAIJINTEK^PALLAS	COOLER
 Asus H87M PRO	Asus^H87M-PRO	MOTHER
+Cooler Master  Hyper 612 Ver.2	Cooler Master^ Hyper 612 Ver.2	COOLER
 Asus P8B75 M LX PLUS	Asus^P8B75-M LX PLUS	MOTHER
 Cooler Master N400	Cooler Master^N400	CASE
 AMD Phenom II X6 1035T OEM Tray	AMD^Phenom II X6 1035T (OEM/Tray)	CPU
+Gigabyte Radeon HD 7870	Gigabyte^Radeon HD 7870	GPU
 Intel Pentium E5200 OEM Tray	Intel^Pentium E5200 (OEM/Tray)	CPU
 FSP Group Raider S 650	FSP^Group Raider S 650	PSU
 AMD FX 6100 OEM Tray	AMD^FX-6100 (OEM/Tray)	CPU
+Phanteks PH TC14PE_OR	Phanteks^PH-TC14PE_OR	COOLER
 PNY GeForce GTX 660 Ti	PNY^GeForce GTX 660 Ti	GPU
-Zotac GeForce GTX 650 Ti	Zotac^GeForce GTX 650 Ti	GPU
+HIS Radeon HD 6950	HIS^Radeon HD 6950	GPU
+Xigmatek Apache II	Xigmatek^Apache II	COOLER
 Western Digital WD2003FZEX	Western Digital^WD2003FZEX	DRIVE
-Hitachi 0F14688	Hitachi^0F14688	DRIVE
+Thermalright AXP 100 Muscle	Thermalright^AXP-100 Muscle	COOLER
+Scythe Shuriken Rev. B 3	Scythe^Shuriken Rev. B 3	COOLER
 AMD FX 8320E	AMD^FX-8320E	CPU
 Corsair RM850	Corsair^RM850	PSU
 Western Digital WD5000AAKS	Western Digital^WD5000AAKS	DRIVE
@@ -1974,45 +2190,52 @@ Hitachi 0J11285	Hitachi^0J11285	DRIVE
 Biostar A960D+	Biostar^A960D+	MOTHER
 Asus Crosshair IV Extreme	Asus^Crosshair IV Extreme	MOTHER
 Gigabyte GA G1.SNIPER Z97	Gigabyte^GA-G1.SNIPER Z97	MOTHER
-Hitachi A7K1000 1000	Hitachi^A7K1000-1000	DRIVE
+Enermax ETS N30 HE	Enermax^ETS-N30-HE	COOLER
 Intel SSDPEDPX800G301	Intel^SSDPEDPX800G301	DRIVE
 Corsair AX1200i	Corsair^AX1200i	PSU
 OCZ RVD350 FHPX28 480G	OCZ^RVD350-FHPX28-480G	DRIVE
-Silverstone ST85F GS	Silverstone^ST85F-GS	PSU
+Cooler Master RS850 AMBAJ3 US	Cooler Master^RS850-AMBAJ3-US	PSU
 Asus MAXIMUS VIII HERO	Asus^MAXIMUS VIII HERO	MOTHER
 Asus P9X79	Asus^P9X79	MOTHER
 BitFenix Shinobi XL White	BitFenix^Shinobi XL (White)	CASE
 Kingston SH103S3 120G	Kingston^SH103S3/120G	DRIVE
+ZEROtherm ZT 1000D 775	ZEROtherm^ZT-1000D 775	COOLER
 Crucial CT256V4SSD2	Crucial^CT256V4SSD2	DRIVE
 Western Digital WD5000AAKX	Western Digital^WD5000AAKX	DRIVE
-Crucial Ballistix Sport	Crucial^Ballistix Sport	MEMORY
+Sandisk SDSSDXPS 240G G25	Sandisk^SDSSDXPS-240G-G25	DRIVE
 Kingston Black Series	Kingston^Black Series	MEMORY
 Gigabyte GA Z97X SLI	Gigabyte^GA-Z97X-SLI	MOTHER
 Intel Xeon E5 2640 V2	Intel^Xeon E5-2640 V2	CPU
 Intel Xeon E5 2640 V3	Intel^Xeon E5-2640 V3	CPU
 Hitachi 0T00167	Hitachi^0T00167	DRIVE
 OCZ OCZ ZT750W	OCZ^OCZ-ZT750W	PSU
-Asus H81M K	Asus^H81M-K	MOTHER
+Western Digital WD7500LPCX	Western Digital^WD7500LPCX	DRIVE
 XFX P1 750S NLB9	XFX^P1-750S-NLB9	PSU
 Asus A88X PLUS	Asus^A88X-PLUS	MOTHER
 CFI Bastet	CFI^Bastet	CASE
 Corsair AX760	Corsair^AX760	PSU
 NZXT S340 Black	NZXT^S340 (Black)	CASE
+Thermaltake CL P0401	Thermaltake^CL-P0401	COOLER
+Nexus FLC 3000 R2	Nexus^FLC-3000 R2	COOLER
 Hitachi H3IK40003272SP	Hitachi^H3IK40003272SP	DRIVE
+Deepcool NEPTWIN V2.0	Deepcool^NEPTWIN V2.0	COOLER
 Western Digital WD4001FAEX	Western Digital^WD4001FAEX	DRIVE
 Asus P8B75 M CSM	Asus^P8B75-M/CSM	MOTHER
 Intel Core i5 3340S	Intel^Core i5-3340S	CPU
 ASRock Fatal1ty H87 Performance	ASRock^Fatal1ty H87 Performance	MOTHER
+Arctic Cooling  UC AR7GT AC 01	Arctic Cooling^ UC-AR7GT-AC-01	COOLER
 Corsair 600T Mesh Black	Corsair^600T Mesh (Black)	CASE
 Sapphire Radeon HD 7770 GHz Edition	Sapphire^Radeon HD 7770 GHz Edition	GPU
 Gigabyte GA Z77X UD3H	Gigabyte^GA-Z77X-UD3H	MOTHER
 Cooler Master RS 460 PSAR I3	Cooler Master^RS-460-PSAR-I3	PSU
-Gigabyte GeForce GTX 980 Ti	Gigabyte^GeForce GTX 980 Ti	GPU
-Intel Core 2 Duo E4300	Intel^Core 2 Duo E4300	CPU
+Asus AM1I A	Asus^AM1I-A	MOTHER
+Intel Core i3 4360T OEM Tray	Intel^Core i3-4360T (OEM/Tray)	CPU
+AMD A4 4020 OEM Tray	AMD^A4-4020 (OEM/Tray)	CPU
 Antec EA 650 Platinum	Antec^EA-650 Platinum	PSU
-Fractal Design Define R5 Black	Fractal Design^Define R5 (Black)	CASE
+Thermaltake CLP0607	Thermaltake^CLP0607	COOLER
+Zalman CNPS7000C AlCu	Zalman^CNPS7000C-AlCu	COOLER
 Enermax ECA3253 BL	Enermax^ECA3253-BL	CASE
-NZXT Tempest 210	NZXT^Tempest 210	CASE
+OCZ OCZZ1000M	OCZ^OCZZ1000M	PSU
 Samsung MZ 7TE250BW	Samsung^MZ-7TE250BW	DRIVE
 Gigabyte GA Z97X Gaming 5	Gigabyte^GA-Z97X-Gaming 5	MOTHER
 Crucial CT064M4SSD2	Crucial^CT064M4SSD2	DRIVE
@@ -2026,7 +2249,8 @@ AMD Athlon II X3 425	AMD^Athlon II X3 425	CPU
 Intel Core 2 Quad Q9505S OEM Tray	Intel^Core 2 Quad Q9505S (OEM/Tray)	CPU
 Crucial CT480M500SSD1	Crucial^CT480M500SSD1	DRIVE
 Mushkin MKNSSDEC480GB	Mushkin^MKNSSDEC480GB	DRIVE
-NZXT Phantom 630 Windowed Edition White	NZXT^Phantom 630 Windowed Edition (White)	CASE
+BitFenix Shinobi Window XL Black	BitFenix^Shinobi Window XL (Black)	CASE
+Xigmatek Thors Hammer	Xigmatek^Thors Hammer	COOLER
 Cooler Master RSA00 80GAD3 US	Cooler Master^RSA00-80GAD3-US	PSU
 NZXT H440 Black Red	NZXT^H440 (Black/Red)	CASE
 Intel Celeron G540	Intel^Celeron G540	CPU
@@ -2041,7 +2265,7 @@ Seagate ST31500541AS	Seagate^ST31500541AS	DRIVE
 Rosewill ARMOR EVO	Rosewill^ARMOR-EVO	CASE
 Sentey BX1 4284 v2.1	Sentey^BX1-4284 v2.1	CASE
 MSI PH61A P35 B3	MSI^PH61A-P35 (B3)	MOTHER
-XFX Radeon HD 5770	XFX^Radeon HD 5770	GPU
+XFX Radeon R9 285	XFX^Radeon R9 285	GPU
 Seagate ST91000640NS	Seagate^ST91000640NS	DRIVE
 Phanteks Enthoo EVOLV	Phanteks^Enthoo EVOLV	CASE
 Silverstone RV03B WA	Silverstone^RV03B-WA	CASE
@@ -2050,20 +2274,24 @@ MSI AM1M	MSI^AM1M	MOTHER
 Samsung HD103SI	Samsung^HD103SI	DRIVE
 Intel Core i5 3450	Intel^Core i5-3450	CPU
 Sandisk SD7UB3Q 128G 1122	Sandisk^SD7UB3Q-128G-1122	DRIVE
+Silverstone NT01 PRO	Silverstone^NT01-PRO	COOLER
 AMD Athlon II X4 651K	AMD^Athlon II X4 651K	CPU
 Gigabyte GA Z77X D3H	Gigabyte^GA-Z77X-D3H	MOTHER
 Rosewill PHOTON 1200	Rosewill^PHOTON-1200	PSU
 Samsung MZ 7TE1T0BW	Samsung^MZ-7TE1T0BW	DRIVE
-EVGA SuperNOVA 1000	EVGA^SuperNOVA 1000	PSU
+Intel Core i5 4460	Intel^Core i5-4460	CPU
+Corsair H60	Corsair^H60	COOLER
 Asus P9X79 WS	Asus^P9X79 WS	MOTHER
 AMD Athlon II X2 235e	AMD^Athlon II X2 235e	CPU
 Intel Xeon E5 2690 V3	Intel^Xeon E5-2690 V3	CPU
 Intel Xeon E5 2690 V2	Intel^Xeon E5-2690 V2	CPU
+Logisys IC211HTPC	Logisys^IC211HTPC	COOLER
 Intel SSDPECME016T401	Intel^SSDPECME016T401	DRIVE
 Samsung HD204UI	Samsung^HD204UI	DRIVE
-Western Digital WD3200BEKX	Western Digital^WD3200BEKX	DRIVE
+Thermalright Macho 120	Thermalright^Macho-120	COOLER
 Intel Core 2 Quad Q9505	Intel^Core 2 Quad Q9505	CPU
 Toshiba HDTS724XZSTA	Toshiba^HDTS724XZSTA	DRIVE
+Phanteks PH TC12LS_BK	Phanteks^PH-TC12LS_BK	COOLER
 PNY SSD9SC240GMDA RB	PNY^SSD9SC240GMDA-RB	DRIVE
 Intel Pentium E2160 OEM Tray	Intel^Pentium E2160 (OEM/Tray)	CPU
 MSI B85M E33	MSI^B85M-E33	MOTHER
@@ -2073,14 +2301,17 @@ Western Digital WD3200AAKX	Western Digital^WD3200AAKX	DRIVE
 Samsung MZ N5E250BW	Samsung^MZ-N5E250BW	DRIVE
 MSI H97I AC	MSI^H97I AC	MOTHER
 Intel Core i3 560	Intel^Core i3-560	CPU
+Cooler Master  DP6 9EDSA 0L GP	Cooler Master^ DP6-9EDSA-0L-GP	COOLER
 NVIDIA GeForce GTX 770	NVIDIA^GeForce GTX 770	GPU
 SeaSonic S12II 620 Bronze	SeaSonic^S12II 620 Bronze	PSU
 Intel Core 2 Duo E7200	Intel^Core 2 Duo E7200	CPU
 Thermaltake TP 1500M	Thermaltake^TP-1500M	PSU
 EVGA SuperNOVA 650	EVGA^SuperNOVA 650	PSU
 Gigabyte Radeon R9 270	Gigabyte^Radeon R9 270	GPU
+Noctua NH D14 SE2011	Noctua^NH-D14 SE2011	COOLER
 Biostar H61MGC	Biostar^H61MGC	MOTHER
 Seagate ST3320418AS	Seagate^ST3320418AS	DRIVE
+Asus GeForce GTX 760	Asus^GeForce GTX 760	GPU
 Intel Celeron 450 OEM Tray	Intel^Celeron 450 (OEM/Tray)	CPU
 Silverstone ST65EF	Silverstone^ST65EF	PSU
 Biostar B85MG	Biostar^B85MG	MOTHER
@@ -2094,48 +2325,59 @@ Asus M5A97 EVO R2.0	Asus^M5A97 EVO R2.0	MOTHER
 AMD Sempron X2 250 OEM Tray	AMD^Sempron X2 250 (OEM/Tray)	CPU
 Gigabyte GA H87N WIFIREV2.0	Gigabyte^GA-H87N-WIFI(REV2.0)	MOTHER
 Intel Core i5 3470S	Intel^Core i5-3470S	CPU
+AMD RG2133 Gamer Series	AMD^RG2133 Gamer Series	MEMORY
 Intel Celeron E3400	Intel^Celeron E3400	CPU
 Asus Rampage IV Gene	Asus^Rampage IV Gene	MOTHER
+Asus Radeon R7 260X	Asus^Radeon R7 260X	GPU
 MSI Z97 GD65 Gaming	MSI^Z97-GD65 Gaming	MOTHER
 Asus Z97 DELUXENFC&WLC	Asus^Z97-DELUXE(NFC&WLC)	MOTHER
 Samsung MZ 7TE250LW	Samsung^MZ-7TE250LW	DRIVE
-Intel Core i5 4460	Intel^Core i5-4460	CPU
+Western Digital WD6000HLHX	Western Digital^WD6000HLHX	DRIVE
+EVGA SuperNOVA 1000	EVGA^SuperNOVA 1000	PSU
 NZXT Phantom Black	NZXT^Phantom (Black)	CASE
 Asus MAXIMUS VII FORMULA	Asus^MAXIMUS VII FORMULA	MOTHER
+XFX Radeon R9 280X	XFX^Radeon R9 280X	GPU
 NVIDIA GeForce GTX 970	NVIDIA^GeForce GTX 970	GPU
-Mushkin Blackline	Mushkin^Blackline	MEMORY
+Sandisk SD8SBAT 128G 1122	Sandisk^SD8SBAT-128G-1122	DRIVE
 Avexir MPOWER Series	Avexir^MPOWER Series	MEMORY
 NZXT Tempest 410	NZXT^Tempest 410	CASE
+Cooler Master  Vortex Plus	Cooler Master^ Vortex Plus	COOLER
 SeaSonic X 1050	SeaSonic^X-1050	PSU
 Biostar Hi Fi A85S3	Biostar^Hi-Fi A85S3	MOTHER
+Zalman CNPS8000B	Zalman^CNPS8000B	COOLER
 Intel Pentium E6600 OEM Tray	Intel^Pentium E6600 (OEM/Tray)	CPU
-MSI Radeon R9 270	MSI^Radeon R9 270	GPU
+A Data ASP900S3 128GM C	A-Data^ASP900S3-128GM-C	DRIVE
 A Data ASP600S3 32GM C	A-Data^ASP600S3-32GM-C	DRIVE
+PNY GeForce GTX 650	PNY^GeForce GTX 650	GPU
+Gelid Solutions ns CC Ssilence APLUS	Gelid Solutions^ns CC-Ssilence-APLUS	COOLER
 Fractal Design Arc Mini	Fractal Design^Arc Mini	CASE
 Cooler Master Storm Scout 2 Advanced	Cooler Master^Storm Scout 2 Advanced	CASE
 Intel Core 2 Quad Q9650	Intel^Core 2 Quad Q9650	CPU
 Apevia X HERMES GN	Apevia^X-HERMES-GN	CASE
-OCZ VTR180 25SAT3 240G	OCZ^VTR180-25SAT3-240G	DRIVE
-Intel Celeron G1820	Intel^Celeron G1820	CPU
+Intel Core i7 2700K	Intel^Core i7-2700K	CPU
+Scythe Kotetsu	Scythe^Kotetsu	COOLER
+Thermaltake CLP0606	Thermaltake^CLP0606	COOLER
 Intel DG45ID	Intel^DG45ID	MOTHER
 Intel Xeon E3 1275 V2 OEM Tray	Intel^Xeon E3-1275 V2 (OEM/Tray)	CPU
 MSI 760GM P34FX	MSI^760GM-P34(FX)	MOTHER
 Gigabyte GA 880GMA USB3	Gigabyte^GA-880GMA-USB3	MOTHER
 A Data ASP600S3 256GM C	A-Data^ASP600S3-256GM-C	DRIVE
 Intel Core i5 6400	Intel^Core i5-6400	CPU
-OCZ TRN100 25SAT3 240G	OCZ^TRN100-25SAT3-240G	DRIVE
+Logisys MC4002IW	Logisys^MC4002IW	COOLER
 MSI A88XI AC V2	MSI^A88XI AC V2	MOTHER
 Corsair 600T White Graphite	Corsair^600T White Graphite	CASE
 MSI GeForce GTX 960	MSI^GeForce GTX 960	GPU
+Zalman CNPS9500 AT	Zalman^CNPS9500 AT	COOLER
 Cooler Master RS650 AMAAG1 S1	Cooler Master^RS650-AMAAG1-S1	PSU
 Intel Core i7 930 OEM Tray	Intel^Core i7-930 (OEM/Tray)	CPU
 Asus P5Q EM DO	Asus^P5Q-EM DO	MOTHER
 Asus Z97 PRO GAMER	Asus^Z97 PRO GAMER	MOTHER
+PowerColor Radeon HD 7970	PowerColor^Radeon HD 7970	GPU
 AMD Phenom II X4 910e	AMD^Phenom II X4 910e	CPU
 Inwin GRone Gray	Inwin^GRone (Gray)	CASE
 Gigabyte GA H81M S1	Gigabyte^GA-H81M-S1	MOTHER
 Samsung HN M101MBB	Samsung^HN-M101MBB	DRIVE
-MSI GeForce GTX 980	MSI^GeForce GTX 980	GPU
+NZXT H440 Green Black	NZXT^H440 (Green/Black)	CASE
 AMD Phenom II X4 810	AMD^Phenom II X4 810	CPU
 Pareem Pareema	Pareem^Pareema	MEMORY
 Crucial CT500BX100SSD1	Crucial^CT500BX100SSD1	DRIVE
@@ -2144,30 +2386,40 @@ Sandisk SDSSDXPS 960G G25	Sandisk^SDSSDXPS-960G-G25	DRIVE
 AMD Athlon II 160u OEM Tray	AMD^Athlon II 160u (OEM/Tray)	CPU
 Thermaltake Versa N21	Thermaltake^Versa N21	CASE
 Intel Core i7 870	Intel^Core i7-870	CPU
+Cooler Master  Nepton 120XL	Cooler Master^ Nepton 120XL	COOLER
 Western Digital WD1600AVJS	Western Digital^WD1600AVJS	DRIVE
 Corsair 600T	Corsair^600T	CASE
+GeIL Evo Two	GeIL^Evo Two	MEMORY
 Intel Core 2 Quad Q8300	Intel^Core 2 Quad Q8300	CPU
+Enermax ETS T40F RF	Enermax^ETS-T40F-RF	COOLER
 Toshiba HDWD130XZSTA	Toshiba^HDWD130XZSTA	DRIVE
 Azza Toledo 301	Azza^Toledo 301	CASE
 Intel Core 2 Duo E6550	Intel^Core 2 Duo E6550	CPU
-PowerColor Radeon HD 6850	PowerColor^Radeon HD 6850	GPU
+Biostar Hi Fi B85S3+ Ver. 6.x	Biostar^Hi-Fi B85S3+ Ver. 6.x	MOTHER
 Enermax ERX430AWT	Enermax^ERX430AWT	PSU
 Asus GeForce GTX 780	Asus^GeForce GTX 780	GPU
 NZXT Phantom 530 White	NZXT^Phantom 530 (White)	CASE
 Hitachi HUH728060ALE604 0F23669	Hitachi^HUH728060ALE604 (0F23669)	DRIVE
 Gigabyte GA Z97X Gaming G1 WIFI BK	Gigabyte^GA-Z97X-Gaming G1 WIFI-BK	MOTHER
 Western Digital WD3000FYYZ	Western Digital^WD3000FYYZ	DRIVE
-Asus Radeon R9 290X	Asus^Radeon R9 290X	GPU
+Cooler Master Elite 110	Cooler Master^Elite 110	CASE
+Dynatron R14	Dynatron^R14	COOLER
+Dynatron R15	Dynatron^R15	COOLER
 ASRock H81 Pro BTC	ASRock^H81 Pro BTC	MOTHER
+Dynatron R17	Dynatron^R17	COOLER
 CoolMax ZU 800B	CoolMax^ZU-800B	PSU
+Dynatron R12	Dynatron^R12	COOLER
+Dynatron R13	Dynatron^R13	COOLER
+Scythe Mugen 4	Scythe^Mugen 4	COOLER
 Intel Core i3 4130	Intel^Core i3-4130	CPU
 Sandisk SDSSDP 256G G25	Sandisk^SDSSDP-256G-G25	DRIVE
 Enermax ETL650AWT M	Enermax^ETL650AWT-M	PSU
-Gigabyte GA Z170 HD3	Gigabyte^GA-Z170-HD3	MOTHER
+Patriot Signature Line	Patriot^Signature Line	MEMORY
 Rosewill RD600 M	Rosewill^RD600-M	PSU
 Seagate ST3160815AS	Seagate^ST3160815AS	DRIVE
 Crucial CT1000MX200SSD1	Crucial^CT1000MX200SSD1	DRIVE
 AMD 5150 OEM Tray	AMD^5150 (OEM/Tray)	CPU
+Kingston HyperX Beast	Kingston^HyperX Beast	MEMORY
 Intel SSDSC2BF240H501	Intel^SSDSC2BF240H501	DRIVE
 Intel Core 2 Quad Q9650 OEM Tray	Intel^Core 2 Quad Q9650 (OEM/Tray)	CPU
 EVGA Stinger WiFi	EVGA^Stinger WiFi	MOTHER
@@ -2178,19 +2430,23 @@ Rosewill R5 Black	Rosewill^R5 (Black)	CASE
 MSI B85 G41 PC Mate	MSI^B85-G41 PC Mate	MOTHER
 AMD A4 4020	AMD^A4-4020	CPU
 Intel DQ45CB	Intel^DQ45CB	MOTHER
+Gelid Solutions ns Polar	Gelid Solutions^ns Polar	COOLER
 Asus Radeon HD 7850	Asus^Radeon HD 7850	GPU
 ASRock Z77 Pro4 M	ASRock^Z77 Pro4-M	MOTHER
-Toshiba DT01ACA200	Toshiba^DT01ACA200	DRIVE
+RAIJINTEK TRITON BLUE	RAIJINTEK^TRITON BLUE	COOLER
 Intel SSDSCKJW120H601	Intel^SSDSCKJW120H601	DRIVE
 Intel Celeron E1200 OEM Tray	Intel^Celeron E1200 (OEM/Tray)	CPU
 Cooler Master HAF 932 Advanced	Cooler Master^HAF 932 Advanced	CASE
+Sandisk SDSSDP 064G G25	Sandisk^SDSSDP-064G-G25	DRIVE
 Intel 240GB INTEL 730 SERIES SATA 3 SSD	Intel^240GB INTEL 730 SERIES SATA-3 SSD	DRIVE
-Kingston XMP 10th Anniversary Series	Kingston^XMP 10th Anniversary Series	MEMORY
+Western Digital WD3200BEKX	Western Digital^WD3200BEKX	DRIVE
+Zalman CNPS90F	Zalman^CNPS90F	COOLER
 Hitachi 0F10311	Hitachi^0F10311	DRIVE
-Corsair CSSD F512GBLX	Corsair^CSSD-F512GBLX	DRIVE
+NZXT Kraken X41	NZXT^Kraken X41	COOLER
 Seagate ST32000644NS	Seagate^ST32000644NS	DRIVE
 Cooler Master RS D00 SPHA D3	Cooler Master^RS-D00-SPHA-D3	PSU
 Gigabyte GA Z77 D3H	Gigabyte^GA-Z77-D3H	MOTHER
+Seagate ST31000340NS	Seagate^ST31000340NS	DRIVE
 Western Digital WDBSLA0020HNC NRSN	Western Digital^WDBSLA0020HNC-NRSN	DRIVE
 Cooler Master HAF 912 Advanced	Cooler Master^HAF 912 Advanced	CASE
 Antec Three Hundred	Antec^Three Hundred	CASE
@@ -2201,18 +2457,20 @@ Intel Core i5 2400	Intel^Core i5-2400	CPU
 Intel Xeon E5 2603 V3 OEM Tray	Intel^Xeon E5-2603 V3 (OEM/Tray)	CPU
 SeaSonic Platinum 1200SS 120	SeaSonic^Platinum-1200(SS-120	PSU
 ASRock AM1H ITX	ASRock^AM1H-ITX	MOTHER
+MSI GeForce GTX 760	MSI^GeForce GTX 760	GPU
 Plextor PX 128M6S	Plextor^PX-128M6S	DRIVE
 Gigabyte GA H81 D3	Gigabyte^GA-H81-D3	MOTHER
 Asus Z87 Deluxe QUAD	Asus^Z87-Deluxe/QUAD	MOTHER
 Asus X99 PRO	Asus^X99-PRO	MOTHER
+Thermalright Venomous X RT Rev.SB E	Thermalright^Venomous X RT Rev.SB-E	COOLER
 Western Digital WD50EFRX	Western Digital^WD50EFRX	DRIVE
 GeIL EVO POTENZA	GeIL^EVO POTENZA	MEMORY
 SeaSonic SSR 750RM	SeaSonic^SSR-750RM	PSU
 XFX Radeon HD 6870	XFX^Radeon HD 6870	GPU
-Intel Core i3 2100	Intel^Core i3-2100	CPU
+MSI Radeon R9 270	MSI^Radeon R9 270	GPU
 Intel Core i7 4790	Intel^Core i7-4790	CPU
 Intel SSDSC2BW120H601	Intel^SSDSC2BW120H601	DRIVE
-AMD A6 6420K	AMD^A6-6420K	CPU
+Samsung MZ 7TE750BW	Samsung^MZ-7TE750BW	DRIVE
 Patriot PBT120GS25SSDBK	Patriot^PBT120GS25SSDBK	DRIVE
 Asus Maximus V Formula Assassins C3	Asus^Maximus V Formula/Assassins C3	MOTHER
 Western Digital WD3200AAKS	Western Digital^WD3200AAKS	DRIVE
@@ -2221,11 +2479,14 @@ Silverstone ST55F G	Silverstone^ST55F-G	PSU
 Transcend TS16GSSD500	Transcend^TS16GSSD500	DRIVE
 Corsair HX850i	Corsair^HX850i	PSU
 Intel Core i5 6400 OEM Tray	Intel^Core i5-6400 (OEM/Tray)	CPU
-Seagate ST32000641AS	Seagate^ST32000641AS	DRIVE
+EVGA GeForce GTX Titan X	EVGA^GeForce GTX Titan X	GPU
 Asus MAXIMUS VII IMPACT	Asus^MAXIMUS VII IMPACT	MOTHER
 EVGA 270 WS W555 A2	EVGA^270-WS-W555-A2	MOTHER
 ASRock Z87E ITX	ASRock^Z87E-ITX	MOTHER
+Zalman CNPS5X Performa	Zalman^CNPS5X Performa	COOLER
+Arctic Cooling  UCACO FI30201 GB	Arctic Cooling^ UCACO-FI30201-GB	COOLER
 Intel Core i7 6700K	Intel^Core i7-6700K	CPU
+SeaSonic SS 300ES Bronze	SeaSonic^SS-300ES Bronze	PSU
 Fractal Design Define S w Window	Fractal Design^Define S w/Window	CASE
 Intel Core i7 6700T	Intel^Core i7-6700T	CPU
 G.Skill Sniper Gaming Series	G.Skill^Sniper Gaming Series	MEMORY
@@ -2236,7 +2497,6 @@ Thermaltake VL800P1W2N Black Red	Thermaltake^VL800P1W2N (Black/Red)	CASE
 Kingston SV300S3N7A 240G	Kingston^SV300S3N7A/240G	DRIVE
 Intel Xeon E5 1620 V3 OEM Tray	Intel^Xeon E5-1620 V3 (OEM/Tray)	CPU
 Intel Core i3 3250	Intel^Core i3-3250	CPU
-Asus Maximus VI Extreme	Asus^Maximus VI Extreme	MOTHER
 MSI Z97A GAMING 6	MSI^Z97A GAMING 6	MOTHER
 MSI Z97A GAMING 7	MSI^Z97A GAMING 7	MOTHER
 Corsair AX760i	Corsair^AX760i	PSU
@@ -2245,27 +2505,35 @@ OCZ RM88	OCZ^RM88	DRIVE
 Transcend TS32GSSD370S	Transcend^TS32GSSD370S	DRIVE
 ASRock 990FX Extreme9	ASRock^990FX Extreme9	MOTHER
 NZXT HALE82N 750W	NZXT^HALE82N 750W	PSU
-NZXT H2 Classic Silent Black	NZXT^H2 Classic Silent (Black)	CASE
+ASRock 990FX Extreme4	ASRock^990FX Extreme4	MOTHER
 Lian Li K60B	Lian-Li^K60B	CASE
 ASRock 990FX Extreme3	ASRock^990FX Extreme3	MOTHER
 Gigabyte GA Z87MX D3H	Gigabyte^GA-Z87MX-D3H	MOTHER
 Fractal Design Arc Mini R2	Fractal Design^Arc Mini R2	CASE
 AMD A8 3870K	AMD^A8-3870K	CPU
+Zalman CNPS9900MAX R	Zalman^CNPS9900MAX-R	COOLER
 ASRock FM2A55M DGS	ASRock^FM2A55M-DGS	MOTHER
 AMD A10 7850K OEM Tray	AMD^A10-7850K (OEM/Tray)	CPU
+MSI Radeon HD 7870 GHz Edition	MSI^Radeon HD 7870 GHz Edition	GPU
 MSI H87 G43 GAMING	MSI^H87-G43 GAMING	MOTHER
-Sandisk SDSSDHII 120G G25	Sandisk^SDSSDHII-120G-G25	DRIVE
+be quiet!  DARK ROCK TF	be quiet!^ DARK ROCK TF	COOLER
 Thermaltake SP 750M	Thermaltake^SP-750M	PSU
 Asus M4A785T M CSM	Asus^M4A785T-M/CSM	MOTHER
 Intel Core 2 Extreme QX6700	Intel^Core 2 Extreme QX6700	CPU
 ASRock P67 Extreme4	ASRock^P67 Extreme4	MOTHER
+Zalman CNPS9900MAX B	Zalman^CNPS9900MAX-B	COOLER
 MSI Z87 MPOWER MAX AC	MSI^Z87 MPOWER MAX AC	MOTHER
 NZXT Phantom 410 Red	NZXT^Phantom 410 (Red)	CASE
+Corsair XMS3	Corsair^XMS3	MEMORY
+Prolimatech PRO ARMGD	Prolimatech^PRO-ARMGD	COOLER
 Corsair 500R Black	Corsair^500R Black	CASE
-MSI Radeon R7 260X	MSI^Radeon R7 260X	GPU
+NZXT H2 Classic Silent Black	NZXT^H2 Classic Silent (Black)	CASE
+Thermalright AXP 200	Thermalright^AXP-200	COOLER
+Dynatron R16	Dynatron^R16	COOLER
 Intel Celeron G555	Intel^Celeron G555	CPU
 Hitachi 7K3000	Hitachi^7K3000	DRIVE
 Aerocool DS Cube Black Edition Silent Cube	Aerocool^DS Cube Black Edition Silent Cube	CASE
+Gigabyte GeForce GTX 660 Ti	Gigabyte^GeForce GTX 660 Ti	GPU
 Sapphire Radeon HD 7750	Sapphire^Radeon HD 7750	GPU
 Asus P8P67 WS Revolution REV 3.0	Asus^P8P67 WS Revolution (REV 3.0)	MOTHER
 Sapphire Radeon HD 7970	Sapphire^Radeon HD 7970	GPU
@@ -2282,36 +2550,42 @@ EVGA NEX750G Gold	EVGA^NEX750G Gold	PSU
 ASRock B85 Killer	ASRock^B85 Killer	MOTHER
 Gigabyte GA Z97X SOC	Gigabyte^GA-Z97X-SOC	MOTHER
 Corsair CSSD F240GBLS	Corsair^CSSD-F240GBLS	DRIVE
+Cooler Master  Seidon 240M	Cooler Master^ Seidon 240M	COOLER
+CRYORIG M9a	CRYORIG^M9a	COOLER
 ECS H77H2 M31.0	ECS^H77H2-M3(1.0)	MOTHER
+Rosewill RCX Z90 AL	Rosewill^RCX-Z90-AL	COOLER
 ECS A75F2 A21.0	ECS^A75F2-A2(1.0)	MOTHER
+Thermaltake CLP0552	Thermaltake^CLP0552	COOLER
 Intel DH55HC	Intel^DH55HC	MOTHER
 ASRock B85M ITX	ASRock^B85M-ITX	MOTHER
+Cooler Master  CHD 00008 01 GP	Cooler Master^ CHD-00008-01-GP	COOLER
 Intel Core 2 Extreme QX9775	Intel^Core 2 Extreme QX9775	CPU
 Samsung MZ 7TD120KW	Samsung^MZ-7TD120KW	DRIVE
 AMD Phenom II X2 565 Black	AMD^Phenom II X2 565 Black	CPU
+Thermalright Macho Zero	Thermalright^Macho Zero	COOLER
 OCZ OCZ500MXSP	OCZ^OCZ500MXSP	PSU
-AMD FX 4170	AMD^FX-4170	CPU
+Asus GeForce GTX 780 Ti	Asus^GeForce GTX 780 Ti	GPU
 Asus Z97 PROWi Fi ac USB 3.1	Asus^Z97-PRO(Wi-Fi ac)/USB 3.1	MOTHER
-Intel Core 2 Quad Q8200S OEM Tray	Intel^Core 2 Quad Q8200S (OEM/Tray)	CPU
+Corsair Vengeance C70 White	Corsair^Vengeance C70 (White)	CASE
 Sandisk SD8SNAT 256G 1122	Sandisk^SD8SNAT-256G-1122	DRIVE
 Intel Core 2 Extreme QX9770	Intel^Core 2 Extreme QX9770	CPU
-Intel Core i3 3240	Intel^Core i3-3240	CPU
-Western Digital WD10JFCX	Western Digital^WD10JFCX	DRIVE
+Western Digital WD1600AVVS	Western Digital^WD1600AVVS	DRIVE
+Rosewill RCX Z1	Rosewill^RCX-Z1	COOLER
 Intel Xeon E3 1270 V3 OEM Tray	Intel^Xeon E3-1270 V3 (OEM/Tray)	CPU
 ASRock B75M DGS	ASRock^B75M-DGS	MOTHER
-Gigabyte GeForce GTX 650 Ti Boost	Gigabyte^GeForce GTX 650 Ti Boost	GPU
+Corsair Vengeance C70 Black	Corsair^Vengeance C70 (Black)	CASE
 Asus Z87I Deluxe	Asus^Z87I-Deluxe	MOTHER
 Raidmax Vampire	Raidmax^Vampire	CASE
-AMD Athlon X4 740	AMD^Athlon X4 740	CPU
 Raidmax RX 1000AE	Raidmax^RX-1000AE	PSU
 Nanoxia NXDS4W	Nanoxia^NXDS4W	CASE
 Intel SSDSC2BP480G410	Intel^SSDSC2BP480G410	DRIVE
 Intel Core i3 2120	Intel^Core i3-2120	CPU
 Intel Xeon E5 2630L V2 OEM Tray	Intel^Xeon E5-2630L V2 (OEM/Tray)	CPU
-Intel Core i3 2125	Intel^Core i3-2125	CPU
+Corsair 450D	Corsair^450D	CASE
 Samsung MZ 7TD250KW	Samsung^MZ-7TD250KW	DRIVE
 A Dat A Data	A-Dat^A-Data	MEMORY
 Intel Core i5 4670	Intel^Core i5-4670	CPU
+GeIL EVO CORSA Series	GeIL^EVO CORSA Series	MEMORY
 Nanoxia NXDS4B	Nanoxia^NXDS4B	CASE
 Zotac GeForce GTX 650 Ti Boost	Zotac^GeForce GTX 650 Ti Boost	GPU
 Intel DZ75ML 45K	Intel^DZ75ML-45K	MOTHER
@@ -2319,8 +2593,9 @@ Gigabyte GA 970A DS3P	Gigabyte^GA-970A-DS3P	MOTHER
 Enermax ENM750AWT	Enermax^ENM750AWT	PSU
 Intel Core i3 3240 OEM Tray	Intel^Core i3-3240 (OEM/Tray)	CPU
 Gigabyte GA H61M S1	Gigabyte^GA-H61M-S1	MOTHER
+PNY GeForce GTX 560	PNY^GeForce GTX 560	GPU
 Intel SSDSC2BX480G401	Intel^SSDSC2BX480G401	DRIVE
-Eluktro TRO SSD7 1TB PRO	Eluktro^TRO-SSD7-1TB-PRO	DRIVE
+Deepcool CAPTAIN 120	Deepcool^CAPTAIN 120	COOLER
 Intel Xeon E5 4650	Intel^Xeon E5-4650	CPU
 ASRock Z77 OC Formula	ASRock^Z77 OC Formula	MOTHER
 OCZ OCZ600SXS2	OCZ^OCZ600SXS2	PSU
@@ -2334,28 +2609,29 @@ G.Skil G.Skill	G.Skil^G.Skill	MEMORY
 Western Digital WD2001FASS	Western Digital^WD2001FASS	DRIVE
 Antec TP 650C	Antec^TP-650C	PSU
 Rosewill RS MI 01 BK	Rosewill^RS-MI-01 BK	CASE
-AMD A10 7800	AMD^A10-7800	CPU
+Arctic Cooling  UCACO AP60301 BUA01	Arctic Cooling^ UCACO-AP60301-BUA01	COOLER
+Corsair CS550M	Corsair^CS550M	PSU
 Corsair TX650M	Corsair^TX650M	PSU
 Rosewill PHOTON 750	Rosewill^PHOTON-750	PSU
 Crucial Ballistix Sport XT	Crucial^Ballistix Sport XT	MEMORY
 Cooler Master Silencio 550 Black	Cooler Master^Silencio 550 (Black)	CASE
 Intel SSDSC2CT120A3K5	Intel^SSDSC2CT120A3K5	DRIVE
-Samsung ST1000LM024	Samsung^ST1000LM024	DRIVE
 XFX P1 550S XXB9	XFX^P1-550S-XXB9	PSU
 MSI P67A GD55 B3	MSI^P67A-GD55 (B3)	MOTHER
 AMD FX 8370E OEM Tray	AMD^FX-8370E (OEM/Tray)	CPU
-Samsung MZ M5E500BW	Samsung^MZ-M5E500BW	DRIVE
 Asus Z87I Pro	Asus^Z87I-Pro	MOTHER
 Seagate ST6000VN0001	Seagate^ST6000VN0001	DRIVE
 Crucia Crucial	Crucia^Crucial	MEMORY
 Seagate STCL4000400 Retail Kit	Seagate^STCL4000400 Retail Kit	DRIVE
 Rosewill RBR1000 M	Rosewill^RBR1000-M	PSU
 Asus Z97 PROWi Fi ac	Asus^Z97-PRO(Wi-Fi ac)	MOTHER
-SeaSonic SS 300ES Bronze	SeaSonic^SS-300ES Bronze	PSU
+CoolMax V 600	CoolMax^V-600	PSU
+MSI Radeon R7 260X	MSI^Radeon R7 260X	GPU
 Intel Core i5 760	Intel^Core i5-760	CPU
+be quiet!  Shadow Rock Topflow SR1	be quiet!^ Shadow Rock Topflow SR1	COOLER
 Cooler Master HAF X nVidia Edition	Cooler Master^HAF X nVidia Edition	CASE
 Corsair CSSD F120GBLSB	Corsair^CSSD-F120GBLSB	DRIVE
-Apevia ATX WA900W	Apevia^ATX-WA900W	PSU
+Asus H81M D PLUS	Asus^H81M-D PLUS	MOTHER
 Cooler Master 690 III	Cooler Master^690 III	CASE
 Gigabyte Radeon HD 6870	Gigabyte^Radeon HD 6870	GPU
 ASRock H81M ITX	ASRock^H81M-ITX	MOTHER
@@ -2366,13 +2642,18 @@ Intel Core 2 Duo E7300	Intel^Core 2 Duo E7300	CPU
 MSI Z97M G43	MSI^Z97M-G43	MOTHER
 ASRock B75M DGS R2.0	ASRock^B75M-DGS R2.0	MOTHER
 MSI GeForce GTX 970	MSI^GeForce GTX 970	GPU
-G.Skill ECO Series	G.Skill^ECO Series	MEMORY
+Sapphire Radeon HD 6670	Sapphire^Radeon HD 6670	GPU
 Corsair GS800	Corsair^GS800	PSU
-Toshiba DT01ACA050	Toshiba^DT01ACA050	DRIVE
+Hitachi 0S03660	Hitachi^0S03660	DRIVE
+Intel BXTS13A	Intel^BXTS13A	COOLER
+Silverstone NT07 AM2	Silverstone^NT07-AM2	COOLER
 Asus RAIDR EXPRESS	Asus^RAIDR EXPRESS	DRIVE
+Cooler Master  Hyper 212 EVO	Cooler Master^ Hyper 212 EVO	COOLER
+Intel BXTS13X	Intel^BXTS13X	COOLER
 Lian Li PC Q25B	Lian-Li^PC-Q25B	CASE
-Intel Pentium G3460 OEM Tray	Intel^Pentium G3460 (OEM/Tray)	CPU
+AMD Phenom II X4 805	AMD^Phenom II X4 805	CPU
 Intel Pentium E6500 OEM Tray	Intel^Pentium E6500 (OEM/Tray)	CPU
+Arctic Cooling  ACFZA30	Arctic Cooling^ ACFZA30	COOLER
 XFX Radeon R9 295X2	XFX^Radeon R9 295X2	GPU
 MSI FM2 A85XMA E35	MSI^FM2-A85XMA-E35	MOTHER
 GALAX GeForce GTX 970	GALAX^GeForce GTX 970	GPU
@@ -2380,17 +2661,20 @@ EVGA 100 N1 0400 L1	EVGA^100-N1-0400-L1	PSU
 AMD Phenom II X2 560 Black	AMD^Phenom II X2 560 Black	CPU
 Asus A55BM K	Asus^A55BM-K	MOTHER
 Asus Maximus V Formula	Asus^Maximus V Formula	MOTHER
+Mushkin Essentials	Mushkin^Essentials	MEMORY
 Team Zeus Yellow	Team^Zeus Yellow	MEMORY
-Western Digital WD40EZRZ	Western Digital^WD40EZRZ	DRIVE
+Team Elite	Team^Elite	MEMORY
 Western Digital WD40EFRX	Western Digital^WD40EFRX	DRIVE
-Kingston SHPM2280P2 480G	Kingston^SHPM2280P2/480G	DRIVE
+Arctic Cooling  UCACO AP111 GBB01	Arctic Cooling^ UCACO-AP111-GBB01	COOLER
 Gigabyte GeForce GTX 560 Ti 448	Gigabyte^GeForce GTX 560 Ti 448	GPU
 Gigabyte GA Z97M D3H	Gigabyte^GA-Z97M-D3H	MOTHER
+Silverstone NT07 775	Silverstone^NT07-775	COOLER
 Gigabyte GA Z97X SOC FORCE	Gigabyte^GA-Z97X-SOC FORCE	MOTHER
-Silverstone ST1000 G	Silverstone^ST1000-G	PSU
+BitFenix Prodigy M Arctic White	BitFenix^Prodigy M Arctic White	CASE
 Transcend TS256GMTS400	Transcend^TS256GMTS400	DRIVE
 Corsair CSSD N120GBGTXB BK	Corsair^CSSD-N120GBGTXB-BK	DRIVE
 Raidmax Helios ATX 819WB	Raidmax^Helios ATX-819WB	CASE
+Asus Radeon HD 6670	Asus^Radeon HD 6670	GPU
 Cooler Master HAF 932	Cooler Master^HAF 932	CASE
 Asus F2A85 M CSM	Asus^F2A85-M/CSM	MOTHER
 Gigabyte GA H77N WIFI	Gigabyte^GA-H77N-WIFI	MOTHER
@@ -2402,7 +2686,7 @@ Corsair Force Series LS	Corsair^Force Series LS	DRIVE
 Asus X99 A	Asus^X99-A	MOTHER
 Gigabyte GA H77M D3H	Gigabyte^GA-H77M-D3H	MOTHER
 Cooler Master HAF 912 Plus	Cooler Master^HAF 912 Plus	CASE
-Mushkin Silverline	Mushkin^Silverline	MEMORY
+Thermaltake Frio Silent 12	Thermaltake^Frio Silent 12	COOLER
 Seagate ST2000NM0044	Seagate^ST2000NM0044	DRIVE
 MSI GeForce GTX 750	MSI^GeForce GTX 750	GPU
 AMD A6 6400K	AMD^A6-6400K	CPU
@@ -2410,25 +2694,30 @@ VisionTek Radeon R9 280X	VisionTek^Radeon R9 280X	GPU
 Gigabyte GA B150M D3H DDR3	Gigabyte^GA-B150M-D3H DDR3	MOTHER
 MSI A58M E35	MSI^A58M-E35	MOTHER
 AMD Athlon II X2 250 OEM Tray	AMD^Athlon II X2 250 (OEM/Tray)	CPU
+NZXT HAVIK 120	NZXT^HAVIK 120	COOLER
+Western Digital WD2002FAEX	Western Digital^WD2002FAEX	DRIVE
+Prolimatech Basic 45	Prolimatech^Basic 45	COOLER
 Raidmax Super Hurricane Black	Raidmax^Super Hurricane (Black)	CASE
 XFX Radeon HD 7770 GHz Edition	XFX^Radeon HD 7770 GHz Edition	GPU
 Seagate ST9500325AS	Seagate^ST9500325AS	DRIVE
 Cougar RX600	Cougar^RX600	PSU
-Gigabyte G1.SNIPER Z5S	Gigabyte^G1.SNIPER Z5S	MOTHER
+Thermaltake Frio Silent 14	Thermaltake^Frio Silent 14	COOLER
+Western Digital WD4000FYYZ	Western Digital^WD4000FYYZ	DRIVE
 Azza Solano 1000R	Azza^Solano 1000R	CASE
+Seagate ST500LM021	Seagate^ST500LM021	DRIVE
 Gigabyte GA H61M S2H	Gigabyte^GA-H61M-S2H	MOTHER
 LEPA N500 SA	LEPA^N500-SA	PSU
 Intel Core i7 3820	Intel^Core i7-3820	CPU
 ivision 2 Viper Xtreme Serie	ivision 2^Viper Xtreme Serie	MEMORY
-Intel Core i7 5775C	Intel^Core i7-5775C	CPU
+Asus A88XM PLUS CSM	Asus^A88XM-PLUS/CSM	MOTHER
 Hitachi A7K2000	Hitachi^A7K2000	DRIVE
 Thermaltake Armor Revo Gene Snow Edition	Thermaltake^Armor Revo Gene Snow Edition	CASE
+Asus Radeon HD 7870 GHz Edition	Asus^Radeon HD 7870 GHz Edition	GPU
 Samsung MZ 75E2T0B AM	Samsung^MZ-75E2T0B/AM	DRIVE
 Raidmax ATX 809B Black	Raidmax^ATX-809B (Black)	CASE
 Intel Xeon E3 1230 V2 OEM Tray	Intel^Xeon E3-1230 V2 (OEM/Tray)	CPU
 Toshiba PH3200U 1I72	Toshiba^PH3200U-1I72	DRIVE
 Intel Celeron 847 OEM Tray	Intel^Celeron 847 (OEM/Tray)	CPU
-NZXT H230 White	NZXT^H230 (White)	CASE
 Seagate ST3000DM001	Seagate^ST3000DM001	DRIVE
 Patriot PB120GS25SSDR	Patriot^PB120GS25SSDR	DRIVE
 Corsair CX430M	Corsair^CX430M	PSU
@@ -2436,8 +2725,10 @@ Raidmax ATX 249WW	Raidmax^ATX-249WW	CASE
 NZXT HALE82N 650W	NZXT^HALE82N 650W	PSU
 Sigma ZEN WJG	Sigma^ZEN-WJG	CASE
 PowerColor Radeon HD 7950	PowerColor^Radeon HD 7950	GPU
+Xigmatek ld964	Xigmatek^ld964	COOLER
 Asus GeForce GTX 680	Asus^GeForce GTX 680	GPU
-Corsair Vengeance	Corsair^Vengeance	MEMORY
+A Data ASP900NS38 128GM C	A-Data^ASP900NS38-128GM-C	DRIVE
+Seagate ST1000VX000	Seagate^ST1000VX000	DRIVE
 Intel SSDSC2BW120H6R5	Intel^SSDSC2BW120H6R5	DRIVE
 Intel Xeon E5 1650 OEM Tray	Intel^Xeon E5-1650 (OEM/Tray)	CPU
 Corsair XMS	Corsair^XMS	MEMORY
@@ -2447,30 +2738,36 @@ Asus X99 A USB 3.1	Asus^X99-A/USB 3.1	MOTHER
 FSP Group Raider S 450	FSP^Group Raider S 450	PSU
 Transcend TS512GMTS800	Transcend^TS512GMTS800	DRIVE
 Asus P5P43TD	Asus^P5P43TD	MOTHER
+StarTech FAN1156PWM	StarTech^FAN1156PWM	COOLER
 Western Digital WD1503FYYS	Western Digital^WD1503FYYS	DRIVE
-AMD A8 7670K	AMD^A8-7670K	CPU
 Lian Li LanCool PC K57	Lian-Li^LanCool PC-K57	CASE
+Seagate ST31500341AS	Seagate^ST31500341AS	DRIVE
 Asus GeForce GTX 750	Asus^GeForce GTX 750	GPU
 Asus P8H77 V LE	Asus^P8H77-V LE	MOTHER
 Western Digital WD6000BLHX	Western Digital^WD6000BLHX	DRIVE
-Samsung MZ M5E250BW	Samsung^MZ-M5E250BW	DRIVE
 PowerColor Radeon HD 7870 GHz Edition	PowerColor^Radeon HD 7870 GHz Edition	GPU
 Gigabyte GA H81M H	Gigabyte^GA-H81M-H	MOTHER
 ASRock Z77 Professional M	ASRock^Z77 Professional-M	MOTHER
 Deepcool STEAM CASTLE BLACK	Deepcool^STEAM CASTLE (BLACK)	CASE
-Intel Core 2 Extreme QX9775 OEM Tray	Intel^Core 2 Extreme QX9775 (OEM/Tray)	CPU
-Gigabyte GA P67A UD5 B3	Gigabyte^GA-P67A-UD5-B3	MOTHER
+Fractal Design Define R4 Arctic White	Fractal Design^Define R4 (Arctic White)	CASE
+SeaSonic SS 750KM	SeaSonic^SS-750KM	PSU
 Intel Core i5 670	Intel^Core i5-670	CPU
+Gigabyte GeForce GTX 670	Gigabyte^GeForce GTX 670	GPU
+Phanteks PH TC14CS_BL	Phanteks^PH-TC14CS_BL	COOLER
+Silverstone TD02	Silverstone^TD02	COOLER
 A Data ASP550SS3 480GM C	A-Data^ASP550SS3-480GM-C	DRIVE
 Intel Core i3 3245	Intel^Core i3-3245	CPU
 BitFenix Prodigy M Vivid Green	BitFenix^Prodigy M Vivid Green	CASE
 Western Digital WD5000LPLX	Western Digital^WD5000LPLX	DRIVE
-Asus Radeon HD 6670	Asus^Radeon HD 6670	GPU
+Thermaltake Level 10 GT Snow Edition	Thermaltake^Level 10 GT Snow Edition	CASE
 Mushkin ECO2	Mushkin^ECO2	MEMORY
 Corsair 200R	Corsair^200R	CASE
+XFX Radeon HD 5850	XFX^Radeon HD 5850	GPU
 EVGA 600B	EVGA^600B	PSU
+Cooler Master  Glacer 240L	Cooler Master^ Glacer 240L	COOLER
 Intel Pentium G4400 OEM Tray	Intel^Pentium G4400 (OEM/Tray)	CPU
-OCZ ZD4CM84 HH 1.2T	OCZ^ZD4CM84-HH-1.2T	DRIVE
+Prolimatech PRO GNSS	Prolimatech^PRO-GNSS	COOLER
+Samsung MZHPV128HDGM 0000	Samsung^MZHPV128HDGM-0000	DRIVE
 SeaSonic SS 650KM	SeaSonic^SS-650KM	PSU
 Corsair CSSD F120GBGT BK	Corsair^CSSD-F120GBGT-BK	DRIVE
 Gigabyte GeForce GTX 770	Gigabyte^GeForce GTX 770	GPU
@@ -2482,16 +2779,20 @@ MSI Radeon HD 7870	MSI^Radeon HD 7870	GPU
 AMD Athlon II X4 635	AMD^Athlon II X4 635	CPU
 Cooler Master N200	Cooler Master^N200	CASE
 AMD Phenom II X4 830 OEM Tray	AMD^Phenom II X4 830 (OEM/Tray)	CPU
+Dynatron R8	Dynatron^R8	COOLER
+Dynatron R9	Dynatron^R9	COOLER
 Thermaltake Overseer RX I Snow Edition	Thermaltake^Overseer RX-I Snow Edition	CASE
 AMD RADEON R7SSD 120G	AMD^RADEON-R7SSD-120G	DRIVE
 SeaSonic S12G 550	SeaSonic^S12G-550	PSU
+Rosewill ROCC 12001	Rosewill^ROCC-12001	COOLER
 MSI Z87I AC	MSI^Z87I AC	MOTHER
 Corsair CX600M	Corsair^CX600M	PSU
 Asus P9X79 PRO	Asus^P9X79 PRO	MOTHER
 Silverstone FT02B	Silverstone^FT02B	CASE
 Cooler Master RS 600 AMBA D3	Cooler Master^RS-600-AMBA-D3	PSU
 AMD A4 6300B OEM Tray	AMD^A4-6300B (OEM/Tray)	CPU
-Asus Radeon HD 7770 GHz Edition	Asus^Radeon HD 7770 GHz Edition	GPU
+Gigabyte GA Z97 D3H	Gigabyte^GA-Z97-D3H	MOTHER
+Cooler Master  GeminII S524	Cooler Master^ GeminII S524	COOLER
 Lian Li PC 9F	Lian-Li^PC-9F	CASE
 AMD A6 3650	AMD^A6-3650	CPU
 Seagate ST2000DM001	Seagate^ST2000DM001	DRIVE
@@ -2500,6 +2801,7 @@ Asus Z170 PRO GAMING	Asus^Z170 PRO GAMING	MOTHER
 Antec BP430	Antec^BP430	PSU
 Azza Genesis 9000 Black	Azza^Genesis 9000 (Black)	CASE
 Transcend TS32GSSD370	Transcend^TS32GSSD370	DRIVE
+Cooler Master  Seidon 120M	Cooler Master^ Seidon 120M	COOLER
 Gigabyte GA Z97X Gaming G1	Gigabyte^GA-Z97X-Gaming G1	MOTHER
 A Data XPG™ Gaming v2.0 Series	A-Data^XPG™ Gaming v2.0 Series	MEMORY
 Thermaltake SP 750PCBUS	Thermaltake^SP-750PCBUS	PSU
@@ -2507,6 +2809,7 @@ Silverstone SST ST1000 G Evolution	Silverstone^SST-ST1000-G Evolution	PSU
 AMD R9 Gamer Series	AMD^R9 Gamer Series	MEMORY
 ASRock Fatal1ty Z87 Killer	ASRock^Fatal1ty Z87 Killer	MOTHER
 Seagate ST500LT012	Seagate^ST500LT012	DRIVE
+LEPA AquaChanger 240	LEPA^AquaChanger 240	COOLER
 Silverstone SG08B LITE	Silverstone^SG08B-LITE	CASE
 ASRock Fatal1ty X99M Killer	ASRock^Fatal1ty X99M Killer	MOTHER
 Asus Z87M Plus	Asus^Z87M-Plus	MOTHER
@@ -2518,27 +2821,29 @@ AMD Athlon II X2 240e	AMD^Athlon II X2 240e	CPU
 Intel Core i7 3770	Intel^Core i7-3770	CPU
 Rosewill CAPSTONE 650	Rosewill^CAPSTONE-650	PSU
 ASRock Z77 Extreme4	ASRock^Z77 Extreme4	MOTHER
-Intel Core 2 Duo E6700 OEM Tray	Intel^Core 2 Duo E6700 (OEM/Tray)	CPU
+Intel Core 2 Duo E6850	Intel^Core 2 Duo E6850	CPU
 Intel Xeon E5 2630 V3 OEM Tray	Intel^Xeon E5-2630 V3 (OEM/Tray)	CPU
-AMD A10 7850K	AMD^A10-7850K	CPU
+Noctua NH C14	Noctua^NH-C14	COOLER
+Thermaltake Core V1	Thermaltake^Core V1	CASE
 Intel Core i7 4790T OEM Tray	Intel^Core i7-4790T (OEM/Tray)	CPU
 Seagate ST1000LM015	Seagate^ST1000LM015	DRIVE
 Cooler Master RS800 80GAD3 US	Cooler Master^RS800-80GAD3-US	PSU
-EVGA GeForce GTX 980 Ti	EVGA^GeForce GTX 980 Ti	GPU
+EVGA ACX	EVGA^ACX	COOLER
 Seagate ST1000LM014	Seagate^ST1000LM014	DRIVE
 AMD Athlon X4 530 OEM Tray	AMD^Athlon X4 530 (OEM/Tray)	CPU
-Corsair AX850	Corsair^AX850	PSU
 Patriot Viper 3 Low Profile Red	Patriot^Viper 3 Low Profile Red	MEMORY
 Western Digital WD5000AADS	Western Digital^WD5000AADS	DRIVE
 Western Digital WDBH2D0030HNC NRSN	Western Digital^WDBH2D0030HNC-NRSN	DRIVE
 Intel Xeon E5 1680 V3 OEM Tray	Intel^Xeon E5-1680 V3 (OEM/Tray)	CPU
-EVGA GeForce GTX 690	EVGA^GeForce GTX 690	GPU
+Transcend TS256GSSD340	Transcend^TS256GSSD340	DRIVE
 Sapphire Radeon R9 290X	Sapphire^Radeon R9 290X	GPU
 EVGA NEX650G Gold	EVGA^NEX650G Gold	PSU
 Asus H81M PLUS	Asus^H81M-PLUS	MOTHER
+Cooler Master  Hyper 412S	Cooler Master^ Hyper 412S	COOLER
 Mushkin MKNSSDAV120GB D8	Mushkin^MKNSSDAV120GB-D8	DRIVE
 Seagate ST2000VN0011	Seagate^ST2000VN0011	DRIVE
 NZXT M59   001BK	NZXT^M59 - 001BK	CASE
+Western Digital WD10PURX	Western Digital^WD10PURX	DRIVE
 ASRock Z97 PRO4	ASRock^Z97 PRO4	MOTHER
 Toshiba DT01ACA100	Toshiba^DT01ACA100	DRIVE
 Zotac GeForce GTX 750	Zotac^GeForce GTX 750	GPU
@@ -2553,7 +2858,8 @@ ASRock Z77 Extreme6	ASRock^Z77 Extreme6	MOTHER
 Zotac GeForce GTX 660 Ti	Zotac^GeForce GTX 660 Ti	GPU
 ASRock Fatal1ty Z97 Killer	ASRock^Fatal1ty Z97 Killer	MOTHER
 Corsair C70 Military Green Green	Corsair^C70 Military Green (Green)	CASE
-Intel Core i5 3470	Intel^Core i5-3470	CPU
+Intel Core i5 3450S	Intel^Core i5-3450S	CPU
+Kingston Value	Kingston^Value	MEMORY
 Asus H87M E	Asus^H87M-E	MOTHER
 Samsung ST1000DM005 HD103SJ	Samsung^ST1000DM005/HD103SJ	DRIVE
 MSI Radeon R9 270X	MSI^Radeon R9 270X	GPU
@@ -2563,26 +2869,29 @@ ASRock B85 Anniversary	ASRock^B85 Anniversary	MOTHER
 Intel Core i7 4770K	Intel^Core i7-4770K	CPU
 Fractal Design Core 1300	Fractal Design^Core 1300	CASE
 Asus M5A97 R2.0	Asus^M5A97 R2.0	MOTHER
-Samsung MZVPV256HDGL 00000	Samsung^MZVPV256HDGL-00000	DRIVE
+MSI Radeon HD 6570	MSI^Radeon HD 6570	GPU
 Intel Core 2 Quad Q9300	Intel^Core 2 Quad Q9300	CPU
 Apevia X Cruiser2 Black	Apevia^X-Cruiser2 Black	CASE
 Raidmax RX 450K	Raidmax^RX-450K	PSU
 Silverstone GD04B USB3.0 Black	Silverstone^GD04B-USB3.0 (Black)	CASE
-Asus Radeon R7 240	Asus^Radeon R7 240	GPU
+Intel Pentium G3450 OEM Tray	Intel^Pentium G3450 (OEM/Tray)	CPU
 Biostar H61MGV3	Biostar^H61MGV3	MOTHER
 Intel Core i7 4770S	Intel^Core i7-4770S	CPU
 NZXT Phantom White	NZXT^Phantom (White)	CASE
+XFX Radeon HD 5450	XFX^Radeon HD 5450	GPU
 Cooler Master HAF Stacker 935	Cooler Master^HAF Stacker 935	CASE
 Intel Core i5 3570K	Intel^Core i5-3570K	CPU
+PNY GeForce GTX 670	PNY^GeForce GTX 670	GPU
 Intel SSDPEDMW400G4X1	Intel^SSDPEDMW400G4X1	DRIVE
 Western Digital WD10EFRX	Western Digital^WD10EFRX	DRIVE
 Patriot Viper 3 Low Profile Blue	Patriot^Viper 3 Low Profile Blue	MEMORY
 Toshiba HDTS712XZSTA	Toshiba^HDTS712XZSTA	DRIVE
-NZXT H440 Green Black	NZXT^H440 (Green/Black)	CASE
+OCZ VTX460 25SAT3 240G	OCZ^VTX460-25SAT3-240G	DRIVE
 Apevia X SNIPER2 BL	Apevia^X-SNIPER2-BL	CASE
 EVGA SuperNOVA 1200	EVGA^SuperNOVA 1200	PSU
 Asus M4A87TD EVO	Asus^M4A87TD EVO	MOTHER
 Asus A85XM A	Asus^A85XM-A	MOTHER
+MSI GeForce GTX 560 Ti 448	MSI^GeForce GTX 560 Ti 448	GPU
 Gigabyte Radeon R7 250	Gigabyte^Radeon R7 250	GPU
 Toshiba HDWE160XZSTA	Toshiba^HDWE160XZSTA	DRIVE
 Intel Core i7 3930K	Intel^Core i7-3930K	CPU
@@ -2596,17 +2905,22 @@ Hitachi 0F23657	Hitachi^0F23657	DRIVE
 ASRock Z97 PRO3	ASRock^Z97 PRO3	MOTHER
 AMD FX 4350	AMD^FX-4350	CPU
 ASRock Z97M OC Formula	ASRock^Z97M OC Formula	MOTHER
+Evercool HPL 815EP	Evercool^HPL-815EP	COOLER
 Thermaltake Urban S31 Window	Thermaltake^Urban S31 Window	CASE
+Intel SSDSC2BW480H6R5	Intel^SSDSC2BW480H6R5	DRIVE
+Enermax ETS T40F BK	Enermax^ETS-T40F-BK	COOLER
 Cooler Master RSA00 AMBAJ3 US	Cooler Master^RSA00-AMBAJ3-US	PSU
-Samsung MZ 7TE750BW	Samsung^MZ-7TE750BW	DRIVE
-EVGA GeForce GTX Titan X	EVGA^GeForce GTX Titan X	GPU
+Enermax ETD T60 TB	Enermax^ETD-T60-TB	COOLER
+Western Digital WD10EALX	Western Digital^WD10EALX	DRIVE
+Arctic Cooling  ACFZ11 LP	Arctic Cooling^ ACFZ11-LP	COOLER
+Seagate ST32000641AS	Seagate^ST32000641AS	DRIVE
 Toshiba HDTS112XZSWA	Toshiba^HDTS112XZSWA	DRIVE
 Xigmatek Elysium Black	Xigmatek^Elysium Black	CASE
 Samsung MZ 7PD128Z	Samsung^MZ-7PD128Z	DRIVE
-Rosewill THOR V2 W	Rosewill^THOR V2-W	CASE
+Evercool CI01 9525EP	Evercool^CI01-9525EP	COOLER
+Asus Maximus VI Extreme	Asus^Maximus VI Extreme	MOTHER
 Sapphire Radeon R7 240	Sapphire^Radeon R7 240	GPU
-Patriot Signature	Patriot^Signature	MEMORY
-OCZ VTX460 25SAT3 240G	OCZ^VTX460-25SAT3-240G	DRIVE
+Deepcool GAMMAXX S40	Deepcool^GAMMAXX S40	COOLER
 Kingston SNV425 S2BD 128GB	Kingston^SNV425-S2BD/128GB	DRIVE
 XFX PRO750W P1 750S NLB9	XFX^PRO750W (P1-750S-NLB9)	PSU
 MSI B85M G43	MSI^B85M-G43	MOTHER
@@ -2615,28 +2929,32 @@ Kingston SHSS3B7A 960G Bundle	Kingston^SHSS3B7A/960G Bundle	DRIVE
 XFX P1 750X XXB9	XFX^P1-750X-XXB9	PSU
 Intel Xeon E3 1230 V2	Intel^Xeon E3-1230 V2	CPU
 Intel Xeon E3 1230 V3	Intel^Xeon E3-1230 V3	CPU
+VisionTek Data Fusion 2 way	VisionTek^Data Fusion 2-way	DRIVE
 Samsung MZHPV512HDGL 00000	Samsung^MZHPV512HDGL-00000	DRIVE
 Intel Pentium E2220	Intel^Pentium E2220	CPU
 OCZ VTX4 25SAT3 256G	OCZ^VTX4-25SAT3-256G	DRIVE
-NZXT Phantom 630 Gunmetal	NZXT^Phantom 630 (Gunmetal)	CASE
+Crucial CT120M500SSD1	Crucial^CT120M500SSD1	DRIVE
 Samsung MZ 75E250B AM	Samsung^MZ-75E250B/AM	DRIVE
 Antec Twelve Hundred V3	Antec^Twelve Hundred V3	CASE
 Asus M5A88 V EVO	Asus^M5A88-V EVO	MOTHER
 Western Digital WD800AAJS	Western Digital^WD800AAJS	DRIVE
 Biostar A960G+	Biostar^A960G+	MOTHER
+Transcend TS128GSSD340	Transcend^TS128GSSD340	DRIVE
 Intel Core 2 Quad Q8400 OEM Tray	Intel^Core 2 Quad Q8400 (OEM/Tray)	CPU
+Thermaltake Gravity i2	Thermaltake^Gravity i2	COOLER
 Fractal Design Tesla R2 650W	Fractal Design^Tesla R2 650W	PSU
-Asus GeForce GTX 690	Asus^GeForce GTX 690	GPU
+Apevia ATX WA900W	Apevia^ATX-WA900W	PSU
 Corsair TX750	Corsair^TX750	PSU
 Samsung MZ 7TE120BW	Samsung^MZ-7TE120BW	DRIVE
-Asus Radeon R9 390	Asus^Radeon R9 390	GPU
-PNY GeForce GTX 560	PNY^GeForce GTX 560	GPU
+NZXT Kraken X61	NZXT^Kraken X61	COOLER
+Zalman CNPS7000VAL 1 PWM	Zalman^CNPS7000V(AL)-1-PWM	COOLER
 Diablotek PHD350	Diablotek^PHD350	PSU
 EVGA 151 SE E779 K3	EVGA^151-SE-E779-K3	MOTHER
 MSI X99A SLI PLUS	MSI^X99A SLI PLUS	MOTHER
 Western Digital WD10EAVS	Western Digital^WD10EAVS	DRIVE
 Fractal Design Core 2300	Fractal Design^Core 2300	CASE
 Gigabyte GA H97M D3H	Gigabyte^GA-H97M-D3H	MOTHER
+RAIJINTEK TRITON RED	RAIJINTEK^TRITON RED	COOLER
 Sandisk SDSSDX 120G G25	Sandisk^SDSSDX-120G-G25	DRIVE
 NZXT Gamma Classic Black	NZXT^Gamma Classic (Black)	CASE
 Transcend TS512GSSD370S	Transcend^TS512GSSD370S	DRIVE
@@ -2644,13 +2962,15 @@ Zalman Z12 Plus	Zalman^Z12 Plus	CASE
 Intel Core 2 Duo E6750	Intel^Core 2 Duo E6750	CPU
 Intel Core i3 4150	Intel^Core i3-4150	CPU
 Cougar COUGAR SX850	Cougar^COUGAR-SX850	PSU
+Scythe SCSMZ 2100	Scythe^SCSMZ-2100	COOLER
 AMD A8 PRO 7600B OEM Tray	AMD^A8 PRO-7600B (OEM/Tray)	CPU
 Corsair AX1500i	Corsair^AX1500i	PSU
 Ultra U12 42467	Ultra^U12-42467	PSU
 AMD A10 6790K	AMD^A10-6790K	CPU
+Corsair H80i GT	Corsair^H80i GT	COOLER
 Intel Core i5 4690 OEM Tray	Intel^Core i5-4690 (OEM/Tray)	CPU
 Transcend TS128GSSD370	Transcend^TS128GSSD370	DRIVE
-XFX Radeon HD 5850	XFX^Radeon HD 5850	GPU
+ECS A960M M3	ECS^A960M-M3	MOTHER
 Seagate ST5000DM000	Seagate^ST5000DM000	DRIVE
 PowerColor Radeon HD 7870 XT	PowerColor^Radeon HD 7870 XT	GPU
 Asus Q87M E CSM	Asus^Q87M-E/CSM	MOTHER
@@ -2664,24 +2984,26 @@ AMD Athlon II X2 260u OEM Tray	AMD^Athlon II X2 260u (OEM/Tray)	CPU
 Intel SSDSC2BP240G410	Intel^SSDSC2BP240G410	DRIVE
 Gigabyte GA H81M S2H	Gigabyte^GA-H81M-S2H	MOTHER
 Intel Core i3 4370	Intel^Core i3-4370	CPU
-MSI Radeon R7 265	MSI^Radeon R7 265	GPU
+Intel Core 2 Duo E6700 OEM Tray	Intel^Core 2 Duo E6700 (OEM/Tray)	CPU
 ASRock 970DE3 U3S3	ASRock^970DE3/U3S3	MOTHER
 Lian Li PC 9NB	Lian-Li^PC-9NB	CASE
 Intel Xeon E5 2670 V3	Intel^Xeon E5-2670 V3	CPU
 Intel Xeon E5 2670 V2	Intel^Xeon E5-2670 V2	CPU
 Seagate ST9250610NS	Seagate^ST9250610NS	DRIVE
+Masscool 8W501B1M3G	Masscool^8W501B1M3G	COOLER
 Aerocool StrikeX Air	Aerocool^StrikeX-Air	CASE
 AMD A6 6420K OEM Tray	AMD^A6-6420K (OEM/Tray)	CPU
 Gigabyte GA Z77N WIFI	Gigabyte^GA-Z77N-WIFI	MOTHER
 Intel SSDPEDMD800G401	Intel^SSDPEDMD800G401	DRIVE
-MSI GeForce GTX 560 Ti 448	MSI^GeForce GTX 560 Ti 448	GPU
+CRYORIG R1 Universal	CRYORIG^R1 Universal	COOLER
+Intel SSDSC2BF120H501	Intel^SSDSC2BF120H501	DRIVE
 EVGA 151 SE E779 KR	EVGA^151-SE-E779-KR	MOTHER
+Deepcool ICE BLADE 200M	Deepcool^ICE BLADE 200M	COOLER
 Crucial CT512M550SSD1	Crucial^CT512M550SSD1	DRIVE
 Sandisk SDSSDHII 480G G25	Sandisk^SDSSDHII-480G-G25	DRIVE
 Asus M4A88T V EVO USB3	Asus^M4A88T-V EVO/USB3	MOTHER
-BitFenix Shinobi	BitFenix^Shinobi	CASE
 PNY GeForce GTX 980	PNY^GeForce GTX 980	GPU
-Biostar Hi Fi B85S3+ Ver. 6.x	Biostar^Hi-Fi B85S3+ Ver. 6.x	MOTHER
+PowerColor Radeon HD 6850	PowerColor^Radeon HD 6850	GPU
 Aerocool Qx 2000	Aerocool^Qx-2000	CASE
 Gigabyte GA H87N WIFI	Gigabyte^GA-H87N-WIFI	MOTHER
 Western Digital WD30EZRS	Western Digital^WD30EZRS	DRIVE
@@ -2692,8 +3014,12 @@ Intel Core 2 Duo E4400 OEM Tray	Intel^Core 2 Duo E4400 (OEM/Tray)	CPU
 Corsair RM550	Corsair^RM550	PSU
 Western Digital WD30EZRX	Western Digital^WD30EZRX	DRIVE
 Samsung MZ N5E120BW	Samsung^MZ-N5E120BW	DRIVE
+Evercool HPK 10025EA	Evercool^HPK-10025EA	COOLER
 Intel Core 2 Duo E6420 OEM Tray	Intel^Core 2 Duo E6420 (OEM/Tray)	CPU
+Gelid Solutions ns Black Edition	Gelid Solutions^ns Black Edition	COOLER
+Asus GeForce GTX 650 Ti Boost	Asus^GeForce GTX 650 Ti Boost	GPU
 G.Skill Ripjaws X Series	G.Skill^Ripjaws X Series	MEMORY
+CRYORIG H5 Universal	CRYORIG^H5 Universal	COOLER
 Rosewill STEALTH	Rosewill^STEALTH	CASE
 Thermaltake Armor Revo Gene	Thermaltake^Armor Revo Gene	CASE
 Western Digital WD3003FZEX	Western Digital^WD3003FZEX	DRIVE
@@ -2701,30 +3027,38 @@ Gigabyte GeForce GTX 760	Gigabyte^GeForce GTX 760	GPU
 Seagate ST3250410AS	Seagate^ST3250410AS	DRIVE
 Intel Core i5 2405S	Intel^Core i5-2405S	CPU
 Western Digital WD2000FYYZ	Western Digital^WD2000FYYZ	DRIVE
+Asus GeForce GTX 570	Asus^GeForce GTX 570	GPU
 NZXT Phantom 410 Gunmetal Black	NZXT^Phantom 410 (Gunmetal/Black)	CASE
+Zalman CNPS7000C Cu	Zalman^CNPS7000C-Cu	COOLER
 G.Skill Ares Series	G.Skill^Ares Series	MEMORY
 AMD Phenom II X3 720 Black	AMD^Phenom II X3 720 Black	CPU
 Western Digital WD1501FASS	Western Digital^WD1501FASS	DRIVE
 Biostar TA970	Biostar^TA970	MOTHER
 Corsair HX750i	Corsair^HX750i	PSU
 Intel Core i5 750 OEM Tray	Intel^Core i5-750 (OEM/Tray)	CPU
-Cooler Master Storm Scout 2	Cooler Master^Storm Scout 2	CASE
+Thermaltake CLP0574	Thermaltake^CLP0574	COOLER
+Thermaltake CLP0579	Thermaltake^CLP0579	COOLER
+Asus Radeon R9 290X	Asus^Radeon R9 290X	GPU
 Silverstone TJ11B W	Silverstone^TJ11B-W	CASE
 ASRock Z97 OC FORMULA	ASRock^Z97 OC FORMULA	MOTHER
 Corsair AX860	Corsair^AX860	PSU
 Asus P8Z68 V LX	Asus^P8Z68-V LX	MOTHER
-Intel Celeron G1610	Intel^Celeron G1610	CPU
-Intel SSDSC2BW480H6R5	Intel^SSDSC2BW480H6R5	DRIVE
+Antec Nine Hundred	Antec^Nine Hundred	CASE
+Zalman CNPS8900 Extreme	Zalman^CNPS8900 Extreme	COOLER
 Raidmax ATX 823BR Black	Raidmax^ATX-823BR (Black)	CASE
 Seagate ST31000528AS	Seagate^ST31000528AS	DRIVE
 Sapphire Radeon HD 7770	Sapphire^Radeon HD 7770	GPU
+Antec KUHLER H2O 1250	Antec^KUHLER H2O 1250	COOLER
 Asus H87I PLUS	Asus^H87I-PLUS	MOTHER
+Xigmatek CAC D9HH3 U01	Xigmatek^CAC-D9HH3-U01	COOLER
 Asus Rampage IV Extreme	Asus^Rampage IV Extreme	MOTHER
 Gigabyte GA Z77 HD3	Gigabyte^GA-Z77-HD3	MOTHER
 Eluktro TRO PCIe128GBPRO X	Eluktro^TRO-PCIe128GBPRO-X	DRIVE
 AMD Athlon II X2 260	AMD^Athlon II X2 260	CPU
 XFX Radeon R7 265	XFX^Radeon R7 265	GPU
+Deepcool GAMMAXX 400	Deepcool^GAMMAXX 400	COOLER
 AMD Athlon II X2 265	AMD^Athlon II X2 265	CPU
+Kingston Savage	Kingston^Savage	MEMORY
 Zotac ZTSSD A4P 120G	Zotac^ZTSSD-A4P-120G	DRIVE
 Western Digital WD10EZRZ	Western Digital^WD10EZRZ	DRIVE
 Western Digital WD2001FFSX	Western Digital^WD2001FFSX	DRIVE
@@ -2733,6 +3067,7 @@ Gigabyte GA H61M DS2	Gigabyte^GA-H61M-DS2	MOTHER
 MSI A88XM E35	MSI^A88XM-E35	MOTHER
 Corsair HX750	Corsair^HX750	PSU
 HIS Radeon HD 7870	HIS^Radeon HD 7870	GPU
+Samsung MZVPV512HDGL 00000	Samsung^MZVPV512HDGL-00000	DRIVE
 Intel Core i3 530	Intel^Core i3-530	CPU
 Intel Core 2 Quad Q9400S	Intel^Core 2 Quad Q9400S	CPU
 A Data ASP610SS3 256GM C	A-Data^ASP610SS3-256GM-C	DRIVE
@@ -2741,34 +3076,38 @@ Lian Li PC A05NB	Lian-Li^PC-A05NB	CASE
 PNY GeForce GTX 750 Ti	PNY^GeForce GTX 750 Ti	GPU
 Phanteks Enthoo Series Primo Aluminum	Phanteks^Enthoo Series Primo Aluminum	CASE
 Sandisk SD6SB1M 256G 1022I	Sandisk^SD6SB1M-256G-1022I	DRIVE
-Samsung MZ 7WD800EW	Samsung^MZ-7WD800EW	DRIVE
+EVGA GeForce GTX 690	EVGA^GeForce GTX 690	GPU
 Asus SABERTOOTH X99	Asus^SABERTOOTH X99	MOTHER
 AMD A4 3400	AMD^A4-3400	CPU
 Gigabyte GA Z87X OC	Gigabyte^GA-Z87X-OC	MOTHER
 Intel Xeon E3 1240 V3	Intel^Xeon E3-1240 V3	CPU
-AMD FX 6200	AMD^FX-6200	CPU
+Apevia X Jupiter Jr G Type Black	Apevia^X-Jupiter-Jr G-Type Black	CASE
 Western Digital WD5001FSYZ	Western Digital^WD5001FSYZ	DRIVE
+Gelid Solutions ns CC SSilence iplus	Gelid Solutions^ns CC-SSilence-iplus	COOLER
 Gigabyte GA F2A68HM H	Gigabyte^GA-F2A68HM-H	MOTHER
 AMD Phenom II X3 720	AMD^Phenom II X3 720	CPU
 Asus Z97M PLUS	Asus^Z97M-PLUS	MOTHER
 Intel Core i5 3550	Intel^Core i5-3550	CPU
-Galaxy GeForce GTX 760	Galaxy^GeForce GTX 760	GPU
+XFX Radeon HD 7870	XFX^Radeon HD 7870	GPU
 Kingston SHPM2280P2 240G	Kingston^SHPM2280P2/240G	DRIVE
 SeaSonic X 850	SeaSonic^X-850	PSU
-Thermaltake SP 850M	Thermaltake^SP-850M	PSU
+Intel Core i3 2100	Intel^Core i3-2100	CPU
 BitFenix Ghost Black	BitFenix^Ghost (Black)	CASE
 Intel Core i3 2105	Intel^Core i3-2105	CPU
+Corsair H105	Corsair^H105	COOLER
 NZXT HALE90 1000 M	NZXT^HALE90-1000-M	PSU
-NZXT Phantom Black Orange	NZXT^Phantom (Black/Orange)	CASE
+Eluktro TRO SSD7 1TB PRO	Eluktro^TRO-SSD7-1TB-PRO	DRIVE
 Intel Core 2 Extreme QX6700 OEM Tray	Intel^Core 2 Extreme QX6700 (OEM/Tray)	CPU
 Cooler Master Cosmos S	Cooler Master^Cosmos S	CASE
 Intel Core 2 Quad Q8400	Intel^Core 2 Quad Q8400	CPU
 Corsair 350D	Corsair^350D	CASE
 Intel Pentium G3250 OEM Tray	Intel^Pentium G3250 (OEM/Tray)	CPU
 Silverstone FT03B	Silverstone^FT03B	CASE
-Gigabyte GA Z77M D3H	Gigabyte^GA-Z77M-D3H	MOTHER
+MSI Radeon R9 390	MSI^Radeon R9 390	GPU
+Titan TTC NK85TZ CS2	Titan^TTC-NK85TZ/CS2	COOLER
 Corsair Vengeance Pro	Corsair^Vengeance Pro	MEMORY
 SeaSonic Platinum 860	SeaSonic^Platinum-860	PSU
+Arctic Cooling  ACALP64 Pro	Arctic Cooling^ ACALP64 Pro	COOLER
 Antec HCP 750	Antec^HCP-750	PSU
 Hitachi 0S03563	Hitachi^0S03563	DRIVE
 AMD A10 6800B OEM Tray	AMD^A10-6800B (OEM/Tray)	CPU
@@ -2778,12 +3117,14 @@ MSI X99A GAMING 7	MSI^X99A GAMING 7	MOTHER
 BitFenix Prodigy Blue	BitFenix^Prodigy (Blue)	CASE
 Fractal Design Integra R2 500W	Fractal Design^Integra R2 500W	PSU
 Seagate ST3750330NS	Seagate^ST3750330NS	DRIVE
+Zotac GeForce GT 730	Zotac^GeForce GT 730	GPU
 MSI Z97 PC MATE	MSI^Z97 PC MATE	MOTHER
 ASRock FM2A75M DGS	ASRock^FM2A75M-DGS	MOTHER
 DIYPC Cuboid R	DIYPC^Cuboid-R	CASE
+Arctic Cooling  Alpine 11 GT	Arctic Cooling^ Alpine 11 GT	COOLER
 Gigabyte GA Z97M DS3H	Gigabyte^GA-Z97M-DS3H	MOTHER
-Antec BP350	Antec^BP350	PSU
-Kingston Value	Kingston^Value	MEMORY
+Intel Celeron 430	Intel^Celeron 430	CPU
+Gigabyte GeForce GTX 750	Gigabyte^GeForce GTX 750	GPU
 Hitachi 0B26886	Hitachi^0B26886	DRIVE
 Thermaltake LANBOX Lite	Thermaltake^LANBOX Lite	CASE
 Gigabyte GA Z77 DS3H	Gigabyte^GA-Z77-DS3H	MOTHER
@@ -2795,31 +3136,36 @@ MSI A78M E45	MSI^A78M-E45	MOTHER
 Kingston SV300S3D7 60G	Kingston^SV300S3D7/60G	DRIVE
 Rosewill PHOTON 550	Rosewill^PHOTON-550	PSU
 Gigabyte GA B85M DS3H	Gigabyte^GA-B85M-DS3H	MOTHER
-XFX Radeon R9 270X	XFX^Radeon R9 270X	GPU
+Asus P8Z77 V	Asus^P8Z77-V	MOTHER
 NZXT Phantom 820 White	NZXT^Phantom 820 (White)	CASE
+Enermax Liqmax II 120	Enermax^Liqmax II 120	COOLER
+GeIL SUPER LUCE	GeIL^SUPER LUCE	MEMORY
 A Data ASX900S3 512GM C	A-Data^ASX900S3-512GM-C	DRIVE
 Mushkin MKNSSDAV500GB D8	Mushkin^MKNSSDAV500GB-D8	DRIVE
 Zotac GeForce GTX 760	Zotac^GeForce GTX 760	GPU
 Azza SIRIUS	Azza^SIRIUS	CASE
 Intel Core i7 5820K	Intel^Core i7-5820K	CPU
 AMD A10 7700K OEM Tray	AMD^A10-7700K (OEM/Tray)	CPU
+Scythe SCBSK 2000	Scythe^SCBSK-2000	COOLER
 EVGA SuperNOVA 750	EVGA^SuperNOVA 750	PSU
 Antec TP 550C	Antec^TP-550C	PSU
-Western Digital WD10PURX	Western Digital^WD10PURX	DRIVE
-G.Skill Ripjaws Z Series	G.Skill^Ripjaws Z Series	MEMORY
+Intel Xeon E3 1240 V2	Intel^Xeon E3-1240 V2	CPU
+Samsung MZVPV128HDGM 00000	Samsung^MZVPV128HDGM-00000	DRIVE
 Rosewill Tachyon 550	Rosewill^Tachyon-550	PSU
 Asus P8Z77 M	Asus^P8Z77-M	MOTHER
 Asus VANGUARD B85	Asus^VANGUARD B85	MOTHER
 Seagate ST1000DM003	Seagate^ST1000DM003	DRIVE
 AMD Phenom II X6 1055T	AMD^Phenom II X6 1055T	CPU
-Transcend TS256GSSD340	Transcend^TS256GSSD340	DRIVE
+G.Skill ECO Series	G.Skill^ECO Series	MEMORY
 Gigabyte GA 880GA UD3H	Gigabyte^GA-880GA-UD3H	MOTHER
 Inwin GT1 White	Inwin^GT1 White	CASE
+Cooler Master  GeminII M4	Cooler Master^ GeminII M4	COOLER
 Intel Pentium E2180 OEM Tray	Intel^Pentium E2180 (OEM/Tray)	CPU
+Intel Core 2 Extreme X6800	Intel^Core 2 Extreme X6800	CPU
 A Data ASX900S3 256GM C	A-Data^ASX900S3-256GM-C	DRIVE
 Asus P9X79 LE	Asus^P9X79 LE	MOTHER
-Cooler Master Elite 110	Cooler Master^Elite 110	CASE
 Intel SSDSC2BW240H601	Intel^SSDSC2BW240H601	DRIVE
+Phanteks PH TC14PE_BK	Phanteks^PH-TC14PE_BK	COOLER
 AMD Sempron X2 190 OEM Tray	AMD^Sempron X2 190 (OEM/Tray)	CPU
 Seagate ST1000NM0011	Seagate^ST1000NM0011	DRIVE
 MSI H97 PC MATE	MSI^H97 PC MATE	MOTHER
@@ -2829,26 +3175,31 @@ AMD FX 4200 OEM Tray	AMD^FX-4200 (OEM/Tray)	CPU
 Western Digital WD30EZRZ	Western Digital^WD30EZRZ	DRIVE
 Sandisk SD7UB2Q 512G 1122	Sandisk^SD7UB2Q-512G-1122	DRIVE
 AMD RADEON R7SSD 480G	AMD^RADEON-R7SSD-480G	DRIVE
+Titan EC TTC NC05TZ	Titan^EC-TTC-NC05TZ	COOLER
 Mushkin MKNSSDRE256GB	Mushkin^MKNSSDRE256GB	DRIVE
 AMD 3850	AMD^3850	CPU
 Sapphire Radeon HD 7950	Sapphire^Radeon HD 7950	GPU
 ASRock FM2A85X Extreme4 M	ASRock^FM2A85X Extreme4-M	MOTHER
 Intel Core 2 Duo E7400 OEM Tray	Intel^Core 2 Duo E7400 (OEM/Tray)	CPU
+OCZ TRN100 25SAT3 240G	OCZ^TRN100-25SAT3-240G	DRIVE
 OCZ RADEON R7SSD 240G	OCZ^RADEON-R7SSD-240G	DRIVE
 Asus GeForce GTX 550 Ti	Asus^GeForce GTX 550 Ti	GPU
 EVGA SuperNOVA 1300	EVGA^SuperNOVA 1300	PSU
 MSI GeForce GTX 680	MSI^GeForce GTX 680	GPU
 PNY GeForce GTX 760	PNY^GeForce GTX 760	GPU
 ASRock B75 Pro3 M	ASRock^B75 Pro3-M	MOTHER
+Thermaltake CLP0556 B	Thermaltake^CLP0556-B	COOLER
 Asus M5A97	Asus^M5A97	MOTHER
-Antec Nine Hundred	Antec^Nine Hundred	CASE
+Phanteks PH TC14S_BK	Phanteks^PH-TC14S_BK	COOLER
+Zalman CNPS7700ALCULED	Zalman^CNPS7700ALCULED	COOLER
 Western Digital WD7500BPKX	Western Digital^WD7500BPKX	DRIVE
 Asus P8Z77 V LK	Asus^P8Z77-V LK	MOTHER
+Noctua NH L9i	Noctua^NH-L9i	COOLER
 Silverstone ST60F ESB	Silverstone^ST60F-ESB	PSU
 Biostar H81MHV3	Biostar^H81MHV3	MOTHER
 RAIJINTEK Metis Red	RAIJINTEK^Metis (Red)	CASE
 MSI A68HM E33	MSI^A68HM-E33	MOTHER
-Asus Z97 DELUXE	Asus^Z97-DELUXE	MOTHER
+Dynatron R24	Dynatron^R24	COOLER
 AMD A10 5800K	AMD^A10-5800K	CPU
 Intel Core i3 4160 OEM Tray	Intel^Core i3-4160 (OEM/Tray)	CPU
 AMD Phenom II X2 B59 OEM Tray	AMD^Phenom II X2 B59 (OEM/Tray)	CPU
@@ -2876,6 +3227,7 @@ Fractal Design Node 605	Fractal Design^Node 605	CASE
 AMD E Series E 450 OEM Tray	AMD^E-Series E-450 (OEM/Tray)	CPU
 ASRock Z97 Anniversary	ASRock^Z97 Anniversary	MOTHER
 Biostar TZ68K+	Biostar^TZ68K+	MOTHER
+Xigmatek Dark Knight SD1483 Frostbourne	Xigmatek^Dark Knight SD1483 Frostbourne	COOLER
 Thermaltake Level 10 GTS Black	Thermaltake^Level 10 GTS (Black)	CASE
 Gigabyte GA B75TN	Gigabyte^GA-B75TN	MOTHER
 Rosewill ARC 450	Rosewill^ARC 450	PSU
@@ -2884,10 +3236,10 @@ Intel Xeon E5 1650 V3	Intel^Xeon E5-1650 V3	CPU
 AMD Athlon II X2 221 OEM Tray	AMD^Athlon II X2 221 (OEM/Tray)	CPU
 Thermaltake Overseer RX I	Thermaltake^Overseer RX-I	CASE
 Intel Xeon E5 2667 V2 OEM Tray	Intel^Xeon E5-2667 V2 (OEM/Tray)	CPU
-Kingston HyperX Fury Black	Kingston^HyperX Fury Black	MEMORY
+Toshiba HDTS351XZSTA	Toshiba^HDTS351XZSTA	DRIVE
 Intel Core 2 Quad Q6700 OEM Tray	Intel^Core 2 Quad Q6700 (OEM/Tray)	CPU
 Western Digital WD40PURX	Western Digital^WD40PURX	DRIVE
-PowerColor Radeon HD 7970	PowerColor^Radeon HD 7970	GPU
+Seagate ST480FP0021	Seagate^ST480FP0021	DRIVE
 Corsair CSSD N240GBGTXB BK	Corsair^CSSD-N240GBGTXB-BK	DRIVE
 Raidmax RX 635AP	Raidmax^RX-635AP	PSU
 Crucial CT512MX100SSD1	Crucial^CT512MX100SSD1	DRIVE
@@ -2897,53 +3249,63 @@ Asus Maximus VI Formula	Asus^Maximus VI Formula	MOTHER
 Seagate STBD3000100	Seagate^STBD3000100	DRIVE
 Gigabyte GA H61M HD2	Gigabyte^GA-H61M-HD2	MOTHER
 Seagate ST2000VX000	Seagate^ST2000VX000	DRIVE
+Kingston XMP 10th Anniversary Series	Kingston^XMP 10th Anniversary Series	MEMORY
 Seagate ST4000DM000	Seagate^ST4000DM000	DRIVE
 Gigabyte GA Z97X UD7 TH	Gigabyte^GA-Z97X-UD7 TH	MOTHER
-A Data Gaming Series	A-Data^Gaming Series	MEMORY
+Zalman FX100	Zalman^FX100	COOLER
 Fractal Design Define R5 White	Fractal Design^Define R5 (White)	CASE
 NZXT S340 Black Blue	NZXT^S340 (Black/Blue)	CASE
 EVGA GeForce GTX 760	EVGA^GeForce GTX 760	GPU
 EVGA 500B	EVGA^500B	PSU
 Hitachi Travelstar	Hitachi^Travelstar	DRIVE
 MSI Z77A GD55	MSI^Z77A-GD55	MOTHER
+Zalman Reserator 3 MAX Dual	Zalman^Reserator 3 MAX Dual	COOLER
 Asus P8P67 M PRO REV 3.0	Asus^P8P67-M PRO (REV 3.0)	MOTHER
 MSI Z97S SLI Plus	MSI^Z97S SLI Plus	MOTHER
-Transcend TS128GSSD340	Transcend^TS128GSSD340	DRIVE
+Corsair H100i GTX	Corsair^H100i GTX	COOLER
 Western Digital WDBAAZ0020HNC NRSN	Western Digital^WDBAAZ0020HNC-NRSN	DRIVE
 Corsair 750D	Corsair^750D	CASE
 Asus Maximus IV Extreme REV 3.0	Asus^Maximus IV Extreme (REV 3.0)	MOTHER
 Intel Celeron E3300	Intel^Celeron E3300	CPU
 MSI H81M P33	MSI^H81M-P33	MOTHER
+Thermalright HR 22	Thermalright^HR-22	COOLER
 Intel Core i3 6100T OEM Tray	Intel^Core i3-6100T (OEM/Tray)	CPU
 SeaSonic SSR 550RM	SeaSonic^SSR-550RM	PSU
 Asus Z87 Pro	Asus^Z87-Pro	MOTHER
 Intel Core i5 6500T OEM Tray	Intel^Core i5-6500T (OEM/Tray)	CPU
 Intel Core i3 4360	Intel^Core i3-4360	CPU
 Zotac ZTSSD A5P 240G PE	Zotac^ZTSSD-A5P-240G-PE	DRIVE
+VisionTe VisionTek	VisionTe^VisionTek	MEMORY
 Intel Core 2 Quad Q9550S	Intel^Core 2 Quad Q9550S	CPU
 Samsung MZ V5P256BW	Samsung^MZ-V5P256BW	DRIVE
 Aerocool Mechatron Black Steel Edition	Aerocool^Mechatron-Black Steel Edition	CASE
+Galaxy GeForce GTX 660	Galaxy^GeForce GTX 660	GPU
+Western Digital WD15EVDS	Western Digital^WD15EVDS	DRIVE
 Intel Xeon E5 1660	Intel^Xeon E5-1660	CPU
 MSI Z97 G55 SLI	MSI^Z97-G55 SLI	MOTHER
-Asus GeForce GTX 770	Asus^GeForce GTX 770	GPU
+Samsung ST1000LM024	Samsung^ST1000LM024	DRIVE
 Intel Pentium E6700	Intel^Pentium E6700	CPU
 CoolMax CUL 750B	CoolMax^CUL-750B	PSU
+Antec KUHLER H2O 950	Antec^KUHLER H2O 950	COOLER
+Thermalright MACHO 120 REV.A	Thermalright^MACHO 120 REV.A	COOLER
 PNY Optima	PNY^Optima	MEMORY
 OCZ RVD350 FHPX28 240G	OCZ^RVD350-FHPX28-240G	DRIVE
 Corsair VS350	Corsair^VS350	PSU
 Kingston HyperX Fury Red	Kingston^HyperX Fury Red	MEMORY
 Hitachi 0F18335	Hitachi^0F18335	DRIVE
-XFX P1 850X XXB9	XFX^P1-850X-XXB9	PSU
-Team Zeus Red	Team^Zeus Red	MEMORY
+Thermalright TRUE Spirit 140 BW	Thermalright^TRUE Spirit 140 (BW)	COOLER
+AMD Athlon II X3 460	AMD^Athlon II X3 460	CPU
+Thermaltake CLP0534	Thermaltake^CLP0534	COOLER
+PNY SSD9SC120GMDF RB	PNY^SSD9SC120GMDF-RB	DRIVE
 EVGA Hadron	EVGA^Hadron	CASE
 MSI 990FXA GD65V2	MSI^990FXA-GD65V2	MOTHER
-Corsair CSSD F120GBLS	Corsair^CSSD-F120GBLS	DRIVE
+Scythe SCNJ 4000	Scythe^SCNJ-4000	COOLER
 PNY GeForce GTX 970	PNY^GeForce GTX 970	GPU
-Gigabyte GeForce GTX 750	Gigabyte^GeForce GTX 750	GPU
+Silverstone ST1000 G	Silverstone^ST1000-G	PSU
 Western Digital WD5000BPKX	Western Digital^WD5000BPKX	DRIVE
 Plextor PX AG256M6E	Plextor^PX-AG256M6E	DRIVE
 PowerColor Radeon R9 270	PowerColor^Radeon R9 270	GPU
-Sandisk SD6SB1M 128G 1022i	Sandisk^SD6SB1M-128G-1022i	DRIVE
+Arctic Cooling  Alpine M1	Arctic Cooling^ Alpine M1	COOLER
 Thermaltake VL80001W2Z	Thermaltake^VL80001W2Z	CASE
 Kingston SV300S37A 120G	Kingston^SV300S37A/120G	DRIVE
 Intel Pentium G3240	Intel^Pentium G3240	CPU
@@ -2954,15 +3316,20 @@ MSI Radeon HD 7850	MSI^Radeon HD 7850	GPU
 Antec EDG750	Antec^EDG750	PSU
 AMD FX 8350 OEM Tray	AMD^FX-8350 (OEM/Tray)	CPU
 NZXT Phantom 530 Black	NZXT^Phantom 530 (Black)	CASE
-Crucial CT120M500SSD1	Crucial^CT120M500SSD1	DRIVE
+Thermaltake CL P0466	Thermaltake^CL-P0466	COOLER
 Intel Xeon E3 1225 V2	Intel^Xeon E3-1225 V2	CPU
 Intel Xeon E3 1225 V3	Intel^Xeon E3-1225 V3	CPU
 Corsair AX650	Corsair^AX650	PSU
+VisionTek Radeon HD 7850	VisionTek^Radeon HD 7850	GPU
+Asus GeForce GT 630	Asus^GeForce GT 630	GPU
 Samsung MZHPV128HDGM 00000	Samsung^MZHPV128HDGM-00000	DRIVE
 DIYPC Adventurer 9601R Black	DIYPC^Adventurer-9601R (Black)	CASE
-EVGA GeForce GT 740	EVGA^GeForce GT 740	GPU
+Gigabyte GeForce GTX 980	Gigabyte^GeForce GTX 980	GPU
+Avexir Core Series	Avexir^Core Series	MEMORY
+Asus H81M K	Asus^H81M-K	MOTHER
 Gigabyte GA B85M DS3H A	Gigabyte^GA-B85M-DS3H-A	MOTHER
-OCZ VTR180 25SAT3 960G	OCZ^VTR180-25SAT3-960G	DRIVE
+Xion XON HP9310P	Xion^XON-HP9310P	COOLER
+Cooler Master  DK9 7G52A 0L GP	Cooler Master^ DK9-7G52A-0L-GP	COOLER
 CoolMax ZU 700B	CoolMax^ZU-700B	PSU
 Aerocool DS Cube Gold Edition Silent Cube	Aerocool^DS Cube Gold Edition Silent Cube	CASE
 Asus H81M E	Asus^H81M-E	MOTHER
@@ -2991,18 +3358,19 @@ Xigmatek CCC AD38BT U03	Xigmatek^CCC-AD38BT-U03	CASE
 Rosewill Legacy U3 B Window	Rosewill^Legacy U3-B-Window	CASE
 Seagate ST2000DL003	Seagate^ST2000DL003	DRIVE
 Samsung MZ 7KE1T0BW	Samsung^MZ-7KE1T0BW	DRIVE
+Scythe SCNJ 3100	Scythe^SCNJ-3100	COOLER
 Silverstone FT03B MINI Black	Silverstone^FT03B-MINI (Black)	CASE
 XFX P1 850B NLG9	XFX^P1-850B-NLG9	PSU
-Rosewill BlackHawk	Rosewill^BlackHawk	CASE
 Asus F2A85 V	Asus^F2A85-V	MOTHER
 A Data ASP920SS3 256GM C	A-Data^ASP920SS3-256GM-C	DRIVE
 Asus P8Z77 WS	Asus^P8Z77 WS	MOTHER
-MSI H97M G43	MSI^H97M-G43	MOTHER
+Silverstone NT06 PRO	Silverstone^NT06-PRO	COOLER
 Apex PC 389 C	Apex^PC-389-C	CASE
 Intel Pentium E5700	Intel^Pentium E5700	CPU
 Intel Xeon E3 1230 V3 OEM Tray	Intel^Xeon E3-1230 V3 (OEM/Tray)	CPU
 Kingston XMP Blu Red Series	Kingston^XMP Blu Red Series	MEMORY
 Cooler Master N600 Windowed	Cooler Master^N600 Windowed	CASE
+Thermaltake Water 3.0 Ultimate	Thermaltake^Water 3.0 Ultimate	COOLER
 FSP Group PT 450M	FSP^Group PT-450M	PSU
 XFX Radeon HD 7970 GHz Edition	XFX^Radeon HD 7970 GHz Edition	GPU
 Asus P8Z77 I Deluxe	Asus^P8Z77-I Deluxe	MOTHER
@@ -3019,65 +3387,67 @@ Antec BP550 Plus	Antec^BP550 Plus	PSU
 Plextor PX G512M6e	Plextor^PX-G512M6e	DRIVE
 Asus P8Z68 V GEN3	Asus^P8Z68-V/GEN3	MOTHER
 AMD Athlon II X4 640 OEM Tray	AMD^Athlon II X4 640 (OEM/Tray)	CPU
-Intel Core 2 Duo E6850	Intel^Core 2 Duo E6850	CPU
 Intel Xeon E5 4620	Intel^Xeon E5-4620	CPU
 Zotac GeForce GTX 570	Zotac^GeForce GTX 570	GPU
 Fractal Design FD PSU NT3B 800W	Fractal Design^FD-PSU-NT3B-800W	PSU
 Intel Core i5 2450P	Intel^Core i5-2450P	CPU
 DIYPC Shadow H01 W	DIYPC^Shadow-H01-W	CASE
-BitFenix Colossus Mini	BitFenix^Colossus Mini	CASE
-A Data ASP900NS38 128GM C	A-Data^ASP900NS38-128GM-C	DRIVE
+Intel Core i5 680	Intel^Core i5-680	CPU
+Enermax Liqmax II 240	Enermax^Liqmax II 240	COOLER
 Apevia ATX AQ700W BK	Apevia^ATX-AQ700W-BK	PSU
 Corsair CX750	Corsair^CX750	PSU
 AMD Phenom II X3 705e	AMD^Phenom II X3 705e	CPU
 Cougar Solution Black	Cougar^Solution (Black)	CASE
 Corsair SPEC 03 Orange	Corsair^SPEC-03 Orange	CASE
+Enermax ETS T40 BK	Enermax^ETS-T40-BK	COOLER
 Intel DZ77SL50K	Intel^DZ77SL50K	MOTHER
 AMD Sempron X2 198	AMD^Sempron X2 198	CPU
-Asus GeForce GTX Titan Black	Asus^GeForce GTX Titan Black	GPU
+PNY SSD7SC240GOPT RB	PNY^SSD7SC240GOPT-RB	DRIVE
+Crucial CT480BX200SSD1	Crucial^CT480BX200SSD1	DRIVE
 Cooler Master CM 690 II Advanced NVIDIA Edition	Cooler Master^CM 690 II Advanced NVIDIA Edition	CASE
 Asus GeForce GTX 750 Ti	Asus^GeForce GTX 750 Ti	GPU
 Seagate ST3160318AS FFP	Seagate^ST3160318AS-FFP	DRIVE
-PC Power & Cooling PPCS500D	PC^Power & Cooling PPCS500D	PSU
 Gigabyte GA Z170X Gaming 7	Gigabyte^GA-Z170X-Gaming 7	MOTHER
-Corsair 350D Window	Corsair^350D Window	CASE
+Intel Core i7 920	Intel^Core i7-920	CPU
 Western Digital WD5001F9YZ	Western Digital^WD5001F9YZ	DRIVE
-Crucial CT250MX200SSD4	Crucial^CT250MX200SSD4	DRIVE
 Asus SABERTOOTH Z97 MARK2	Asus^SABERTOOTH Z97 MARK2	MOTHER
 Asus SABERTOOTH Z97 MARK1	Asus^SABERTOOTH Z97 MARK1	MOTHER
 Gigabyte GA Z97MX Gaming 5	Gigabyte^GA-Z97MX-Gaming 5	MOTHER
 Seagate ST500LX003	Seagate^ST500LX003	DRIVE
 Intel Core i7 980	Intel^Core i7-980	CPU
-Intel Xeon E3 1240 V2	Intel^Xeon E3-1240 V2	CPU
+PC Power & Cooling PPCS500D	PC^Power & Cooling PPCS500D	PSU
 Intel Core i3 4370 OEM Tray	Intel^Core i3-4370 (OEM/Tray)	CPU
-XFX Radeon HD 7750	XFX^Radeon HD 7750	GPU
+Rosewill FBM 01 450P	Rosewill^FBM-01-450P	CASE
+RAIJINTEK ZELOS	RAIJINTEK^ZELOS	COOLER
 Intel Xeon E5 2697 V2	Intel^Xeon E5-2697 V2	CPU
 Intel Xeon E5 2697 V3	Intel^Xeon E5-2697 V3	CPU
 Patriot Viper 3	Patriot^Viper 3	MEMORY
 Kingston SV300S37A 60G	Kingston^SV300S37A/60G	DRIVE
 ASRock H87M ITX	ASRock^H87M-ITX	MOTHER
 G.Skill TridentX	G.Skill^TridentX	MEMORY
+Hitachi HTS547550A9E384	Hitachi^HTS547550A9E384	DRIVE
 AMD Phenom II X4 920	AMD^Phenom II X4 920	CPU
-Samsung MZVPV128HDGM 00000	Samsung^MZVPV128HDGM-00000	DRIVE
 AMD A8 6500	AMD^A8-6500	CPU
 AMD Phenom II X4 925	AMD^Phenom II X4 925	CPU
 Intel Core i3 6100	Intel^Core i3-6100	CPU
+Thermalright AXP 100	Thermalright^AXP-100	COOLER
 Gigabyte GA F2A75M HD2	Gigabyte^GA-F2A75M-HD2	MOTHER
 A Data ASP550SS3 120GM C	A-Data^ASP550SS3-120GM-C	DRIVE
 Western Digital WD10J31X	Western Digital^WD10J31X	DRIVE
 OCZ ARC100 25SAT3 120G	OCZ^ARC100-25SAT3-120G	DRIVE
-Asus Radeon HD 7970 GHz Edition	Asus^Radeon HD 7970 GHz Edition	GPU
+MSI Z97M Gaming	MSI^Z97M Gaming	MOTHER
 Corsair AX860i	Corsair^AX860i	PSU
 Intel Core 2 Duo E7600 OEM Tray	Intel^Core 2 Duo E7600 (OEM/Tray)	CPU
 MSI H97M E35	MSI^H97M-E35	MOTHER
-Cooler Master HAF X Blue	Cooler Master^HAF X Blue	CASE
+Antec NEO ECO 620C	Antec^NEO ECO 620C	PSU
+Zalman CNPS9900 D F	Zalman^CNPS9900 D/F	COOLER
 Thermaltake Level 10 GTS Snow Edition White	Thermaltake^Level 10 GTS Snow Edition (White)	CASE
 Intel Core i7 990X Extreme Edition	Intel^Core i7-990X Extreme Edition	CPU
 NZXT Phantom Black Green	NZXT^Phantom (Black/Green)	CASE
-EVGA GeForce GTX 950	EVGA^GeForce GTX 950	GPU
-MSI GeForce GTX 750 Ti	MSI^GeForce GTX 750 Ti	GPU
+Samsung HN M101MBB ST1000LM024	Samsung^HN-M101MBB/ST1000LM024	DRIVE
+RAIJINTEK TISIS	RAIJINTEK^TISIS	COOLER
 Samsung HD502HJ	Samsung^HD502HJ	DRIVE
-Hitachi 0S03664	Hitachi^0S03664	DRIVE
+Noctua NH C14S	Noctua^NH-C14S	COOLER
 Ultra LSP750	Ultra^LSP750	PSU
 Intel Pentium G2030	Intel^Pentium G2030	CPU
 Gigabyte GA F2A88X D3H	Gigabyte^GA-F2A88X-D3H	MOTHER
@@ -3085,11 +3455,13 @@ Corsair CSSD F128GBGS BK	Corsair^CSSD-F128GBGS-BK	DRIVE
 MSI Z97 Gaming 3	MSI^Z97-Gaming 3	MOTHER
 Asus Radeon R9 270X	Asus^Radeon R9 270X	GPU
 Intel Xeon E5 1630 V3 OEM Tray	Intel^Xeon E5-1630 V3 (OEM/Tray)	CPU
+Deepcool LUCIFER	Deepcool^LUCIFER	COOLER
 Intel Core i7 860S OEM Tray	Intel^Core i7-860S (OEM/Tray)	CPU
 EVGA Z170 FTW	EVGA^Z170 FTW	MOTHER
 Gigabyte GA 890FXA UD5	Gigabyte^GA-890FXA-UD5	MOTHER
-Rosewill Tachyon 1000	Rosewill^Tachyon-1000	PSU
+AMD FX 4170	AMD^FX-4170	CPU
 Intel Xeon E5 1660 V2 OEM Tray	Intel^Xeon E5-1660 V2 (OEM/Tray)	CPU
+Phanteks PH TC14PE	Phanteks^PH-TC14PE	COOLER
 AMD FX 8120	AMD^FX-8120	CPU
 Western Digital WD4000F9YZ	Western Digital^WD4000F9YZ	DRIVE
 OCZ VTX3 25SAT3 120G	OCZ^VTX3-25SAT3-120G	DRIVE
@@ -3098,21 +3470,24 @@ PNY GeForce GTX 770	PNY^GeForce GTX 770	GPU
 Patriot PB240GS25SSDR	Patriot^PB240GS25SSDR	DRIVE
 Intel Core 2 Quad Q8400S OEM Tray	Intel^Core 2 Quad Q8400S (OEM/Tray)	CPU
 ASRock Fatal1ty 990FX Professional	ASRock^Fatal1ty 990FX Professional	MOTHER
+Nexus LOW 7000 R2	Nexus^LOW-7000 R2	COOLER
 ASRock E3C226D2I	ASRock^E3C226D2I	MOTHER
-Samsung MZ 7KE128BW	Samsung^MZ-7KE128BW	DRIVE
+be quiet!  Shadow Rock Pro SR1	be quiet!^ Shadow Rock Pro SR1	COOLER
 Sandisk SDSSDP 128G G25	Sandisk^SDSSDP-128G-G25	DRIVE
 Toshiba MK3261GSYN	Toshiba^MK3261GSYN	DRIVE
 ASRock A55M HVS	ASRock^A55M-HVS	MOTHER
+Intel BXRTS2011AC	Intel^BXRTS2011AC	COOLER
+Thermaltake A4021	Thermaltake^A4021	COOLER
 PNY SSD7CS2111 480 RB	PNY^SSD7CS2111-480-RB	DRIVE
 Intel SSDPECME040T401	Intel^SSDPECME040T401	DRIVE
 Sandisk SDSSDXPS 480G G25	Sandisk^SDSSDXPS-480G-G25	DRIVE
 Antec SOLO II	Antec^SOLO II	CASE
 OCZ ARC100 25SAT3 480G	OCZ^ARC100-25SAT3-480G	DRIVE
-Intel Xeon E5 2687W V2	Intel^Xeon E5-2687W V2	CPU
+Thermaltake SP 850M	Thermaltake^SP-850M	PSU
 G.Skill Ripjaws 4 series	G.Skill^Ripjaws 4 series	MEMORY
 MSI Radeon R9 290	MSI^Radeon R9 290	GPU
 Intel Core 2 Extreme QX9650	Intel^Core 2 Extreme QX9650	CPU
-MSI GeForce GTX 780	MSI^GeForce GTX 780	GPU
+Silverstone RV02 BW	Silverstone^RV02-BW	CASE
 Intel Pentium G870	Intel^Pentium G870	CPU
 Corsair Carbide Series 300R Windowed	Corsair^Carbide Series 300R Windowed	CASE
 AMD A6 3670K	AMD^A6-3670K	CPU
@@ -3122,9 +3497,9 @@ Intel Core 2 Duo E6420	Intel^Core 2 Duo E6420	CPU
 Seagate ST1000VM002	Seagate^ST1000VM002	DRIVE
 Intel Core i5 750S	Intel^Core i5-750S	CPU
 Seagate ST9160314AS	Seagate^ST9160314AS	DRIVE
-Asus GeForce GTX 660 Ti	Asus^GeForce GTX 660 Ti	GPU
+Logisys IC106	Logisys^IC106	COOLER
 Apex TM 302 3	Apex^TM-302-3	CASE
-GeIL EVO CORSA Series	GeIL^EVO CORSA Series	MEMORY
+Samsung MZ 7WD800EW	Samsung^MZ-7WD800EW	DRIVE
 AMD Athlon X2 370K OEM Tray	AMD^Athlon X2 370K (OEM/Tray)	CPU
 AMD FX 4100 OEM Tray	AMD^FX-4100 (OEM/Tray)	CPU
 Kingston SHSS37A 480G	Kingston^SHSS37A/480G	DRIVE
@@ -3149,38 +3524,41 @@ Intel SSDPE2MD800G401	Intel^SSDPE2MD800G401	DRIVE
 BitFenix Shinobi Window White	BitFenix^Shinobi Window (White)	CASE
 Intel Xeon E5 2699 V3 OEM Tray	Intel^Xeon E5-2699 V3 (OEM/Tray)	CPU
 AMD A8 3850	AMD^A8-3850	CPU
-G.Skill FM 25S3 240GPF	G.Skill^FM-25S3-240GPF	DRIVE
+Arctic Cooling  UCACO FZ13100 BL	Arctic Cooling^ UCACO-FZ13100-BL	COOLER
 Intel Xeon E3 1226 V3	Intel^Xeon E3-1226 V3	CPU
 G.Skill Value	G.Skill^Value	MEMORY
 A Data ASP600NS34 256GM C	A-Data^ASP600NS34-256GM-C	DRIVE
 Intel Core i7 3960X Extreme Edition	Intel^Core i7-3960X Extreme Edition	CPU
 Asus Radeon R9 285	Asus^Radeon R9 285	GPU
-Asus Radeon R9 280	Asus^Radeon R9 280	GPU
-Crucial Ballistix Smart Tracer	Crucial^Ballistix Smart Tracer	MEMORY
+Samsung MZ M5E250BW	Samsung^MZ-M5E250BW	DRIVE
+EVGA GeForce GTX 480	EVGA^GeForce GTX 480	GPU
 Gigabyte GA H97M HD3	Gigabyte^GA-H97M-HD3	MOTHER
+Arctic Cooling  Alpine 11 GT Rev. 2	Arctic Cooling^ Alpine 11 GT Rev. 2	COOLER
 Sentey SDP650 SS	Sentey^SDP650-SS	PSU
-OCZ OCZSSD2 1CLS1T	OCZ^OCZSSD2-1CLS1T	DRIVE
+Titan TTC NC55TZ RB	Titan^TTC-NC55TZ/RB	COOLER
 Intel Core i3 4350	Intel^Core i3-4350	CPU
-OCZ OCZZ1000M	OCZ^OCZZ1000M	PSU
+NZXT Tempest 210	NZXT^Tempest 210	CASE
 OCZ OCZZ850M	OCZ^OCZZ850M	PSU
 SeaSonic SS 760XP2	SeaSonic^SS-760XP2	PSU
 Crucial CT240M500SSD1	Crucial^CT240M500SSD1	DRIVE
 ASRock H97M ITX AC	ASRock^H97M-ITX/AC	MOTHER
 ASRock E350M1	ASRock^E350M1	MOTHER
 Avexir Blitz1.1	Avexir^Blitz1.1	MEMORY
-Seagate ST240FP0021	Seagate^ST240FP0021	DRIVE
-Asus GeForce GTX 760	Asus^GeForce GTX 760	GPU
-AMD RG2133 Gamer Series	AMD^RG2133 Gamer Series	MEMORY
+MSI GeForce GTX 980	MSI^GeForce GTX 980	GPU
+Asus M5A78L M LX PLUS	Asus^M5A78L-M LX PLUS	MOTHER
+Western Digital WD40EZRZ	Western Digital^WD40EZRZ	DRIVE
 MSI GeForce GTX 780 Ti	MSI^GeForce GTX 780 Ti	GPU
 Apevia X Jupiter S Type Gray	Apevia^X-Jupiter S-Type Gray	CASE
 Intel Celeron E3200	Intel^Celeron E3200	CPU
 Fractal Design Arc Midi R2	Fractal Design^Arc Midi R2	CASE
+Corsair 600T Silver	Corsair^600T Silver	CASE
 Seagate ST320DM000	Seagate^ST320DM000	DRIVE
 Intel Core i5 4570T	Intel^Core i5-4570T	CPU
 Intel Core i5 4570S	Intel^Core i5-4570S	CPU
-Kingston SS050S2 16G	Kingston^SS050S2/16G	DRIVE
+Corsair H110i GT	Corsair^H110i GT	COOLER
 Thermaltake PS TPD 0650MPCGUS 1	Thermaltake^PS-TPD-0650MPCGUS-1	PSU
 Apex Vortex 3620	Apex^Vortex 3620	CASE
+Logisys MC4001IM	Logisys^MC4001IM	COOLER
 AMD Athlon II X3 455	AMD^Athlon II X3 455	CPU
 Kingston SV310S37A 960G	Kingston^SV310S37A/960G	DRIVE
 AMD Athlon II X3 450	AMD^Athlon II X3 450	CPU
@@ -3188,15 +3566,16 @@ Raidmax RX 400AF B	Raidmax^RX-400AF-B	PSU
 Thermaltake Level 10 GT LCS	Thermaltake^Level 10 GT LCS	CASE
 Thermaltake TRX 650M	Thermaltake^TRX-650M	PSU
 Samsung MZ 7TE250KW	Samsung^MZ-7TE250KW	DRIVE
-Seagate ST31000340NS	Seagate^ST31000340NS	DRIVE
+Rosewill RCX Z300	Rosewill^RCX-Z300	COOLER
 Asus P8Z68 V	Asus^P8Z68-V	MOTHER
 Intel Pentium G3250	Intel^Pentium G3250	CPU
-Silverstone PS08B Black	Silverstone^PS08B (Black)	CASE
+PowerColor Radeon HD 6970	PowerColor^Radeon HD 6970	GPU
 Intel Pentium G3258	Intel^Pentium G3258	CPU
 ASRock Z77 Pro4	ASRock^Z77 Pro4	MOTHER
 Lian Li PC A04B	Lian-Li^PC-A04B	CASE
 Thermaltake VM30001W2Z	Thermaltake^VM30001W2Z	CASE
 Cooler Master ATCS 840 Black	Cooler Master^ATCS 840 Black	CASE
+StarTech FAN775E	StarTech^FAN775E	COOLER
 Asus Z170 DELUXE	Asus^Z170-DELUXE	MOTHER
 Intel Xeon E3 1225	Intel^Xeon E3-1225	CPU
 Cooler Master HAF Stacker 915R	Cooler Master^HAF Stacker 915R	CASE
@@ -3204,7 +3583,7 @@ Intel Xeon E3 1220	Intel^Xeon E3-1220	CPU
 Intel Xeon E5 2630 V3	Intel^Xeon E5-2630 V3	CPU
 Intel Xeon E5 2630 V2	Intel^Xeon E5-2630 V2	CPU
 Seagate ST1000DL002	Seagate^ST1000DL002	DRIVE
-Gigabyte Radeon HD 7770 GHz Edition	Gigabyte^Radeon HD 7770 GHz Edition	GPU
+MSI H61M P20 G3	MSI^H61M-P20 (G3)	MOTHER
 HIS Radeon HD 7850	HIS^Radeon HD 7850	GPU
 A Data ASP600S3 64GM C	A-Data^ASP600S3-64GM-C	DRIVE
 Corsai Corsair	Corsai^Corsair	MEMORY
@@ -3212,39 +3591,45 @@ Thermaltake TPG 1050M	Thermaltake^TPG-1050M	PSU
 Seagate ST6000NM0104	Seagate^ST6000NM0104	DRIVE
 Corsair CSSD F360GBGS BK	Corsair^CSSD-F360GBGS-BK	DRIVE
 Intel Core i3 6100T	Intel^Core i3-6100T	CPU
+Prolimatech Basic 81	Prolimatech^Basic 81	COOLER
 Intel Core i3 4160T OEM Tray	Intel^Core i3-4160T (OEM/Tray)	CPU
 Deepcool TESSERACT SW	Deepcool^TESSERACT SW	CASE
 Asus P5G41T M LX PLUS	Asus^P5G41T-M LX PLUS	MOTHER
 Asus M5A97 EVO	Asus^M5A97 EVO	MOTHER
+MSI GeForce GTX 750 Ti	MSI^GeForce GTX 750 Ti	GPU
 Mushkin MKNSSDEC120GB	Mushkin^MKNSSDEC120GB	DRIVE
+Titan DC 155A915Z RPW	Titan^DC-155A915Z/RPW	COOLER
 NZXT Phantom 410 Black White	NZXT^Phantom 410 (Black/White)	CASE
 Hitachi HDS721010DLE630	Hitachi^HDS721010DLE630	DRIVE
 XFX P1 450S X2B9	XFX^P1-450S-X2B9	PSU
+OCZ RVD350 FHPX28 960G	OCZ^RVD350-FHPX28-960G	DRIVE
 AMD Athlon II X2 245	AMD^Athlon II X2 245	CPU
 AMD Athlon II X2 240	AMD^Athlon II X2 240	CPU
 G.Skill NS Series	G.Skill^NS Series	MEMORY
-MSI Z87 XPOWER	MSI^Z87 XPOWER	MOTHER
-Cooler Master Elite 130	Cooler Master^Elite 130	CASE
+Western Digital WD10JFCX	Western Digital^WD10JFCX	DRIVE
+NZXT H230 White	NZXT^H230 (White)	CASE
 NZXT Phantom 410 Black Orange	NZXT^Phantom 410 (Black/Orange)	CASE
 Western Digital WD2500AAJS	Western Digital^WD2500AAJS	DRIVE
-Intel Celeron E1500 OEM Tray	Intel^Celeron E1500 (OEM/Tray)	CPU
+be quiet!  Shadow Rock 2	be quiet!^ Shadow Rock 2	COOLER
+Club Radeon R9 280	Club^Radeon R9 280	GPU
 Zalman MS800 Plus	Zalman^MS800 Plus	CASE
 Asus H170 PRO	Asus^H170-PRO	MOTHER
-Samsung MZHPV128HDGM 0000	Samsung^MZHPV128HDGM-0000	DRIVE
+Noctua NH U12S	Noctua^NH-U12S	COOLER
 Transcend TS128GSSD370S	Transcend^TS128GSSD370S	DRIVE
 ASRock 990FX Extreme6	ASRock^990FX Extreme6	MOTHER
 AMD Athlon II X4 620 OEM Tray	AMD^Athlon II X4 620 (OEM/Tray)	CPU
 Thermaltake TPG 1200M	Thermaltake^TPG-1200M	PSU
+Evercool HPH 9525CU	Evercool^HPH-9525CU	COOLER
 AMD FX 9370 OEM Tray	AMD^FX-9370 (OEM/Tray)	CPU
 Thermaltake Commander MS I Snow Edition White Black	Thermaltake^Commander MS/I Snow Edition (White/Black)	CASE
-ASRock 990FX Extreme4	ASRock^990FX Extreme4	MOTHER
 Gigabyte GA Z87X HD3	Gigabyte^GA-Z87X-HD3	MOTHER
 Corsair RM750	Corsair^RM750	PSU
 XFX Radeon HD 7870 GHz Edition	XFX^Radeon HD 7870 GHz Edition	GPU
 Asus M5A99X EVO R2.0	Asus^M5A99X EVO R2.0	MOTHER
 BitFenix Shinobi XL Window White	BitFenix^Shinobi XL Window (White)	CASE
-Toshiba HDTS351XZSTA	Toshiba^HDTS351XZSTA	DRIVE
+G.Skill Ripjaws Z Series	G.Skill^Ripjaws Z Series	MEMORY
 Silverstone SST ST1200 G Evolution	Silverstone^SST-ST1200-G Evolution	PSU
+Enermax Liqtech 240	Enermax^Liqtech 240	COOLER
 Kingston SHSS3B7A 120G Bundle	Kingston^SHSS3B7A/120G Bundle	DRIVE
 MSI Z77A G45 Gaming	MSI^Z77A-G45 Gaming	MOTHER
 ASRock Z68 Extreme3 Gen3	ASRock^Z68 Extreme3 Gen3	MOTHER
@@ -3260,26 +3645,30 @@ Asus H97 PLUS	Asus^H97-PLUS	MOTHER
 Intel Core 2 Duo E6750 OEM Tray	Intel^Core 2 Duo E6750 (OEM/Tray)	CPU
 Western Digital WD10EALS	Western Digital^WD10EALS	DRIVE
 MSI Z87 G43 Gaming	MSI^Z87-G43 Gaming	MOTHER
-Western Digital WD10EALX	Western Digital^WD10EALX	DRIVE
+RAIJINTEK EREBOSS BLACK	RAIJINTEK^EREBOSS BLACK	COOLER
 Western Digital WD5003AZEX	Western Digital^WD5003AZEX	DRIVE
 AMD A10 5700	AMD^A10-5700	CPU
+Dynatron T459	Dynatron^T459	COOLER
 AMD Sempron 140	AMD^Sempron 140	CPU
-Western Digital WD2002FAEX	Western Digital^WD2002FAEX	DRIVE
+Zalman CNPS10X OPTIMA	Zalman^CNPS10X OPTIMA	COOLER
 AMD FX 6130 OEM Tray	AMD^FX-6130 (OEM/Tray)	CPU
 ASRock H87M Pro4	ASRock^H87M Pro4	MOTHER
 AMD Sempron 145	AMD^Sempron 145	CPU
 Gigabyte Radeon R9 280	Gigabyte^Radeon R9 280	GPU
 Intel Pentium E2140 OEM Tray	Intel^Pentium E2140 (OEM/Tray)	CPU
-Corsair Graphite Series 230T Grey	Corsair^Graphite Series 230T Grey	CASE
+AMD Phenom II X4 840 OEM Tray	AMD^Phenom II X4 840 (OEM/Tray)	CPU
+Patriot Signature	Patriot^Signature	MEMORY
 Intel Core 2 Duo E8190 OEM Tray	Intel^Core 2 Duo E8190 (OEM/Tray)	CPU
-ECS A960M M3	ECS^A960M-M3	MOTHER
+Thermaltake CL P0326	Thermaltake^CL-P0326	COOLER
 Gigabyte GA H81M HD2	Gigabyte^GA-H81M-HD2	MOTHER
 ASRock H77M ITX	ASRock^H77M-ITX	MOTHER
-Intel Celeron 430	Intel^Celeron 430	CPU
+Antec BP350	Antec^BP350	PSU
 ASRock Fatal1ty 970 Performance	ASRock^Fatal1ty 970 Performance	MOTHER
 MSI B85I	MSI^B85I	MOTHER
 Toshiba MQ01ABF050H	Toshiba^MQ01ABF050H	DRIVE
+Arctic Cooling  Alpine 11 Pro Rev. 2	Arctic Cooling^ Alpine 11 Pro Rev. 2	COOLER
 Asus Z170 K	Asus^Z170-K	MOTHER
+Zalman CNPS12X	Zalman^CNPS12X	COOLER
 Fractal Design Core 1000	Fractal Design^Core 1000	CASE
 Intel Core i7 965 Extreme Edition	Intel^Core i7-965 Extreme Edition	CPU
 Asus Z170 A	Asus^Z170-A	MOTHER
@@ -3288,7 +3677,9 @@ Cooler Master RS700 AFBAG1 US	Cooler Master^RS700-AFBAG1-US	PSU
 ASRock 770iCafe	ASRock^770iCafe	MOTHER
 Rosewill RANGER M	Rosewill^RANGER-M	CASE
 SeaSonic SSR 650RM	SeaSonic^SSR-650RM	PSU
+Scythe SCKC 2100	Scythe^SCKC-2100	COOLER
 PNY SSD7CS1211 240 RB	PNY^SSD7CS1211-240-RB	DRIVE
+Sandisk SDSSDHII 120G G25	Sandisk^SDSSDHII-120G-G25	DRIVE
 Intel Xeon E5 2623 V3 OEM Tray	Intel^Xeon E5-2623 V3 (OEM/Tray)	CPU
 MSI B85M E45	MSI^B85M-E45	MOTHER
 AMD Athlon II X4 620	AMD^Athlon II X4 620	CPU
@@ -3300,18 +3691,19 @@ A Data XPG V1.0	A-Data^XPG V1.0	MEMORY
 MSI Radeon R9 280X	MSI^Radeon R9 280X	GPU
 Asus B85M G	Asus^B85M-G	MOTHER
 Gigabyte GA Z68XP UD3P	Gigabyte^GA-Z68XP-UD3P	MOTHER
-Zotac GeForce GTX 780	Zotac^GeForce GTX 780	GPU
-Plextor PX G256M6e	Plextor^PX-G256M6e	DRIVE
+MSI A88X G45 GAMING	MSI^A88X-G45 GAMING	MOTHER
 Silverstone RV04B W	Silverstone^RV04B-W	CASE
+ZEROtherm ZT 10D	ZEROtherm^ZT-10D	COOLER
 AMD A10 5700 OEM Tray	AMD^A10-5700 (OEM/Tray)	CPU
 AMD A4 6320	AMD^A4-6320	CPU
 Corsair Graphite Series 230T Orange	Corsair^Graphite Series 230T Orange	CASE
 Asus Radeon HD 7790	Asus^Radeon HD 7790	GPU
 Intel Xeon E5 2650 V3 OEM Tray	Intel^Xeon E5-2650 V3 (OEM/Tray)	CPU
+SilenX EFZ 92HA2	SilenX^EFZ-92HA2	COOLER
 Aerocool DS Cube Black White Silent Cube	Aerocool^DS Cube Black/White Silent Cube	CASE
 AMD Phenom II X4 925 OEM Tray	AMD^Phenom II X4 925 (OEM/Tray)	CPU
 AMD Phenom II X6 1100T Black	AMD^Phenom II X6 1100T Black	CPU
-EVGA GeForce GTX 550 Ti	EVGA^GeForce GTX 550 Ti	GPU
+XFX P1 850X XXB9	XFX^P1-850X-XXB9	PSU
 Intel Pentium E5300 OEM Tray	Intel^Pentium E5300 (OEM/Tray)	CPU
 Silverstone TJ08B EW	Silverstone^TJ08B-EW	CASE
 EVGA GeForce GTX 960	EVGA^GeForce GTX 960	GPU
@@ -3319,13 +3711,13 @@ Intel Xeon E5 1650 V3 OEM Tray	Intel^Xeon E5-1650 V3 (OEM/Tray)	CPU
 Intel Pentium G2020	Intel^Pentium G2020	CPU
 Seagate ST1000NM0033	Seagate^ST1000NM0033	DRIVE
 Asus Radeon HD 7770	Asus^Radeon HD 7770	GPU
-VisionTek Radeon HD 7850	VisionTek^Radeon HD 7850	GPU
+Seagate ST3500312CS	Seagate^ST3500312CS	DRIVE
 Kingston HyperX Predator	Kingston^HyperX Predator	MEMORY
 AMD FX 4320 OEM Tray	AMD^FX-4320 (OEM/Tray)	CPU
 AMD Phenom II X4 840	AMD^Phenom II X4 840	CPU
 Seagate ST3250312CS	Seagate^ST3250312CS	DRIVE
 Intel Xeon E5 2640 V3 OEM Tray	Intel^Xeon E5-2640 V3 (OEM/Tray)	CPU
-Asus H81M D PLUS	Asus^H81M-D PLUS	MOTHER
+Asus Radeon R9 290	Asus^Radeon R9 290	GPU
 BitFenix Ronin	BitFenix^Ronin	CASE
 MSI Z87I GAMING AC	MSI^Z87I GAMING AC	MOTHER
 AMD Athlon II X2 260 OEM Tray	AMD^Athlon II X2 260 (OEM/Tray)	CPU
@@ -3334,6 +3726,7 @@ Intel Celeron E3300 OEM Tray	Intel^Celeron E3300 (OEM/Tray)	CPU
 Hitachi 0F23269	Hitachi^0F23269	DRIVE
 Eluktro TRO SSD7 512GB PRO	Eluktro^TRO-SSD7-512GB-PRO	DRIVE
 Intel SSDPEDMW400G401	Intel^SSDPEDMW400G401	DRIVE
+Intel Celeron E3400 OEM Tray	Intel^Celeron E3400 (OEM/Tray)	CPU
 Intel Core i7 875K	Intel^Core i7-875K	CPU
 Gigabyte GA Z87X D3H	Gigabyte^GA-Z87X-D3H	MOTHER
 Asus GeForce GTX 970	Asus^GeForce GTX 970	GPU
@@ -3341,53 +3734,58 @@ BitFenix Merc Alpha Black	BitFenix^Merc Alpha (Black)	CASE
 Intel Core i5 6600	Intel^Core i5-6600	CPU
 Western Digital SSC D0256SC 2100	Western Digital^SSC-D0256SC-2100	DRIVE
 AMD FX 8350	AMD^FX-8350	CPU
-Corsair 100R	Corsair^100R	CASE
+Asus M4A87TD USB3	Asus^M4A87TD/USB3	MOTHER
 Thermaltake Soprano	Thermaltake^Soprano	CASE
 Asus Rampage IV Black Edition	Asus^Rampage IV Black Edition	MOTHER
-Corsair CSSD N240GBXT	Corsair^CSSD-N240GBXT	DRIVE
+EVGA GeForce GTX 660	EVGA^GeForce GTX 660	GPU
 Zotac GeForce GTX 960	Zotac^GeForce GTX 960	GPU
 ASRock FM2A88X PRO3+	ASRock^FM2A88X PRO3+	MOTHER
 XFX Radeon R9 390	XFX^Radeon R9 390	GPU
 Intel Xeon E5 2630 V2 OEM Tray	Intel^Xeon E5-2630 V2 (OEM/Tray)	CPU
 Intel Core i7 950	Intel^Core i7-950	CPU
 Kingston HyperX Fury White	Kingston^HyperX Fury White	MEMORY
-Asus Radeon R7 250	Asus^Radeon R7 250	GPU
+XFX Radeon R9 270X	XFX^Radeon R9 270X	GPU
 Antec HCP 1000	Antec^HCP-1000	PSU
 AMD Phenom II X4 980 Black	AMD^Phenom II X4 980 Black	CPU
 Toshiba MQ01ABD050	Toshiba^MQ01ABD050	DRIVE
-MSI Radeon R9 280	MSI^Radeon R9 280	GPU
-EVGA GeForce GTX 560	EVGA^GeForce GTX 560	GPU
+Western Digital WD5001FZWX	Western Digital^WD5001FZWX	DRIVE
+Kingston SS050S2 16G	Kingston^SS050S2/16G	DRIVE
 Fractal Design Define R3 Titanium Grey	Fractal Design^Define R3 Titanium Grey	CASE
 BitFenix Neos Black	BitFenix^Neos Black	CASE
 Intel Pentium G860	Intel^Pentium G860	CPU
 ASRock B75 Pro3	ASRock^B75 Pro3	MOTHER
-PowerColor Radeon HD 6970	PowerColor^Radeon HD 6970	GPU
-Transcend TS512GMTS600	Transcend^TS512GMTS600	DRIVE
+Silverstone PS08B Black	Silverstone^PS08B (Black)	CASE
 Cooler Master RS850 AFBAG1 US	Cooler Master^RS850-AFBAG1-US	PSU
+Mushkin Stealth	Mushkin^Stealth	MEMORY
 Cougar COUGAR A560	Cougar^COUGAR-A560	PSU
-Sapphire Radeon HD 7870 XT	Sapphire^Radeon HD 7870 XT	GPU
+MSI Z87 XPOWER	MSI^Z87 XPOWER	MOTHER
 PowerColor Radeon HD 7990	PowerColor^Radeon HD 7990	GPU
+Gelid Solutions ns Slim Silence 775	Gelid Solutions^ns Slim Silence 775	COOLER
 Thermaltake VL200K1W2Z	Thermaltake^VL200K1W2Z	CASE
 Thermaltake SP 530P	Thermaltake^SP-530P	PSU
-Raidmax RX 500AF	Raidmax^RX-500AF	PSU
+NZXT S340 White	NZXT^S340 (White)	CASE
 Gigabyte GA B85N	Gigabyte^GA-B85N	MOTHER
 MSI H61M P23 B3	MSI^H61M-P23 (B3)	MOTHER
 Gigabyte GA A75M DS2	Gigabyte^GA-A75M-DS2	MOTHER
 Fractal Design Node 804	Fractal Design^Node 804	CASE
 Rosewill RD500 2DB	Rosewill^RD500-2DB	PSU
 Intel Xeon E5 2609 OEM Tray	Intel^Xeon E5-2609 (OEM/Tray)	CPU
+GeIL Enhance CORSA	GeIL^Enhance CORSA	MEMORY
 AMD Athlon II X4 638 OEM Tray	AMD^Athlon II X4 638 (OEM/Tray)	CPU
 BitFenix BFP FUR 650G KSXK RP	BitFenix^BFP-FUR-650G-KSXK-RP	PSU
 Rosewill Legacy V4 S	Rosewill^Legacy V4-S	CASE
 Intel Atom D2700 OEM Tray	Intel^Atom D2700 (OEM/Tray)	CPU
 Team Elite Plus	Team^Elite Plus	MEMORY
-Asus GeForce GTX 570	Asus^GeForce GTX 570	GPU
+Corsair 100R	Corsair^100R	CASE
+EVGA GeForce GTX 660 Ti	EVGA^GeForce GTX 660 Ti	GPU
 Cooler Master Silent Pro M2	Cooler Master^Silent Pro M2	PSU
 Intel Core i3 4160	Intel^Core i3-4160	CPU
 Intel Core 2 Duo E8600	Intel^Core 2 Duo E8600	CPU
 NZXT H440 White Black	NZXT^H440 (White/Black)	CASE
-XFX Radeon R9 290X	XFX^Radeon R9 290X	GPU
-OCZ AGT3 25SAT3 120G	OCZ^AGT3-25SAT3-120G	DRIVE
-Western Digital WD20EZRX	Western Digital^WD20EZRX	DRIVE
+ZEROtherm ZT 10D Smart	ZEROtherm^ZT-10D Smart	COOLER
 Western Digital WD20EZRZ	Western Digital^WD20EZRZ	DRIVE
+OCZ AGT3 25SAT3 120G	OCZ^AGT3-25SAT3-120G	DRIVE
+Thermalright TS 140	Thermalright^TS-140	COOLER
+Western Digital WD20EZRX	Western Digital^WD20EZRX	DRIVE
+Zalman CNPS10X Extreme	Zalman^CNPS10X Extreme	COOLER
 AMD Athlon X4 860K OEM Tray	AMD^Athlon X4 860K (OEM/Tray)	CPU
