@@ -41,20 +41,14 @@ define('DB_HOST', 'localhost');
 define('DB_NAME', 'practice');
 define('DB_USER','testuser');
 define('DB_PASSWORD','1234');
-
 $con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
 $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
-
 $pname = "COOLING";
-
-
 if(isset($_POST['like']) and isset($_SESSION['email']))
 {
 	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
 	$query = mysql_query($string) or die( mysql_error() );
 }
-
-
 echo("<section id=\"one\" class=\"wrapper style1\">
       				<div class=\"container 125%\">
       					<div class=\"row 200%\">
@@ -70,11 +64,9 @@ echo("<section id=\"one\" class=\"wrapper style1\">
 							    </tr>
 							</thead>
       						<tbody>");
-
 if(!isset($_POST['search']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
-
 	$i = 1;
 	while( $row = mysql_fetch_array($query))
 	{
@@ -86,13 +78,60 @@ if(!isset($_POST['search']))
 		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 		echo "like</button> </tr> </form>";
 		$i ++;
-
 		if ($i == 100)
 			break;
 	}
 	echo "</tbody> </table>";
 }
 
+else
+{
+  if (isset($_POST['user_text']) and !empty($_POST['user_text']))
+  {
+    $response = exec('python query_sender.py '.$_POST['user_text']);
+    $results = explode("	", $response);
+    $len = count($results);
+
+    for ($i = 0; $i < $len; $i++)
+    {
+      $pieces = explode('^', $results[$i]);
+
+      $string = "SELECT * FROM COOLING WHERE manufacturer ='".$pieces[0]."' AND model_name = '".$pieces[1]."';";
+      // echo $string;
+      $query = mysql_query($string);
+
+      if (mysql_num_rows($query) == 0)
+        continue;
+      $row = mysql_fetch_array($query);
+      echo "<tr><td>".$row['manufacturer']."</td>";
+      echo "<td>".$row["model_name"]."</td>";
+      echo "<td>".$row["price"]."</td>";
+      echo "<td>".$row["fan"]."</td>";
+      echo "<td> <form  method=\"post\" action= \"cooling.php#searchform\" id=\"searchform\">";
+      echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+      echo "like</button> </tr> </form>";
+    }
+  }
+  else
+  {
+    $query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
+  	$i = 1;
+  	while( $row = mysql_fetch_array($query))
+  	{
+  		echo "<tr><td>".$row['manufacturer']."</td>";
+  		echo "<td>".$row["model_name"]."</td>";
+  		echo "<td>".$row["price"]."</td> ";
+  		echo "<td>".$row["fan"]."</td>";
+  		echo "<td> <form  method=\"post\" action= \"cooling.php#searchform".$i."\" id=\"searchform".$i."\">";
+  		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
+  		echo "like</button> </tr> </form>";
+  		$i ++;
+  		if ($i == 100)
+  			break;
+  	}
+  	echo "</tbody> </table>";
+  }
+}
 
 ?>
 
