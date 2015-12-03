@@ -1,19 +1,21 @@
-<head>
-  <title>PSU</title>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta name="description" content="" />
-  <meta name="keywords" content="" />
+<?php session_start();?>
 
-  <script src="js/jquery.min.js"></script>
-  <script src="js/skel.min.js"></script>
-  <script src="js/skel-layers.min.js"></script>
-  <script src="js/init.js"></script>
-  <noscript>
-    <link rel="stylesheet" href="css/skel.css" />
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/style-xlarge.css" />
-  </noscript>
-</head>
+	<head>
+		<title>PSU</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+
+		<script src="js/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-xlarge.css" />
+		</noscript>
+	</head>
 
  <div align="center">
  	<header id="header" class="skels-layers-fixed">
@@ -27,52 +29,34 @@
  </div>
 
  <form  method="post" action="psu.php" id="searchform"> <br>
- <input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" >
- <input  style="float: mid; width: 10%;  margin-left:2em" type="submit" name="search" class=\"button small\" value="Search"> <br>
- <fieldset>
-   <input style="margin-left:3em" type="checkbox"  id="AMD" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-   <label for="AMD"> AMD </label>
-   <input type="checkbox" id="Intel" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-   <label for="Intel"> Intel </label>
-   <input type="checkbox" id= "1" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> />
-   <label for="1"> single core</label>
-   <input type="checkbox" id= "2" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> />
-   <label for="2"> dual core</label>
-   <input type="checkbox" id= "4" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> />
-   <label for="4"> quad core</label>
-   <input type="checkbox" id= "5" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> />
-   <label for="5"> more core</label> <br>
+   <input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" >
+   <input  style="float: mid; width: 10%;  margin-left:2em" type="submit" name="search" class=\"button small\" value="Search"> <br>
+
+  <fieldset>
+
+ 	<input style="margin-left:3em" type="checkbox" name="manu[0]" value="Corsair" id="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+   <label for="Corsair"> Corsair </label>
+ 	<input type="checkbox" name="manu[1]" value="XFX" id="XFX" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('XFX', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+   <label for="XFX"> XFX </label>
+ 	<input type="checkbox" name="manu[2]" value="EVGA" id="EVGA" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('EVGA', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+   <label for="EVGA"> EVGA </label>
+ 	<input type="checkbox" name="manu[3]" value="SeaSonic" id="SeaSonic" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('SeaSonic', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+   <label for="SeaSonic"> SeaSonic </label><br>
+
  </fieldset>
+
+   <input style="margin-left:3em" type="checkbox" name="num[0]" value="1" id="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> />
+    <label for="1"> 0-$50 </label>
+   <input type="checkbox" name="num[1]" value="2" id="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> />
+    <label for="2"> 50-$100 </label>
+   <input type="checkbox" name="num[2]" value="3" id="3" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('3', $_POST['num'])) echo 'checked="checked"'; ?> />
+    <label for="3"> 100-$150 </label>
+   <input type="checkbox" name="num[3]" value="4" id="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> />
+    <label for="4"> >$150 </label>
+
  </form>
 
-  <input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" >
-  <input  style="float: mid; width: 10%;  margin-left:2em" type="submit" name="search" class=\"button small\" value="Search"> <br>
-<fieldset>
-	<input type="checkbox" name="manu[0]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-  <label for="Corsair"> Corsair </label><br>
-	<input type="checkbox" name="manu[1]" value="XFX" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('XFX', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-  <label for="XFX"> XFX </label><br>
-	<input type="checkbox" name="manu[2]" value="EVGA" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('EVGA', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-  <label for="EVGA"> EVGA </label><br>
-	<input type="checkbox" name="manu[3]" value="SeaSonic" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('SeaSonic', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-  <label for="SeaSonic"> SeaSonic </label><br>
-</fieldset>
-
-	<u>Price</u> <br>
-	<input type="checkbox" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 0-$50<br>
-	<input type="checkbox" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> 50-$100<br>
-	<input type="checkbox" name="num[2]" value="3" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('3', $_POST['num'])) echo 'checked="checked"'; ?> /> 100-$150<br>
-	<input type="checkbox" name="num[3]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> >$150<br>
-	<input  type="submit" name="submit" value="Get Your Result"> <br> <br>
-</form>
-</fieldset>
-
-
-<fieldset style="width:60%;padding:10px;border:5px outset white;">
-<legend><font face = "Comic sans MS" size="5" color="white">Your results:</legend>
-Manufacturer | Model_Name | Price($) | Watts(W) | Efficiency<br><br>
 <?php
-
 
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'practice');
@@ -84,174 +68,30 @@ $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_
 
 $pname = "PSU";
 
-if(!isset($_POST['submit']))
-{
-	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
+echo("<section id=\"one\" class=\"wrapper style1\">
+      				<div class=\"container 125%\">
+      					<div class=\"row 200%\">
+      						<div class=\"table_wrapper\">
+      						<table style=\"color:black\">
+							<thead>
+							    <tr>
+							        <th>Manufacturer</th>
+							        <th>Model name</th>
+							        <th>Price</th>
+							        <th>Watts</th>
+							        <th>Efficiency</th>
+							        <th>Option</th>
+							    </tr>
+							</thead>
+      						<tbody>");
 
-	while( $row = mysql_fetch_array($query))
-	{
-		echo  $row["manufacturer"]. "		" . $row["model_name"] . "		" . $row["price"] . "  	  " . $row["watts"] . "		" . $row["efficiency"]. "<br>";
-	}
-	// echo "<a href='/product/cpu.php?name=".$link_address."'>Link</a>";
-}
-else
-{
-	$str = "SELECT * FROM PSU ";
-
-	$manus = $_POST['manu'];
-	$nums = $_POST['num'];
-
-	$N = count($manus);
-	$M = count($nums);
-
-	if ($N != 0 || $M != 0)
-	{
-		$str = $str."WHERE (";
-
-		if ($N != 0)
-		{
-			$str = $str. "(";
-
-			for ($i=0; $i < 4; $i++)
-			{
-				if ($i != 0)
-					$str = $str. " OR";
-
-				$str = $str. " upper(manufacturer)='". $manus[$i] . "'";
-			}
-
-			$str = $str. ")";
-		}
-
-		if ($N != 0 && $M != 0)
-			$str = $str. " AND ";
-
-		if ($M != 0)
-		{
-			$str = $str. "(";
-
-			for ($i=0; $i < 4; $i++)
-			{
-
-				if ($nums[$i] == 1)
-				{
-					$str = $str. " price < 50";
-				}
-				if ($nums[$i] == 2)
-				{
-					$str = $str. " price > 50";
-					$str = $str. " AND";
-					$str = $str. " price < 100";
-
-				}
-				if ($nums[$i] == 3)
-				{
-					$str = $str. " price > 100";
-					$str = $str. " AND";
-					$str = $str. " price < 150";
-
-				}
-				if ($nums[$i] == 4)
-					$str = $str. " price > 150";
-
-			}
-
-			$str = $str. ")";
-		}
-
-		$str = $str. ")";
-	}
-
-
-
-		$query = mysql_query($str) or die( mysql_error() );
-			while( $row = mysql_fetch_array($query))
-		{
-					echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "  " . $row["watts"] . "	" . $row["efficiency"]. "<br>";
-
-	 	};
-
-}
-?>
-
-<br>
-</fieldset>
-</div>
-
-
-</html>
-
-
-
-
-<?php session_start();?>
-
-<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
-
-<title>PC-Bulider</title>
-    <!-- <link rel="stylesheet" href="css/style.css"> -->
-
-<div align="center">
-<h1><legend size="10" >Power Supply Unit</legend></h1></div>
-
-<a href="../user/user_home.php"><font size="3" color="black">home <span class="fontawesome-arrow-left"></span></font> <br><br></a>
-
-
-<form  method="post" action="psu.php" id="searchform" class="pure-form">
-	<fieldset>
-		<input  type="text" name="user_text" placeholder="Search..." size="10" >
-		<input  type="submit" name="search" class="pure-button pure-button-primary" value="Search"> <br>
-		<br>
-		<u>Manufacture</u> <br>
-	<input type="checkbox" name="manu[0]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/> Corsair<br>
-	<input type="checkbox" name="manu[1]" value="XFX" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('XFX', $_POST['manu'])) echo 'checked="checked"'; ?>/> XFX<br>
-	<input type="checkbox" name="manu[2]" value="EVGA" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('EVGA', $_POST['manu'])) echo 'checked="checked"'; ?>/> EVGA<br>
-	<input type="checkbox" name="manu[3]" value="SeaSonic" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('SeaSonic', $_POST['manu'])) echo 'checked="checked"'; ?>/> SeaSonic<br>
-
-	<u>Price</u> <br>
-	<input type="checkbox" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> /> 0-$50<br>
-	<input type="checkbox" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> /> 50-$100<br>
-	<input type="checkbox" name="num[2]" value="3" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('3', $_POST['num'])) echo 'checked="checked"'; ?> /> 100-$150<br>
-	<input type="checkbox" name="num[3]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> /> >$150<br>
-
-</form>
-
-<br> <br>
-
-<table class="pure-table pure-table-bordered">
-<tbody>
-<thead>
-    <tr>
-        <th>manufacturer</th>
-        <th>model name</th>
-        <th>watts</th>
-        <th>efficiency</th>
-        <th>price</th>
-        <th>option</th>
-    </tr>
-</thead>
-
-<?php
-
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'practice');
-define('DB_USER','testuser');
-define('DB_PASSWORD','1234');
-
-$con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
-$db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
-
-$pname = "CPU";
 
 if(isset($_POST['like']) and isset($_SESSION['email']))
 {
 	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
 	$query = mysql_query($string) or die( mysql_error() );
 }
-if (isset($_POST['user_text']))
-{
-	search();
-}
+
 if(!isset($_POST['search']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
@@ -261,11 +101,11 @@ if(!isset($_POST['search']))
 	{
 		echo "<tr><td>".$row['manufacturer']."</td>";
 		echo "<td>".$row["model_name"]."</td>";
-		echo "<td>".$row["speed"]."</td> ";
-		echo "<td>".$row["core"]."</td>";
 		echo "<td>".$row["price"]."</td>";
-		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform".$i."\" id=\"searchform".$i."\">";
-		echo "<button name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
+    echo "<td>".$row["watts"]."</td>";
+    echo "<td>".$row["efficiency"]."</td>";
+		echo "<td> <form  method=\"post\" action= \"psu.php#searchform".$i."\" id=\"searchform".$i."\">";
+    echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
 		echo "like</button> </tr> </form>";
 		$i ++;
 	}
@@ -275,83 +115,109 @@ else
 {
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
-	$str = "SELECT * FROM CPU ";
+	$str = "CREATE VIEW PSU_VIEW AS SELECT * FROM PSU ";
 	$N = count($manus);
 	$M = count($nums);
 
-	if ($N != 0 || $M != 0)
-	{
-		$str = $str."WHERE (";
-		if ($N != 0)
-		{
-			$str = $str. "(";
-			for ($i=0; $i < 2; $i++)
-			{
-				if ($i != 0)	$str = $str. " OR";
-				$str = $str. " upper(manufacturer)='". $manus[$i] . "'";
-			}
-			$str = $str. ")";
-		}
-		if ($N != 0 && $M != 0)
-			$str = $str. " AND ";
-		if ($M != 0)
-		{
-			$str = $str. "(";
-			for ($i=0; $i < 4; $i++)
-			{
-				if ($i != 0)
-					$str = $str. " OR";
-				if ($nums[$i] == 5)
-					$str = $str. " core>4";
-				else
-					$str = $str. " core='". $nums[$i] . "'";
-			}
-			$str = $str. ")";
-		}
-		$str = $str. ")";
-	}
+  if ($N != 0 || $M != 0)
+  	{
+  		$str = $str."WHERE (";
+  		if ($N != 0)
+  		{
+  			$str = $str. "(";
+  			for ($i=0; $i < 4; $i++)
+  			{
+  				if ($i != 0)
+  					$str = $str. " OR";
+  				$str = $str. " upper(manufacturer)='". $manus[$i] . "'";
+  			}
+  			$str = $str. ")";
+  		}
+  		if ($N != 0 && $M != 0)
+  			$str = $str. " AND ";
+  		if ($M != 0)
+  		{
+  			$str = $str. "(";
+  			for ($i=0; $i < 4; $i++)
+  			{
+  				if ($nums[$i] == 1)
+  				{
+  					$str = $str. " price < 50";
+  				}
+  				if ($nums[$i] == 2)
+  				{
+  					$str = $str. " price > 50";
+  					$str = $str. " AND";
+  					$str = $str. " price < 100";
+  				}
+  				if ($nums[$i] == 3)
+  				{
+  					$str = $str. " price > 100";
+  					$str = $str. " AND";
+  					$str = $str. " price < 150";
+  				}
+  				if ($nums[$i] == 4)
+  					$str = $str. " price > 150";
+  			}
+  			$str = $str. ")";
+  		}
+  		$str = $str. ")";
+  	}
 
-	$query = mysql_query($str);
+	 mysql_query($str);
+  $query = mysql_query("SELECT * FROM PSU_VIEW;");
 
-	while( $row = mysql_fetch_array($query))
-	{
-		echo "<tr><td>".$row['manufacturer']."</td>";
-		echo "<td>".$row["model_name"]."</td>";
-		echo "<td>".$row["price"]."</td>";
-		echo "<td>".$row["core"]."</td>";
-		echo "<td>".$row["speed"]."</td> ";
-		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform\" id=\"searchform\">";
-		echo "<button name=\"like\" type=\"submit\" value=".$row["model_name"].">";
-		echo "like</button> </tr> </form>";
-	}
+
+  if (isset($_POST['user_text']) and !empty($_POST['user_text']))
+  {
+  	search();
+  }
+  else
+  {
+    while( $row = mysql_fetch_array($query))
+    {
+      echo "<tr><td>".$row['manufacturer']."</td>";
+      echo "<td>".$row["model_name"]."</td>";
+      echo "<td>".$row["price"]."</td>";
+      echo "<td>".$row["watts"]."</td>";
+      echo "<td>".$row["efficiency"]."</td>";
+      echo "<td> <form  method=\"post\" action= \"psu.php#searchform".$i."\" id=\"searchform".$i."\">";
+      echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
+      echo "like</button> </tr> </form>";
+    }
+  }
 	echo "</tbody> </table>";
+  mysql_query("DROP VIEW PSU_VIEW;");
 }
 
 
 function search()
 {
-	$response = exec('python query_sender.py '.$_POST['user_text']);
+  $response = exec('python query_sender.py '.$_POST['user_text']);
 	$results = explode("	", $response);
 	$len = count($results);
 
 	for ($i = 0; $i < $len; $i++)
 	{
 		$pieces = explode('^', $results[$i]);
-		echo $pieces[0].'	'.$pieces[1];
-		echo '<br>';
+
+		$string = "SELECT * FROM PSU_VIEW WHERE manufacturer ='".$pieces[0]."' AND model_name = '".$pieces[1]."';";
+		// echo $string;
+		$query = mysql_query($string);
+
+		if (mysql_num_rows($query) == 0)
+			continue;
+		$row = mysql_fetch_array($query);
+		echo "<tr><td>".$row['manufacturer']."</td>";
+		echo "<td>".$row["model_name"]."</td>";
+    echo "<td>".$row["price"]."</td>";
+    echo "<td>".$row["watts"]."</td>";
+    echo "<td>".$row["efficiency"]."</td>";
+		echo "<td> <form  method=\"post\" action= \"psu.php#searchform\" id=\"searchform\">";
+		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
+		echo "like</button> </tr> </form>";
 	}
 }
 ?>
-
-</tbody>
-</table>
-
-
-<br>
-<!-- </fieldset>  -->
-<!-- </div> -->
-
-
-
 
 </html>
