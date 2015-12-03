@@ -202,9 +202,8 @@ else
 			$row = mysql_fetch_array($query);
 			echo "<tr><td>".$row['manufacturer']."</td>";
 			echo "<td>".$row["model_name"]."</td>";
-			echo "<td>".$row["speed"]."</td> ";
-			echo "<td>".$row["core"]."</td>";
-			echo "<td>".$row["price"]."</td>";
+			echo "<td>".$row["price"]."</td> ";
+			echo "<td>".$row["case_type"]."</td>";
 			echo "<td> <form  method=\"post\" action= \"cpu.php#searchform\" id=\"searchform\">";
 			echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
 			echo "like</button> </tr> </form>";
