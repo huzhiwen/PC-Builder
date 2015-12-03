@@ -34,11 +34,11 @@
 	<input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" >
 	<input  style="float: mid; width: 10%;  margin-left:2em" type="submit" name="search" class=\"button small\" value="Search"> <br>
 
-	<input style="margin-left:3em" id = "NZXT" type="checkbox" name="manu[0]" value="NZXT" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('NZXT', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
-	<label for="NZXT"> NZXT </label>	
-	<input type="checkbox" id = "Corsair" name="manu[1]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
-	<label for="Corsair"> Corsair </label>	
-	<input type="checkbox" id = "Fractal Design" name="manu[2]" value="Fractal Design" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Fractal Design', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
+	<input style="margin-left:3em" id = "NZXT" type="checkbox" name="manu[0]" value="NZXT" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('NZXT', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+	<label for="NZXT"> NZXT </label>
+	<input type="checkbox" id = "Corsair" name="manu[1]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+	<label for="Corsair"> Corsair </label>
+	<input type="checkbox" id = "Fractal Design" name="manu[2]" value="Fractal Design" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Fractal Design', $_POST['manu'])) echo 'checked="checked"'; ?>/>
 	<label for="Fractal Design"> Fractal Design </label>
 
    <input style="margin-left:3em" type="checkbox" name="num[0]" value="1" id="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> />
@@ -166,8 +166,6 @@ else
   		$str = $str. ")";
   	}
 
-  	echo $str;
-
 	mysql_query($str);
 	$query = mysql_query("SELECT * FROM CASE_VIEW;");
 
@@ -187,9 +185,9 @@ else
 }
 ?>
 
-<br> 
-</fieldset> 
+<br>
+</fieldset>
 </div>
 
 
-</html> 
+</html>

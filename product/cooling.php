@@ -1,36 +1,105 @@
-<title>PC-Bulider</title>
+<?php session_start();?>
 
-    <link rel="stylesheet" href="css/style.css">
+<html>
+<head>
+  <title>Cooling</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/skel.min.js"></script>
+  <script src="js/skel-layers.min.js"></script>
+  <script src="js/init.js"></script>
+  <noscript>
+    <link rel="stylesheet" href="css/skel.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/style-xlarge.css" />
+  </noscript>
+</head>
+
+
 <div align="center">
-<h1><legend><font face = "Comic sans MS" size="10" color="white">Cooling</legend></h1>
- </div>   
+	<header id="header" class="skels-layers-fixed">
+		<h1><strong><a href="#">CPU Cooling device</a></strong> </h1>
+		<nav id="nav">
+			<ul>
+				<li><a href="../user/user_home.php">Home</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
 
-<fieldset style="height:41%;width:46%;padding:10px;border:5px outset white;">
-
-<img  src="photo/cooling1.png" width="260" height="200"/ >
-<img  src="photo/cooling2.png" width="260" height="200"/ >
-</fieldset>    
-
-
-
-<fieldset style="width:20%;padding:10px;border:5px outset white;">
-<legend><font face = "Comic sans MS" size="5" color="white">Search</legend>
-
-<form  method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" id="searchform">
-	<font face = "Comic sans MS" size="5" color="black">
-	<input  type="text" name="user_text" placeholder="Search..."> <br> <br>
-	<input  type="submit" name="search" value="Search"> <br> <br>
-
-	<font face = "Comic sans MS" size="5" color="white">
-	<u>Brand</u> <br>
-	<input type="checkbox" name="manu[0]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/> Corsair<br>
-	<input type="checkbox" name="manu[1]" value="NZXT" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> NZXT<br>
-	<input type="checkbox" name="manu[1]" value="EVGA" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> EVGA<br>
-	<input type="checkbox" name="manu[1]" value="Zalman" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/> Zalman<br>
-
-	<u>Cooler-type</u> <br>
-	
+<form  method="post" action="cooling.php" id="searchform"> <br>
+	<input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" >
+	<input  style="float: mid; width: 10%;  margin-left:2em" type="submit" name="search" class=\"button small\" value="Search"> <br>
 </form>
-</fieldset> 
 
 
+<?php
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'practice');
+define('DB_USER','testuser');
+define('DB_PASSWORD','1234');
+
+$con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
+$db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
+
+$pname = "COOLING";
+
+
+if(isset($_POST['like']) and isset($_SESSION['email']))
+{
+	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
+	$query = mysql_query($string) or die( mysql_error() );
+}
+
+
+echo("<section id=\"one\" class=\"wrapper style1\">
+      				<div class=\"container 125%\">
+      					<div class=\"row 200%\">
+      						<div class=\"table_wrapper\">
+      						<table style=\"color:black\">
+							<thead>
+							    <tr>
+							        <th>Manufacturer</th>
+							        <th>Model name</th>
+							        <th>Price</th>
+							        <th>fan speed</th>
+							        <th>Option</th>
+							    </tr>
+							</thead>
+      						<tbody>");
+
+if(!isset($_POST['search']))
+{
+	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
+
+	$i = 1;
+	while( $row = mysql_fetch_array($query))
+	{
+		echo "<tr><td>".$row['manufacturer']."</td>";
+		echo "<td>".$row["model_name"]."</td>";
+		echo "<td>".$row["price"]."</td> ";
+		echo "<td>".$row["fan"]."</td>";
+		echo "<td> <form  method=\"post\" action= \"cooling.php#searchform".$i."\" id=\"searchform".$i."\">";
+		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
+		echo "like</button> </tr> </form>";
+		$i ++;
+
+		if ($i == 100)
+			break;
+	}
+	echo "</tbody> </table>";
+}
+
+
+?>
+
+<br>
+</fieldset>
+</div>
+
+
+</html>
+</html>
