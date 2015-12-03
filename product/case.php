@@ -1,42 +1,48 @@
-<title>PC-Bulider</title>
+<?php session_start();?>
 
-    <link rel="stylesheet" href="css/style.css">
+<head>
+	<title>CPU</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/skel.min.js"></script>
+	<script src="js/skel-layers.min.js"></script>
+	<script src="js/init.js"></script>
+	<noscript>
+		<link rel="stylesheet" href="css/skel.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/style-xlarge.css" />
+	</noscript>
+</head>
+
 <div align="center">
-<h1><legend><font face = "Comic sans MS" size="10" color="white">Case</legend></h1>
- </div>   
+	<header id="header" class="skels-layers-fixed">
+		<h1><strong><a href="#">CASE</a></strong> </h1>
+		<nav id="nav">
+			<ul>
+				<li><a href="../user/user_home.php">Home</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
 
-<fieldset style="height:41%;width:35%;padding:10px;border:5px outset white;">
-
-<img  src="photo/2.png" width="200" height="200"/ >
-<img  src="photo/case1.png" width="200" height="200"/ >
-</fieldset>    
 
 
+<form  method="post" action="case.php" id="searchform"> <br>
+	<input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" >
+	<input  style="float: mid; width: 10%;  margin-left:2em" type="submit" name="search" class=\"button small\" value="Search"> <br>
 
-<fieldset style="width:20%;padding:10px;border:5px outset white;">
-<legend><font face = "Comic sans MS" size="5" color="white">Search</legend>
-
-<form  method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" id="searchform">
-	<font face = "Comic sans MS" size="5" color="black">
-	<input  type="text" name="user_text" placeholder="Search..."> <br> <br>
-	<input  type="submit" name="search" value="Search"> <br> <br>
-
-	<font face = "Comic sans MS" size="5" color="white">
-	<u>Brand</u> <br>
-	<input type="checkbox" name="manu[0]" value="NZXT" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('NZXT', $_POST['manu'])) echo 'checked="checked"'; ?>/> NZXT<br>
-	<input type="checkbox" name="manu[1]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/> Corsair<br>
-	<input type="checkbox" name="manu[1]" value="Slivestone" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Slivestone', $_POST['manu'])) echo 'checked="checked"'; ?>/> Slivestone<br>
-	<input  type="submit" name="submit" value="Get Your Result"> <br> <br>
+	<input style="margin-left:3em" id = "NZXT" type="checkbox" name="manu[0]" value="NZXT" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('NZXT', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
+	<label for="NZXT"> NZXT </label>	
+	<input type="checkbox" id = "Corsair" name="manu[1]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
+	<label for="Corsair"> Corsair </label>	
+	<input type="checkbox" id = "Fractal Design" name="manu[1]" value="Fractal Design" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Slivestone', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
+	<label for="Fractal Design"> Fractal Design </label>	
 </form>
-</fieldset> 
 
-
-<fieldset style="width:60%;padding:10px;border:5px outset white;">
-<legend><font face = "Comic sans MS" size="5" color="white">Your results:</legend>
-Manufacturer | Model_Name | Price($) | Case Type<br><br>
 <?php
-
-
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'practice');
 define('DB_USER','testuser');
@@ -47,14 +53,47 @@ $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_
 
 $pname = "CASE_";
 
-if(!isset($_POST['submit']))
+echo("<section id=\"one\" class=\"wrapper style1\">
+      				<div class=\"container 125%\">
+      					<div class=\"row 200%\">
+      						<div class=\"table_wrapper\">
+      						<table style=\"color:black\">
+							<thead>
+							    <tr>
+							        <th>Manufacturer</th>
+							        <th>Model name</th>
+							        <th>Price</th>
+							        <th>Case Type</th>
+							        <th>Option</th>
+							    </tr>
+							</thead>
+      						<tbody>");
+
+if(!isset($_POST['search']))
 {
 	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
 
+	$i = 1;
 	while( $row = mysql_fetch_array($query))
 	{
-		echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "	" . $row["case_type"]. "<br>";
+		echo "<tr><td>".$row['manufacturer']."</td>";
+		echo "<td>".$row["model_name"]."</td>";
+		echo "<td>".$row["price"]."</td> ";
+		echo "<td>".$row["case_type"]."</td>";
+		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform".$i."\" id=\"searchform".$i."\">";
+		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
+		echo "like</button> </tr> </form>";
+		$i ++;
+
+		if ($i == 100)
+			break;
 	}
+	echo "</tbody> </table>";
+
+	// while( $row = mysql_fetch_array($query))
+	// {
+	// 	echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "	" . $row["case_type"]. "<br>";
+	// }
 	// echo "<a href='/product/cpu.php?name=".$link_address."'>Link</a>";
 }
 else
@@ -90,15 +129,20 @@ else
 	}
 
 
-
-
-	 $query = mysql_query($str) or die( mysql_error() );
+	$query = mysql_query($str) or die( mysql_error() );
 	
-	 while( $row = mysql_fetch_array($query))
-	 {
-		echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "	"  . $row["case_type"]. "<br>";
-	 };
+	while( $row = mysql_fetch_array($query))
+	{
+		echo "<tr><td>".$row['manufacturer']."</td>";
+		echo "<td>".$row["model_name"]."</td>";
+		echo "<td>".$row["price"]."</td> ";
+		echo "<td>".$row["case_type"]."</td>";
+		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform".$i."\" id=\"searchform".$i."\">";
+		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=\"".$row["model_name"]."\">";
+		echo "like</button> </tr> </form>";
+	};
 
+	echo "</tbody> </table>";
 }
 ?>
 

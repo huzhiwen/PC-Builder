@@ -29,7 +29,7 @@
 	</header>
 </div>
 
-	<form  method="post" action="cpu.php" id="searchform"> <br>
+<form  method="post" action="cpu.php" id="searchform"> <br>
 	<input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" >
 	<input  style="float: mid; width: 10%;  margin-left:2em" type="submit" name="search" class=\"button small\" value="Search"> <br>
 	<fieldset>
@@ -45,8 +45,8 @@
 		<label for="4"> quad core</label>
 		<input type="checkbox" id= "5" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> />
 		<label for="5"> more core</label> <br>
-  </fieldset>
-	</form>
+	</fieldset>
+</form>
 
 
 
@@ -160,15 +160,10 @@ else if (!isset($_POST['user_text']) or empty($_POST['user_text']))
 		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
 		echo "like</button> </tr> </form>";
 	}
-	echo "</tbody> </table>";
+
 }
 else
 {
-	$response = exec('python query_sender.py '.$_POST['user_text']);
-	$results = explode("	", $response);
-	$len = count($results);
-
-
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
 	$str = "CREATE VIEW CPU_VIEW AS SELECT * FROM CPU";
@@ -209,6 +204,10 @@ else
 
 	mysql_query($str);
 
+	$response = exec('python query_sender.py '.$_POST['user_text']);
+	$results = explode("	", $response);
+	$len = count($results);
+
 	for ($i = 0; $i < $len; $i++)
 	{
 		$pieces = explode('^', $results[$i]);
@@ -231,35 +230,6 @@ else
 	}
 
 	mysql_query("DROP VIEW CPU_VIEW;");
-
-// function search()
-// {
-// 	$response = exec('python query_sender.py '.$_POST['user_text']);
-// 	$results = explode("	", $response);
-// 	$len = count($results);
-
-// 	for ($i = 0; $i < $len; $i++)
-// 	{
-// 		$pieces = explode('^', $results[$i]);
-// 		// echo $pieces[0].'	'.$pieces[1];
-// 		$string = "SELECT * FROM CPU WHERE manufacturer ='".$pieces[0]."' AND model_name = '".$pieces[1]."';";
-// 		echo $string;
-// 		$query = mysql_query($string);
-
-// 		if (mysql_num_rows($query) == 0)
-// 			continue;
-// 		$row = mysql_fetch_array($query);
-// 		echo "<tr><td>".$row['manufacturer']."</td>";
-// 		echo "<td>".$row["model_name"]."</td>";
-// 		echo "<td>".$row["speed"]."</td> ";
-// 		echo "<td>".$row["core"]."</td>";
-// 		echo "<td>".$row["price"]."</td>";
-// 		echo "<td> <form  method=\"post\" action= \"cpu.php#searchform\" id=\"searchform\">";
-// 		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
-// 		echo "like</button> </tr> </form>";
-// 	}
-
-// }
 }
 echo "</tbody> </table></fieldset>";
 ?>
