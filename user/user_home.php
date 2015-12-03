@@ -242,7 +242,7 @@
           					<div class=\"row 200%\">
           						<table style=\"color:black\">
           				<tr>
-          			    	<td>CPU: Intel i7-4700k</td>
+          			    	<td>CPU: Intel i7-6700k</td>
           			    	<td>$419.99 </td>
           			    	<td> <a target=\"_blank\" href = $link?price=419.99&group=CPU style=\"text-decoration: none\"> see similar item </a> </td>
           			    </tr>

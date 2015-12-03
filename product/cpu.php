@@ -87,7 +87,7 @@ if(isset($_POST['like']) and isset($_SESSION['email']))
 if(!isset($_POST['search']))
 {
 	$string = "SELECT * FROM ".$pname." ORDER BY RAND();";
-	$query = mysql_query($string) or die( mysql_error() );
+	$query = mysql_query($string) ;
 
 	$i = 1;
 	while( $row = mysql_fetch_array($query))

@@ -47,7 +47,7 @@ $pname = "COOLING";
 if(isset($_POST['like']) and isset($_SESSION['email']))
 {
 	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
-	$query = mysql_query($string) or die( mysql_error() );
+	$query = mysql_query($string);
 }
 echo("<section id=\"one\" class=\"wrapper style1\">
       				<div class=\"container 125%\">
@@ -66,7 +66,7 @@ echo("<section id=\"one\" class=\"wrapper style1\">
       						<tbody>");
 if(!isset($_POST['search']))
 {
-	$query = mysql_query("SELECT * FROM ".$pname) or die( mysql_error() );
+	$query = mysql_query("SELECT * FROM ".$pname) ;
 	$i = 1;
 	while( $row = mysql_fetch_array($query))
 	{

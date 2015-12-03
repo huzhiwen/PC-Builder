@@ -87,7 +87,7 @@ echo("<section id=\"one\" class=\"wrapper style1\">
 if(isset($_POST['like']) and isset($_SESSION['email']))
 {
 	$string = "INSERT INTO LIKE_ VALUES('".$_SESSION['email']."','".$_POST['like']."');";
-	$query = mysql_query($string) or die( mysql_error() );
+	$query = mysql_query($string);
 }
 
 if(!isset($_POST['search']))
