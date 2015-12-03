@@ -1,7 +1,7 @@
 <?php session_start();?>
 
 	<head>
-		<title>My-Home</title>
+		<title>CPU</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -18,8 +18,6 @@
 	</head>
 
 
-<title>PC-Bulider</title>
-
 <div align="center">
 	<header id="header" class="skels-layers-fixed">
 		<h1><strong><a href="#">Central Processing Unit</a></strong> </h1>
@@ -30,25 +28,25 @@
 		</nav>
 	</header>
 </div>
-	<form  method="post" action="cpu.php" id="searchform">
-		<br>
+
+	<form  method="post" action="cpu.php" id="searchform"> <br>
 	<input  style="float: left; width: 60%; margin-left:2em" type="text" name="user_text" placeholder="Search..." size="2" >
 	<input  style="float: mid; width: 10%;  margin-left:2em" type="submit" name="search" class=\"button small\" value="Search"> <br>
 	<fieldset>
-	<input style="margin-left:3em" type="checkbox"  id="AMD" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-	<label for="AMD"> AMD </label>
-	<input type="checkbox" id="Intel" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/>
-	<label for="Intel"> Intel </label>
-	<input type="checkbox" id= "1" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> />
-	<label for="1"> single core</label>
-	<input type="checkbox" id= "2" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> />
-	<label for="2"> dual core</label>
-	<input type="checkbox" id= "4" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> />
-	<label for="4"> quad core</label>
-	<input type="checkbox" id= "5" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> />
-	<label for="5"> more core</label> <br>
-    </fieldset>
-</form>
+		<input style="margin-left:3em" type="checkbox"  id="AMD" name="manu[0]" value="AMD" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('AMD', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+		<label for="AMD"> AMD </label>
+		<input type="checkbox" id="Intel" name="manu[1]" value="Intel" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Intel', $_POST['manu'])) echo 'checked="checked"'; ?>/>
+		<label for="Intel"> Intel </label>
+		<input type="checkbox" id= "1" name="num[0]" value="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> />
+		<label for="1"> single core</label>
+		<input type="checkbox" id= "2" name="num[1]" value="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> />
+		<label for="2"> dual core</label>
+		<input type="checkbox" id= "4" name="num[2]" value="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> />
+		<label for="4"> quad core</label>
+		<input type="checkbox" id= "5" name="num[3]" value="5" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('5', $_POST['num'])) echo 'checked="checked"'; ?> />
+		<label for="5"> more core</label> <br>
+  </fieldset>
+	</form>
 
 
 
@@ -110,7 +108,7 @@ if(!isset($_POST['search']))
 
 }
 else if (!isset($_POST['user_text']) or empty($_POST['user_text']))
-{ 
+{
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
 	$str = "SELECT * FROM CPU ";
@@ -260,7 +258,7 @@ else
 // 		echo "<button class=\"button small\" name=\"like\" type=\"submit\" value=".$row["model_name"].">";
 // 		echo "like</button> </tr> </form>";
 // 	}
-	
+
 // }
 }
 echo "</tbody> </table></fieldset>";
