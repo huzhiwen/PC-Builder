@@ -57,6 +57,7 @@
 								<a href="../product/gpu.php" style="text-decoration: none"><font size="5" color="gray">GPU</font></a> <br>
 								<a href="../product/case.php" style="text-decoration: none"><font size="5" color="gray">Case</font></a> <br>
 								<a href="../product/cooling.php" style="text-decoration: none"><font size="5" color="gray">Cooling</font></a> <br>
+								<a href="../product/memory.php" style="text-decoration: none"><font size="5" color="gray">MEMORY</font></a> <br>
 								<a href="../product/hard_drive.php" style="text-decoration: none"><font size="5" color="gray">Hard Drive</font></a> <br>
 								<a href="../product/motherboard.php" style="text-decoration: none"><font size="5" color="gray">Motherboard</font></a> <br>
 								<br>
