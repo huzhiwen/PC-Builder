@@ -44,7 +44,6 @@
    <label for="SeaSonic"> SeaSonic </label><br>
 
  </fieldset>
-
    <input style="margin-left:3em" type="checkbox" name="num[0]" value="1" id="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> />
     <label for="1"> 0-$50 </label>
    <input type="checkbox" name="num[1]" value="2" id="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> />
@@ -53,7 +52,6 @@
     <label for="3"> 100-$150 </label>
    <input type="checkbox" name="num[3]" value="4" id="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> />
     <label for="4"> >$150 </label>
-
  </form>
 
 <?php
@@ -164,7 +162,7 @@ else
   		$str = $str. ")";
   	}
 
-	 mysql_query($str);
+	mysql_query($str);
   $query = mysql_query("SELECT * FROM PSU_VIEW;");
 
 

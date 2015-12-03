@@ -213,7 +213,7 @@ else
 		$pieces = explode('^', $results[$i]);
 
 		$string = "SELECT * FROM CPU_VIEW WHERE manufacturer ='".$pieces[0]."' AND model_name = '".$pieces[1]."';";
-		// echo $string;
+
 		$query = mysql_query($string);
 
 		if (mysql_num_rows($query) == 0)

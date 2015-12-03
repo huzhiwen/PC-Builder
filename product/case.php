@@ -1,7 +1,7 @@
 <?php session_start();?>
 
 <head>
-	<title>CPU</title>
+	<title>CASE</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -39,7 +39,19 @@
 	<input type="checkbox" id = "Corsair" name="manu[1]" value="Corsair" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Corsair', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
 	<label for="Corsair"> Corsair </label>	
 	<input type="checkbox" id = "Fractal Design" name="manu[1]" value="Fractal Design" <?php if(isset($_POST['manu']) && is_array($_POST['manu']) && in_array('Slivestone', $_POST['manu'])) echo 'checked="checked"'; ?>/> 
-	<label for="Fractal Design"> Fractal Design </label>	
+	<label for="Fractal Design"> Fractal Design </label>
+
+   <input style="margin-left:3em" type="checkbox" name="num[0]" value="1" id="1" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('1', $_POST['num'])) echo 'checked="checked"'; ?> />
+    <label for="1"> 0-$50 </label>
+   <input type="checkbox" name="num[1]" value="2" id="2" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('2', $_POST['num'])) echo 'checked="checked"'; ?> />
+    <label for="2"> 50-$100 </label>
+   <input type="checkbox" name="num[2]" value="3" id="3" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('3', $_POST['num'])) echo 'checked="checked"'; ?> />
+    <label for="3"> 100-$150 </label>
+   <input type="checkbox" name="num[3]" value="4" id="4" <?php if(isset($_POST['num']) && is_array($_POST['num']) && in_array('4', $_POST['num'])) echo 'checked="checked"'; ?> />
+    <label for="4"> >$150 </label>
+
+
+
 </form>
 
 <?php
@@ -89,12 +101,6 @@ if(!isset($_POST['search']))
 			break;
 	}
 	echo "</tbody> </table>";
-
-	// while( $row = mysql_fetch_array($query))
-	// {
-	// 	echo  $row["manufacturer"]. "	" . $row["model_name"] . "	" . $row["price"] . "	" . $row["case_type"]. "<br>";
-	// }
-	// echo "<a href='/product/cpu.php?name=".$link_address."'>Link</a>";
 }
 else
 {
@@ -103,34 +109,60 @@ else
 	$manus = $_POST['manu'];
 	$nums = $_POST['num'];
 
+	$str = "CREATE VIEW CASE_VIEW AS SELECT * FROM CASE_ ";
 	$N = count($manus);
 	$M = count($nums);
 
-	if ($N != 0 || $M != 0)
-	{
-		$str = $str."WHERE (";
+  if ($N != 0 || $M != 0)
+  	{
+  		$str = $str."WHERE (";
+  		if ($N != 0)
+  		{
+  			$str = $str. "(";
+  			for ($i=0; $i < 4; $i++)
+  			{
+  				if ($i != 0)
+  					$str = $str. " OR";
+  				$str = $str. " upper(manufacturer)='". $manus[$i] . "'";
+  			}
+  			$str = $str. ")";
+  		}
+  		if ($N != 0 && $M != 0)
+  			$str = $str. " AND ";
+  		if ($M != 0)
+  		{
+  			$str = $str. "(";
+  			for ($i=0; $i < 4; $i++)
+  			{
+  				if ($nums[$i] == 1)
+  				{
+  					$str = $str. " price < 50";
+  				}
+  				if ($nums[$i] == 2)
+  				{
+  					$str = $str. " price > 50";
+  					$str = $str. " AND";
+  					$str = $str. " price < 100";
+  				}
+  				if ($nums[$i] == 3)
+  				{
+  					$str = $str. " price > 100";
+  					$str = $str. " AND";
+  					$str = $str. " price < 150";
+  				}
+  				if ($nums[$i] == 4)
+  					$str = $str. " price > 150";
+  			}
+  			$str = $str. ")";
+  		}
+  		$str = $str. ")";
+  	}
 
-		if ($N != 0)
-		{
-			$str = $str. "(";
+  	echo $str;
 
-			for ($i=0; $i < 4; $i++)
-			{
-				if ($i != 0)
-					$str = $str. " OR";
+	mysql_query($str);
+	$query = mysql_query("SELECT * FROM CASE_VIEW;");
 
-				$str = $str. " upper(manufacturer)='". $manus[$i] . "'";
-			}
-
-			$str = $str. ")";	
-		}
-
-		$str = $str. ")";
-	}
-
-
-	$query = mysql_query($str) or die( mysql_error() );
-	
 	while( $row = mysql_fetch_array($query))
 	{
 		echo "<tr><td>".$row['manufacturer']."</td>";
@@ -143,6 +175,7 @@ else
 	};
 
 	echo "</tbody> </table>";
+	mysql_query("DROP VIEW CASE_VIEW;");
 }
 ?>
 
